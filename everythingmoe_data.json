@@ -6698,7 +6698,7 @@
             "negatives": [
               "Only medium library"
             ],
-            "info": "note: Images reuploaded from multiple sources (including Weeb Central)"
+            "info": "note: Images reuploaded from multiple sources (including Weeb Central). Also provides novel."
           }
         },
         {
@@ -9675,6 +9675,7 @@
           "link": "https://webtoons.com",
           "icon": "https://static.everythingmoe.com/icons/webtoon.png",
           "tags": [
+            "Licensed",
             "Official Rips",
             "Manhwa"
           ],
@@ -9714,6 +9715,7 @@
           "link": "https://tapas.io/",
           "icon": "https://static.everythingmoe.com/icons/tapas.png",
           "tags": [
+            "Licensed",
             "Official Rips",
             "Manhwa"
           ],
@@ -9752,6 +9754,7 @@
           "link": "https://toomics.com/",
           "icon": "https://static.everythingmoe.com/icons/toomics.png",
           "tags": [
+            "Licensed",
             "Official Rips",
             "Manhwa"
           ],
@@ -10226,6 +10229,7 @@
           "link": "https://www.lezhinus.com/",
           "icon": "https://static.everythingmoe.com/icons/lezhinus.png",
           "tags": [
+            "Licensed",
             "Official Rips",
             "Manhwa",
             "licensed"
@@ -10260,6 +10264,7 @@
           "link": "https://manta.net/",
           "icon": "https://static.everythingmoe.com/icons/manta.png",
           "tags": [
+            "Licensed",
             "Official Rips",
             "Manhwa",
             "licensed"
@@ -10770,7 +10775,7 @@
         {
           "id": "xtoon2",
           "title": "Xtoon",
-          "link": "https://t3.xtoon365.com/",
+          "link": "https://newxtoon1.com/",
           "icon": "https://static.everythingmoe.com/icons/xtoon2.png",
           "tags": [
             "Raws",
@@ -11946,12 +11951,35 @@
           }
         },
         {
+          "id": "atsunovel",
+          "title": "Atsumaru Novel",
+          "link": "https://atsu.moe/explore?mediums=Novel",
+          "icon": "https://static.everythingmoe.com/icons/atsu.png",
+          "tags": [],
+          "rank": 19,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "positives": [
+              "Text to speech support",
+              "Customizable reader",
+              "Medium library"
+            ],
+            "negatives": [
+              "Site mixed with manga"
+            ]
+          }
+        },
+        {
           "id": "mvlempyr",
           "title": "MVLEMPYR",
           "link": "https://www.mvlempyr.com/",
           "icon": "https://static.everythingmoe.com/icons/mvlempyr.png",
           "tags": [],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11970,7 +11998,7 @@
           "link": "https://fucknovelpia.com/",
           "icon": "https://static.everythingmoe.com/icons/fucknovelpia.png",
           "tags": [],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12004,7 +12032,7 @@
           "link": "https://novel-bin.com/",
           "icon": "https://static.everythingmoe.com/icons/novelbin.png",
           "tags": [],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12061,7 +12089,7 @@
           "link": "https://novelarrow.com/",
           "icon": "https://static.everythingmoe.com/icons/novelarrow.png",
           "tags": [],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12079,7 +12107,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12119,7 +12147,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12149,7 +12177,7 @@
           "link": "https://www.foxaholic.com/",
           "icon": "https://static.everythingmoe.com/icons/foxaholic.png",
           "tags": [],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12183,7 +12211,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12210,7 +12238,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12249,7 +12277,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12285,7 +12313,7 @@
           "tags": [
             "ddl"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12308,7 +12336,7 @@
           "link": "https://chrysanthemumgarden.com/",
           "icon": "https://static.everythingmoe.com/icons/chrysanthemumgarden.png",
           "tags": [],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12334,7 +12362,7 @@
           "tags": [
             "ddl"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12367,7 +12395,7 @@
             "licensed",
             "physical"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12398,7 +12426,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12423,7 +12451,7 @@
           "link": "https://www.scrollerspub.com/",
           "icon": "https://static.everythingmoe.com/icons/scrollerspub.png",
           "tags": [],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12445,7 +12473,7 @@
           "link": "https://wuxiaworld.site/",
           "icon": "https://static.everythingmoe.com/icons/wuxiaworld.png",
           "tags": [],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12467,7 +12495,7 @@
           "link": "https://katreadingcafe.com/",
           "icon": "https://static.everythingmoe.com/icons/katreadingarchive.png",
           "tags": [],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12496,7 +12524,7 @@
           "link": "https://www.asianovel.net/",
           "icon": "https://static.everythingmoe.com/icons/asianovelnet.png",
           "tags": [],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12520,7 +12548,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12546,7 +12574,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12572,7 +12600,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12608,7 +12636,7 @@
           "link": "https://www.scribblehub.com/",
           "icon": "https://static.everythingmoe.com/icons/scribblehub.png",
           "tags": [],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12631,7 +12659,7 @@
           "link": "https://ranobes.com/",
           "icon": "https://static.everythingmoe.com/icons/ranobestop.png",
           "tags": [],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12675,7 +12703,7 @@
           "link": "https://novelfull.net/",
           "icon": "https://static.everythingmoe.com/icons/allnovelfull.png",
           "tags": [],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12723,7 +12751,7 @@
           "link": "https://woopread.com/",
           "icon": "https://static.everythingmoe.com/icons/woopread.png",
           "tags": [],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12745,7 +12773,7 @@
           "link": "https://ranovel.com/",
           "icon": "https://static.everythingmoe.com/icons/ranovel.png",
           "tags": [],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12761,7 +12789,7 @@
           "link": "https://wuxiadreams.com/",
           "icon": "https://static.everythingmoe.com/icons/wuxiadreams.png",
           "tags": [],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12783,7 +12811,7 @@
           "link": "https://fullnovels.com/",
           "icon": "https://static.everythingmoe.com/icons/fullnovels.png",
           "tags": [],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12823,7 +12851,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12848,7 +12876,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12872,7 +12900,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12900,7 +12928,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12924,7 +12952,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12951,7 +12979,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12976,7 +13004,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12997,7 +13025,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13021,7 +13049,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -43831,7 +43859,7 @@
         "negatives": [
           "Only medium library"
         ],
-        "info": "note: Images reuploaded from multiple sources (including Weeb Central)"
+        "info": "note: Images reuploaded from multiple sources (including Weeb Central). Also provides novel."
       }
     },
     "mangaball": {
@@ -46799,6 +46827,7 @@
       "link": "https://webtoons.com",
       "icon": "https://static.everythingmoe.com/icons/webtoon.png",
       "tags": [
+        "Licensed",
         "Official Rips",
         "Manhwa"
       ],
@@ -46838,6 +46867,7 @@
       "link": "https://tapas.io/",
       "icon": "https://static.everythingmoe.com/icons/tapas.png",
       "tags": [
+        "Licensed",
         "Official Rips",
         "Manhwa"
       ],
@@ -46876,6 +46906,7 @@
       "link": "https://toomics.com/",
       "icon": "https://static.everythingmoe.com/icons/toomics.png",
       "tags": [
+        "Licensed",
         "Official Rips",
         "Manhwa"
       ],
@@ -47350,6 +47381,7 @@
       "link": "https://www.lezhinus.com/",
       "icon": "https://static.everythingmoe.com/icons/lezhinus.png",
       "tags": [
+        "Licensed",
         "Official Rips",
         "Manhwa",
         "licensed"
@@ -47384,6 +47416,7 @@
       "link": "https://manta.net/",
       "icon": "https://static.everythingmoe.com/icons/manta.png",
       "tags": [
+        "Licensed",
         "Official Rips",
         "Manhwa",
         "licensed"
@@ -47894,7 +47927,7 @@
     "xtoon2": {
       "id": "xtoon2",
       "title": "Xtoon",
-      "link": "https://t3.xtoon365.com/",
+      "link": "https://newxtoon1.com/",
       "icon": "https://static.everythingmoe.com/icons/xtoon2.png",
       "tags": [
         "Raws",
@@ -49057,6 +49090,29 @@
         "negatives": [
           "Slow updates",
           "Basic filtering"
+        ]
+      }
+    },
+    "atsunovel": {
+      "id": "atsunovel",
+      "title": "Atsumaru Novel",
+      "link": "https://atsu.moe/explore?mediums=Novel",
+      "icon": "https://static.everythingmoe.com/icons/atsu.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "positives": [
+          "Text to speech support",
+          "Customizable reader",
+          "Medium library"
+        ],
+        "negatives": [
+          "Site mixed with manga"
         ]
       }
     },
