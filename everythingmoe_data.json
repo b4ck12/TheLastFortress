@@ -2978,6 +2978,33 @@
           }
         },
         {
+          "id": "animetvplus",
+          "title": "animeTVplus",
+          "link": "https://animetvplus.xyz/",
+          "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "mult"
+          ],
+          "rank": 77,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "onianime",
           "title": "Onianime",
           "link": "https://onianime.eu/home",
@@ -2988,7 +3015,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3014,7 +3041,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3040,7 +3067,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3067,7 +3094,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3092,7 +3119,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3118,7 +3145,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3158,7 +3185,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3184,7 +3211,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3231,7 +3258,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3276,7 +3303,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3304,7 +3331,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3338,7 +3365,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3384,7 +3411,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 89,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3412,7 +3439,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 90,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3446,7 +3473,7 @@
           "link": "https://watchanimeworld.one/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 91,
+          "rank": 92,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3523,7 +3550,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 92,
+          "rank": 93,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16919,7 +16946,7 @@
               "Extension installed separately",
               "Not in App store"
             ],
-            "info": "note: Luna is newer version of Sora. Made by same developer as Ryu iOS app",
+            "info": "note: Luna is newer version of Sora. Made by same developer as Ryu iOS app. Shirox is different app that use same extension",
             "altlinks": [
               {
                 "name": "Sora",
@@ -16932,6 +16959,14 @@
               {
                 "name": "Extensions",
                 "url": "https://library.cufiy.net/library/"
+              },
+              {
+                "name": "Fork 1",
+                "url": "https://github.com/Soupy-dev/Eclipse"
+              },
+              {
+                "name": "Shirox",
+                "url": "https://github.com/xibrox/Shirox"
               }
             ]
           }
@@ -40174,6 +40209,33 @@
         ]
       }
     },
+    "animetvplus": {
+      "id": "animetvplus",
+      "title": "animeTVplus",
+      "link": "https://animetvplus.xyz/",
+      "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "onianime": {
       "id": "onianime",
       "title": "Onianime",
@@ -54035,7 +54097,7 @@
           "Extension installed separately",
           "Not in App store"
         ],
-        "info": "note: Luna is newer version of Sora. Made by same developer as Ryu iOS app",
+        "info": "note: Luna is newer version of Sora. Made by same developer as Ryu iOS app. Shirox is different app that use same extension",
         "altlinks": [
           {
             "name": "Sora",
@@ -54048,6 +54110,14 @@
           {
             "name": "Extensions",
             "url": "https://library.cufiy.net/library/"
+          },
+          {
+            "name": "Fork 1",
+            "url": "https://github.com/Soupy-dev/Eclipse"
+          },
+          {
+            "name": "Shirox",
+            "url": "https://github.com/xibrox/Shirox"
           }
         ]
       }
