@@ -113664,15 +113664,6 @@
                             ]
                         },
                         {
-                            "full_text": "Dan's Guides - List of Guides by Dan",
-                            "links": [
-                                {
-                                    "name": "Dan's Guides",
-                                    "url": "https://rentry.co/danxyz7"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Awesome Search - Awesome List Search",
                             "links": [
                                 {
@@ -115542,19 +115533,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "/coffee/ or Coffee Time General - Coffee Brewing Masterlists / Guides",
-                            "links": [
-                                {
-                                    "name": "/coffee/",
-                                    "url": "https://rentry.co/coffeeguide"
-                                },
-                                {
-                                    "name": "Coffee Time General",
-                                    "url": "https://pastebin.com/UEzwuyLz"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Beanconqueror / or Timer.Coffee / - Coffee Tracking Apps / Timers",
                             "links": [
                                 {
@@ -115572,6 +115550,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/antonkarliner/timer-coffee"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Coffee Time General - Coffee Brewing Masterlists / Guides",
+                            "links": [
+                                {
+                                    "name": "Coffee Time General",
+                                    "url": "https://pastebin.com/UEzwuyLz"
                                 }
                             ]
                         },
@@ -228679,6 +228666,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Dan's Guides - List of Guides by Dan (Removed in 731bab6 )",
+                            "links": [
+                                {
+                                    "name": "731bab6",
+                                    "url": "https://github.com/fmhy/edit/commit/731bab6b5a73eb59a59325512f8aff0c982d3cc1#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL20"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MacLaunch - Manage Startup Items (Removed in 3e46d10 )",
                             "links": [
                                 {
@@ -230701,105 +230697,6 @@
                                 {
                                     "name": "573ee43",
                                     "url": "https://github.com/fmhy/edit/commit/573ee43c255ac9eda7ab3d7a5a32e7f3e3f92c2d#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL826"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LandingPage - Landing Page Tool Index (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL909"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PS3R - ROMs / PS3 (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL434"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CompressOrDie - Multitool (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL677"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "tempmail.altmails - 1 Day / 1 Day / 1 Domain (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L499"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Lockdown Privacy - Block Trackers / Ads (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL761"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "EconJobRumors - Economic Job Market Forum (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL870"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GoEuropean - European Products / Services (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1118"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GPU Scout - eBay GPU Price Tracker (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1163"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "welovemanga - Manga (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L955"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "mp3-book - Audiobooks (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1394"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "jkanimeflv - Anime / Sub (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1574"
                                 }
                             ]
                         }
