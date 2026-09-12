@@ -323,6 +323,34 @@
           }
         },
         {
+          "id": "senshi",
+          "title": "Senshi",
+          "link": "https://senshi.to/",
+          "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
+          "tags": [
+            "Self-host",
+            "Modern interface",
+            "Hard-sub",
+            "Dub friendly"
+          ],
+          "rank": 7,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Modern site design",
+              "Reliable stream server"
+            ],
+            "negatives": [
+              "Small library"
+            ],
+            "domains": "ninstream.com"
+          }
+        },
+        {
           "id": "uniquestream",
           "title": "AnimeStream",
           "link": "https://anime.uniquestream.net/",
@@ -333,7 +361,7 @@
             "Hard-sub",
             "Dub friendly"
           ],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -369,7 +397,7 @@
             "Dub friendly",
             "Soft-sub"
           ],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -406,7 +434,7 @@
             "Modern interface",
             "Soft-sub"
           ],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -486,7 +514,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -588,7 +616,7 @@
             "Modern interface",
             "Soft-sub"
           ],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -624,7 +652,7 @@
             "Soft-sub",
             "Dub friendly"
           ],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -660,7 +688,7 @@
             "Soft-sub",
             "Dub friendly"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -728,7 +756,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -807,7 +835,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -851,7 +879,7 @@
             "Dub friendly",
             "Soft-sub"
           ],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -884,7 +912,7 @@
             "Self-host",
             "Third party"
           ],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -932,7 +960,7 @@
             "Soft-sub",
             "MULT"
           ],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -972,7 +1000,7 @@
             "Modern interface",
             "MULT"
           ],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1010,7 +1038,7 @@
             "Simple interface",
             "Soft-sub"
           ],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1040,7 +1068,7 @@
             "Hard-sub",
             "Soft-sub"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1081,7 +1109,7 @@
             "Easy download",
             "Hard-sub"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1113,7 +1141,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1148,7 +1176,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1184,7 +1212,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1213,7 +1241,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1237,7 +1265,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1265,7 +1293,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1295,7 +1323,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1323,7 +1351,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1360,7 +1388,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1395,7 +1423,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1431,7 +1459,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1459,7 +1487,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1506,7 +1534,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -1534,7 +1562,7 @@
             "Scraper",
             "Soft-sub"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1563,7 +1591,7 @@
             "Simple interface",
             "Hard-sub"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1595,7 +1623,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1637,7 +1665,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1673,7 +1701,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1706,7 +1734,7 @@
             "Hard-sub",
             "Easy download"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1735,7 +1763,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1801,7 +1829,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1832,7 +1860,7 @@
             "Easy download",
             "Hard-sub"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1862,7 +1890,7 @@
             "Hard-sub",
             "login"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1907,7 +1935,7 @@
             "Easy download",
             "Soft-sub"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1946,7 +1974,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1974,7 +2002,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2011,7 +2039,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2055,7 +2083,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2093,7 +2121,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2120,7 +2148,7 @@
             "Easy download",
             "mult"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2159,7 +2187,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2185,7 +2213,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2212,7 +2240,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2238,7 +2266,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2264,7 +2292,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2290,7 +2318,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2316,7 +2344,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2342,7 +2370,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2369,7 +2397,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2403,7 +2431,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2430,7 +2458,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2457,7 +2485,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2503,7 +2531,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2530,7 +2558,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2556,7 +2584,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2629,7 +2657,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2657,7 +2685,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2687,7 +2715,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2716,7 +2744,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2779,7 +2807,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2878,7 +2906,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2903,7 +2931,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2929,7 +2957,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2961,7 +2989,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2989,7 +3017,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3016,7 +3044,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3042,7 +3070,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3068,7 +3096,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3095,7 +3123,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3120,7 +3148,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3146,7 +3174,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3186,7 +3214,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3212,7 +3240,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3259,7 +3287,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3304,7 +3332,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3332,7 +3360,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3366,7 +3394,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 89,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3412,7 +3440,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 90,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3440,7 +3468,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 91,
+          "rank": 92,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3474,7 +3502,7 @@
           "link": "https://watchanimeworld.one/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 92,
+          "rank": 93,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3551,7 +3579,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 93,
+          "rank": 94,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16324,6 +16352,7 @@
           "icon": "https://static.everythingmoe.com/icons/zangetsu.png",
           "tags": [
             "Android",
+            "iOS",
             "Windows",
             "Anime",
             "Manga",
@@ -16338,11 +16367,10 @@
           "details": {
             "positives": [
               "Manga, LN, Anime watching app",
-              "Support android TV",
+              "Support TV",
               "Open source"
             ],
             "negatives": [
-              "Android only",
               "Need to install an extension to use"
             ],
             "altlinks": [
@@ -27840,30 +27868,6 @@
           }
         },
         {
-          "id": "senshi",
-          "title": "Senshi",
-          "link": "https://senshi.live/",
-          "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
-          "tags": [],
-          "rank": 24,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "graveyard",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Modern site design",
-              "Reliable stream server",
-              "Provide dubtitles"
-            ],
-            "negatives": [
-              "Medium library"
-            ],
-            "domains": "ninstream.com"
-          }
-        },
-        {
           "id": "animetsu",
           "title": "Animetsu",
           "link": "https://animetsu.live/",
@@ -27871,7 +27875,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 25,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -27927,7 +27931,7 @@
           "link": "https://animeverse.to/",
           "icon": "https://static.everythingmoe.com/icons/animeverse.png",
           "tags": [],
-          "rank": 26,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -27952,7 +27956,7 @@
           "link": "https://www.funimation.com/",
           "icon": "https://static.everythingmoe.com/icons/funimation.png",
           "tags": [],
-          "rank": 27,
+          "rank": 26,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -27976,7 +27980,7 @@
           "link": "https://anixl.to/",
           "icon": "https://static.everythingmoe.com/icons/anixl.png",
           "tags": [],
-          "rank": 28,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -27999,7 +28003,7 @@
           "link": "https://kanae.to/",
           "icon": "https://static.everythingmoe.com/icons/kanae.png",
           "tags": [],
-          "rank": 29,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28024,7 +28028,7 @@
           "link": "https://sudatchi.com/",
           "icon": "https://static.everythingmoe.com/icons/sudatchi.png",
           "tags": [],
-          "rank": 30,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28050,7 +28054,7 @@
           "link": "https://animehub.ac/",
           "icon": "https://static.everythingmoe.com/icons/anihub.png",
           "tags": [],
-          "rank": 31,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28117,7 +28121,7 @@
           "link": "https://animixplay.name/",
           "icon": "https://static.everythingmoe.com/icons/animixplay.png",
           "tags": [],
-          "rank": 32,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28162,7 +28166,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 33,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28187,7 +28191,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 34,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28214,7 +28218,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 35,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28238,7 +28242,7 @@
           "link": "https://anivibe.net/",
           "icon": "https://static.everythingmoe.com/icons/anivibe.png",
           "tags": [],
-          "rank": 36,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28278,7 +28282,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 37,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28304,7 +28308,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 38,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28332,7 +28336,7 @@
           "link": "https://animeland.net/",
           "icon": "https://static.everythingmoe.com/icons/animeland.png",
           "tags": [],
-          "rank": 39,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28354,7 +28358,7 @@
           "link": "https://hianime.ac/home",
           "icon": "https://static.everythingmoe.com/icons/hianime.png",
           "tags": [],
-          "rank": 40,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28379,7 +28383,7 @@
           "link": "https://kawaiifu.com/",
           "icon": "https://static.everythingmoe.com/icons/kawaiifu.png",
           "tags": [],
-          "rank": 41,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28404,7 +28408,7 @@
           "link": "https://animaru.site/",
           "icon": "https://static.everythingmoe.com/icons/animarusite.png",
           "tags": [],
-          "rank": 42,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28425,7 +28429,7 @@
           "link": "https://aniwatcher.com/",
           "icon": "https://static.everythingmoe.com/icons/aniwatcher.png",
           "tags": [],
-          "rank": 43,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28449,7 +28453,7 @@
           "link": "https://unpai.red/",
           "icon": "https://static.everythingmoe.com/icons/ngewibutv.png",
           "tags": [],
-          "rank": 44,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28481,7 +28485,7 @@
           "link": "https://anineww.com/",
           "icon": "https://static.everythingmoe.com/icons/9ani.png",
           "tags": [],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28505,7 +28509,7 @@
           "link": "https://anitaku.site/",
           "icon": "https://static.everythingmoe.com/icons/anitakusite.png",
           "tags": [],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28531,7 +28535,7 @@
           "tags": [
             "HIA"
           ],
-          "rank": 47,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28558,7 +28562,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 48,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28583,7 +28587,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 49,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28622,7 +28626,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 50,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28646,7 +28650,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 51,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28671,7 +28675,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 52,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28702,7 +28706,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 53,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28728,7 +28732,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 54,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28753,7 +28757,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 55,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28778,7 +28782,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 56,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28820,7 +28824,7 @@
           "link": "https://animelibre.com/en",
           "icon": "https://static.everythingmoe.com/icons/vercel.png",
           "tags": [],
-          "rank": 57,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28842,7 +28846,7 @@
           "link": "https://anivibe.to/",
           "icon": "https://static.everythingmoe.com/icons/anivibeto.png",
           "tags": [],
-          "rank": 58,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28866,7 +28870,7 @@
           "link": "https://animelon.com/",
           "icon": "https://static.everythingmoe.com/icons/animelon.png",
           "tags": [],
-          "rank": 59,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28901,7 +28905,7 @@
           "tags": [
             "GOGO"
           ],
-          "rank": 60,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28952,7 +28956,7 @@
           "tags": [
             "GOGO"
           ],
-          "rank": 61,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -28983,7 +28987,7 @@
           "tags": [
             "GOGO"
           ],
-          "rank": 62,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29008,7 +29012,7 @@
           "tags": [
             "GOGO"
           ],
-          "rank": 63,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29040,7 +29044,7 @@
           "tags": [
             "HIA"
           ],
-          "rank": 64,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29066,7 +29070,7 @@
           "tags": [
             "GOGO"
           ],
-          "rank": 65,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29090,7 +29094,7 @@
           "tags": [
             "HIA"
           ],
-          "rank": 66,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29115,7 +29119,7 @@
           "tags": [
             "HIA"
           ],
-          "rank": 67,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29140,7 +29144,7 @@
           "tags": [
             "HIA"
           ],
-          "rank": 68,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29163,7 +29167,7 @@
           "tags": [
             "HIA"
           ],
-          "rank": 69,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29186,7 +29190,7 @@
           "tags": [
             "HIA"
           ],
-          "rank": 70,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29210,7 +29214,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 71,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29234,7 +29238,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 72,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29270,7 +29274,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 73,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29302,7 +29306,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 74,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29332,7 +29336,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 75,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29357,7 +29361,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 76,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29399,7 +29403,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 77,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29424,7 +29428,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 78,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29447,7 +29451,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 79,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29472,7 +29476,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 80,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29495,7 +29499,7 @@
           "link": "https://bestdubbedanime.com/",
           "icon": "https://static.everythingmoe.com/icons/bestdubbedanime.png",
           "tags": [],
-          "rank": 81,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29519,7 +29523,7 @@
           "link": "https://animyne.com/",
           "icon": "https://static.everythingmoe.com/icons/animyne.png",
           "tags": [],
-          "rank": 82,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29553,7 +29557,7 @@
           "link": "https://anisaga.org/",
           "icon": "https://static.everythingmoe.com/icons/anisaga.png",
           "tags": [],
-          "rank": 83,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29579,7 +29583,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 84,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29627,7 +29631,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 85,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29650,7 +29654,7 @@
           "link": "https://masteranime.vip/masterani.me",
           "icon": "https://static.everythingmoe.com/icons/masteranime.png",
           "tags": [],
-          "rank": 86,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29683,7 +29687,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 87,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29710,7 +29714,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 88,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29732,7 +29736,7 @@
           "link": "https://animixplay.sc/homepage/",
           "icon": "https://static.everythingmoe.com/icons/animenowto.png",
           "tags": [],
-          "rank": 89,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29763,7 +29767,7 @@
           "link": "https://animebis.tv/",
           "icon": "https://static.everythingmoe.com/icons/animebis.png",
           "tags": [],
-          "rank": 90,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29791,7 +29795,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 91,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29834,7 +29838,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 92,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29860,7 +29864,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 93,
+          "rank": 92,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29887,7 +29891,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 94,
+          "rank": 93,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29924,7 +29928,7 @@
             "Easy download",
             "gogo"
           ],
-          "rank": 95,
+          "rank": 94,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29955,7 +29959,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 96,
+          "rank": 95,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -29997,7 +30001,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 97,
+          "rank": 96,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30025,7 +30029,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 98,
+          "rank": 97,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30061,7 +30065,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 99,
+          "rank": 98,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30084,7 +30088,7 @@
           "link": "https://pactedanime.com/",
           "icon": "https://static.everythingmoe.com/icons/pactedanime.png",
           "tags": [],
-          "rank": 100,
+          "rank": 99,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30112,7 +30116,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 101,
+          "rank": 100,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30145,7 +30149,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 102,
+          "rank": 101,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30174,7 +30178,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 103,
+          "rank": 102,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -30190,7 +30194,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 104,
+          "rank": 103,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -30204,7 +30208,7 @@
           "link": "https://www.nanime.one/home",
           "icon": "https://static.everythingmoe.com/icons/nanimeone.png",
           "tags": [],
-          "rank": 105,
+          "rank": 104,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -30222,7 +30226,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 106,
+          "rank": 105,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30257,7 +30261,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 107,
+          "rank": 106,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30300,7 +30304,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 108,
+          "rank": 107,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30324,7 +30328,7 @@
             "gogo",
             "hia"
           ],
-          "rank": 109,
+          "rank": 108,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30359,7 +30363,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 110,
+          "rank": 109,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30392,7 +30396,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 111,
+          "rank": 110,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30423,7 +30427,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 112,
+          "rank": 111,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30449,7 +30453,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 113,
+          "rank": 112,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30474,7 +30478,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 114,
+          "rank": 113,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30516,7 +30520,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 115,
+          "rank": 114,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30553,7 +30557,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 116,
+          "rank": 115,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30579,7 +30583,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 117,
+          "rank": 116,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30617,7 +30621,7 @@
             "Hard-sub",
             "hia"
           ],
-          "rank": 118,
+          "rank": 117,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30646,7 +30650,7 @@
           "tags": [
             "hia"
           ],
-          "rank": 119,
+          "rank": 118,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30671,7 +30675,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 120,
+          "rank": 119,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30696,7 +30700,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 121,
+          "rank": 120,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30738,7 +30742,7 @@
             "Scraper",
             "hia"
           ],
-          "rank": 122,
+          "rank": 121,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30763,7 +30767,7 @@
             "Scraper",
             "hia"
           ],
-          "rank": 123,
+          "rank": 122,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30800,7 +30804,7 @@
           "tags": [
             "hia"
           ],
-          "rank": 124,
+          "rank": 123,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30840,7 +30844,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 125,
+          "rank": 124,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30874,7 +30878,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 126,
+          "rank": 125,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30900,7 +30904,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 127,
+          "rank": 126,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30925,7 +30929,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 128,
+          "rank": 127,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30956,7 +30960,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 129,
+          "rank": 128,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -30979,7 +30983,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 130,
+          "rank": 129,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -30995,7 +30999,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 131,
+          "rank": 130,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -31011,7 +31015,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 132,
+          "rank": 131,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -31027,7 +31031,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 133,
+          "rank": 132,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -31043,7 +31047,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 134,
+          "rank": 133,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -31059,7 +31063,7 @@
           "tags": [
             "gogo"
           ],
-          "rank": 135,
+          "rank": 134,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31085,7 +31089,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 136,
+          "rank": 135,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31111,7 +31115,7 @@
             "Hard-sub",
             "gogo"
           ],
-          "rank": 137,
+          "rank": 136,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31138,7 +31142,7 @@
             "gogo",
             "login"
           ],
-          "rank": 138,
+          "rank": 137,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31167,7 +31171,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 139,
+          "rank": 138,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31193,7 +31197,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 140,
+          "rank": 139,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31237,7 +31241,7 @@
           "tags": [
             "hia"
           ],
-          "rank": 141,
+          "rank": 140,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31264,7 +31268,7 @@
             "Hard-sub",
             "hia"
           ],
-          "rank": 142,
+          "rank": 141,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31292,7 +31296,7 @@
             "Soft-sub",
             "hia"
           ],
-          "rank": 143,
+          "rank": 142,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31341,7 +31345,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 144,
+          "rank": 143,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31368,7 +31372,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 145,
+          "rank": 144,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31397,7 +31401,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 146,
+          "rank": 145,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31422,7 +31426,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 147,
+          "rank": 146,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31449,7 +31453,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 148,
+          "rank": 147,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31486,7 +31490,7 @@
           "link": "https://toonstream.vip/home/",
           "icon": "https://static.everythingmoe.com/icons/toonstreamday.png",
           "tags": [],
-          "rank": 149,
+          "rank": 148,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31517,7 +31521,7 @@
             "Third-party",
             "Soft-sub"
           ],
-          "rank": 150,
+          "rank": 149,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31543,7 +31547,7 @@
             "Third-party",
             "Hard-sub"
           ],
-          "rank": 151,
+          "rank": 150,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31568,7 +31572,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 152,
+          "rank": 151,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -31600,7 +31604,7 @@
           "link": "#comments",
           "icon": "https://static.everythingmoe.com/icons/9ani.png",
           "tags": [],
-          "rank": 153,
+          "rank": 152,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -37553,6 +37557,34 @@
           "No comments section"
         ],
         "info": "note: Great for watching recent or currently airing anime. Older release use Hard-sub, but recent one is Soft-sub."
+      }
+    },
+    "senshi": {
+      "id": "senshi",
+      "title": "Senshi",
+      "link": "https://senshi.to/",
+      "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
+      "tags": [
+        "Self-host",
+        "Modern interface",
+        "Hard-sub",
+        "Dub friendly"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Modern site design",
+          "Reliable stream server"
+        ],
+        "negatives": [
+          "Small library"
+        ],
+        "domains": "ninstream.com"
       }
     },
     "uniquestream": {
@@ -53476,6 +53508,7 @@
       "icon": "https://static.everythingmoe.com/icons/zangetsu.png",
       "tags": [
         "Android",
+        "iOS",
         "Windows",
         "Anime",
         "Manga",
@@ -53490,11 +53523,10 @@
       "details": {
         "positives": [
           "Manga, LN, Anime watching app",
-          "Support android TV",
+          "Support TV",
           "Open source"
         ],
         "negatives": [
-          "Android only",
           "Need to install an extension to use"
         ],
         "altlinks": [
@@ -64834,30 +64866,6 @@
           }
         ],
         "domains": "slopnet.site"
-      }
-    },
-    "senshi": {
-      "id": "senshi",
-      "title": "Senshi",
-      "link": "https://senshi.live/",
-      "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "graveyard",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Modern site design",
-          "Reliable stream server",
-          "Provide dubtitles"
-        ],
-        "negatives": [
-          "Medium library"
-        ],
-        "domains": "ninstream.com"
       }
     },
     "animetsu": {
