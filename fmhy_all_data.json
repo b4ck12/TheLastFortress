@@ -7801,6 +7801,12 @@
                     "resource_items": []
                 },
                 {
+                    "heading": "AI Coding Tools",
+                    "level": "h2",
+                    "text_explanations": [],
+                    "resource_items": []
+                },
+                {
                     "heading": "Video Generation",
                     "level": "h2",
                     "text_explanations": [
@@ -9052,15 +9058,6 @@
                             ]
                         },
                         {
-                            "full_text": "Google Flow Music",
-                            "links": [
-                                {
-                                    "name": "Google Flow Music",
-                                    "url": "https://www.flowmusic.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠ACE-Step 1.5 / No Sign-Up /",
                             "links": [
                                 {
@@ -9826,12 +9823,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "heading": "AI Coding Tools",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": []
                 },
                 {
                     "heading": "AI Agents",
@@ -10752,166 +10743,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "heading": "Machine Learning",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Awesome Machine Learning - Machine Learning Framework Index",
-                            "links": [
-                                {
-                                    "name": "Awesome Machine Learning",
-                                    "url": "https://github.com/josephmisiti/awesome-machine-learning"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome ML , ⁠Awesome LLM Resources or ML Resources - Machine Learning / LLM Resources",
-                            "links": [
-                                {
-                                    "name": "Awesome ML",
-                                    "url": "https://github.com/underlines/awesome-ml"
-                                },
-                                {
-                                    "name": "⁠Awesome LLM Resources",
-                                    "url": "https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/"
-                                },
-                                {
-                                    "name": "ML Resources",
-                                    "url": "https://ml-resources.vercel.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ AI / ML Learning - Educational AI / ML Resources",
-                            "links": [
-                                {
-                                    "name": "AI / ML Learning",
-                                    "url": "https://fmhy.net/educational/#ai-ml-learning"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hugging Face , ModelScope , LLM Papers or OpenML - Machine Learning Datasets / Papers",
-                            "links": [
-                                {
-                                    "name": "Hugging Face",
-                                    "url": "https://huggingface.co/"
-                                },
-                                {
-                                    "name": "ModelScope",
-                                    "url": "https://www.modelscope.ai/"
-                                },
-                                {
-                                    "name": "LLM Papers",
-                                    "url": "https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5"
-                                },
-                                {
-                                    "name": "OpenML",
-                                    "url": "https://www.openml.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Deep playground - Neural Networks Playground",
-                            "links": [
-                                {
-                                    "name": "Deep playground",
-                                    "url": "https://playground.tensorflow.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Unsloth - LLM Finetuning / Text Completion / Notebooks / Guide /",
-                            "links": [
-                                {
-                                    "name": "⁠Unsloth",
-                                    "url": "https://unsloth.ai/"
-                                },
-                                {
-                                    "name": "Notebooks",
-                                    "url": "https://github.com/unslothai/notebooks"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/unslothai/unsloth"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ModelScope Finetuning - Image Gen Model Finetuning / Up to 100 Images Per LoRA",
-                            "links": [
-                                {
-                                    "name": "ModelScope Finetuning",
-                                    "url": "https://modelscope.ai/civision/modelTraining"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Markdown Web Browser - Webpage > Markdown Converter",
-                            "links": [
-                                {
-                                    "name": "Markdown Web Browser",
-                                    "url": "https://github.com/Dicklesworthstone/markdown_web_browser"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DeepSpeed - Deep Learning Optimization Library",
-                            "links": [
-                                {
-                                    "name": "DeepSpeed",
-                                    "url": "https://www.deepspeed.ai/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Netron - Visualizer for Neural Network, Deep Learning, and Machine Learning Models",
-                            "links": [
-                                {
-                                    "name": "Netron",
-                                    "url": "https://github.com/lutzroeder/netron"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MMDeploy - Deep Learning Model Deployment Toolset /",
-                            "links": [
-                                {
-                                    "name": "MMDeploy",
-                                    "url": "https://mmdeploy.readthedocs.io/en/latest/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/open-mmlab/mmdeploy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ChatGPT-Next-Web - Cross-Platform ChatGPT / Gemini UI",
-                            "links": [
-                                {
-                                    "name": "ChatGPT-Next-Web",
-                                    "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Nixified - Nix Flake for AI Projects",
-                            "links": [
-                                {
-                                    "name": "Nixified",
-                                    "url": "https://nixified.ai/"
-                                }
-                            ]
-                        }
-                    ]
                 }
             ]
         }
@@ -10981,7 +10812,7 @@
                             ]
                         },
                         {
-                            "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
+                            "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / 4K / Status /",
                             "links": [
                                 {
                                     "name": "Rive",
@@ -11193,6 +11024,19 @@
                             ]
                         },
                         {
+                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Streamo",
+                                    "url": "https://streamo.pro/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/qn3xdYS69"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Chillflix - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
@@ -11206,27 +11050,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/6r5KTZgqXV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SvStream , 2 , 3 - Movies / TV / Anime / Auto-Next / Status",
-                            "links": [
-                                {
-                                    "name": "SvStream",
-                                    "url": "https://svstream.cc/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://nomorflix.cc/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://diostream.cc/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://nomorflix.com/"
                                 }
                             ]
                         },
@@ -11261,19 +11084,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/cinemabz"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Streamo",
-                                    "url": "https://streamo.pro/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/qn3xdYS69"
                                 }
                             ]
                         },
@@ -11384,11 +11194,19 @@
                             ]
                         },
                         {
-                            "full_text": "Zenox - Movies / TV / Anime / Auto-Next",
+                            "full_text": "Zenox - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
                                     "name": "Zenox",
                                     "url": "https://zenox.lol/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rentry.co/zenoxx"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/mYvhW9FNC9"
                                 }
                             ]
                         },
@@ -11485,6 +11303,27 @@
                                 {
                                     "name": "HiveX",
                                     "url": "https://hivex.stream/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SvStream , 2 , 3 - Movies / TV / Anime / Auto-Next / Status",
+                            "links": [
+                                {
+                                    "name": "SvStream",
+                                    "url": "https://svstream.cc/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://nomorflix.cc/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://diostream.cc/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://nomorflix.com/"
                                 }
                             ]
                         },
@@ -14640,7 +14479,7 @@
                             "links": [
                                 {
                                     "name": "Senshi",
-                                    "url": "https://senshi.live/"
+                                    "url": "https://senshi.to/"
                                 }
                             ]
                         },
@@ -16823,7 +16662,7 @@
                             "links": [
                                 {
                                     "name": "TimStreams",
-                                    "url": "https://timstreams.st/"
+                                    "url": "https://timst.cfd//"
                                 },
                                 {
                                     "name": "",
@@ -33496,7 +33335,7 @@
                             ]
                         },
                         {
-                            "full_text": "scene cat - Download /",
+                            "full_text": "scene cat - Scene Release Download /",
                             "links": [
                                 {
                                     "name": "scene cat",
@@ -57725,7 +57564,7 @@
                             ]
                         },
                         {
-                            "full_text": "Course Busters - Course Busters Access",
+                            "full_text": "Course Busters - Course Busters Access / Telegram Required",
                             "links": [
                                 {
                                     "name": "Course Busters",
@@ -58898,6 +58737,15 @@
                             ]
                         },
                         {
+                            "full_text": "OEIS - Encyclopedia of Integer Sequences",
+                            "links": [
+                                {
+                                    "name": "OEIS",
+                                    "url": "https://oeis.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Wolfram MathWorld or nLab Math - Mathematics Encyclopedias",
                             "links": [
                                 {
@@ -58995,15 +58843,6 @@
                             ]
                         },
                         {
-                            "full_text": "OEIS - Encyclopedia of Integer Sequences",
-                            "links": [
-                                {
-                                    "name": "OEIS",
-                                    "url": "https://oeis.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠ProofWiki - Mathematical Proofs Encyclopedia",
                             "links": [
                                 {
@@ -59075,27 +58914,6 @@
                                 {
                                     "name": "⁠Learn Mathematics",
                                     "url": "https://donkuri.github.io/learn-mathematics/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Converter Pro , Rink , Frink or ConvertAll - Unit Converters / Calculators",
-                            "links": [
-                                {
-                                    "name": "Converter Pro",
-                                    "url": "https://f-droid.org/packages/com.ferrarid.converterpro/"
-                                },
-                                {
-                                    "name": "Rink",
-                                    "url": "https://rinkcalc.app/"
-                                },
-                                {
-                                    "name": "Frink",
-                                    "url": "https://frinklang.org/fsp/frink.fsp"
-                                },
-                                {
-                                    "name": "ConvertAll",
-                                    "url": "https://convertall.bellz.org/"
                                 }
                             ]
                         },
@@ -64074,11 +63892,20 @@
                             ]
                         },
                         {
-                            "full_text": "️ Historical / Modern Maps - Map Resources",
+                            "full_text": "️ Historical / Modern Maps",
                             "links": [
                                 {
                                     "name": "Historical / Modern Maps",
                                     "url": "https://fmhy.net/misc/#maps"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ GeoGuessr Resources",
+                            "links": [
+                                {
+                                    "name": "GeoGuessr Resources",
+                                    "url": "https://fmhy.net/gaming/#geoguessr"
                                 }
                             ]
                         },
@@ -74766,6 +74593,31 @@
                             ]
                         },
                         {
+                            "full_text": "Rink , Converter Pro , ⁠OnlineConversion , Frink or ConvertAll - Unit Converters / Calculators",
+                            "links": [
+                                {
+                                    "name": "Rink",
+                                    "url": "https://rinkcalc.app/"
+                                },
+                                {
+                                    "name": "Converter Pro",
+                                    "url": "https://f-droid.org/packages/com.ferrarid.converterpro/"
+                                },
+                                {
+                                    "name": "⁠OnlineConversion",
+                                    "url": "https://onlineconversion.com/"
+                                },
+                                {
+                                    "name": "Frink",
+                                    "url": "https://frinklang.org/fsp/frink.fsp"
+                                },
+                                {
+                                    "name": "ConvertAll",
+                                    "url": "https://convertall.bellz.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "numbr.dev - Calculators",
                             "links": [
                                 {
@@ -74825,15 +74677,6 @@
                                 {
                                     "name": "QwikTape",
                                     "url": "https://github.com/4silvertooth/QwikTape"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠OnlineConversion - Conversion Calculators",
-                            "links": [
-                                {
-                                    "name": "⁠OnlineConversion",
-                                    "url": "https://onlineconversion.com/"
                                 }
                             ]
                         },
@@ -77128,11 +76971,15 @@
                             ]
                         },
                         {
-                            "full_text": "Tusky , Dhaaga , Pachli / or SubwayTooter - Mastodon Clients",
+                            "full_text": "Tusky , Mastodon Android , Dhaaga , Pachli / or SubwayTooter - Mastodon Clients",
                             "links": [
                                 {
                                     "name": "Tusky",
                                     "url": "https://tusky.app/"
+                                },
+                                {
+                                    "name": "Mastodon Android",
+                                    "url": "https://github.com/mastodon/mastodon-android"
                                 },
                                 {
                                     "name": "Dhaaga",
@@ -87400,6 +87247,19 @@
                             ]
                         },
                         {
+                            "full_text": "wBlock - Safari Adblocker /",
+                            "links": [
+                                {
+                                    "name": "wBlock",
+                                    "url": "https://apps.apple.com/app/wblock/id6746388723"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/0xCUB3/wBlock"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Orion - Adblock Browser w/ Extensions /",
                             "links": [
                                 {
@@ -87422,19 +87282,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/uBlockOrigin/uBOL-home"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "wBlock - Safari Adblocker /",
-                            "links": [
-                                {
-                                    "name": "wBlock",
-                                    "url": "https://apps.apple.com/app/wblock/id6746388723"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/0xCUB3/wBlock"
                                 }
                             ]
                         },
@@ -92450,6 +92297,19 @@
                                 {
                                     "name": "⁠D7VK",
                                     "url": "https://github.com/WinterSnowfall/d7vk"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DLSS5VKLayer - Vulkan DLSS 5 Neural Rendering Layer /",
+                            "links": [
+                                {
+                                    "name": "DLSS5VKLayer",
+                                    "url": "https://www.phoronix.com/news/DLSS5VKLayer"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/bmitch87/DLSS5VKLayer"
                                 }
                             ]
                         },
@@ -116066,24 +115926,20 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "/sport calendars/ or ⁠EntertainMe - Sports Calendars",
-                            "links": [
-                                {
-                                    "name": "/sport calendars/",
-                                    "url": "https://rentry.co/sportcalendars"
-                                },
-                                {
-                                    "name": "⁠EntertainMe",
-                                    "url": "https://www.entertainme.fun/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Sports Stat Sites - Stat Sites Index",
                             "links": [
                                 {
                                     "name": "Sports Stat Sites",
                                     "url": "https://rentry.co/7awch4b9"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠EntertainMe - Sports Calendars",
+                            "links": [
+                                {
+                                    "name": "⁠EntertainMe",
+                                    "url": "https://www.entertainme.fun/"
                                 }
                             ]
                         },
@@ -116553,8 +116409,12 @@
                             ]
                         },
                         {
-                            "full_text": "⁠SeatMaps - Flight Seat Data / Reviews",
+                            "full_text": "⁠AeroLOPA or ⁠SeatMaps - Flight Seat Maps / Features / Reviews",
                             "links": [
+                                {
+                                    "name": "⁠AeroLOPA",
+                                    "url": "https://www.aerolopa.com/"
+                                },
                                 {
                                     "name": "⁠SeatMaps",
                                     "url": "https://seatmaps.com/"
@@ -138316,7 +138176,7 @@
                             ]
                         },
                         {
-                            "full_text": "Mocha - 15GB / 30 Days After Last Download / Signup Required / Multi-Tool App / Lite Version (500MB, No Signup) /",
+                            "full_text": "Mocha - 100GB / 20GB / 30 Days After Last Download / Signup Required / Multi-Tool App / Lite Version (500MB, No Signup) /",
                             "links": [
                                 {
                                     "name": "Mocha",
@@ -153480,14 +153340,10 @@
                             ]
                         },
                         {
-                            "full_text": "Nitter , 2 / xCancel , ⁠sotwe , twstalker , xPrivate or ⁠Twitter Viewer - X.com Frontends / Viewers",
+                            "full_text": "Nitter / xCancel , ⁠sotwe , twstalker , xPrivate or ⁠Twitter Viewer - X.com Frontends / Viewers",
                             "links": [
                                 {
                                     "name": "Nitter",
-                                    "url": "https://github.com/zedeus/nitter/wiki/Instances"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://codeberg.org/mv12star/shitter/wiki/Instances"
                                 },
                                 {
@@ -155983,6 +155839,19 @@
                                 {
                                     "name": "txt.fyi",
                                     "url": "https://txt.fyi/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠paste.sh - Plain Text /",
+                            "links": [
+                                {
+                                    "name": "⁠paste.sh",
+                                    "url": "https://paste.sh/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/dgl/paste.sh"
                                 }
                             ]
                         },
@@ -197535,7 +197404,7 @@
                             ]
                         },
                         {
-                            "full_text": "Course Busters - Course Busters Access",
+                            "full_text": "Course Busters - Course Busters Access / Telegram Required",
                             "links": [
                                 {
                                     "name": "Course Busters",
@@ -198708,6 +198577,15 @@
                             ]
                         },
                         {
+                            "full_text": "OEIS - Encyclopedia of Integer Sequences",
+                            "links": [
+                                {
+                                    "name": "OEIS",
+                                    "url": "https://oeis.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Wolfram MathWorld or nLab Math - Mathematics Encyclopedias",
                             "links": [
                                 {
@@ -198805,15 +198683,6 @@
                             ]
                         },
                         {
-                            "full_text": "OEIS - Encyclopedia of Integer Sequences",
-                            "links": [
-                                {
-                                    "name": "OEIS",
-                                    "url": "https://oeis.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠ProofWiki - Mathematical Proofs Encyclopedia",
                             "links": [
                                 {
@@ -198885,27 +198754,6 @@
                                 {
                                     "name": "⁠Learn Mathematics",
                                     "url": "https://donkuri.github.io/learn-mathematics/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Converter Pro , Rink , Frink or ConvertAll - Unit Converters / Calculators",
-                            "links": [
-                                {
-                                    "name": "Converter Pro",
-                                    "url": "https://f-droid.org/packages/com.ferrarid.converterpro/"
-                                },
-                                {
-                                    "name": "Rink",
-                                    "url": "https://rinkcalc.app/"
-                                },
-                                {
-                                    "name": "Frink",
-                                    "url": "https://frinklang.org/fsp/frink.fsp"
-                                },
-                                {
-                                    "name": "ConvertAll",
-                                    "url": "https://convertall.bellz.org/"
                                 }
                             ]
                         },
@@ -203884,11 +203732,20 @@
                             ]
                         },
                         {
-                            "full_text": "️ Historical / Modern Maps - Map Resources",
+                            "full_text": "️ Historical / Modern Maps",
                             "links": [
                                 {
                                     "name": "Historical / Modern Maps",
                                     "url": "https://fmhy.net/misc/#maps"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ GeoGuessr Resources",
+                            "links": [
+                                {
+                                    "name": "GeoGuessr Resources",
+                                    "url": "https://fmhy.net/gaming/#geoguessr"
                                 }
                             ]
                         },
@@ -214576,6 +214433,31 @@
                             ]
                         },
                         {
+                            "full_text": "Rink , Converter Pro , ⁠OnlineConversion , Frink or ConvertAll - Unit Converters / Calculators",
+                            "links": [
+                                {
+                                    "name": "Rink",
+                                    "url": "https://rinkcalc.app/"
+                                },
+                                {
+                                    "name": "Converter Pro",
+                                    "url": "https://f-droid.org/packages/com.ferrarid.converterpro/"
+                                },
+                                {
+                                    "name": "⁠OnlineConversion",
+                                    "url": "https://onlineconversion.com/"
+                                },
+                                {
+                                    "name": "Frink",
+                                    "url": "https://frinklang.org/fsp/frink.fsp"
+                                },
+                                {
+                                    "name": "ConvertAll",
+                                    "url": "https://convertall.bellz.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "numbr.dev - Calculators",
                             "links": [
                                 {
@@ -214635,15 +214517,6 @@
                                 {
                                     "name": "QwikTape",
                                     "url": "https://github.com/4silvertooth/QwikTape"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠OnlineConversion - Conversion Calculators",
-                            "links": [
-                                {
-                                    "name": "⁠OnlineConversion",
-                                    "url": "https://onlineconversion.com/"
                                 }
                             ]
                         },
@@ -216001,6 +215874,19 @@
                                     "url": "https://www.coderstool.com/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "UUID Tools or ⁠UUID Generator - UUID Generators",
+                            "links": [
+                                {
+                                    "name": "UUID Tools",
+                                    "url": "https://www.uuidtools.com/"
+                                },
+                                {
+                                    "name": "⁠UUID Generator",
+                                    "url": "https://toolkitvault.com/uuid-generator"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -216115,15 +216001,6 @@
                             ]
                         },
                         {
-                            "full_text": "Gaultier Blog - Learn x86-64 Assembly",
-                            "links": [
-                                {
-                                    "name": "Gaultier Blog",
-                                    "url": "https://gaultier.github.io/blog/x11_x64.html"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "PM2 - Process Manager",
                             "links": [
                                 {
@@ -216142,20 +216019,28 @@
                             ]
                         },
                         {
-                            "full_text": "up-for-grabs - Curated List of Tasks for New Contributors",
-                            "links": [
-                                {
-                                    "name": "up-for-grabs",
-                                    "url": "https://up-for-grabs.net/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Crontab Guru - Crontab Editor / Job Scheduler",
                             "links": [
                                 {
                                     "name": "Crontab Guru",
                                     "url": "https://crontab.guru/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Platform.uno / or Enact - App Frameworks",
+                            "links": [
+                                {
+                                    "name": "Platform.uno",
+                                    "url": "https://platform.uno/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/unoplatform/uno"
+                                },
+                                {
+                                    "name": "Enact",
+                                    "url": "https://enactjs.com/"
                                 }
                             ]
                         },
@@ -216191,19 +216076,6 @@
                                 {
                                     "name": "Etebase",
                                     "url": "https://www.etebase.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "minisign - Sign Files / Verify Digital Signatures /",
-                            "links": [
-                                {
-                                    "name": "minisign",
-                                    "url": "https://jedisct1.github.io/minisign/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/jedisct1/minisign"
                                 }
                             ]
                         }
@@ -216260,6 +216132,31 @@
                                 {
                                     "name": "Android Studio",
                                     "url": "https://developer.android.com/studio"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Shizuku Fork , Shizuku / Tools / or Dhizuku - Let Apps Use System API (Android)",
+                            "links": [
+                                {
+                                    "name": "Shizuku Fork",
+                                    "url": "https://github.com/thedjchi/Shizuku"
+                                },
+                                {
+                                    "name": "Shizuku",
+                                    "url": "https://shizuku.rikka.app/"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://github.com/legendsayantan/ShizuTools"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/RikkaApps/Shizuku"
+                                },
+                                {
+                                    "name": "Dhizuku",
+                                    "url": "https://github.com/iamr0s/Dhizuku"
                                 }
                             ]
                         },
@@ -216738,15 +216635,11 @@
                             ]
                         },
                         {
-                            "full_text": "GitKraken or Graphite , Ungit or RelaGit - Git GUIs",
+                            "full_text": "GitKraken , Ungit or RelaGit - Git GUIs",
                             "links": [
                                 {
                                     "name": "GitKraken",
                                     "url": "https://www.gitkraken.com/"
-                                },
-                                {
-                                    "name": "Graphite",
-                                    "url": "https://graphite.com/"
                                 },
                                 {
                                     "name": "Ungit",
@@ -216883,11 +216776,15 @@
                             ]
                         },
                         {
-                            "full_text": "Awesome First PR Opportunities - Beginner FOSS Project Index",
+                            "full_text": "Awesome First PR Opportunities or up-for-grabs - Beginner FOSS Project Index",
                             "links": [
                                 {
                                     "name": "Awesome First PR Opportunities",
                                     "url": "https://github.com/MunGell/awesome-for-beginners"
+                                },
+                                {
+                                    "name": "up-for-grabs",
+                                    "url": "https://up-for-grabs.net/"
                                 }
                             ]
                         },
@@ -217558,6 +217455,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠bat / Extras or Shiki - Log Highlighters",
+                            "links": [
+                                {
+                                    "name": "⁠bat",
+                                    "url": "https://github.com/sharkdp/bat"
+                                },
+                                {
+                                    "name": "Extras",
+                                    "url": "https://github.com/eth-p/bat-extras/"
+                                },
+                                {
+                                    "name": "Shiki",
+                                    "url": "https://shiki.style/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Edbrowse - Command Line Editor / Browser / Mail Client",
                             "links": [
                                 {
@@ -217774,31 +217688,6 @@
                             ]
                         },
                         {
-                            "full_text": "Shizuku Fork , Shizuku / Tools / or Dhizuku - Let Apps Use System API (Android)",
-                            "links": [
-                                {
-                                    "name": "Shizuku Fork",
-                                    "url": "https://github.com/thedjchi/Shizuku"
-                                },
-                                {
-                                    "name": "Shizuku",
-                                    "url": "https://shizuku.rikka.app/"
-                                },
-                                {
-                                    "name": "Tools",
-                                    "url": "https://github.com/legendsayantan/ShizuTools"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/RikkaApps/Shizuku"
-                                },
-                                {
-                                    "name": "Dhizuku",
-                                    "url": "https://github.com/iamr0s/Dhizuku"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠CoorenLabs / / or Consumet - Piracy Site Metadata APIs / Scraping",
                             "links": [
                                 {
@@ -217851,7 +217740,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠OmniRoute / or 9Router - Self-Hosted AI API Routers / Proxies for Developers",
+                            "full_text": "⁠OmniRoute / - Proxy for Developers",
                             "links": [
                                 {
                                     "name": "⁠OmniRoute",
@@ -217860,10 +217749,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/diegosouzapw/OmniRoute"
-                                },
-                                {
-                                    "name": "9Router",
-                                    "url": "https://9router.com/"
                                 }
                             ]
                         },
@@ -218962,6 +218847,31 @@
                                     "url": "https://discord.com/invite/ugFq7KfGnB"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "Codeface , Monaspace , Programming Fonts or Dev Fonts - Fonts for Coding / Comparison",
+                            "links": [
+                                {
+                                    "name": "Codeface",
+                                    "url": "https://github.com/chrissimpkins/codeface"
+                                },
+                                {
+                                    "name": "Monaspace",
+                                    "url": "https://monaspace.githubnext.com/"
+                                },
+                                {
+                                    "name": "Programming Fonts",
+                                    "url": "https://www.programmingfonts.org/"
+                                },
+                                {
+                                    "name": "Dev Fonts",
+                                    "url": "https://devfonts.gafi.dev/"
+                                },
+                                {
+                                    "name": "Comparison",
+                                    "url": "https://www.codingfont.com/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -219180,7 +219090,7 @@
                             ]
                         },
                         {
-                            "full_text": "CodePen , ⁠Web Maker / , Web Maker or Liveweave - Code Sandbox",
+                            "full_text": "CodePen , ⁠Web Maker / or Liveweave - Code Sandbox",
                             "links": [
                                 {
                                     "name": "CodePen",
@@ -219195,29 +219105,8 @@
                                     "url": "https://github.com/chinchang/web-maker/"
                                 },
                                 {
-                                    "name": "Web Maker",
-                                    "url": "https://webmaker.app/"
-                                },
-                                {
                                     "name": "Liveweave",
                                     "url": "https://liveweave.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Platform.uno / or Enact - App Frameworks",
-                            "links": [
-                                {
-                                    "name": "Platform.uno",
-                                    "url": "https://platform.uno/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/unoplatform/uno"
-                                },
-                                {
-                                    "name": "Enact",
-                                    "url": "https://enactjs.com/"
                                 }
                             ]
                         },
@@ -219227,31 +219116,6 @@
                                 {
                                     "name": "InstantDB",
                                     "url": "https://www.instantdb.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Codeface , Monaspace , Programming Fonts or Dev Fonts - Fonts for Coding / Comparison",
-                            "links": [
-                                {
-                                    "name": "Codeface",
-                                    "url": "https://github.com/chrissimpkins/codeface"
-                                },
-                                {
-                                    "name": "Monaspace",
-                                    "url": "https://monaspace.githubnext.com/"
-                                },
-                                {
-                                    "name": "Programming Fonts",
-                                    "url": "https://www.programmingfonts.org/"
-                                },
-                                {
-                                    "name": "Dev Fonts",
-                                    "url": "https://devfonts.gafi.dev/"
-                                },
-                                {
-                                    "name": "Comparison",
-                                    "url": "https://www.codingfont.com/"
                                 }
                             ]
                         }
@@ -219433,7 +219297,7 @@
                             ]
                         },
                         {
-                            "full_text": "myCompiler , Compiler Explorer , OneCompiler , GodBolt , ryugod or Wandbox - Online Compilers / Explorers",
+                            "full_text": "myCompiler , Compiler Explorer / 2 , OneCompiler , ryugod or Wandbox - Online Compilers / Explorers",
                             "links": [
                                 {
                                     "name": "myCompiler",
@@ -219444,12 +219308,12 @@
                                     "url": "https://compiler-explorer.com/"
                                 },
                                 {
-                                    "name": "OneCompiler",
-                                    "url": "https://onecompiler.com/"
+                                    "name": "2",
+                                    "url": "https://godbolt.org/"
                                 },
                                 {
-                                    "name": "GodBolt",
-                                    "url": "https://godbolt.org/"
+                                    "name": "OneCompiler",
+                                    "url": "https://onecompiler.com/"
                                 },
                                 {
                                     "name": "ryugod",
@@ -220030,7 +219894,7 @@
                     "resource_items": []
                 },
                 {
-                    "heading": "Coding Agents / Extensions",
+                    "heading": "Coding Harnesses / Extensions",
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
@@ -220328,7 +220192,10 @@
                 {
                     "heading": "AI Web Coding",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "TIP",
+                        "Note that mostGeneral LLMsare also capable of coding."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Arena - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / /",
@@ -220744,6 +220611,166 @@
                                 {
                                     "name": "⁠HyperFrames",
                                     "url": "https://github.com/heygen-com/hyperframes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Machine Learning",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Awesome Machine Learning - Machine Learning Framework Index",
+                            "links": [
+                                {
+                                    "name": "Awesome Machine Learning",
+                                    "url": "https://github.com/josephmisiti/awesome-machine-learning"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome ML , ⁠Awesome LLM Resources or ML Resources - Machine Learning / LLM Resources",
+                            "links": [
+                                {
+                                    "name": "Awesome ML",
+                                    "url": "https://github.com/underlines/awesome-ml"
+                                },
+                                {
+                                    "name": "⁠Awesome LLM Resources",
+                                    "url": "https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/"
+                                },
+                                {
+                                    "name": "ML Resources",
+                                    "url": "https://ml-resources.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ AI / ML Learning - Educational AI / ML Resources",
+                            "links": [
+                                {
+                                    "name": "AI / ML Learning",
+                                    "url": "https://fmhy.net/educational/#ai-ml-learning"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hugging Face , ModelScope , LLM Papers or OpenML - Machine Learning Datasets / Papers",
+                            "links": [
+                                {
+                                    "name": "Hugging Face",
+                                    "url": "https://huggingface.co/"
+                                },
+                                {
+                                    "name": "ModelScope",
+                                    "url": "https://www.modelscope.ai/"
+                                },
+                                {
+                                    "name": "LLM Papers",
+                                    "url": "https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5"
+                                },
+                                {
+                                    "name": "OpenML",
+                                    "url": "https://www.openml.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Deep playground - Neural Networks Playground",
+                            "links": [
+                                {
+                                    "name": "Deep playground",
+                                    "url": "https://playground.tensorflow.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Unsloth - LLM Finetuning / Text Completion / Notebooks / Guide /",
+                            "links": [
+                                {
+                                    "name": "⁠Unsloth",
+                                    "url": "https://unsloth.ai/"
+                                },
+                                {
+                                    "name": "Notebooks",
+                                    "url": "https://github.com/unslothai/notebooks"
+                                },
+                                {
+                                    "name": "Guide",
+                                    "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/unslothai/unsloth"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ModelScope Finetuning - Image Gen Model Finetuning / Up to 100 Images Per LoRA",
+                            "links": [
+                                {
+                                    "name": "ModelScope Finetuning",
+                                    "url": "https://modelscope.ai/civision/modelTraining"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Markdown Web Browser - Webpage > Markdown Converter",
+                            "links": [
+                                {
+                                    "name": "Markdown Web Browser",
+                                    "url": "https://github.com/Dicklesworthstone/markdown_web_browser"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DeepSpeed - Deep Learning Optimization Library",
+                            "links": [
+                                {
+                                    "name": "DeepSpeed",
+                                    "url": "https://www.deepspeed.ai/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Netron - Visualizer for Neural Network, Deep Learning, and Machine Learning Models",
+                            "links": [
+                                {
+                                    "name": "Netron",
+                                    "url": "https://github.com/lutzroeder/netron"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MMDeploy - Deep Learning Model Deployment Toolset /",
+                            "links": [
+                                {
+                                    "name": "MMDeploy",
+                                    "url": "https://mmdeploy.readthedocs.io/en/latest/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/open-mmlab/mmdeploy"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ChatGPT-Next-Web - Cross-Platform ChatGPT / Gemini UI",
+                            "links": [
+                                {
+                                    "name": "ChatGPT-Next-Web",
+                                    "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nixified - Nix Flake for AI Projects",
+                            "links": [
+                                {
+                                    "name": "Nixified",
+                                    "url": "https://nixified.ai/"
                                 }
                             ]
                         }
@@ -221282,28 +221309,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Awesome HTML5 - HTML5 Resources",
-                            "links": [
-                                {
-                                    "name": "Awesome HTML5",
-                                    "url": "https://diegocard.com/awesome-html5"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HTML Reference , HTML Cheat Sheet or HTML.com - HTML Guides / Cheat Sheets",
+                            "full_text": "HTML Reference - HTML Cheat Sheet",
                             "links": [
                                 {
                                     "name": "HTML Reference",
                                     "url": "https://htmlreference.io/"
-                                },
-                                {
-                                    "name": "HTML Cheat Sheet",
-                                    "url": "https://htmlcheatsheet.com/"
-                                },
-                                {
-                                    "name": "HTML.com",
-                                    "url": "https://html.com/"
                                 }
                             ]
                         },
@@ -221469,29 +221479,11 @@
                             ]
                         },
                         {
-                            "full_text": "Water.css - CSS Styles",
-                            "links": [
-                                {
-                                    "name": "Water.css",
-                                    "url": "https://watercss.kognise.dev/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Style Stage - Modern CSS Styles",
                             "links": [
                                 {
                                     "name": "Style Stage",
                                     "url": "https://stylestage.dev/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hover.CSS - CSS Hover Effects",
-                            "links": [
-                                {
-                                    "name": "Hover.CSS",
-                                    "url": "https://ianlunn.github.io/Hover/"
                                 }
                             ]
                         },
@@ -221505,15 +221497,6 @@
                             ]
                         },
                         {
-                            "full_text": "Buttons.cool - Copy CSS Buttons",
-                            "links": [
-                                {
-                                    "name": "Buttons.cool",
-                                    "url": "https://www.buttons.cool/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "CSS Doodle - CSS Pattern Generator",
                             "links": [
                                 {
@@ -221523,28 +221506,11 @@
                             ]
                         },
                         {
-                            "full_text": "CSS3 Transform - 2D & 3D CSS Transform Functions Visualizer",
+                            "full_text": "Codioful , GradientMagic or heropatterns - CSS Patterns / Gradients",
                             "links": [
                                 {
-                                    "name": "CSS3 Transform",
-                                    "url": "https://css-transform.moro.es/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "css3patterns , gradienta , patternCraft , GradientMagic or heropatterns - CSS Patterns / Gradients",
-                            "links": [
-                                {
-                                    "name": "css3patterns",
-                                    "url": "https://projects.verou.me/css3patterns/"
-                                },
-                                {
-                                    "name": "gradienta",
+                                    "name": "Codioful",
                                     "url": "https://codioful.com/"
-                                },
-                                {
-                                    "name": "patternCraft",
-                                    "url": "https://patterncraft.fun/"
                                 },
                                 {
                                     "name": "GradientMagic",
@@ -221591,42 +221557,11 @@
                             ]
                         },
                         {
-                            "full_text": "Awesome UIKit - JS Frameworks / Web Component Index",
-                            "links": [
-                                {
-                                    "name": "Awesome UIKit",
-                                    "url": "https://github.com/jaywcjlove/awesome-uikit/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "️ TypeScript Tools",
                             "links": [
                                 {
                                     "name": "TypeScript Tools",
                                     "url": "https://fmhy.net/storage/#typescript-tools"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Modern JS Cheatsheet - JavaScript Cheat Sheet /",
-                            "links": [
-                                {
-                                    "name": "Modern JS Cheatsheet",
-                                    "url": "https://mbeaudru.github.io/modern-js-cheatsheet/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/mbeaudru/modern-js-cheatsheet"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vanilla List - Vanilla JavaScript Repository",
-                            "links": [
-                                {
-                                    "name": "Vanilla List",
-                                    "url": "https://vanillalist.top/"
                                 }
                             ]
                         },
@@ -221657,41 +221592,29 @@
                             ]
                         },
                         {
-                            "full_text": "jsdfe , de4js , Deobfuscator , WebCrack , Deobfuscate or deobfuscate.io - JavaScript Deobfuscators",
+                            "full_text": "WebCrack , jsdfe or Deobfuscator , Deobfuscate - JavaScript Deobfuscators",
                             "links": [
+                                {
+                                    "name": "WebCrack",
+                                    "url": "https://webcrack.netlify.app/"
+                                },
                                 {
                                     "name": "jsdfe",
                                     "url": "https://avotoko.github.io/javascript-deobfuscator/"
-                                },
-                                {
-                                    "name": "de4js",
-                                    "url": "https://thanhle.io.vn/de4js/"
                                 },
                                 {
                                     "name": "Deobfuscator",
                                     "url": "https://willnode.github.io/deobfuscator/"
                                 },
                                 {
-                                    "name": "WebCrack",
-                                    "url": "https://webcrack.netlify.app/"
-                                },
-                                {
                                     "name": "Deobfuscate",
                                     "url": "https://deobfuscate.relative.im/"
-                                },
-                                {
-                                    "name": "deobfuscate.io",
-                                    "url": "https://deobfuscate.io/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Minify JS or JS Compressor - JavaScript Minifiers",
+                            "full_text": "JS Compressor - JavaScript Minifiers",
                             "links": [
-                                {
-                                    "name": "Minify JS",
-                                    "url": "https://minify-js.com/"
-                                },
                                 {
                                     "name": "JS Compressor",
                                     "url": "https://jscompressor.treblereel.dev/"
@@ -221730,15 +221653,11 @@
                             ]
                         },
                         {
-                            "full_text": "Discord.js Guide or An Idiot's Guide - Discord.js Bot Guides",
+                            "full_text": "Discord.js Guide - Discord.js Guide",
                             "links": [
                                 {
                                     "name": "Discord.js Guide",
                                     "url": "https://discordjs.guide/"
-                                },
-                                {
-                                    "name": "An Idiot's Guide",
-                                    "url": "https://anidiots.guide/"
                                 }
                             ]
                         }
@@ -221750,12 +221669,8 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "OpenChakra or Plate - React Code Editors",
+                            "full_text": "Plate - React Code Editors",
                             "links": [
-                                {
-                                    "name": "OpenChakra",
-                                    "url": "https://openchakra.app/"
-                                },
                                 {
                                     "name": "Plate",
                                     "url": "https://platejs.org/"
@@ -221808,7 +221723,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/lucianomlima/react-ui-kits"
+                                    "url": "https://github.com/mantinedev/mantine"
                                 }
                             ]
                         },
@@ -221853,20 +221768,15 @@
                             ]
                         },
                         {
-                            "full_text": "React SVG - Convert SVG to React Components",
+                            "full_text": "React SVG or SVG2JSX - Convert SVG to React Components",
                             "links": [
                                 {
                                     "name": "React SVG",
                                     "url": "https://react-svgr.com/playground/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zorm - Type-Safe Form for React",
-                            "links": [
+                                },
                                 {
-                                    "name": "Zorm",
-                                    "url": "https://github.com/esamattis/react-zorm"
+                                    "name": "SVG2JSX",
+                                    "url": "https://svg2jsx.com/"
                                 }
                             ]
                         },
@@ -221893,12 +221803,8 @@
                             ]
                         },
                         {
-                            "full_text": "React Use or UseHooks - React Hooks",
+                            "full_text": "UseHooks - React Hooks",
                             "links": [
-                                {
-                                    "name": "React Use",
-                                    "url": "https://github.com/streamich/react-use"
-                                },
                                 {
                                     "name": "UseHooks",
                                     "url": "https://usehooks.com/"
@@ -221910,7 +221816,7 @@
                             "links": [
                                 {
                                     "name": "React Query",
-                                    "url": "https://tanstack.com/query/v3/"
+                                    "url": "https://tanstack.com/query/latest"
                                 },
                                 {
                                     "name": "",
@@ -221948,15 +221854,6 @@
                                     "url": "https://react-pdf.org/"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "react-spring - React Spring Animations",
-                            "links": [
-                                {
-                                    "name": "react-spring",
-                                    "url": "https://www.react-spring.dev/"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -221975,6 +221872,15 @@
                             ]
                         },
                         {
+                            "full_text": "3v4l - Online PHP Shell",
+                            "links": [
+                                {
+                                    "name": "3v4l",
+                                    "url": "https://3v4l.org"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Composer - PHP Dependency Manager /",
                             "links": [
                                 {
@@ -221988,51 +221894,7 @@
                             ]
                         },
                         {
-                            "full_text": "XAMPP - PHP Development Environment",
-                            "links": [
-                                {
-                                    "name": "XAMPP",
-                                    "url": "https://www.apachefriends.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PIE - PHP Extension Installer /",
-                            "links": [
-                                {
-                                    "name": "PIE",
-                                    "url": "https://php.github.io/pie/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/php/pie"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Clean Code PHP - Clean Code for PHP",
-                            "links": [
-                                {
-                                    "name": "Clean Code PHP",
-                                    "url": "https://github.com/piotrplenik/clean-code-php"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Valinor - PHP Object Mapper /",
-                            "links": [
-                                {
-                                    "name": "Valinor",
-                                    "url": "https://valinor-php.dev/latest/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/CuyZ/Valinor"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Spatie / or 3v4l - Run PHP Concurrently",
+                            "full_text": "Spatie / - Run PHP Concurrently",
                             "links": [
                                 {
                                     "name": "Spatie",
@@ -222041,10 +221903,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/spatie/fork"
-                                },
-                                {
-                                    "name": "3v4l",
-                                    "url": "https://3v4l.org"
                                 }
                             ]
                         }
@@ -222056,10 +221914,10 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Website Creation Resources - Web Dev Resources",
+                            "full_text": "32 Bit Cafe - Web Dev Resources",
                             "links": [
                                 {
-                                    "name": "Website Creation Resources",
+                                    "name": "32 Bit Cafe",
                                     "url": "https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49"
                                 }
                             ]
@@ -222070,24 +221928,6 @@
                                 {
                                     "name": "Awesome Tunneling",
                                     "url": "https://github.com/anderspitman/awesome-tunneling"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome list of secrets in environment variables - Environment Variables Secrets",
-                            "links": [
-                                {
-                                    "name": "Awesome list of secrets in environment variables",
-                                    "url": "https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Web Dev / Programming YouTube Channels - Web Dev YouTube Channel Indexes",
-                            "links": [
-                                {
-                                    "name": "Web Dev / Programming YouTube Channels",
-                                    "url": "https://rentry.co/cozqr"
                                 }
                             ]
                         },
@@ -222132,7 +221972,7 @@
                             ]
                         },
                         {
-                            "full_text": "Formulaer , Tally , FormBricks , Formshare or Deformity - Form Builders",
+                            "full_text": "Formulaer , Tally , FormBricks or Deformity - Form Builders",
                             "links": [
                                 {
                                     "name": "Formulaer",
@@ -222145,10 +221985,6 @@
                                 {
                                     "name": "FormBricks",
                                     "url": "https://github.com/formbricks/formbricks"
-                                },
-                                {
-                                    "name": "Formshare",
-                                    "url": "https://formshare.ai/"
                                 },
                                 {
                                     "name": "Deformity",
@@ -222205,12 +222041,8 @@
                             ]
                         },
                         {
-                            "full_text": "Website Planet Tools , ⁠Networking Toolbox , Browserling Tools or WebCode - Site Development Tools",
+                            "full_text": "⁠Networking Toolbox , Browserling Tools or WebCode - Site Development Tools",
                             "links": [
-                                {
-                                    "name": "Website Planet Tools",
-                                    "url": "https://www.websiteplanet.com/webtools/"
-                                },
                                 {
                                     "name": "⁠Networking Toolbox",
                                     "url": "https://networkingtoolbox.net/"
@@ -222226,8 +222058,16 @@
                             ]
                         },
                         {
-                            "full_text": "⁠OG Image Generator or Link Preview JS - Create Link Previews / Graph Images",
+                            "full_text": "Microlink SDK / , ⁠OG Image Generator or Link Preview JS - Create Link Previews / Graph Images",
                             "links": [
+                                {
+                                    "name": "Microlink SDK",
+                                    "url": "https://microlink.io/sdk"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/microlinkhq/sdk"
+                                },
                                 {
                                     "name": "⁠OG Image Generator",
                                     "url": "https://www.ogimage.website/"
@@ -222343,6 +222183,19 @@
                             ]
                         },
                         {
+                            "full_text": "Giscus or Remarkbox - Site Comment Systems",
+                            "links": [
+                                {
+                                    "name": "Giscus",
+                                    "url": "https://giscus.app/"
+                                },
+                                {
+                                    "name": "Remarkbox",
+                                    "url": "https://www.remarkbox.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Wordpress / Tools or Joomla / - Content Management Systems / CMS",
                             "links": [
                                 {
@@ -222364,21 +222217,8 @@
                             ]
                         },
                         {
-                            "full_text": "WireFlow - Flow Prototype Maker",
+                            "full_text": "The Website Specification / - Website Design Checklist",
                             "links": [
-                                {
-                                    "name": "WireFlow",
-                                    "url": "https://wireflow.co/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Web Dev Checklist or The Website Specification / - Website Design Checklists",
-                            "links": [
-                                {
-                                    "name": "Web Dev Checklist",
-                                    "url": "https://www.toptal.com/developers/webdevchecklist"
-                                },
                                 {
                                     "name": "The Website Specification",
                                     "url": "https://specification.website/"
@@ -222399,19 +222239,11 @@
                             ]
                         },
                         {
-                            "full_text": "cURL or xh - HTTP Clients / Transfer Data with URLs / Converter / IP Lookup / Recipes",
+                            "full_text": "xh - HTTP Clients / Transfer Data with URLs / IP Lookup / Recipes",
                             "links": [
-                                {
-                                    "name": "cURL",
-                                    "url": "https://curl.se/"
-                                },
                                 {
                                     "name": "xh",
                                     "url": "https://github.com/ducaale/xh"
-                                },
-                                {
-                                    "name": "Converter",
-                                    "url": "https://curlconverter.com/"
                                 },
                                 {
                                     "name": "IP Lookup",
@@ -222438,15 +222270,6 @@
                                 {
                                     "name": "Plow",
                                     "url": "https://github.com/six-ddc/plow"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Apache - HTTP Server",
-                            "links": [
-                                {
-                                    "name": "Apache",
-                                    "url": "https://httpd.apache.org/"
                                 }
                             ]
                         },
@@ -222556,37 +222379,11 @@
                             ]
                         },
                         {
-                            "full_text": "BawkBox - Website Widgets",
-                            "links": [
-                                {
-                                    "name": "BawkBox",
-                                    "url": "https://bawkbox.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "The SSO Wall of Shame - Vendors without Built-in SSO",
                             "links": [
                                 {
                                     "name": "The SSO Wall of Shame",
                                     "url": "https://sso.tax/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Disfora , Remarkbox or HTML Comment Box - Site Comment Systems",
-                            "links": [
-                                {
-                                    "name": "Disfora",
-                                    "url": "https://disfora.com/"
-                                },
-                                {
-                                    "name": "Remarkbox",
-                                    "url": "https://www.remarkbox.com/"
-                                },
-                                {
-                                    "name": "HTML Comment Box",
-                                    "url": "https://www.htmlcommentbox.com/"
                                 }
                             ]
                         },
@@ -222706,27 +222503,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠bat / Extras , Shiki , tailspin or Sight - Syntax Highlighters",
+                            "full_text": "tailspin - Syntax Highlighter",
                             "links": [
-                                {
-                                    "name": "⁠bat",
-                                    "url": "https://github.com/sharkdp/bat"
-                                },
-                                {
-                                    "name": "Extras",
-                                    "url": "https://github.com/eth-p/bat-extras/"
-                                },
-                                {
-                                    "name": "Shiki",
-                                    "url": "https://shiki.style/"
-                                },
                                 {
                                     "name": "tailspin",
                                     "url": "https://github.com/bensadeh/tailspin"
-                                },
-                                {
-                                    "name": "Sight",
-                                    "url": "https://github.com/tsenart/sight"
                                 }
                             ]
                         },
@@ -222962,29 +222743,11 @@
                             ]
                         },
                         {
-                            "full_text": "site123 - Website Builder",
-                            "links": [
-                                {
-                                    "name": "site123",
-                                    "url": "https://www.site123.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "tilda - Website Builder",
                             "links": [
                                 {
                                     "name": "tilda",
                                     "url": "https://tilda.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "bravenet - Website Builder",
-                            "links": [
-                                {
-                                    "name": "bravenet",
-                                    "url": "https://www.bravenet.com/"
                                 }
                             ]
                         },
@@ -223003,15 +222766,6 @@
                                 {
                                     "name": "Framer",
                                     "url": "https://www.framer.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mobirise - Website Builder",
-                            "links": [
-                                {
-                                    "name": "Mobirise",
-                                    "url": "https://mobirise.com/"
                                 }
                             ]
                         },
@@ -223052,15 +222806,6 @@
                             ]
                         },
                         {
-                            "full_text": "Own Free Website - Website Builder",
-                            "links": [
-                                {
-                                    "name": "Own Free Website",
-                                    "url": "https://www.own-free-website.com"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Feather Wiki - Extensible Website Generator",
                             "links": [
                                 {
@@ -223079,16 +222824,7 @@
                             ]
                         },
                         {
-                            "full_text": "Barely - Python Static Website Generator",
-                            "links": [
-                                {
-                                    "name": "Barely",
-                                    "url": "https://github.com/charludo/barely"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vvveb , Universe , Google Sites , GrapeDrop or Odoo - Drag & Drop Website Builders",
+                            "full_text": "Vvveb , Universe , Google Sites or Odoo - Drag & Drop Website Builders",
                             "links": [
                                 {
                                     "name": "Vvveb",
@@ -223103,10 +222839,6 @@
                                     "url": "https://sites.google.com/"
                                 },
                                 {
-                                    "name": "GrapeDrop",
-                                    "url": "https://grapedrop.com/"
-                                },
-                                {
                                     "name": "Odoo",
                                     "url": "https://www.odoo.com/app/website"
                                 }
@@ -223118,15 +222850,6 @@
                                 {
                                     "name": "Tails",
                                     "url": "https://devdojo.com/tails"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "8b - Simple Online Website Builder",
-                            "links": [
-                                {
-                                    "name": "8b",
-                                    "url": "https://8b.com/"
                                 }
                             ]
                         },
@@ -223159,15 +222882,6 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
-                        {
-                            "full_text": "Colorful - Color Scheme Resources",
-                            "links": [
-                                {
-                                    "name": "Colorful",
-                                    "url": "https://github.com/Siddharth11/Colorful"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "️ Color Palette Generators",
                             "links": [
@@ -223245,12 +222959,8 @@
                             ]
                         },
                         {
-                            "full_text": "Colouris or Color Converter - Color Code Format Converters",
+                            "full_text": "Color Converter - Color Code Format Converter",
                             "links": [
-                                {
-                                    "name": "Colouris",
-                                    "url": "https://colouris.surge.sh/"
-                                },
                                 {
                                     "name": "Color Converter",
                                     "url": "https://ozdemir.dev/color-converter/"
@@ -223314,15 +223024,6 @@
                                 {
                                     "name": "Simpler Color",
                                     "url": "https://github.com/arnelenero/simpler-color"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Stylify Me - Extract Webpage Colors",
-                            "links": [
-                                {
-                                    "name": "Stylify Me",
-                                    "url": "http://stylifyme.com/"
                                 }
                             ]
                         },
@@ -223426,15 +223127,11 @@
                             ]
                         },
                         {
-                            "full_text": "ThemeWagon or Tooplate - Free HTML Templates",
+                            "full_text": "ThemeWagon - Free HTML Templates",
                             "links": [
                                 {
                                     "name": "ThemeWagon",
                                     "url": "https://themewagon.com/theme-price/free/"
-                                },
-                                {
-                                    "name": "Tooplate",
-                                    "url": "https://www.tooplate.com/"
                                 }
                             ]
                         },
@@ -223456,15 +223153,11 @@
                             ]
                         },
                         {
-                            "full_text": "UI Design Daily , ⁠UI Resources or UIVerse - Free UI Design Resources",
+                            "full_text": "UI Design Daily or UIVerse - Free UI Design Resources",
                             "links": [
                                 {
                                     "name": "UI Design Daily",
                                     "url": "https://www.uidesigndaily.com/"
-                                },
-                                {
-                                    "name": "⁠UI Resources",
-                                    "url": "https://ui-resources.com/"
                                 },
                                 {
                                     "name": "UIVerse",
@@ -223473,7 +223166,7 @@
                             ]
                         },
                         {
-                            "full_text": "CollectUI , Hoverstat , httpster , Godly Website , Websitevice , Dribbble , ReallyGoodUX or Pageflows - UI / Site Design Inspiration",
+                            "full_text": "CollectUI , Hoverstat , httpster , Recent , Websitevice , Dribbble , ReallyGoodUX or Pageflows - UI / Site Design Inspiration",
                             "links": [
                                 {
                                     "name": "CollectUI",
@@ -223488,8 +223181,8 @@
                                     "url": "https://httpster.net/"
                                 },
                                 {
-                                    "name": "Godly Website",
-                                    "url": "https://godly.website/"
+                                    "name": "Recent",
+                                    "url": "https://recent.design/"
                                 },
                                 {
                                     "name": "Websitevice",
@@ -223528,37 +223221,6 @@
                             ]
                         },
                         {
-                            "full_text": "OpenUI - Make UI with AI",
-                            "links": [
-                                {
-                                    "name": "OpenUI",
-                                    "url": "https://github.com/wandb/openui"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Contentdrips or CreatorKit - Brand Design Tools",
-                            "links": [
-                                {
-                                    "name": "Contentdrips",
-                                    "url": "https://contentdrips.com/"
-                                },
-                                {
-                                    "name": "CreatorKit",
-                                    "url": "https://creatorkit.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SuperNova - Design System Manager",
-                            "links": [
-                                {
-                                    "name": "SuperNova",
-                                    "url": "https://www.supernova.io/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Human Interface Guidelines: Windows / Gnome / KDE / Apple - Interface Guidelines",
                             "links": [
                                 {
@@ -223580,15 +223242,11 @@
                             ]
                         },
                         {
-                            "full_text": "Storybook , Akira or Mockend - UI Development Tools",
+                            "full_text": "Storybook or Mockend - UI Development Tools",
                             "links": [
                                 {
                                     "name": "Storybook",
                                     "url": "https://storybook.js.org/"
-                                },
-                                {
-                                    "name": "Akira",
-                                    "url": "https://github.com/akiraux/Akira"
                                 },
                                 {
                                     "name": "Mockend",
@@ -223615,15 +223273,15 @@
                             ]
                         },
                         {
-                            "full_text": "CodeMyUI or Semantic UI - User Interface Code Snippets",
+                            "full_text": "CodeMyUI or Fomantic-UI - User Interface Code Snippets",
                             "links": [
                                 {
                                     "name": "CodeMyUI",
                                     "url": "https://codemyui.com/"
                                 },
                                 {
-                                    "name": "Semantic UI",
-                                    "url": "https://semantic-ui.com/"
+                                    "name": "Fomantic-UI",
+                                    "url": "https://fomantic-ui.com/"
                                 }
                             ]
                         },
@@ -223650,15 +223308,11 @@
                             ]
                         },
                         {
-                            "full_text": "Icon Horse , favicon-hash or Favicone - Download a Site's Favicon /",
+                            "full_text": "Icon Horse or Favicone - Download a Site's Favicon /",
                             "links": [
                                 {
                                     "name": "Icon Horse",
                                     "url": "https://icon.horse/"
-                                },
-                                {
-                                    "name": "favicon-hash",
-                                    "url": "https://favicon-hash.kmsec.uk/"
                                 },
                                 {
                                     "name": "Favicone",
@@ -223672,15 +223326,6 @@
                                 {
                                     "name": "Meta-Mapper",
                                     "url": "https://meta-mapper.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SREWorks - Operation & Maintenance Platform",
-                            "links": [
-                                {
-                                    "name": "SREWorks",
-                                    "url": "https://github.com/alibaba/SREWorks"
                                 }
                             ]
                         },
@@ -223707,12 +223352,8 @@
                             ]
                         },
                         {
-                            "full_text": "Plunker or Bloo - Prototype / Test Websites Idea",
+                            "full_text": "Bloo - Prototype / Test Websites Idea",
                             "links": [
-                                {
-                                    "name": "Plunker",
-                                    "url": "https://plnkr.co/"
-                                },
                                 {
                                     "name": "Bloo",
                                     "url": "https://bloouikit.com/"
@@ -223725,35 +223366,6 @@
                                 {
                                     "name": "WebDesignMuseum",
                                     "url": "https://www.webdesignmuseum.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bootstrap - Mobile Site Creator / Icons / Snippets / UI Components / Templates , 2",
-                            "links": [
-                                {
-                                    "name": "Bootstrap",
-                                    "url": "https://getbootstrap.com/"
-                                },
-                                {
-                                    "name": "Icons",
-                                    "url": "https://icons.getbootstrap.com/"
-                                },
-                                {
-                                    "name": "Snippets",
-                                    "url": "https://bootsnipp.com/"
-                                },
-                                {
-                                    "name": "UI Components",
-                                    "url": "https://mdbootstrap.com/"
-                                },
-                                {
-                                    "name": "Templates",
-                                    "url": "https://bootswatch.com/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://bootstraptaste.com/"
                                 }
                             ]
                         },
@@ -223837,12 +223449,8 @@
                             ]
                         },
                         {
-                            "full_text": "BoxCoding , UI Beats or MagicUI - UI Components",
+                            "full_text": "UI Beats or MagicUI - UI Components",
                             "links": [
-                                {
-                                    "name": "BoxCoding",
-                                    "url": "https://www.avabucks.it/"
-                                },
                                 {
                                     "name": "UI Beats",
                                     "url": "https://www.uibeats.com/"
@@ -223889,28 +223497,11 @@
                             ]
                         },
                         {
-                            "full_text": "RoughAnnotations - Webpage Annotations / Animations",
+                            "full_text": "dummyimage or PicSum - Site Placeholder Images",
                             "links": [
-                                {
-                                    "name": "RoughAnnotations",
-                                    "url": "https://roughnotation.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Lorem.space , dummyimage , PlaceHolder or PicSum - Site Placeholder Images",
-                            "links": [
-                                {
-                                    "name": "Lorem.space",
-                                    "url": "https://lorem.space/"
-                                },
                                 {
                                     "name": "dummyimage",
                                     "url": "https://dummyimage.com/"
-                                },
-                                {
-                                    "name": "PlaceHolder",
-                                    "url": "https://placeholder.pics/"
                                 },
                                 {
                                     "name": "PicSum",
@@ -223928,55 +223519,15 @@
                             ]
                         },
                         {
-                            "full_text": "WebDesigner , T3 , Anime.js , ⁠Lottie Creator , Theatre.js / , GSAP / / / , Stylie , RenderForest or Mantra - Create Motion Graphics",
+                            "full_text": "T3 , ⁠Lottie Creator or Mantra - Create Motion Graphics",
                             "links": [
-                                {
-                                    "name": "WebDesigner",
-                                    "url": "https://webdesigner.withgoogle.com/"
-                                },
                                 {
                                     "name": "T3",
                                     "url": "https://github.com/tooll3/t3"
                                 },
                                 {
-                                    "name": "Anime.js",
-                                    "url": "https://github.com/juliangarnier/anime"
-                                },
-                                {
                                     "name": "⁠Lottie Creator",
                                     "url": "https://creator.lottiefiles.com/"
-                                },
-                                {
-                                    "name": "Theatre.js",
-                                    "url": "https://www.theatrejs.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/theatre-js/theatre"
-                                },
-                                {
-                                    "name": "GSAP",
-                                    "url": "https://gsap.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.x.com/greensock"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://gsap.com/discord/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/greensock/GreenSock-JS"
-                                },
-                                {
-                                    "name": "Stylie",
-                                    "url": "https://jeremyckahn.github.io/stylie/"
-                                },
-                                {
-                                    "name": "RenderForest",
-                                    "url": "https://www.renderforest.com"
                                 },
                                 {
                                     "name": "Mantra",
@@ -224100,15 +223651,6 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Awesome Regex - Regex Tools & Resources",
-                            "links": [
-                                {
-                                    "name": "Awesome Regex",
-                                    "url": "https://github.com/aloisdg/awesome-regex"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Regex Vis - Regex Visualizer",
                             "links": [
                                 {
@@ -224170,19 +223712,6 @@
                             ]
                         },
                         {
-                            "full_text": "Melody - Compile to Regex /",
-                            "links": [
-                                {
-                                    "name": "Melody",
-                                    "url": "https://yoav-lavi.github.io/melody/book/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/yoav-lavi/melody"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Globster - Test Glob Patterns",
                             "links": [
                                 {
@@ -224208,7 +223737,7 @@
                             ]
                         },
                         {
-                            "full_text": "LightTest , Yellow Lab Tools , PageSpeed , SpeedVitals , Geofetcher or GTmetrix - Test Webpage Speed",
+                            "full_text": "LightTest , Yellow Lab Tools , PageSpeed , Geofetcher or GTmetrix - Test Webpage Speed",
                             "links": [
                                 {
                                     "name": "LightTest",
@@ -224221,10 +223750,6 @@
                                 {
                                     "name": "PageSpeed",
                                     "url": "https://pagespeed.web.dev/"
-                                },
-                                {
-                                    "name": "SpeedVitals",
-                                    "url": "https://speedvitals.com/"
                                 },
                                 {
                                     "name": "Geofetcher",
@@ -224397,19 +223922,11 @@
                             ]
                         },
                         {
-                            "full_text": "Responsively , ResponsiveTestTool , Responsivize or Am I Responsive - Website Responsiveness Tests",
+                            "full_text": "Responsively or Am I Responsive - Website Responsiveness Tests",
                             "links": [
                                 {
                                     "name": "Responsively",
                                     "url": "https://responsively.app/"
-                                },
-                                {
-                                    "name": "ResponsiveTestTool",
-                                    "url": "https://responsivetesttool.com/"
-                                },
-                                {
-                                    "name": "Responsivize",
-                                    "url": "https://virejdasani.github.io/Responsivize/"
                                 },
                                 {
                                     "name": "Am I Responsive",
@@ -224452,7 +223969,7 @@
                             ]
                         },
                         {
-                            "full_text": "Method , SVG.wtf , FreeSVGEditor , DrawSVG , Boxy SVG , Mossaik , SVG Editor or SVG Viewer - SVG Editors / Viewers",
+                            "full_text": "Method , SVG.wtf , DrawSVG , Boxy SVG , Mossaik or SVG Viewer - SVG Editors / Viewers",
                             "links": [
                                 {
                                     "name": "Method",
@@ -224461,10 +223978,6 @@
                                 {
                                     "name": "SVG.wtf",
                                     "url": "https://svg.wtf/"
-                                },
-                                {
-                                    "name": "FreeSVGEditor",
-                                    "url": "https://freesvgeditor.com/"
                                 },
                                 {
                                     "name": "DrawSVG",
@@ -224477,10 +223990,6 @@
                                 {
                                     "name": "Mossaik",
                                     "url": "https://mossaik.app/"
-                                },
-                                {
-                                    "name": "SVG Editor",
-                                    "url": "https://editor.svg-gen.com/"
                                 },
                                 {
                                     "name": "SVG Viewer",
@@ -224577,20 +224086,16 @@
                             ]
                         },
                         {
-                            "full_text": "Vector Express or Vector Magic - Vector Converters",
+                            "full_text": "Vector Express - Vector Converters",
                             "links": [
                                 {
                                     "name": "Vector Express",
                                     "url": "https://vector.express/"
-                                },
-                                {
-                                    "name": "Vector Magic",
-                                    "url": "https://vectormagic.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "svgco , ⁠SVGFast , ⁠PngToSvg or IMG to SVG - Image to SVG Converters",
+                            "full_text": "svgco or ⁠SVGFast - Image to SVG Converters",
                             "links": [
                                 {
                                     "name": "svgco",
@@ -224599,23 +224104,6 @@
                                 {
                                     "name": "⁠SVGFast",
                                     "url": "https://svgfast.com/"
-                                },
-                                {
-                                    "name": "⁠PngToSvg",
-                                    "url": "https://pngtosvg.com/"
-                                },
-                                {
-                                    "name": "IMG to SVG",
-                                    "url": "https://img-to-svg.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SVG2JSX - SVG to JSX Converter",
-                            "links": [
-                                {
-                                    "name": "SVG2JSX",
-                                    "url": "https://svg2jsx.com/"
                                 }
                             ]
                         },
@@ -224674,16 +224162,8 @@
                             ]
                         },
                         {
-                            "full_text": "Get Waves , Wavelry , SVGWave / or SVG Wave - SVG Wave Generators",
+                            "full_text": "SVGWave / - SVG Wave Generator",
                             "links": [
-                                {
-                                    "name": "Get Waves",
-                                    "url": "https://getwaves.io/"
-                                },
-                                {
-                                    "name": "Wavelry",
-                                    "url": "https://wavelry.vercel.app/"
-                                },
                                 {
                                     "name": "SVGWave",
                                     "url": "https://svgwave.in/"
@@ -224691,19 +224171,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/anup-a/svgwave"
-                                },
-                                {
-                                    "name": "SVG Wave",
-                                    "url": "https://www.softr.io/blog/svg-generator-app"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Blobmaker - SVG Blob Generator",
-                            "links": [
-                                {
-                                    "name": "Blobmaker",
-                                    "url": "https://www.blobmaker.app/"
                                 }
                             ]
                         },
@@ -224725,15 +224192,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/visioncortex/vtracer"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "JSLogo - Logo Interpreter",
-                            "links": [
-                                {
-                                    "name": "JSLogo",
-                                    "url": "https://www.calormen.com/jslogo/"
                                 }
                             ]
                         }
@@ -224831,7 +224289,7 @@
                             ]
                         },
                         {
-                            "full_text": "censys , WebDNA , wtfis , whois_ / , RDAP , digger.tools , LinkScope or DNSlytics - Domain Info Tools",
+                            "full_text": "censys , WebDNA , ⁠ICANN Lookup , wtfis , whois_ / , RDAP , digger.tools , LinkScope or DNSlytics - Domain Info Tools",
                             "links": [
                                 {
                                     "name": "censys",
@@ -224840,6 +224298,10 @@
                                 {
                                     "name": "WebDNA",
                                     "url": "https://webdna.xtra.wtf/"
+                                },
+                                {
+                                    "name": "⁠ICANN Lookup",
+                                    "url": "https://lookup.icann.org/"
                                 },
                                 {
                                     "name": "wtfis",
@@ -224881,15 +224343,6 @@
                                 {
                                     "name": "Uptime",
                                     "url": "https://betterstack.com/uptime"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Pingbreak - Site Uptime Monitor / Notifications",
-                            "links": [
-                                {
-                                    "name": "⁠Pingbreak",
-                                    "url": "https://pingbreak.com/"
                                 }
                             ]
                         },
@@ -225843,11 +225296,23 @@
                             ]
                         },
                         {
-                            "full_text": "pyWhat - File Analyzer",
+                            "full_text": "pyWhat , horsicq / or ⁠CheckFileType - File Type Identification Tools",
                             "links": [
                                 {
                                     "name": "pyWhat",
                                     "url": "https://github.com/bee-san/pyWhat"
+                                },
+                                {
+                                    "name": "horsicq",
+                                    "url": "https://ntinfo.biz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/horsicq/"
+                                },
+                                {
+                                    "name": "⁠CheckFileType",
+                                    "url": "https://www.checkfiletype.com/"
                                 }
                             ]
                         },
@@ -226065,6 +225530,15 @@
                                 {
                                     "name": "⁠UUID Generator",
                                     "url": "https://toolkitvault.com/uuid-generator"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "favicon-hash - Favicon Hash Generator",
+                            "links": [
+                                {
+                                    "name": "favicon-hash",
+                                    "url": "https://favicon-hash.kmsec.uk/"
                                 }
                             ]
                         },
@@ -226775,6 +226249,19 @@
                                     "url": "https://sslmate.com/caa/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "minisign - Sign Files / Verify Digital Signatures /",
+                            "links": [
+                                {
+                                    "name": "minisign",
+                                    "url": "https://jedisct1.github.io/minisign/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/jedisct1/minisign"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -226959,6 +226446,15 @@
                             ]
                         },
                         {
+                            "full_text": "Gaultier Blog - Learn x86-64 Assembly",
+                            "links": [
+                                {
+                                    "name": "Gaultier Blog",
+                                    "url": "https://gaultier.github.io/blog/x11_x64.html"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ROP Emporium - Learn Return-Oriented Programming",
                             "links": [
                                 {
@@ -227016,23 +226512,6 @@
                                 {
                                     "name": "challenges.re",
                                     "url": "https://challenges.re/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "horsicq or ⁠CheckFileType - File Type Identification Tools /",
-                            "links": [
-                                {
-                                    "name": "horsicq",
-                                    "url": "https://ntinfo.biz/"
-                                },
-                                {
-                                    "name": "⁠CheckFileType",
-                                    "url": "https://www.checkfiletype.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/horsicq/"
                                 }
                             ]
                         }
@@ -227622,6 +227101,448 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Awesome HTML5 - HTML5 Resources (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL679"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Water.css - CSS Styles (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL700"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hover.CSS - CSS Hover Effects (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL702"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Buttons.cool - Copy CSS Buttons (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL704"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CSS3 Transform - 2D & 3D CSS Transform Functions Visualizer (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL706"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome UIKit - JS Frameworks / Web Component Index (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL716"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vanilla List - Vanilla JavaScript Repository (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL719"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zorm - Type-Safe Form for React (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL741"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "react-spring - React Spring Animations (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL749"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "XAMPP - PHP Development Environment (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL757"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Clean Code PHP - Clean Code for PHP (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL759"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome list of secrets in environment variables - Environment Variables Secrets (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL769"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Web Dev / Programming YouTube Channels - Web Dev YouTube Channel Indexes (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL770"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WireFlow - Flow Prototype Maker (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL792"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Apache - HTTP Server (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL798"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BawkBox - Website Widgets (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL808"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "site123 - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL847"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "bravenet - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL849"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mobirise - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL852"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Own Free Website - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL857"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Barely - Python Static Website Generator (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL860"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "8b - Simple Online Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL863"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Colorful - Color Scheme Resources (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL871"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Stylify Me - Extract Webpage Colors (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL885"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenUI - Make UI with AI (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL905"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Contentdrips or CreatorKit - Brand Design Tools (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL906"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SuperNova - Design System Manager (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL907"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SREWorks - Operation & Maintenance Platform (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL917"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Bootstrap - Mobile Site Creator / Icons / Snippets / UI Components / Templates, 2 (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL922"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RoughAnnotations - Webpage Annotations / Animations (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL934"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome Regex - Regex Tools & Resources (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL962"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Blobmaker - SVG Blob Generator (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1017"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "JSLogo - Logo Interpreter (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1019"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pingbreak - Site Uptime Monitor / Notifications (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
+                            "links": [
+                                {
+                                    "name": "778d671",
+                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1033"
+                                },
+                                {
+                                    "name": "PR #_6330",
+                                    "url": "https://github.com/fmhy/edit/pull/6330"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Screen from Traction - Create App Screenshots (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
                             "links": [
@@ -230621,15 +230542,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/ee512e1ef31131660fda3e07ae75a619000f70cb#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L260"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Facebook Ad Filters - Facebook Filters (Removed in 3e51277 )",
-                            "links": [
-                                {
-                                    "name": "3e51277",
-                                    "url": "https://github.com/fmhy/edit/commit/3e51277e093dc6c1b7a62853d3a3c9b8dc59013d#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L604"
-                                }
-                            ]
                         }
                     ]
                 }
@@ -230646,9 +230558,18 @@
                     "heading": "App / Site Mockups",
                     "level": "h2",
                     "text_explanations": [
-                        "PostSpark,Mockup World,DeviceShots,shots.so,MockMagic,zippypixels,Mockuphone,TheMockupClub,RiseShot,Upmock,LS Graphics,Picasso,mrmockup,mockupnest,Jam Mockup"
+                        "PostSpark,Mockup World,DeviceShots,MockMagic,zippypixels,Mockuphone,TheMockupClub,RiseShot,Upmock,LS Graphics,Picasso,mrmockup,mockupnest,Jam Mockup"
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "shots.so - Mockup Creator / Editor",
+                            "links": [
+                                {
+                                    "name": "shots.so",
+                                    "url": "https://shots.so/"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Mockoops - Animated Mockups",
                             "links": [
