@@ -3,7 +3,7 @@
     {
       "name": "anime",
       "title": "Anime Streaming",
-      "notes": "AnimeKaiis moved to Graveyard",
+      "notes": "",
       "is_graveyard": false,
       "lowcont_id": "lowcont-anime",
       "sites": [
@@ -1336,6 +1336,33 @@
           }
         },
         {
+          "id": "anilight",
+          "title": "AniLight",
+          "link": "https://anilight.live/",
+          "icon": "https://static.everythingmoe.com/icons/anilight.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "mult"
+          ],
+          "rank": 32,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "anistream",
           "title": "Anistream",
           "link": "https://anistream.one/home",
@@ -1346,7 +1373,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1375,7 +1402,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1410,7 +1437,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1446,7 +1473,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1473,7 +1500,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -1502,7 +1529,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -1530,7 +1557,7 @@
             "Scraper",
             "Soft-sub"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1559,7 +1586,7 @@
             "Simple interface",
             "Hard-sub"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1591,7 +1618,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1633,7 +1660,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1674,7 +1701,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1707,7 +1734,7 @@
             "Hard-sub",
             "Easy download"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1736,7 +1763,7 @@
             "Hard-sub",
             "new"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1767,7 +1794,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1833,7 +1860,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1864,7 +1891,7 @@
             "Easy download",
             "Hard-sub"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1894,7 +1921,7 @@
             "Hard-sub",
             "login"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1939,7 +1966,7 @@
             "Easy download",
             "Soft-sub"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1979,7 +2006,7 @@
             "Hard-sub",
             "new"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2006,33 +2033,6 @@
               }
             ],
             "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto."
-          }
-        },
-        {
-          "id": "anilight",
-          "title": "AniLight",
-          "link": "https://anilight.live/",
-          "icon": "https://static.everythingmoe.com/icons/anilight.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "Hard-sub",
-            "mult"
-          ],
-          "rank": 51,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
           }
         },
         {
@@ -9665,6 +9665,7 @@
           "details": {
             "positives": [
               "Nice modern interface",
+              "Very large library",
               "Mostly high quality official translation",
               "Well organized library"
             ],
@@ -9771,6 +9772,7 @@
               "Need pay to unlock chapters",
               "Less content than Webtoon"
             ],
+            "info": "note: Scheduled to shutdown on 31 March 2027",
             "altlinks": [
               {
                 "name": "iOS",
@@ -39204,6 +39206,33 @@
         ]
       }
     },
+    "anilight": {
+      "id": "anilight",
+      "title": "AniLight",
+      "link": "https://anilight.live/",
+      "icon": "https://static.everythingmoe.com/icons/anilight.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "anistream": {
       "id": "anistream",
       "title": "Anistream",
@@ -39875,33 +39904,6 @@
           }
         ],
         "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto."
-      }
-    },
-    "anilight": {
-      "id": "anilight",
-      "title": "AniLight",
-      "link": "https://anilight.live/",
-      "icon": "https://static.everythingmoe.com/icons/anilight.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "Hard-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
       }
     },
     "meguanime": {
@@ -47489,6 +47491,7 @@
       "details": {
         "positives": [
           "Nice modern interface",
+          "Very large library",
           "Mostly high quality official translation",
           "Well organized library"
         ],
@@ -47595,6 +47598,7 @@
           "Need pay to unlock chapters",
           "Less content than Webtoon"
         ],
+        "info": "note: Scheduled to shutdown on 31 March 2027",
         "altlinks": [
           {
             "name": "iOS",
