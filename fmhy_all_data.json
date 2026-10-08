@@ -933,20 +933,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Many sites contain ads, popups or redirects, so wehighly recommendusing an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously toavoid breakage/2. Combining general adblockers with tools like SponsorBlock is fine. Also note full version of uBO works significantly better than the lite version.",
-                        "️Spotify Adblockers",
-                        "️Twitch Adblockers",
-                        "️Bypass URL Redirects",
-                        "️Bypass Article Paywalls",
-                        "uBlock Origin,AdGuardoruBO Lite(MV3) /- Adblockers /Redundant Extensions",
-                        "Report Issues-uAssets/Hosts/AdGuard/EasyList",
-                        "SponsorBlock- Skip Sponsored YouTube Ads ////",
-                        "SponsorBlock Tools-Bookmarklet/Script/Ports/Database/Chromecast",
-                        "Disblock OriginorDiscord Adblock- Hide Discord Nitro / Boost Ads",
-                        "Popup Blocker (strict),Popupblocker All/2,PopupBlocker(userscript) orPopUpOFF- Popup Blockers /",
-                        "BehindTheOverlay- Hide Website Overlays",
-                        "BilibiliSponsorBlock- Skip Sponsored Bilibili Ads /",
-                        "YouT-ubeorMUI Tube- Bypass YouTubes Forced uBO Player Delay"
+                        "Many sites contain ads, popups or redirects, so wehighly recommendusing an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously toavoid breakage/2. Combining general adblockers with tools like SponsorBlock is fine. Also note full version of uBO works significantly better than the lite version."
                     ],
                     "resource_items": [
                         {
@@ -2907,6 +2894,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠wifit3 - USB Wi-Fi Auditing Tool",
+                            "links": [
+                                {
+                                    "name": "⁠wifit3",
+                                    "url": "https://github.com/derv82/wifit3"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Simplewall - Firewall",
                             "links": [
                                 {
@@ -4765,7 +4761,7 @@
                             ]
                         },
                         {
-                            "full_text": "RiseupVPN / or Bitmask / Android / - Free / Unlimited / No Port Forwarding",
+                            "full_text": "RiseupVPN / , Calyx VPN (android) or Bitmask / Android / - Free / Unlimited / No Port Forwarding",
                             "links": [
                                 {
                                     "name": "RiseupVPN",
@@ -4774,6 +4770,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/riseupnet"
+                                },
+                                {
+                                    "name": "Calyx VPN",
+                                    "url": "https://f-droid.org/packages/org.calyxinstitute.vpn/"
                                 },
                                 {
                                     "name": "Bitmask",
@@ -7633,7 +7633,7 @@
                             ]
                         },
                         {
-                            "full_text": "AI Dungeon / / or Spellbound or FictionLab / - Roleplaying + Story Chatbot / No Sign-Up",
+                            "full_text": "AI Dungeon / / , Spellbound or FictionLab / - Roleplaying + Story Chatbot / No Sign-Up",
                             "links": [
                                 {
                                     "name": "AI Dungeon",
@@ -7806,7 +7806,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Snapgen AI - Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Sign-Up /",
+                            "full_text": "⁠Snapgen AI - Veo 3.1 Fast / Vela AI / Sign-Up /",
                             "links": [
                                 {
                                     "name": "⁠Snapgen AI",
@@ -8297,7 +8297,7 @@
                             ]
                         },
                         {
-                            "full_text": "Z-GEN TURBO , ImageFree , Freegen or AIGazou / or AIFreeForever - Z-Image Turbo",
+                            "full_text": "Z-GEN TURBO , ImageFree , Freegen , AIGazou / or AIFreeForever - Z-Image Turbo",
                             "links": [
                                 {
                                     "name": "Z-GEN TURBO",
@@ -10904,6 +10904,19 @@
                             ]
                         },
                         {
+                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Streamo",
+                                    "url": "https://streamo.pro/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/qn3xdYS69"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ArrowTV , 2 or Cinezo , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -10925,19 +10938,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/yWWKfMbtm3"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Streamo",
-                                    "url": "https://streamo.pro/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/qn3xdYS69"
                                 }
                             ]
                         },
@@ -11045,6 +11045,23 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/ygexZUCXVa"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BingeBang - Movies / TV / Anime / Auto-Next / Status /",
+                            "links": [
+                                {
+                                    "name": "BingeBang",
+                                    "url": "https://bingebang.st/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://bingebang.club/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/v3EmsANYNM"
                                 }
                             ]
                         },
@@ -11390,23 +11407,6 @@
                                 {
                                     "name": "M-Zone",
                                     "url": "https://m-zone.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BingeBang - Movies / TV / Anime / Auto-Next / Status /",
-                            "links": [
-                                {
-                                    "name": "BingeBang",
-                                    "url": "https://bingebang.st/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://bingebang.club/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/v3EmsANYNM"
                                 }
                             ]
                         },
@@ -13630,7 +13630,7 @@
                             "links": [
                                 {
                                     "name": "⁠Vyla Home",
-                                    "url": "https://vyla.cc/home"
+                                    "url": "https://vyla.cc/products/home"
                                 },
                                 {
                                     "name": "2",
@@ -13665,6 +13665,15 @@
                                 {
                                     "name": "⁠Vega-Desktop",
                                     "url": "https://github.com/vega-org/vega-desktop"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Showberry - Streaming App /",
+                            "links": [
+                                {
+                                    "name": "⁠Showberry",
+                                    "url": "https://github.com/Dackerie/showberry"
                                 }
                             ]
                         },
@@ -14063,15 +14072,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "️ Anime Streaming Apps",
-                            "links": [
-                                {
-                                    "name": "Anime Streaming Apps",
-                                    "url": "https://fmhy.net/video/#anime-streaming-apps"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Wotaku - Anime Site Index / /",
                             "links": [
                                 {
@@ -14123,6 +14123,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/GuueaDgKdS"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Anime Streaming Apps",
+                            "links": [
+                                {
+                                    "name": "Anime Streaming Apps",
+                                    "url": "https://fmhy.net/video/#anime-streaming-apps"
                                 }
                             ]
                         },
@@ -14311,7 +14320,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.com/invite/QsqcnsryyK"
+                                    "url": "https://discord.gg/SMNYA4Q6vD"
                                 }
                             ]
                         },
@@ -14602,15 +14611,6 @@
                                 {
                                     "name": "Anify",
                                     "url": "https://anify.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniDB (.app) - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "AniDB (.app)",
-                                    "url": "https://anidb.app/"
                                 }
                             ]
                         },
@@ -16234,7 +16234,7 @@
                             "links": [
                                 {
                                     "name": "Cinevid",
-                                    "url": "https://cinevid.st/iptv/"
+                                    "url": "https://cinevid.st/channels"
                                 }
                             ]
                         },
@@ -16863,7 +16863,7 @@
                             "links": [
                                 {
                                     "name": "Cinevid",
-                                    "url": "https://cinevid.st/iptv/schedule"
+                                    "url": "https://cinevid.st/events"
                                 }
                             ]
                         },
@@ -19405,7 +19405,7 @@
                             ]
                         },
                         {
-                            "full_text": "HDEncode / Improvement Script or RapidMoviez / Mirrors - Movie & TV DDL Forums / Requires Debrid",
+                            "full_text": "HDEncode / Improvement Script , ⁠Cinema of the World or RapidMoviez / Mirrors - Movie & TV DDL Forums / Requires Debrid",
                             "links": [
                                 {
                                     "name": "HDEncode",
@@ -19414,6 +19414,10 @@
                                 {
                                     "name": "Improvement Script",
                                     "url": "https://github.com/mikeymuis/hdencode-filter-suite"
+                                },
+                                {
+                                    "name": "⁠Cinema of the World",
+                                    "url": "https://worldscinema.org/"
                                 },
                                 {
                                     "name": "RapidMoviez",
@@ -21584,7 +21588,7 @@
                             ]
                         },
                         {
-                            "full_text": "Sight and Sound - ritics' and Directors' Film Polls / Top 250",
+                            "full_text": "Sight and Sound - Critics' and Directors' Film Polls / Top 250",
                             "links": [
                                 {
                                     "name": "Sight and Sound",
@@ -34760,6 +34764,15 @@
                             ]
                         },
                         {
+                            "full_text": "Game Decomps That Arent Vibe Coded - Game Decompilations / Ports",
+                            "links": [
+                                {
+                                    "name": "Game Decomps That Arent Vibe Coded",
+                                    "url": "https://backloggd.com/u/WumpaGem/list/game-decompsrecomps-that-arent-vibe-coded/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Awesome Unofficial PC Ports - Game Decompilations / Ports",
                             "links": [
                                 {
@@ -35027,7 +35040,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pixel Gun World / or Pixel Gun Mayhem / or Pixel Gun X - Pixel Gun 3D Revivals / PC Ports",
+                            "full_text": "Pixel Gun World / , Pixel Gun Mayhem / or Pixel Gun X - Pixel Gun 3D Revivals / PC Ports",
                             "links": [
                                 {
                                     "name": "Pixel Gun World",
@@ -39721,7 +39734,7 @@
                             ]
                         },
                         {
-                            "full_text": "Lichess Tools - Mobile Apps / Prettier UI / Themes / Leagues / Extra Functionality / Game Database",
+                            "full_text": "Lichess Tools - Mobile Apps / Prettier UI / Themes / Leagues / Enhancement Extension / Extra Functionality / Game Database",
                             "links": [
                                 {
                                     "name": "Mobile Apps",
@@ -39738,6 +39751,10 @@
                                 {
                                     "name": "Leagues",
                                     "url": "https://www.lichess4545.com/"
+                                },
+                                {
+                                    "name": "Enhancement Extension",
+                                    "url": "https://siderite.dev/LiChessTools/"
                                 },
                                 {
                                     "name": "Extra Functionality",
@@ -43259,6 +43276,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Gem Tower Defense - Gem Combo-Style Tower Defense",
+                            "links": [
+                                {
+                                    "name": "⁠Gem Tower Defense",
+                                    "url": "https://www.gemtowerdefense.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Littlewargame - Browser-Based RTS",
                             "links": [
                                 {
@@ -46401,6 +46427,15 @@
                                 {
                                     "name": "ComparisonTabl.es",
                                     "url": "https://comparisontabl.es/e-readers/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠eBook Fonts Showcase - Custom E-Reader Typography + Font Preview Tool",
+                            "links": [
+                                {
+                                    "name": "⁠eBook Fonts Showcase",
+                                    "url": "https://ebook-fonts.nicoverbruggen.be/"
                                 }
                             ]
                         },
@@ -53038,6 +53073,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Bookfeed.io - Author Release RSS Feeds",
+                            "links": [
+                                {
+                                    "name": "⁠Bookfeed.io",
+                                    "url": "https://bookfeed.io/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LibraryThing - Tracking / Reviews / Recommendations / Database",
                             "links": [
                                 {
@@ -55919,15 +55963,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Android IRC Clients",
-                            "links": [
-                                {
-                                    "name": "Android IRC Clients",
-                                    "url": "https://fmhy.net/mobile/#android-internet"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Awesome IRC - IRC Resources",
                             "links": [
                                 {
@@ -55951,6 +55986,15 @@
                                 {
                                     "name": "IRC Client Comparisons",
                                     "url": "https://wikipedia.org/wiki/Comparison_of_IRC_clients"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Android IRC Clients",
+                            "links": [
+                                {
+                                    "name": "Android IRC Clients",
+                                    "url": "https://fmhy.net/mobile/#android-internet"
                                 }
                             ]
                         },
@@ -57496,7 +57540,7 @@
                             "links": [
                                 {
                                     "name": "IHaveNoTV",
-                                    "url": "https://ihavenotv.com"
+                                    "url": "https://ihavenotv.com/"
                                 }
                             ]
                         },
@@ -59792,6 +59836,15 @@
                                 {
                                     "name": "HDLBits",
                                     "url": "https://hdlbits.01xz.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Last Minute Engineers - Electronics Engineering Learning",
+                            "links": [
+                                {
+                                    "name": "⁠Last Minute Engineers",
+                                    "url": "https://lastminuteengineers.com/"
                                 }
                             ]
                         },
@@ -67620,6 +67673,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Brickfact - LEGO Set Database / Price Tracker",
+                            "links": [
+                                {
+                                    "name": "⁠Brickfact",
+                                    "url": "https://brickfact.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Brick Hound - LEGO Deal Alerts",
                             "links": [
                                 {
@@ -73251,7 +73313,7 @@
                             ]
                         },
                         {
-                            "full_text": "CryptoPals or Overview of Cryptography or cryptohack - Cryptography Learning",
+                            "full_text": "CryptoPals , Overview of Cryptography or cryptohack - Cryptography Learning",
                             "links": [
                                 {
                                     "name": "CryptoPals",
@@ -80191,7 +80253,7 @@
                             ]
                         },
                         {
-                            "full_text": "Circle to Search or CircleToSearch or MiCTS - Circle to Search",
+                            "full_text": "Circle to Search , CircleToSearch or MiCTS - Circle to Search",
                             "links": [
                                 {
                                     "name": "Circle to Search",
@@ -81948,7 +82010,7 @@
                             ]
                         },
                         {
-                            "full_text": "Look Up (search), Livio or AARD2 , NotificationDictionary or Ciyue - Dictionary Apps",
+                            "full_text": "Look Up (search), Livio , AARD2 , NotificationDictionary or Ciyue - Dictionary Apps",
                             "links": [
                                 {
                                     "name": "Look Up",
@@ -85408,7 +85470,7 @@
                             "links": [
                                 {
                                     "name": "⁠Vyla Go",
-                                    "url": "https://vyla.cc/go"
+                                    "url": "https://vyla.cc/products/go"
                                 },
                                 {
                                     "name": "2",
@@ -88366,6 +88428,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠ShrubLibrary - IPA Repo Aggregator / Search Engine / /",
+                            "links": [
+                                {
+                                    "name": "⁠ShrubLibrary",
+                                    "url": "https://shrublibrary.pages.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Zt3cgdSvkd"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/zoinkdoggie94/ShrubLibrary"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PDALife - Games / Apps /",
                             "links": [
                                 {
@@ -88397,19 +88476,6 @@
                                 {
                                     "name": "4PDA",
                                     "url": "https://4pda.to/forum/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠ShrubLibrary - IPA Repo Aggregator / Search Engine /",
-                            "links": [
-                                {
-                                    "name": "⁠ShrubLibrary",
-                                    "url": "https://shrublibrary.pages.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Zt3cgdSvkd"
                                 }
                             ]
                         },
@@ -112616,15 +112682,6 @@
                             ]
                         },
                         {
-                            "full_text": "TR Anime İzle - Anime / Region Locked",
-                            "links": [
-                                {
-                                    "name": "TR Anime İzle",
-                                    "url": "https://www.tranimeizle.io/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠AniHub - Anime / Region Locked",
                             "links": [
                                 {
@@ -115078,11 +115135,19 @@
                             ]
                         },
                         {
-                            "full_text": "GG.deals Free - Games",
+                            "full_text": "GG.deals Free - Games / Extension /",
                             "links": [
                                 {
                                     "name": "GG.deals Free",
                                     "url": "https://gg.deals/news/?availability=1&type=6"
+                                },
+                                {
+                                    "name": "Extension",
+                                    "url": "https://gg.deals/extension/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/NhsTFvdHXG"
                                 }
                             ]
                         },
@@ -125650,11 +125715,15 @@
                             ]
                         },
                         {
-                            "full_text": "GG.deals - Multi-Store / Multi-Platform /",
+                            "full_text": "GG.deals - Multi-Store / Multi-Platform / Extension /",
                             "links": [
                                 {
                                     "name": "GG.deals",
                                     "url": "https://gg.deals/"
+                                },
+                                {
+                                    "name": "Extension",
+                                    "url": "https://gg.deals/extension/"
                                 },
                                 {
                                     "name": "",
@@ -125988,6 +126057,23 @@
                             ]
                         },
                         {
+                            "full_text": "PkmnCards , Pokéllector or Limitless - Pokémon Card Databases / Resources",
+                            "links": [
+                                {
+                                    "name": "PkmnCards",
+                                    "url": "https://pkmncards.com/"
+                                },
+                                {
+                                    "name": "Pokéllector",
+                                    "url": "https://www.pokellector.com/"
+                                },
+                                {
+                                    "name": "Limitless",
+                                    "url": "https://limitlesstcg.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Dinosaur Toy Blog or Animal Toy Blog - Animal Toy Reviews",
                             "links": [
                                 {
@@ -126045,6 +126131,15 @@
                                 {
                                     "name": "Bricklink",
                                     "url": "https://www.bricklink.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Brickfact - LEGO Set Database / Price Tracker",
+                            "links": [
+                                {
+                                    "name": "⁠Brickfact",
+                                    "url": "https://brickfact.com/"
                                 }
                             ]
                         },
@@ -134365,15 +134460,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "️ Mouse / Keyboard Comparisons",
-                            "links": [
-                                {
-                                    "name": "Mouse / Keyboard Comparisons",
-                                    "url": "https://fmhy.net/misc/#keyboards-mice"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "r/MechanicalKeyboards Wiki - Mechanical Keyboard Resources",
                             "links": [
                                 {
@@ -134392,6 +134478,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/Keycapsss/awesome-mechanical-keyboard"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Mouse / Keyboard Comparisons",
+                            "links": [
+                                {
+                                    "name": "Mouse / Keyboard Comparisons",
+                                    "url": "https://fmhy.net/misc/#keyboards-mice"
                                 }
                             ]
                         },
@@ -155080,19 +155175,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠TikFinity - TikTok Live Toolkit /",
-                            "links": [
-                                {
-                                    "name": "⁠TikFinity",
-                                    "url": "https://tikfinity.zerody.one/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/uthtmVdpy8"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "SSSTik , myfaveTT or tiktok-to-ytdlp - TikTok Downloaders",
                             "links": [
                                 {
@@ -155115,6 +155197,19 @@
                                 {
                                     "name": "⁠BXD Enhancer",
                                     "url": "https://method.billoxd.site/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠TikFinity - TikTok Live Toolkit /",
+                            "links": [
+                                {
+                                    "name": "⁠TikFinity",
+                                    "url": "https://tikfinity.zerody.one/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/uthtmVdpy8"
                                 }
                             ]
                         },
@@ -158973,11 +159068,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Zen - Local Saves",
+                            "full_text": "nanotype - Local Saves",
                             "links": [
                                 {
-                                    "name": "Zen",
-                                    "url": "https://zen.unit.ms/"
+                                    "name": "nanotype",
+                                    "url": "https://nanotype.app/"
                                 }
                             ]
                         },
@@ -169290,7 +169385,7 @@
                             ]
                         },
                         {
-                            "full_text": "HMCL / , SKlauncher / Ad Bypass , X Minecraft Launcher / , Quantum Launcher / / , ⁠OneClient , Legacy Launcher , AstralRinth or PrismLauncher-Cracked - Cross-Platform Launchers",
+                            "full_text": "HMCL / , SKlauncher / Ad Bypass , X Minecraft Launcher / , Quantum Launcher / / , Legacy Launcher , AstralRinth or PrismLauncher-Cracked - Cross-Platform Launchers",
                             "links": [
                                 {
                                     "name": "HMCL",
@@ -169327,10 +169422,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/Mrmayman/quantum-launcher/"
-                                },
-                                {
-                                    "name": "⁠OneClient",
-                                    "url": "https://polyfrost.org/projects/oneclient"
                                 },
                                 {
                                     "name": "Legacy Launcher",
@@ -169416,6 +169507,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/PrismLauncher/PrismLauncher"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OneClient - Feature-Rich Launcher",
+                            "links": [
+                                {
+                                    "name": "⁠OneClient",
+                                    "url": "https://polyfrost.org/projects/oneclient"
                                 }
                             ]
                         },
@@ -186640,7 +186740,7 @@
                             ]
                         },
                         {
-                            "full_text": "️ ** Linux Video Editors / macOS",
+                            "full_text": "️ Linux Video Editors / macOS",
                             "links": [
                                 {
                                     "name": "Linux Video Editors",
@@ -198288,7 +198388,7 @@
                             "links": [
                                 {
                                     "name": "IHaveNoTV",
-                                    "url": "https://ihavenotv.com"
+                                    "url": "https://ihavenotv.com/"
                                 }
                             ]
                         },
@@ -200584,6 +200684,15 @@
                                 {
                                     "name": "HDLBits",
                                     "url": "https://hdlbits.01xz.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Last Minute Engineers - Electronics Engineering Learning",
+                            "links": [
+                                {
+                                    "name": "⁠Last Minute Engineers",
+                                    "url": "https://lastminuteengineers.com/"
                                 }
                             ]
                         },
@@ -208412,6 +208521,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Brickfact - LEGO Set Database / Price Tracker",
+                            "links": [
+                                {
+                                    "name": "⁠Brickfact",
+                                    "url": "https://brickfact.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Brick Hound - LEGO Deal Alerts",
                             "links": [
                                 {
@@ -214043,7 +214161,7 @@
                             ]
                         },
                         {
-                            "full_text": "CryptoPals or Overview of Cryptography or cryptohack - Cryptography Learning",
+                            "full_text": "CryptoPals , Overview of Cryptography or cryptohack - Cryptography Learning",
                             "links": [
                                 {
                                     "name": "CryptoPals",
@@ -217026,6 +217144,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "⁠Awesome Minimalist - Curated Minimal Dev Frameworks",
+                            "links": [
+                                {
+                                    "name": "⁠Awesome Minimalist",
+                                    "url": "https://github.com/neiesc/awesome-minimalist"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "️ Data Visualization / Diagrams",
                             "links": [
                                 {
@@ -217049,15 +217176,6 @@
                                 {
                                     "name": "Markup Tools / Markdown Editors",
                                     "url": "https://fmhy.net/text-tools/#markup-tools"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Awesome Minimalist - Curated Minimal Dev Frameworks",
-                            "links": [
-                                {
-                                    "name": "⁠Awesome Minimalist",
-                                    "url": "https://github.com/neiesc/awesome-minimalist"
                                 }
                             ]
                         },
@@ -217356,7 +217474,7 @@
                             "links": [
                                 {
                                     "name": "N8N",
-                                    "url": "https://n8n.io/"
+                                    "url": "https://github.com/n8n-io/n8n"
                                 },
                                 {
                                     "name": "Workflow Index",
@@ -218551,7 +218669,7 @@
                             ]
                         },
                         {
-                            "full_text": "useful-forks or GitPop3 or Active-Forks / - Find Active GitHub Forks",
+                            "full_text": "useful-forks , GitPop3 or Active-Forks / - Find Active GitHub Forks",
                             "links": [
                                 {
                                     "name": "useful-forks",
@@ -226034,24 +226152,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "️ Dynamic DNS Services / Subdomains",
-                            "links": [
-                                {
-                                    "name": "Dynamic DNS Services / Subdomains",
-                                    "url": "https://fmhy.net/storage/#dynamic-dns-services-subdomains"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ Self-Hosted Wiki Alts",
-                            "links": [
-                                {
-                                    "name": "Self-Hosted Wiki Alts",
-                                    "url": "https://fmhy.net/storage/#self-hosted-wiki-alts"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "FreeHosts or Awesome-Web-Hosting / - Free Hosting Provider Indexes",
                             "links": [
                                 {
@@ -226099,6 +226199,24 @@
                                 {
                                     "name": "Bitcoin VPS",
                                     "url": "https://bitcoin-vps.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Dynamic DNS Services / Subdomains",
+                            "links": [
+                                {
+                                    "name": "Dynamic DNS Services / Subdomains",
+                                    "url": "https://fmhy.net/storage/#dynamic-dns-services-subdomains"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Self-Hosted Wiki Alts",
+                            "links": [
+                                {
+                                    "name": "Self-Hosted Wiki Alts",
+                                    "url": "https://fmhy.net/storage/#self-hosted-wiki-alts"
                                 }
                             ]
                         },
@@ -227760,6 +227878,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠DNS.is - DNS Resolution Check",
+                            "links": [
+                                {
+                                    "name": "⁠DNS.is",
+                                    "url": "https://dns.is/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠DNS Coffee - DNS Search History Tool",
                             "links": [
                                 {
@@ -229021,15 +229148,38 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "IHaveNoTV (Removed in 385c777 , PR #_6580 : Fix wiki typos, broken link, and duplicate listing (#_6580))",
+                            "full_text": "TR Anime İzle - Anime / Region Locked (Removed in f1d34d6 )",
                             "links": [
                                 {
-                                    "name": "385c777",
-                                    "url": "https://github.com/fmhy/edit/commit/385c7774526dd239a24f2da9a6332633cb4a0b84#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL16"
-                                },
+                                    "name": "f1d34d6",
+                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1662"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "receive-sms-online - Requires Sign-Up (Removed in f1d34d6 )",
+                            "links": [
                                 {
-                                    "name": "PR #_6580",
-                                    "url": "https://github.com/fmhy/edit/pull/6580"
+                                    "name": "f1d34d6",
+                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L367"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zen - Local Saves (Removed in f1d34d6 )",
+                            "links": [
+                                {
+                                    "name": "f1d34d6",
+                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-22677cf783b082896ee54428761a2137c7e8e2b6385dee44f986c2f72194e222L284"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniDB (.app) - Sub / Dub (Removed in f1d34d6 )",
+                            "links": [
+                                {
+                                    "name": "f1d34d6",
+                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL380"
                                 }
                             ]
                         },
@@ -235278,10 +235428,10 @@
                             ]
                         },
                         {
-                            "full_text": "OpenXNG",
+                            "full_text": "OpnXNG",
                             "links": [
                                 {
-                                    "name": "OpenXNG",
+                                    "name": "OpnXNG",
                                     "url": "https://opnxng.com/"
                                 }
                             ]
@@ -235382,15 +235532,15 @@
                     "heading": "SMS Verification Sites",
                     "level": "h2",
                     "text_explanations": [
-                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,7sim,yunjiema,yunduanxin,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠TempBoxPro,gettempnumber,ZUSMS,PVAcodes,Anosim,⁠Receive SMS,⁠Online Sim"
+                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,7sim,yunjiema,yunduanxin,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠TempBoxPro,ZUSMS,PVAcodes,Anosim,⁠Receive SMS,⁠Online Sim"
                     ],
                     "resource_items": [
                         {
-                            "full_text": "receive-sms-online - Requires Sign-Up",
+                            "full_text": "gettempnumber",
                             "links": [
                                 {
-                                    "name": "receive-sms-online",
-                                    "url": "https://www.receive-sms-online.info/"
+                                    "name": "gettempnumber",
+                                    "url": "https://gettempnumber.com/"
                                 }
                             ]
                         },
