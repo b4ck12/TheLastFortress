@@ -1967,6 +1967,7 @@
           "link": "https://animetvplus.xyz/",
           "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
           "tags": [
+            "Self-host",
             "Scraper",
             "Soft-sub",
             "Hard-sub",
@@ -2039,7 +2040,6 @@
           "details": {
             "positives": [
               "Large library",
-              "Self-hosted server",
               "Modern interface"
             ],
             "negatives": [
@@ -2743,6 +2743,10 @@
               {
                 "name": "animetsu.site",
                 "url": "https://animetsu.site/"
+              },
+              {
+                "name": "animesaga.net",
+                "url": "https://animesaga.net/"
               }
             ],
             "info": "note: each made by different people, uses third party embed.",
@@ -39891,6 +39895,7 @@
       "link": "https://animetvplus.xyz/",
       "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
       "tags": [
+        "Self-host",
         "Scraper",
         "Soft-sub",
         "Hard-sub",
@@ -39963,7 +39968,6 @@
       "details": {
         "positives": [
           "Large library",
-          "Self-hosted server",
           "Modern interface"
         ],
         "negatives": [
@@ -40667,6 +40671,10 @@
           {
             "name": "animetsu.site",
             "url": "https://animetsu.site/"
+          },
+          {
+            "name": "animesaga.net",
+            "url": "https://animesaga.net/"
           }
         ],
         "info": "note: each made by different people, uses third party embed.",
