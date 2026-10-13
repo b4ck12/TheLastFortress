@@ -6928,7 +6928,7 @@
                                 },
                                 {
                                     "name": "Android",
-                                    "url": "https://docs.sillytavern.app/installation/android-(termux)/"
+                                    "url": "https://docs.sillytavern.app/installation/android-(termux)"
                                 },
                                 {
                                     "name": "",
@@ -10856,6 +10856,31 @@
                             ]
                         },
                         {
+                            "full_text": "ArrowTV , 2 or Cinezo , 2 - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "ArrowTV",
+                                    "url": "https://arrowtv.net/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://neonflix.st/"
+                                },
+                                {
+                                    "name": "Cinezo",
+                                    "url": "https://www.cinezo.st/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://www.flikhub.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/yWWKfMbtm3"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Vivarium - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -10869,11 +10894,15 @@
                             ]
                         },
                         {
-                            "full_text": "MeowTV - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "MeowTV or FlickyStream - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "MeowTV",
                                     "url": "https://meowtv.ru/"
+                                },
+                                {
+                                    "name": "FlickyStream",
+                                    "url": "https://flickystream.mov/"
                                 },
                                 {
                                     "name": "",
@@ -10904,31 +10933,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/qn3xdYS69"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ArrowTV , 2 or Cinezo , 2 - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "ArrowTV",
-                                    "url": "https://arrowtv.net/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://neonflix.st/"
-                                },
-                                {
-                                    "name": "Cinezo",
-                                    "url": "https://www.cinezo.st/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://www.flikhub.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/yWWKfMbtm3"
                                 }
                             ]
                         },
@@ -11087,7 +11091,7 @@
                             ]
                         },
                         {
-                            "full_text": "Cinex or Cinemove or - Movies / TV / Anime / Auto-Next / 4K",
+                            "full_text": "Cinex or Cinemove - Movies / TV / Anime / Auto-Next / 4K",
                             "links": [
                                 {
                                     "name": "Cinex",
@@ -11254,15 +11258,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/Moonflix_official_Channel"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Toflix - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Toflix",
-                                    "url": "https://toflix.co/"
                                 }
                             ]
                         },
@@ -11895,7 +11890,7 @@
                             "links": [
                                 {
                                     "name": "PressPlay",
-                                    "url": "https://pressplayz.to/"
+                                    "url": "https://pressplayx.to/"
                                 },
                                 {
                                     "name": "",
@@ -12428,6 +12423,15 @@
                                 {
                                     "name": "CineStream",
                                     "url": "https://cinestream.kje.us/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Toflix - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Toflix",
+                                    "url": "https://toflix.co/"
                                 }
                             ]
                         },
@@ -13093,6 +13097,15 @@
                                 {
                                     "name": "VaughnLive",
                                     "url": "https://vaughn.live/browse/misc"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Toonami Aftermath - Toonami Livestream / Chat",
+                            "links": [
+                                {
+                                    "name": "⁠Toonami Aftermath",
+                                    "url": "https://www.toonamiaftermath.com/"
                                 }
                             ]
                         },
@@ -14197,7 +14210,7 @@
                             ]
                         },
                         {
-                            "full_text": "Miruro , 2 , 3 , 4 , 5 , 6 - Hard Subs / Soft Subs / Dub / Auto-Next / Status /",
+                            "full_text": "Miruro , 2 , 3 , 4 , 5 , 6 or AniVault - Hard Subs / Soft Subs / Dub / Auto-Next / Status /",
                             "links": [
                                 {
                                     "name": "Miruro",
@@ -14222,6 +14235,10 @@
                                 {
                                     "name": "6",
                                     "url": "https://barelystarted.miruro.tv/"
+                                },
+                                {
+                                    "name": "AniVault",
+                                    "url": "https://anivault.tv/"
                                 },
                                 {
                                     "name": "Status",
@@ -14369,11 +14386,15 @@
                             ]
                         },
                         {
-                            "full_text": "Anidap - Sub / Dub / Auto-Next",
+                            "full_text": "Anidap - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
                                     "name": "Anidap",
                                     "url": "https://anidap.lol/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/CGZEvjx53u"
                                 }
                             ]
                         },
@@ -14673,6 +14694,15 @@
                             ]
                         },
                         {
+                            "full_text": "KuroAnime - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "KuroAnime",
+                                    "url": "https://kuroanime.lol/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Enma - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
@@ -14739,28 +14769,6 @@
                             ]
                         },
                         {
-                            "full_text": "Yenime - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "Yenime",
-                                    "url": "https://yenime.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/yPxFt6tFRw"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimeNoSub - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "AnimeNoSub",
-                                    "url": "https://animenosub.to/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠bAnime - Sub / Dub / Auto-Next / Status /",
                             "links": [
                                 {
@@ -14800,28 +14808,6 @@
                                 {
                                     "name": "sakusaku",
                                     "url": "https://sakusaku.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Babyanime - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "Babyanime",
-                                    "url": "https://babyanime.top/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠AniClipse - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠AniClipse",
-                                    "url": "https://aniclipse.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/zvD8xDhqzu"
                                 }
                             ]
                         },
@@ -34799,7 +34785,7 @@
                             ]
                         },
                         {
-                            "full_text": "whdload - Amiga Games",
+                            "full_text": "whdload - Amiga Games6",
                             "links": [
                                 {
                                     "name": "whdload",
@@ -39437,6 +39423,19 @@
                                 {
                                     "name": "⁠Bomb Party Local",
                                     "url": "https://cyfam.github.io/bombpartylocal/game"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Quackle - Scrabble AI, Game Analysis & Strategy Trainer / /",
+                            "links": [
+                                {
+                                    "name": "Quackle",
+                                    "url": "https://www.quackle.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/quackle/quackle"
                                 }
                             ]
                         }
@@ -59966,15 +59965,11 @@
                             ]
                         },
                         {
-                            "full_text": "Falstad , ⁠Fritzing (linux), SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
+                            "full_text": "Falstad , SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
                             "links": [
                                 {
                                     "name": "Falstad",
                                     "url": "https://www.falstad.com/circuit/"
-                                },
-                                {
-                                    "name": "⁠Fritzing",
-                                    "url": "https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526"
                                 },
                                 {
                                     "name": "SKiDL",
@@ -67347,6 +67342,15 @@
                                 {
                                     "name": "Chess Results",
                                     "url": "https://chess-results.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Chess Second - FIDE Player Stats, Rating Histories & Opponent Scouting",
+                            "links": [
+                                {
+                                    "name": "⁠Chess Second",
+                                    "url": "https://chess-second.com/"
                                 }
                             ]
                         },
@@ -74878,6 +74882,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Study Together - Study / Productivity Focused Server",
+                            "links": [
+                                {
+                                    "name": "⁠Study Together",
+                                    "url": "https://discord.gg/study"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Paper Trails or ResearchRabbit - Academic Article / Paper Trackers",
                             "links": [
                                 {
@@ -79933,11 +79946,15 @@
                             ]
                         },
                         {
-                            "full_text": "RealSR , Galaxy Enhance-X (search) or Superimage - Image Upscalers",
+                            "full_text": "RealSR , ⁠Local Dream , Galaxy Enhance-X (search) or Superimage - Image Upscalers",
                             "links": [
                                 {
                                     "name": "RealSR",
                                     "url": "https://github.com/tumuyan/RealSR-NCNN-Android"
+                                },
+                                {
+                                    "name": "⁠Local Dream",
+                                    "url": "https://play.google.com/store/apps/details?id=io.github.xororz.localdream"
                                 },
                                 {
                                     "name": "Galaxy Enhance-X",
@@ -80055,7 +80072,7 @@
                             ]
                         },
                         {
-                            "full_text": "De-Vanced - Photo / Video Gallery / Unlimited / Tools",
+                            "full_text": "De-Vanced - Photo / Video Gallery / Unlimited / Tools / **",
                             "links": [
                                 {
                                     "name": "De-Vanced",
@@ -82161,7 +82178,7 @@
                             ]
                         },
                         {
-                            "full_text": "Markor or Google Docs - Text Editors",
+                            "full_text": "Markor or Google Docs (online) - Text Editors",
                             "links": [
                                 {
                                     "name": "Markor",
@@ -82213,7 +82230,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google Sheets - Spreadsheet Editor / Reader",
+                            "full_text": "Google Sheets - Spreadsheet Editor / Reader / Online",
                             "links": [
                                 {
                                     "name": "Google Sheets",
@@ -86398,7 +86415,7 @@
                             ]
                         },
                         {
-                            "full_text": "YTDLnis / , ⁠Seal+ / , Seal , ⁠VRKA Android , SnapTube (search) or SongTube - Audio / Video Downloaders",
+                            "full_text": "YTDLnis / , ⁠Seal+ / , Seal , Hazel , ⁠VRKA Android , SnapTube (search) or SongTube - Audio / Video Downloaders",
                             "links": [
                                 {
                                     "name": "YTDLnis",
@@ -86419,6 +86436,10 @@
                                 {
                                     "name": "Seal",
                                     "url": "https://github.com/JunkFood02/Seal"
+                                },
+                                {
+                                    "name": "Hazel",
+                                    "url": "https://github.com/SibtainOcn/Hazel"
                                 },
                                 {
                                     "name": "⁠VRKA Android",
@@ -87110,7 +87131,7 @@
                             ]
                         },
                         {
-                            "full_text": "Palladium / , YT-DLP or ⁠SW-DLT - Video Downloader",
+                            "full_text": "Palladium / , YT-DLP or ⁠SW-DLT - Video Downloaders",
                             "links": [
                                 {
                                     "name": "Palladium",
@@ -87131,7 +87152,7 @@
                             ]
                         },
                         {
-                            "full_text": "Keynote or Google Slides - Make Presentations",
+                            "full_text": "Keynote or Google Slides (online) - Make Presentations",
                             "links": [
                                 {
                                     "name": "Keynote",
@@ -89124,7 +89145,7 @@
                                 },
                                 {
                                     "name": "NeoFreeBird",
-                                    "url": "https://github.com/orionblur/NeoFreeBird"
+                                    "url": "https://github.com/NeoFreeBird/app"
                                 }
                             ]
                         },
@@ -126963,6 +126984,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠WebBrowserTools - Code / Text / Image",
+                            "links": [
+                                {
+                                    "name": "⁠WebBrowserTools",
+                                    "url": "https://webbrowsertools.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "IPVoid - Text / IP",
                             "links": [
                                 {
@@ -143226,19 +143256,6 @@
                             ]
                         },
                         {
-                            "full_text": "Presearch /",
-                            "links": [
-                                {
-                                    "name": "Presearch",
-                                    "url": "https://presearch.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/presearchofficial"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Bing",
                             "links": [
                                 {
@@ -153677,7 +153694,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "YouTube Video Finder - Multi-Site Archive Search / Try Refreshing or Re-searching /",
+                            "full_text": "YouTube Video Finder / or ⁠Archivarix - Multi-Archive Search Engines",
                             "links": [
                                 {
                                     "name": "YouTube Video Finder",
@@ -153686,6 +153703,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/TheTechRobo/youtubevideofinder/"
+                                },
+                                {
+                                    "name": "⁠Archivarix",
+                                    "url": "https://archivarix.net/"
                                 }
                             ]
                         },
@@ -183479,6 +183500,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠CryptFiles - Unlimited / Forever",
+                            "links": [
+                                {
+                                    "name": "⁠CryptFiles",
+                                    "url": "https://cryptfiles.cloud/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Vidmoly - 15TB / 1 Year",
                             "links": [
                                 {
@@ -200798,15 +200828,11 @@
                             ]
                         },
                         {
-                            "full_text": "Falstad , ⁠Fritzing (linux), SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
+                            "full_text": "Falstad , SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
                             "links": [
                                 {
                                     "name": "Falstad",
                                     "url": "https://www.falstad.com/circuit/"
-                                },
-                                {
-                                    "name": "⁠Fritzing",
-                                    "url": "https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526"
                                 },
                                 {
                                     "name": "SKiDL",
@@ -208179,6 +208205,15 @@
                                 {
                                     "name": "Chess Results",
                                     "url": "https://chess-results.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Chess Second - FIDE Player Stats, Rating Histories & Opponent Scouting",
+                            "links": [
+                                {
+                                    "name": "⁠Chess Second",
+                                    "url": "https://chess-second.com/"
                                 }
                             ]
                         },
@@ -215710,6 +215745,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Study Together - Study / Productivity Focused Server",
+                            "links": [
+                                {
+                                    "name": "⁠Study Together",
+                                    "url": "https://discord.gg/study"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Paper Trails or ResearchRabbit - Academic Article / Paper Trackers",
                             "links": [
                                 {
@@ -218399,7 +218443,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠git.gay , GitHub.com , ⁠Tangled / , GitLab , Radicle , ⁠Upd.dev , Codeberg / Matrix , git.sr.ht , GitGud or Notabug - Git Hosting Services",
+                            "full_text": "⁠git.gay , GitHub.com , ⁠CodeFloe , ⁠Tangled / , GitLab , Radicle , ⁠Upd.dev , Codeberg / Matrix , git.sr.ht , GitGud or Notabug - Git Hosting Services",
                             "links": [
                                 {
                                     "name": "⁠git.gay",
@@ -218408,6 +218452,10 @@
                                 {
                                     "name": "GitHub.com",
                                     "url": "https://github.com/"
+                                },
+                                {
+                                    "name": "⁠CodeFloe",
+                                    "url": "https://codefloe.com/"
                                 },
                                 {
                                     "name": "⁠Tangled",
@@ -229267,6 +229315,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "AnimeNoSub - Sub / Dub (Removed in d27805d )",
+                            "links": [
+                                {
+                                    "name": "d27805d",
+                                    "url": "https://github.com/fmhy/edit/commit/d27805d878cf1a0ba6c9d2b9acecf1ea8c4a855c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL394"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Babyanime - Sub / Dub (Removed in d27805d )",
+                            "links": [
+                                {
+                                    "name": "d27805d",
+                                    "url": "https://github.com/fmhy/edit/commit/d27805d878cf1a0ba6c9d2b9acecf1ea8c4a855c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL398"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cursos En Mega - Courses (Removed in e3d18d2 )",
                             "links": [
                                 {
@@ -232790,249 +232856,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/b9e88ed5f03564031de82438a787b9569b2d086e#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L142"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Documentary Network (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL20"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "National Geographic (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL24"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "WatchDocumentaries (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL29"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Educational Hub - Courses (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL46"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Alison - Courses (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL48"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CommSpeeches - Famous Graduation Speeches (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL62"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Wakelet - Learning Resources (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL84"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Ted Talks - Inspiring and Educational Talks (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL97"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HowStuffWorks - Learn How Things Work (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL109"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Quantum Web Directory - Science / Tech / Math / Physics (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL170"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Flying With Gauss - GoldSrc Game Ports for Android + Other Platforms (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL201"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GradientArt or TailBlend - Gradient Editor (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL16"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Canvas - Turn Simple Art into Photorealistic Landscapes (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL17"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PicFont - Add Text to Images (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL19"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "iPiccy - Full-Featured (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL47"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Stet - Full-Featured (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL48"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tom's Editor - Multi-Tool (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL51"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ILoveImg - Simple Editor (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL54"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Online Photo Editor - Simple Editor (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL56"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Picverse - Simple Editor (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL57"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠ImageToCartoon - Turn Images into Cartoons (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL113"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SmoothDraw - Painting App / Windows (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL144"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SumoPaint - Browser Painting / Web (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL149"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "VectorPaint - Vector Editor / Painting / Web (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL154"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Symbol.so (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-22677cf783b082896ee54428761a2137c7e8e2b6385dee44f986c2f72194e222L167"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DULO - Movies / TV / Anime / Auto-Next (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL71"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FZMovies - Movies (Removed in 472488d )",
-                            "links": [
-                                {
-                                    "name": "472488d",
-                                    "url": "https://github.com/fmhy/edit/commit/472488d8f0486fb8a300f8212f81cddce726b48a#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL843"
-                                }
-                            ]
                         }
                     ]
                 }
@@ -233677,6 +233500,15 @@
                                 {
                                     "name": "DNS for Family",
                                     "url": "https://dnsforfamily.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNS Forge",
+                            "links": [
+                                {
+                                    "name": "DNS Forge",
+                                    "url": "https://dnsforge.de/"
                                 }
                             ]
                         },
