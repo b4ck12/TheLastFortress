@@ -1078,7 +1078,7 @@
                             ]
                         },
                         {
-                            "full_text": "Popup Blocker (strict) , Popupblocker All / 2 , PopupBlocker (userscript) or PopUpOFF - Popup Blockers /",
+                            "full_text": "Popup Blocker (strict) , Popupblocker All / 2 or PopupBlocker (userscript) - Popup Blockers /",
                             "links": [
                                 {
                                     "name": "Popup Blocker (strict)",
@@ -1095,10 +1095,6 @@
                                 {
                                     "name": "PopupBlocker",
                                     "url": "https://github.com/AdguardTeam/PopupBlocker"
-                                },
-                                {
-                                    "name": "PopUpOFF",
-                                    "url": "https://popupoff.org/"
                                 }
                             ]
                         },
@@ -1313,7 +1309,7 @@
                             ]
                         },
                         {
-                            "full_text": "DNS Speed Test / , DNS Perf or NameBench - DNS Speed Tests",
+                            "full_text": "DNS Speed Test / or DNS Perf - DNS Speed Tests",
                             "links": [
                                 {
                                     "name": "DNS Speed Test",
@@ -1326,19 +1322,6 @@
                                 {
                                     "name": "DNS Perf",
                                     "url": "https://dnsperf.com/dns-speed-benchmark"
-                                },
-                                {
-                                    "name": "NameBench",
-                                    "url": "https://code.google.com/archive/p/namebench/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "YogaDNS - Custom DNS Client for Windows",
-                            "links": [
-                                {
-                                    "name": "YogaDNS",
-                                    "url": "https://yogadns.com/"
                                 }
                             ]
                         },
@@ -1480,6 +1463,15 @@
                                 {
                                     "name": "",
                                     "url": "https://codeberg.org/tblock/tblock"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "YogaDNS - Custom DNS Client for Windows",
+                            "links": [
+                                {
+                                    "name": "YogaDNS",
+                                    "url": "https://yogadns.com/"
                                 }
                             ]
                         },
@@ -6619,27 +6611,6 @@
                             ]
                         },
                         {
-                            "full_text": "Gemini Notebook - Document Chatbot / Note-Taking / Slides / Anki Export / /",
-                            "links": [
-                                {
-                                    "name": "Gemini Notebook",
-                                    "url": "https://notebooklm.google.com/"
-                                },
-                                {
-                                    "name": "Anki Export",
-                                    "url": "https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/notebooklm/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/Az2N7BwV7r"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Google AI Mode - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)",
                             "links": [
                                 {
@@ -6823,6 +6794,27 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/elicit"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Gemini Notebook - Document Chatbot / Note-Taking / Slides / Anki Export / /",
+                            "links": [
+                                {
+                                    "name": "Gemini Notebook",
+                                    "url": "https://notebooklm.google.com/"
+                                },
+                                {
+                                    "name": "Anki Export",
+                                    "url": "https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/notebooklm/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Az2N7BwV7r"
                                 }
                             ]
                         },
@@ -7908,15 +7900,6 @@
                             ]
                         },
                         {
-                            "full_text": "Dreamina / Seedance 2.0 (Mini, Fast) / Cost Varies / 120 Credits Daily",
-                            "links": [
-                                {
-                                    "name": "Dreamina",
-                                    "url": "https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Klipy - Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up",
                             "links": [
                                 {
@@ -8075,15 +8058,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/gemini"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Dreamina - GPT Image 2 / Seedream 5.0 Pro / Nano Banana / 120 Credits Daily / Cost Varies / Sign-Up",
-                            "links": [
-                                {
-                                    "name": "Dreamina",
-                                    "url": "https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0"
                                 }
                             ]
                         },
@@ -8361,27 +8335,6 @@
                             ]
                         },
                         {
-                            "full_text": "Arena , 2 - Multiple Generators / Editing / 15 Daily / Sign-Up / /",
-                            "links": [
-                                {
-                                    "name": "Arena",
-                                    "url": "https://arena.ai/image/direct"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://canaryarena.ai/image/direct"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/arena"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/lmarena"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Mage / , ⁠Tater AI , Loras / / , AI Gallery / , or Art Genie - Flux Schnell",
                             "links": [
                                 {
@@ -8428,6 +8381,27 @@
                                 {
                                     "name": "⁠Coze",
                                     "url": "https://space.coze.cn/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Arena , 2 - Multiple Generators / Editing / 15 Daily / Sign-Up / /",
+                            "links": [
+                                {
+                                    "name": "Arena",
+                                    "url": "https://arena.ai/image/direct"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://canaryarena.ai/image/direct"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/arena"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/lmarena"
                                 }
                             ]
                         },
@@ -10997,19 +10971,6 @@
                             ]
                         },
                         {
-                            "full_text": "Chillflix - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Chillflix",
-                                    "url": "https://chillflix.lol/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6r5KTZgqXV"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "moanatv. - Movies / TV / Anime / Auto-Next / 4K /",
                             "links": [
                                 {
@@ -11091,24 +11052,11 @@
                             ]
                         },
                         {
-                            "full_text": "Cinex or Cinemove - Movies / TV / Anime / Auto-Next / 4K",
+                            "full_text": "Cinemove - Movies / TV / Anime / Auto-Next / 4K",
                             "links": [
-                                {
-                                    "name": "Cinex",
-                                    "url": "https://cinex.lol/"
-                                },
                                 {
                                     "name": "Cinemove",
                                     "url": "https://cinemove.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vuflix - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Vuflix",
-                                    "url": "https://vuflix.co/"
                                 }
                             ]
                         },
@@ -11210,6 +11158,15 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/multichannelofficial"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ThugTV - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "ThugTV",
+                                    "url": "https://thugtv.online/"
                                 }
                             ]
                         },
@@ -11441,15 +11398,6 @@
                             ]
                         },
                         {
-                            "full_text": "ThugTV - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "ThugTV",
-                                    "url": "https://thugtv.online/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "VaultPlayer - Movies / TV / Auto-Next",
                             "links": [
                                 {
@@ -11624,6 +11572,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/vPCHZ6PgRX"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "All About Movies - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "All About Movies",
+                                    "url": "https://allaboutmovies.xyz/"
                                 }
                             ]
                         },
@@ -12196,7 +12153,7 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "1Shows , 1Flex or 1Tube - Movies / TV / Anime / Auto-Next / /",
+                            "full_text": "1Shows , 1Flex or 1Tube - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "1Shows",
@@ -12209,10 +12166,6 @@
                                 {
                                     "name": "1Tube",
                                     "url": "https://www.1tube.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/the-one"
                                 }
                             ]
                         },
@@ -12427,15 +12380,6 @@
                             ]
                         },
                         {
-                            "full_text": "Toflix - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Toflix",
-                                    "url": "https://toflix.co/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Youflex - Movies / TV / Anime",
                             "links": [
                                 {
@@ -12598,15 +12542,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://flixvo.fun/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "All About Movies - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "All About Movies",
-                                    "url": "https://allaboutmovies.xyz/"
                                 }
                             ]
                         },
@@ -13029,6 +12964,19 @@
                         "The following stream or allow users to stream random movies or shows, and generally include chatrooms."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "MST3K FOREVER-a-thon or MST3K Twitch - Mystery Science Theater 3000 Live Streams / Chat",
+                            "links": [
+                                {
+                                    "name": "MST3K FOREVER-a-thon",
+                                    "url": "https://www.youtube.com/@MST3K/streams"
+                                },
+                                {
+                                    "name": "MST3K Twitch",
+                                    "url": "https://www.twitch.tv/mst3k"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "RiffTrax Twitch or RiffTrax Pluto - RiffTrax Live Streams / Chat",
                             "links": [
@@ -13683,7 +13631,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Streaming App / Use PlayTorrioHTTP Plugin / / / /",
+                            "full_text": "PlayTorrio , 2 - Streaming App / Use PlayTorrioHTTP Plugin / / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -13700,10 +13648,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -14821,33 +14765,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Luna - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠Luna",
-                                    "url": "https://luna-stream.me/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Zenbu - Sub / Dub",
                             "links": [
                                 {
                                     "name": "⁠Zenbu",
                                     "url": "https://zen-bu.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniNami - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "AniNami",
-                                    "url": "https://aninami.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/J2V2skvMBk"
                                 }
                             ]
                         },
@@ -18837,7 +18759,7 @@
                             "links": [
                                 {
                                     "name": "VegaMovies",
-                                    "url": "https://vegamovies.market/"
+                                    "url": "https://1vegamovies.baby/"
                                 },
                                 {
                                     "name": "",
@@ -18998,7 +18920,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Multi-Site Downloader / Movies / TV / Anime / / /",
+                            "full_text": "PlayTorrio , 2 - Multi-Site Downloader / Movies / TV / Anime / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -19015,10 +18937,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -19032,15 +18950,11 @@
                             ]
                         },
                         {
-                            "full_text": "1Shows - Movies / TV / Anime /",
+                            "full_text": "1Shows - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "1Shows",
                                     "url": "http://1shows.bz"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/the-one"
                                 }
                             ]
                         },
@@ -20110,7 +20024,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Torrent Streaming App / Stremio Addon Support / / /",
+                            "full_text": "PlayTorrio , 2 - Torrent Streaming App / Stremio Addon Support / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -20127,10 +20041,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -23164,6 +23074,23 @@
                             ]
                         },
                         {
+                            "full_text": "Sonora - YouTube Music Client / /",
+                            "links": [
+                                {
+                                    "name": "Sonora",
+                                    "url": "https://sonorahq.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/a8N8Tx23rV"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/nolight132/sonora"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "WAVE - YouTube Music Client / FLAC /",
                             "links": [
                                 {
@@ -23186,23 +23113,6 @@
                                 {
                                     "name": "Ad-Block Guide",
                                     "url": "https://github.com/pear-devs/pear-desktop/issues/4531"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Sonora - YouTube Music Client / /",
-                            "links": [
-                                {
-                                    "name": "Sonora",
-                                    "url": "https://sonorahq.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/a8N8Tx23rV"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/nolight132/sonora"
                                 }
                             ]
                         },
@@ -26550,15 +26460,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Popify - Spotify / FLAC / AAC / OGG / MP3",
-                            "links": [
-                                {
-                                    "name": "⁠Popify",
-                                    "url": "https://popify.cc/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Jumo-DL - Qobuz / FLAC / MP3",
                             "links": [
                                 {
@@ -26598,7 +26499,7 @@
                             "links": [
                                 {
                                     "name": "TIDAL DL",
-                                    "url": "https://tidal-dl.pages.dev/"
+                                    "url": "https://tidal.odskyler.com/"
                                 },
                                 {
                                     "name": "",
@@ -31136,6 +31037,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠SongFinder /",
+                            "links": [
+                                {
+                                    "name": "⁠SongFinder",
+                                    "url": "https://songfinder.tech/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠SongFinder (gg) /",
                             "links": [
                                 {
@@ -32439,11 +32349,15 @@
                             ]
                         },
                         {
-                            "full_text": "Drumhaus , iO-808 , Sequencer64 , Drummy , DrumBit , Roland50.studio , Acid Machine 2 , orDrumbox or Hydrogen - Virtual Drum Machines",
+                            "full_text": "Drumhaus , ⁠10K Drum Machines , iO-808 , Sequencer64 , Drummy , DrumBit , Roland50.studio , Acid Machine 2 , orDrumbox or Hydrogen - Virtual Drum Machines",
                             "links": [
                                 {
                                     "name": "Drumhaus",
                                     "url": "https://www.drumha.us/"
+                                },
+                                {
+                                    "name": "⁠10K Drum Machines",
+                                    "url": "https://10kdrummachines.com/"
                                 },
                                 {
                                     "name": "iO-808",
@@ -36987,19 +36901,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠EpicROMs - ROMs /",
-                            "links": [
-                                {
-                                    "name": "⁠EpicROMs",
-                                    "url": "https://epicroms.net/roms/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/EpicRoms/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Arquivista ROMs - ROMs",
                             "links": [
                                 {
@@ -37200,6 +37101,19 @@
                                 {
                                     "name": "FantasyAnime",
                                     "url": "https://fantasyanime.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠EpicROMs - ROMs / Use Adblock /",
+                            "links": [
+                                {
+                                    "name": "⁠EpicROMs",
+                                    "url": "https://epicroms.net/roms/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/EpicRoms/"
                                 }
                             ]
                         },
@@ -39499,7 +39413,7 @@
                             ]
                         },
                         {
-                            "full_text": "Roll20 / or Rolisteam / - Online Virtual Tabletop Platforms",
+                            "full_text": "Roll20 / , ⁠Cockatrice / / or Rolisteam / - Online Virtual Tabletop Platforms",
                             "links": [
                                 {
                                     "name": "Roll20",
@@ -39508,6 +39422,18 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/roll20"
+                                },
+                                {
+                                    "name": "⁠Cockatrice",
+                                    "url": "https://cockatrice.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3Z9yzmA"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Cockatrice/Cockatrice"
                                 },
                                 {
                                     "name": "Rolisteam",
@@ -42712,6 +42638,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Surfd - CS:Source-Style Surfing /",
+                            "links": [
+                                {
+                                    "name": "⁠Surfd",
+                                    "url": "https://surfd.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/D5CYH7SBs6"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Free Rider HD - Draw / Race Bike Tracks",
                             "links": [
                                 {
@@ -42825,15 +42764,6 @@
                                 {
                                     "name": "Slope Plus",
                                     "url": "https://coweggs.itch.io/slope-plus"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Simpsons: Hit & Run Web - Browser Simpsons: Hit & Run",
-                            "links": [
-                                {
-                                    "name": "Simpsons: Hit & Run Web",
-                                    "url": "https://rentry.co/FMHYB64#tshr"
                                 }
                             ]
                         },
@@ -46043,7 +45973,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Ebook Reader / / / /",
+                            "full_text": "PlayTorrio , 2 - Ebook Reader / / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -46060,10 +45990,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -48171,7 +48097,7 @@
                             ]
                         },
                         {
-                            "full_text": "audiobook-dl or PlayTorrio , 2 / / / - Audiobook Download Apps",
+                            "full_text": "audiobook-dl or PlayTorrio , 2 / / - Audiobook Download Apps",
                             "links": [
                                 {
                                     "name": "audiobook-dl",
@@ -48192,10 +48118,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         }
@@ -48321,7 +48243,7 @@
                             ]
                         },
                         {
-                            "full_text": "WAVE / or PlayTorrio , 2 / / / - Audiobook Apps /",
+                            "full_text": "WAVE / or PlayTorrio , 2 / / - Audiobook Apps /",
                             "links": [
                                 {
                                     "name": "WAVE",
@@ -48346,10 +48268,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -49427,7 +49345,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Manga App / / / /",
+                            "full_text": "PlayTorrio , 2 - Manga App / / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -49444,10 +49362,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -61078,11 +60992,15 @@
                             ]
                         },
                         {
-                            "full_text": "AnatomyLearning or BioDigital - 3D Human Anatomical Models",
+                            "full_text": "AnatomyLearning , ⁠Clara Atlas or BioDigital - 3D Human Anatomical Models",
                             "links": [
                                 {
                                     "name": "AnatomyLearning",
                                     "url": "https://anatomylearning.com/"
+                                },
+                                {
+                                    "name": "⁠Clara Atlas",
+                                    "url": "https://claraseg.com/"
                                 },
                                 {
                                     "name": "BioDigital",
@@ -61203,6 +61121,15 @@
                                 {
                                     "name": "EMRap",
                                     "url": "https://www.emrap.org/hd"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Lifesaver - Interactive CPR / First Aid Training Videos",
+                            "links": [
+                                {
+                                    "name": "⁠Lifesaver",
+                                    "url": "https://lifesaver.org.uk/"
                                 }
                             ]
                         },
@@ -68348,6 +68275,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Thai-Language - Thai Learning Resources / Dictionary",
+                            "links": [
+                                {
+                                    "name": "⁠Thai-Language",
+                                    "url": "http://www.thai-language.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Tōku Reo - Māori Language Learning Show /",
                             "links": [
                                 {
@@ -70234,6 +70170,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Iltyem-iltyem - Australian Indigenous Sign Language Learning",
+                            "links": [
+                                {
+                                    "name": "⁠Iltyem-iltyem",
+                                    "url": "https://www.iltyemiltyem.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Learn NZSL - NZSL Learning Site",
                             "links": [
                                 {
@@ -70243,11 +70188,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Iltyem-iltyem - Australian Indigenous Sign Language Learning",
+                            "full_text": "⁠RealSASL - South African Sign Language Dictionary",
                             "links": [
                                 {
-                                    "name": "⁠Iltyem-iltyem",
-                                    "url": "https://www.iltyemiltyem.com/"
+                                    "name": "⁠RealSASL",
+                                    "url": "https://www.realsasl.com/"
                                 }
                             ]
                         },
@@ -80072,7 +80017,7 @@
                             ]
                         },
                         {
-                            "full_text": "De-Vanced - Photo / Video Gallery / Unlimited / Tools / **",
+                            "full_text": "De-Vanced - Photo / Video Gallery / Unlimited / Tools /",
                             "links": [
                                 {
                                     "name": "De-Vanced",
@@ -80430,11 +80375,15 @@
                             ]
                         },
                         {
-                            "full_text": "AudioNote or ⁠Fossify Voice Recorder - Video / Voice Recorders",
+                            "full_text": "AudioNote , ⁠AudioRecorder or ⁠Fossify Voice Recorder - Audio / Voice Recorders",
                             "links": [
                                 {
                                     "name": "AudioNote",
                                     "url": "https://certified84.github.io/AudioNote/"
+                                },
+                                {
+                                    "name": "⁠AudioRecorder",
+                                    "url": "https://github.com/Dimowner/AudioRecorder"
                                 },
                                 {
                                     "name": "⁠Fossify Voice Recorder",
@@ -85510,7 +85459,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Movies / TV / Anime / / /",
+                            "full_text": "PlayTorrio , 2 - Movies / TV / Anime / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -85527,10 +85476,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -86243,7 +86188,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - TV / Sports / / /",
+                            "full_text": "PlayTorrio , 2 - TV / Sports / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -86260,10 +86205,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -86840,6 +86781,19 @@
                                 {
                                     "name": "Compatibility",
                                     "url": "https://appdb.touchhle.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Madeira - Run x86-64 PC Games on iOS / Jailbreak Required /",
+                            "links": [
+                                {
+                                    "name": "⁠Madeira",
+                                    "url": "https://github.com/willfaust/Madeira"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/4t5mNjwCn7"
                                 }
                             ]
                         },
@@ -89859,7 +89813,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Movies / TV / Anime / / /",
+                            "full_text": "PlayTorrio , 2 - Movies / TV / Anime / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -89876,10 +89830,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         },
@@ -95225,7 +95175,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Waydroid - Containerized Android on Linux / Scripts / Magisk Installer /",
+                            "full_text": "Waydroid - Containerized Android on Linux / Scripts / Magisk Installer / WayDroid-ATV Images /",
                             "links": [
                                 {
                                     "name": "Waydroid",
@@ -95238,6 +95188,10 @@
                                 {
                                     "name": "Magisk Installer",
                                     "url": "https://github.com/mistrmochov/WaydroidSU"
+                                },
+                                {
+                                    "name": "WayDroid-ATV Images",
+                                    "url": "https://github.com/WayDroid-ATV/waydroid-builds"
                                 },
                                 {
                                     "name": "",
@@ -99012,6 +98966,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠RemoveMacAI - Script to turn off Apple Intelligence",
+                            "links": [
+                                {
+                                    "name": "⁠RemoveMacAI",
+                                    "url": "https://github.com/omlahore/RemoveMacAI"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Magic Trace - Performance Analysis with Intel PT",
                             "links": [
                                 {
@@ -99668,6 +99631,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Anime4up - Anime",
+                            "links": [
+                                {
+                                    "name": "⁠Anime4up",
+                                    "url": "https://anime4up.rest/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Anime Slayer - Anime / 1080p / Android App /",
                             "links": [
                                 {
@@ -99734,7 +99706,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - All Platforms / Anime / Live TV / Use PlayTorrioHTTP Plugin / / /",
+                            "full_text": "PlayTorrio , 2 - All Platforms / Anime / Live TV / Use PlayTorrioHTTP Plugin / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -99751,10 +99723,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV3"
                                 }
                             ]
                         }
@@ -104588,7 +104556,7 @@
                             "links": [
                                 {
                                     "name": "VegaMovies",
-                                    "url": "https://vegamovies.market/"
+                                    "url": "https://1vegamovies.baby/"
                                 },
                                 {
                                     "name": "",
@@ -104690,6 +104658,15 @@
                                 {
                                     "name": "TheMoviesBoss",
                                     "url": "https://themoviesboss.fans/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠4KHDHub - Movies / TV / 4K",
+                            "links": [
+                                {
+                                    "name": "⁠4KHDHub",
+                                    "url": "https://4khdhub.one/"
                                 }
                             ]
                         },
@@ -112304,6 +112281,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Marmota - Comics",
+                            "links": [
+                                {
+                                    "name": "⁠Marmota",
+                                    "url": "https://marmota.me/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MegaComicsTV3 - Comics",
                             "links": [
                                 {
@@ -113282,9 +113268,7 @@
                 {
                     "heading": "Streaming / Phát trực tuyến",
                     "level": "h3",
-                    "text_explanations": [
-                        "unofficial Ho Chi Minh City University of Technology course index"
-                    ],
+                    "text_explanations": [],
                     "resource_items": [
                         {
                             "full_text": "⁠Tram Phim - Movies / TV / Anime / Sub / Dub / 1080p / 4K /",
@@ -117652,6 +117636,15 @@
                                 {
                                     "name": "⁠METAR-TAF",
                                     "url": "https://metar-taf.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Delay Compensation - Flight Delay & Refund Compensation Calculator",
+                            "links": [
+                                {
+                                    "name": "Delay Compensation",
+                                    "url": "https://www.shenouda.nl/airline/"
                                 }
                             ]
                         },
@@ -136158,15 +136151,6 @@
                             ]
                         },
                         {
-                            "full_text": "Wallpaper Abyss - Search Wallpapers",
-                            "links": [
-                                {
-                                    "name": "Wallpaper Abyss",
-                                    "url": "https://wall.alphacoders.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠WallWidgy / , Simple Desktops or Minimalistic Wallpaper - Minimalist Wallpapers",
                             "links": [
                                 {
@@ -136276,6 +136260,15 @@
                                 {
                                     "name": "⁠Wallpapers Clan",
                                     "url": "https://wallpapers-clan.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Wallpaper Abyss - Search Wallpapers",
+                            "links": [
+                                {
+                                    "name": "Wallpaper Abyss",
+                                    "url": "https://wall.alphacoders.com/"
                                 }
                             ]
                         },
@@ -155265,7 +155258,7 @@
                             ]
                         },
                         {
-                            "full_text": "SSSTik , myfaveTT or tiktok-to-ytdlp - TikTok Downloaders",
+                            "full_text": "SSSTik , myfaveTT , TokSave or tiktok-to-ytdlp - TikTok Downloaders",
                             "links": [
                                 {
                                     "name": "SSSTik",
@@ -155274,6 +155267,10 @@
                                 {
                                     "name": "myfaveTT",
                                     "url": "https://myfavett.com/"
+                                },
+                                {
+                                    "name": "TokSave",
+                                    "url": "https://toksave.social/"
                                 },
                                 {
                                     "name": "tiktok-to-ytdlp",
@@ -169841,7 +169838,7 @@
                             ]
                         },
                         {
-                            "full_text": "ModBay / , MCPEDL or BedrockExplorer - Bedrock Mods / Content",
+                            "full_text": "ModBay / , MCPEDL , Curseforge (Bedrock) or BedrockExplorer - Bedrock Mods / Content",
                             "links": [
                                 {
                                     "name": "ModBay",
@@ -169854,6 +169851,10 @@
                                 {
                                     "name": "MCPEDL",
                                     "url": "https://mcpedl.com/"
+                                },
+                                {
+                                    "name": "Curseforge (Bedrock)",
+                                    "url": "https://www.curseforge.com/minecraft-bedrock"
                                 },
                                 {
                                     "name": "BedrockExplorer",
@@ -188362,6 +188363,23 @@
                             ]
                         },
                         {
+                            "full_text": "Sonora - YouTube Music Client / /",
+                            "links": [
+                                {
+                                    "name": "Sonora",
+                                    "url": "https://sonorahq.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/a8N8Tx23rV"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/nolight132/sonora"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "WAVE - YouTube Music Client / FLAC /",
                             "links": [
                                 {
@@ -188384,23 +188402,6 @@
                                 {
                                     "name": "Ad-Block Guide",
                                     "url": "https://github.com/pear-devs/pear-desktop/issues/4531"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Sonora - YouTube Music Client / /",
-                            "links": [
-                                {
-                                    "name": "Sonora",
-                                    "url": "https://sonorahq.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/a8N8Tx23rV"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/nolight132/sonora"
                                 }
                             ]
                         },
@@ -191748,15 +191749,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Popify - Spotify / FLAC / AAC / OGG / MP3",
-                            "links": [
-                                {
-                                    "name": "⁠Popify",
-                                    "url": "https://popify.cc/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Jumo-DL - Qobuz / FLAC / MP3",
                             "links": [
                                 {
@@ -191796,7 +191788,7 @@
                             "links": [
                                 {
                                     "name": "TIDAL DL",
-                                    "url": "https://tidal-dl.pages.dev/"
+                                    "url": "https://tidal.odskyler.com/"
                                 },
                                 {
                                     "name": "",
@@ -196334,6 +196326,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠SongFinder /",
+                            "links": [
+                                {
+                                    "name": "⁠SongFinder",
+                                    "url": "https://songfinder.tech/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠SongFinder (gg) /",
                             "links": [
                                 {
@@ -197637,11 +197638,15 @@
                             ]
                         },
                         {
-                            "full_text": "Drumhaus , iO-808 , Sequencer64 , Drummy , DrumBit , Roland50.studio , Acid Machine 2 , orDrumbox or Hydrogen - Virtual Drum Machines",
+                            "full_text": "Drumhaus , ⁠10K Drum Machines , iO-808 , Sequencer64 , Drummy , DrumBit , Roland50.studio , Acid Machine 2 , orDrumbox or Hydrogen - Virtual Drum Machines",
                             "links": [
                                 {
                                     "name": "Drumhaus",
                                     "url": "https://www.drumha.us/"
+                                },
+                                {
+                                    "name": "⁠10K Drum Machines",
+                                    "url": "https://10kdrummachines.com/"
                                 },
                                 {
                                     "name": "iO-808",
@@ -201941,11 +201946,15 @@
                             ]
                         },
                         {
-                            "full_text": "AnatomyLearning or BioDigital - 3D Human Anatomical Models",
+                            "full_text": "AnatomyLearning , ⁠Clara Atlas or BioDigital - 3D Human Anatomical Models",
                             "links": [
                                 {
                                     "name": "AnatomyLearning",
                                     "url": "https://anatomylearning.com/"
+                                },
+                                {
+                                    "name": "⁠Clara Atlas",
+                                    "url": "https://claraseg.com/"
                                 },
                                 {
                                     "name": "BioDigital",
@@ -202066,6 +202075,15 @@
                                 {
                                     "name": "EMRap",
                                     "url": "https://www.emrap.org/hd"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Lifesaver - Interactive CPR / First Aid Training Videos",
+                            "links": [
+                                {
+                                    "name": "⁠Lifesaver",
+                                    "url": "https://lifesaver.org.uk/"
                                 }
                             ]
                         },
@@ -209211,6 +209229,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Thai-Language - Thai Learning Resources / Dictionary",
+                            "links": [
+                                {
+                                    "name": "⁠Thai-Language",
+                                    "url": "http://www.thai-language.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Tōku Reo - Māori Language Learning Show /",
                             "links": [
                                 {
@@ -211097,6 +211124,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Iltyem-iltyem - Australian Indigenous Sign Language Learning",
+                            "links": [
+                                {
+                                    "name": "⁠Iltyem-iltyem",
+                                    "url": "https://www.iltyemiltyem.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Learn NZSL - NZSL Learning Site",
                             "links": [
                                 {
@@ -211106,11 +211142,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Iltyem-iltyem - Australian Indigenous Sign Language Learning",
+                            "full_text": "⁠RealSASL - South African Sign Language Dictionary",
                             "links": [
                                 {
-                                    "name": "⁠Iltyem-iltyem",
-                                    "url": "https://www.iltyemiltyem.com/"
+                                    "name": "⁠RealSASL",
+                                    "url": "https://www.realsasl.com/"
                                 }
                             ]
                         },
@@ -229315,6 +229351,69 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Dreamina / Seedance 2.0 (Mini, Fast) / Cost Varies / 120 Credits Daily (Removed in f290343 )",
+                            "links": [
+                                {
+                                    "name": "f290343",
+                                    "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L174"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Dreamina - GPT Image 2 / Seedream 5.0 Pro / Nano Banana / 120 Credits Daily / Cost Varies / Sign-Up (Removed in f290343 )",
+                            "links": [
+                                {
+                                    "name": "f290343",
+                                    "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L191"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Popify - Spotify / FLAC / AAC / OGG / MP3 (Removed in f290343 )",
+                            "links": [
+                                {
+                                    "name": "f290343",
+                                    "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L388"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Simpsons: Hit & Run Web - Browser Simpsons: Hit & Run (Removed in f290343 )",
+                            "links": [
+                                {
+                                    "name": "f290343",
+                                    "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL967"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vuflix - Movies / TV / Anime / Auto-Next (Removed in f290343 )",
+                            "links": [
+                                {
+                                    "name": "f290343",
+                                    "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL41"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Toflix - Movies / TV / Anime (Removed in f290343 )",
+                            "links": [
+                                {
+                                    "name": "f290343",
+                                    "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL161"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Luna - Sub / Dub (Removed in f290343 )",
+                            "links": [
+                                {
+                                    "name": "f290343",
+                                    "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL399"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AnimeNoSub - Sub / Dub (Removed in d27805d )",
                             "links": [
                                 {
@@ -231735,1125 +231834,6 @@
                                 {
                                     "name": "53ef0f9",
                                     "url": "https://github.com/fmhy/edit/commit/53ef0f98769d48f8dc3e6a51e56b86d8330e2a30#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL746"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome HTML5 - HTML5 Resources (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL679"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Water.css - CSS Styles (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL700"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hover.CSS - CSS Hover Effects (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL702"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Buttons.cool - Copy CSS Buttons (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL704"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CSS3 Transform - 2D & 3D CSS Transform Functions Visualizer (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL706"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome UIKit - JS Frameworks / Web Component Index (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL716"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vanilla List - Vanilla JavaScript Repository (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL719"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zorm - Type-Safe Form for React (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL741"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "react-spring - React Spring Animations (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL749"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "XAMPP - PHP Development Environment (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL757"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Clean Code PHP - Clean Code for PHP (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL759"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome list of secrets in environment variables - Environment Variables Secrets (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL769"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Web Dev / Programming YouTube Channels - Web Dev YouTube Channel Indexes (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL770"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "WireFlow - Flow Prototype Maker (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL792"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Apache - HTTP Server (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL798"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BawkBox - Website Widgets (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL808"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "site123 - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL847"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "bravenet - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL849"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mobirise - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL852"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Own Free Website - Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL857"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Barely - Python Static Website Generator (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL860"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "8b - Simple Online Website Builder (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL863"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Colorful - Color Scheme Resources (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL871"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Stylify Me - Extract Webpage Colors (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL885"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "OpenUI - Make UI with AI (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL905"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Contentdrips or CreatorKit - Brand Design Tools (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL906"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SuperNova - Design System Manager (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL907"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SREWorks - Operation & Maintenance Platform (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL917"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bootstrap - Mobile Site Creator / Icons / Snippets / UI Components / Templates, 2 (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL922"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RoughAnnotations - Webpage Annotations / Animations (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL934"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Regex - Regex Tools & Resources (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL962"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Blobmaker - SVG Blob Generator (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1017"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "JSLogo - Logo Interpreter (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1019"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Pingbreak - Site Uptime Monitor / Notifications (Removed in 778d671 , PR #_6330 : remove low quality links from dev tools section (#_6330))",
-                            "links": [
-                                {
-                                    "name": "778d671",
-                                    "url": "https://github.com/fmhy/edit/commit/778d671b33f5b2b7d80489fc74bd8c160aadc57b#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1033"
-                                },
-                                {
-                                    "name": "PR #_6330",
-                                    "url": "https://github.com/fmhy/edit/pull/6330"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Screen from Traction - Create App Screenshots (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L11"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TailBlocks - Ready-to-use Tailwind CSS Blocks (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L26"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Terminal CSS - Terminal-style CSS Framework (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L27"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pie Chart Maker - Create Pie Charts (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L38"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bar Graph Maker - Create Bar Graphs (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L39"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KanjiTomo - Kanji Character Identifier (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L215"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mutopia Project (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L290"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "sheetmusiceden (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L291"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Sheet Music International (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L295"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Sheet music for free (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L297"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Clara - Classical Music Sheets (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L308"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GSlides Maker - Turn Wiki Pages into Google Slides (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L344"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GrommetIcons - SVG Icons for React (Removed in b89aafa , PR #_6319 : remove low quality links from storage (#_6319))",
-                            "links": [
-                                {
-                                    "name": "b89aafa",
-                                    "url": "https://github.com/fmhy/edit/commit/b89aafa36a33af32d7e2357916cfb40da11cccb8#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L422"
-                                },
-                                {
-                                    "name": "PR #_6319",
-                                    "url": "https://github.com/fmhy/edit/pull/6319"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "IXL Learning - Math Practice / Quizzes (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL208"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Mecheng - Mechanical Engineering Resources (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL229"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Periodic Table App - Interactive Table (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL316"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Afratafreeh - Medical Video Courses and Books (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL371"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MedicalStudyZone - Medical Guides and Notes (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL377"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Inner Body - Anatomy Atlas (2D&3D) (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL380"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Antibiotics Summary, 2, 3 - Antibiotics Summary Image (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL385"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Planet Globe - Virtual Globes (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL448"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Global Firepower - Global Military Data (Removed in 345e09b , PR #_6317 : remove low quality links (#_6317))",
-                            "links": [
-                                {
-                                    "name": "345e09b",
-                                    "url": "https://github.com/fmhy/edit/commit/345e09b20eaba36725d50e8d028d04b659e5af57#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL707"
-                                },
-                                {
-                                    "name": "PR #_6317",
-                                    "url": "https://github.com/fmhy/edit/pull/6317"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "sikulix (Removed in 0b71842 , PR #_6313 : Add platform labelsn (#_6313))",
-                            "links": [
-                                {
-                                    "name": "0b71842",
-                                    "url": "https://github.com/fmhy/edit/commit/0b71842740196b8be986c7025e16477fc5d03062#diff-b35ef55ca61a4c86623997efc3296e00f7eae488e1cd3409d4645c8f8d355cf5L96"
-                                },
-                                {
-                                    "name": "PR #_6313",
-                                    "url": "https://github.com/fmhy/edit/pull/6313"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "terminals-are-sexy - Terminal Resources (Removed in 0b71842 , PR #_6313 : Add platform labelsn (#_6313))",
-                            "links": [
-                                {
-                                    "name": "0b71842",
-                                    "url": "https://github.com/fmhy/edit/commit/0b71842740196b8be986c7025e16477fc5d03062#diff-b35ef55ca61a4c86623997efc3296e00f7eae488e1cd3409d4645c8f8d355cf5L107"
-                                },
-                                {
-                                    "name": "PR #_6313",
-                                    "url": "https://github.com/fmhy/edit/pull/6313"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Spotify Stats - Listening Statistics Index (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L331"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "New Software - Project Decision Checklist (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL100"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome API Security or APIKit - API Security Resources (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL273"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PDF Bot - A Node queue API for generating PDFs (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL305"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Discord Tools (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL513"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Alright - Generate React Apps (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL721"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Frontend Development - Frontend Development Resources (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL912"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MobileApp-Pentest-Cheatsheet - App Pentesting Cheatsheet (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1171"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Full Stack Solana Development Guide - Examples (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1460"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Learn to Make Netflix Clone (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1540"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "algonds - Coding Practice (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1550"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GaryChamberlainLectureNotes - Econometrics Lecture Notes (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1690"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Omni - Browser Quick Launcher (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L688"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Input Leap - Multi-Computer Control (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL179"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MkPosters - Turn Markdown Files into Posters (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL274"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "JShielder - Hardening Script for Linux Servers (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL354"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NHCalc - Compute Image NeuralHash (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL652"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠QobuzDownloaderX-Mobile - Qobuz Audio Downloader (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L880"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hanami - Manga Reader (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1462"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Detection Transformer - Computer Vision Research Papers (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L712"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PromptPapers - Pre-Trained Language Model Tuning Papers (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L725"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "anti-phishing-bot - Discord Anti-Phishing Bot (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L131"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MoonPlayer - Video Player (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L222"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Self-Hosted Anime - Anime Server Setup Guides (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L296"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "animdl / Wrapper - Anime Scraper (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL903"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PeerFlix / Server - Torrent Streaming CLIs (Removed in 36ba0c8 , PR #_6280 : remove some more old, unmaintained links (#_6280))",
-                            "links": [
-                                {
-                                    "name": "36ba0c8",
-                                    "url": "https://github.com/fmhy/edit/commit/36ba0c8f823b5ce4db204b785b05b1b73ca97885#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL940"
-                                },
-                                {
-                                    "name": "PR #_6280",
-                                    "url": "https://github.com/fmhy/edit/pull/6280"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Direct Download From Google Play - Add Direct DL Links to Google Play (Removed in b9e88ed )",
-                            "links": [
-                                {
-                                    "name": "b9e88ed",
-                                    "url": "https://github.com/fmhy/edit/commit/b9e88ed5f03564031de82438a787b9569b2d086e#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L133"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GBox - GMS Google Box / Telegram (Removed in b9e88ed )",
-                            "links": [
-                                {
-                                    "name": "b9e88ed",
-                                    "url": "https://github.com/fmhy/edit/commit/b9e88ed5f03564031de82438a787b9569b2d086e#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L134"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "APKAdmin - APK Hosting Site (Removed in b9e88ed )",
-                            "links": [
-                                {
-                                    "name": "b9e88ed",
-                                    "url": "https://github.com/fmhy/edit/commit/b9e88ed5f03564031de82438a787b9569b2d086e#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L142"
                                 }
                             ]
                         }
