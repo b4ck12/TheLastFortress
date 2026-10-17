@@ -12,7 +12,7 @@
                         "How important is using an adblocker?",
                         "Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages or popup tabs.",
                         "For browsers, we recommenduBlock Origin (uBO), and you can also use aRedirect Skipperto skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.",
-                        "For mobileAdGuard Premium/iOSorRethink DNS, and you can block YouTube and Reddit ads withMorphe, which you can optionallyset up easily. Note that uBO works on mobile browsers like Firefox too.",
+                        "For mobileRethink DNSorAdGuard Premium/iOS, and you can block YouTube and Reddit ads withMorphe, which you can optionallyset up easily. Note that uBO works on mobile browsers like Firefox too.",
                         "INFO",
                         "Using several ad blockers, like uBO and AdGuard at the same time canmess things up. This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock."
                     ],
@@ -10928,7 +10928,7 @@
                             "links": [
                                 {
                                     "name": "Streamo",
-                                    "url": "https://streamo.pro/"
+                                    "url": "https://streamo.st/"
                                 },
                                 {
                                     "name": "",
@@ -11014,6 +11014,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/EPHJzCZEq"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cinetaro - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinetaro",
+                                    "url": "https://cinetaro.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/4yGUxdz3h9"
                                 }
                             ]
                         },
@@ -11141,6 +11154,15 @@
                             ]
                         },
                         {
+                            "full_text": "CineLite - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "CineLite",
+                                    "url": "https://cinelite.xyz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Freekz or ZXCSTREAM - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11154,19 +11176,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/6ZXNmPedkG"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinetaro - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinetaro",
-                                    "url": "https://cinetaro.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/4yGUxdz3h9"
                                 }
                             ]
                         },
@@ -11213,11 +11222,19 @@
                             ]
                         },
                         {
-                            "full_text": "ThugTV - Movies / TV / Anime / Auto-Next",
+                            "full_text": "ThugTV - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
                                     "name": "ThugTV",
                                     "url": "https://thugtv.online/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/thugtvonline"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/kZWYkvuGhM"
                                 }
                             ]
                         },
@@ -11410,6 +11427,15 @@
                                 {
                                     "name": "Flixtrz",
                                     "url": "https://flixtrz.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "cineruv - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "cineruv",
+                                    "url": "https://cineruv.website/"
                                 }
                             ]
                         },
@@ -12491,6 +12517,15 @@
                             ]
                         },
                         {
+                            "full_text": "Heartive - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Heartive",
+                                    "url": "https://heartivelovestv.pages.dev/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Flixvo , 2 - Movies / TV / Anime",
                             "links": [
                                 {
@@ -12805,6 +12840,15 @@
                             ]
                         },
                         {
+                            "full_text": "Ev01 - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Ev01",
+                                    "url": "https://ev01.ws/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Warflix - Movies / TV / Anime / Mirrors / /",
                             "links": [
                                 {
@@ -12822,15 +12866,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/qc4jksxk7a"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Heartive - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Heartive",
-                                    "url": "https://heartivelovestv.pages.dev/"
                                 }
                             ]
                         },
@@ -14559,6 +14594,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠YumeZone - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "⁠YumeZone",
+                                    "url": "https://yumezone.live/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Aniclover - Sub / Dub",
                             "links": [
                                 {
@@ -14599,11 +14643,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠YumeZone - Sub / Dub",
+                            "full_text": "Tsukuyomi - Sub / Dub /",
                             "links": [
                                 {
-                                    "name": "⁠YumeZone",
-                                    "url": "https://yumezone.live/"
+                                    "name": "Tsukuyomi",
+                                    "url": "https://tsukuyomi.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/YMuM7RuWnY"
                                 }
                             ]
                         },
@@ -14613,15 +14661,6 @@
                                 {
                                     "name": "KuroAnime",
                                     "url": "https://kuroanime.lol/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Enma - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "⁠Enma",
-                                    "url": "https://www.enma.lol/"
                                 }
                             ]
                         },
@@ -14653,6 +14692,15 @@
                                 {
                                     "name": "⁠Kyren",
                                     "url": "https://kyren.moe/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "animeTVplus - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "animeTVplus",
+                                    "url": "https://animetvplus.xyz/"
                                 }
                             ]
                         },
@@ -16268,19 +16316,6 @@
                             ]
                         },
                         {
-                            "full_text": "Binged / Beta - TV / Sports",
-                            "links": [
-                                {
-                                    "name": "Binged",
-                                    "url": "https://binged.net/"
-                                },
-                                {
-                                    "name": "Beta",
-                                    "url": "https://binged.net/beta"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠TV Explorer - TV / Sports",
                             "links": [
                                 {
@@ -16644,6 +16679,15 @@
                             ]
                         },
                         {
+                            "full_text": "AURA Sports",
+                            "links": [
+                                {
+                                    "name": "AURA Sports",
+                                    "url": "https://aurasports.xyz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠StreamFree , 2 /",
                             "links": [
                                 {
@@ -16742,15 +16786,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠AuraSports",
-                            "links": [
-                                {
-                                    "name": "⁠AuraSports",
-                                    "url": "https://aurasports.xyz/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Watch Footy / Mirrors",
                             "links": [
                                 {
@@ -16799,19 +16834,6 @@
                                 {
                                     "name": "90minutes",
                                     "url": "https://www.90minutes.pro/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Binged / Beta",
-                            "links": [
-                                {
-                                    "name": "Binged",
-                                    "url": "https://binged.net/"
-                                },
-                                {
-                                    "name": "Beta",
-                                    "url": "https://binged.net/beta"
                                 }
                             ]
                         },
@@ -23288,7 +23310,7 @@
                             ]
                         },
                         {
-                            "full_text": "SoundCloud or ⁠soundcloak / Instances - User-Made & User-Uploaded Songs",
+                            "full_text": "SoundCloud or ⁠soundcloak / Instances - User-Made & User-Uploaded Songs / Account Manager",
                             "links": [
                                 {
                                     "name": "SoundCloud",
@@ -23301,6 +23323,10 @@
                                 {
                                     "name": "Instances",
                                     "url": "https://maid.zone/soundcloak/instances.html"
+                                },
+                                {
+                                    "name": "Account Manager",
+                                    "url": "https://github.com/Kuzuw/scam"
                                 }
                             ]
                         },
@@ -24502,11 +24528,19 @@
                             ]
                         },
                         {
-                            "full_text": "PodSync - Turn YouTube Video into Podcasts",
+                            "full_text": "PodSync or PigeonPod / - Turn YouTube/Bilibili Channels + Playlists into Podcasts",
                             "links": [
                                 {
                                     "name": "PodSync",
                                     "url": "https://github.com/mxpv/podsync"
+                                },
+                                {
+                                    "name": "PigeonPod",
+                                    "url": "https://pigeonpod.cloud/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/aizhimou/pigeon-pod"
                                 }
                             ]
                         },
@@ -26324,8 +26358,12 @@
                             ]
                         },
                         {
-                            "full_text": "Spotlistr - Platform-to-Spotify Playlist Converter",
+                            "full_text": "Playlister or Spotlistr - Platform-to-Spotify Playlist Converters",
                             "links": [
+                                {
+                                    "name": "Playlister",
+                                    "url": "https://playlister.cc/"
+                                },
                                 {
                                     "name": "Spotlistr",
                                     "url": "https://www.spotlistr.com/"
@@ -26333,7 +26371,7 @@
                             ]
                         },
                         {
-                            "full_text": "Playlistor - Convert Apple Music Playlists to Spotify",
+                            "full_text": "Playlistor - Apple-to-Spotify Playlist Converter",
                             "links": [
                                 {
                                     "name": "Playlistor",
@@ -26549,6 +26587,15 @@
                                 {
                                     "name": "vdwn.cloud",
                                     "url": "https://vdwn.cloud/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠CYBROX - Multi-Site / 320kb MP3",
+                            "links": [
+                                {
+                                    "name": "⁠CYBROX",
+                                    "url": "https://cybrox.pro/"
                                 }
                             ]
                         },
@@ -29564,7 +29611,7 @@
                             ]
                         },
                         {
-                            "full_text": "Musicroamer , Music Galaxy , Unchartify / , SAGE , LivePlasma or GNOD - Artist Discovery Tools",
+                            "full_text": "Musicroamer , Music Galaxy , ⁠Music Atlas , Unchartify / , SAGE , LivePlasma or GNOD - Artist Discovery Tools",
                             "links": [
                                 {
                                     "name": "Musicroamer",
@@ -29573,6 +29620,10 @@
                                 {
                                     "name": "Music Galaxy",
                                     "url": "https://galaxy.spotifytrack.net/"
+                                },
+                                {
+                                    "name": "⁠Music Atlas",
+                                    "url": "https://music-atlas.app/"
                                 },
                                 {
                                     "name": "Unchartify",
@@ -33990,6 +34041,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "️ Rhythm Game Engines",
+                            "links": [
+                                {
+                                    "name": "Rhythm Game Engines",
+                                    "url": "https://fmhy.net/gaming-tools/#rhythm-tools"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "TheGamingEmporium - Open-Source, Decomps, Ports, Translations & more",
                             "links": [
                                 {
@@ -34981,6 +35041,15 @@
                             ]
                         },
                         {
+                            "full_text": "Unleashed Recompiled - Sonic Unleashed Xbox 360 Recompilation",
+                            "links": [
+                                {
+                                    "name": "Unleashed Recompiled",
+                                    "url": "https://github.com/hedge-dev/UnleashedRecomp"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "DFWorkshop - Daggerfall Unity Engine Port",
                             "links": [
                                 {
@@ -35043,6 +35112,15 @@
                                 {
                                     "name": "RingRacers",
                                     "url": "https://github.com/KartKrewDev/RingRacers"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠P.T. PC - ⁠P.T. PC Port",
+                            "links": [
+                                {
+                                    "name": "⁠P.T. PC",
+                                    "url": "https://github.com/LoreanXavier/pt-pc/"
                                 }
                             ]
                         },
@@ -35170,35 +35248,6 @@
                             ]
                         },
                         {
-                            "full_text": "Clone Hero - Guitar Hero Clone / Wiki / Guides / Setlists , 2 / Custom Client /",
-                            "links": [
-                                {
-                                    "name": "Clone Hero",
-                                    "url": "https://clonehero.net/"
-                                },
-                                {
-                                    "name": "Wiki / Guides",
-                                    "url": "https://wiki.clonehero.net/"
-                                },
-                                {
-                                    "name": "Setlists",
-                                    "url": "https://rentry.co/FMHYB64#setlists"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://customsongscentral.com/"
-                                },
-                                {
-                                    "name": "Custom Client",
-                                    "url": "https://clonehero.scorespy.online"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Hsn4Cgu"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "OpenMW - Open-Source Morrowind Re-implementation / Multiplayer /",
                             "links": [
                                 {
@@ -35271,7 +35320,7 @@
                             ]
                         },
                         {
-                            "full_text": "Mugen / Resources , 2 , 3 , 4 or Ikemen GO / Guides / / - 2D Fighting Game Engines / Select-Screen Editor",
+                            "full_text": "Mugen / Resources , 2 , 3 , 4 or Ikemen GO / Guides / / - 2D Fighting Game Engines / Community + Assets / Select-Screen Editor",
                             "links": [
                                 {
                                     "name": "Mugen",
@@ -35308,6 +35357,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/ikemen-engine/Ikemen-GO"
+                                },
+                                {
+                                    "name": "Community + Assets",
+                                    "url": "https://mugen.doomjoshuaboy.com/"
                                 },
                                 {
                                     "name": "Select-Screen Editor",
@@ -35718,215 +35771,6 @@
                                 {
                                     "name": "Pac-Man",
                                     "url": "https://github.com/masonicGIT/pacman"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "YARG - Rock Band Clone / Launcher / /",
-                            "links": [
-                                {
-                                    "name": "YARG",
-                                    "url": "https://yarg.in/"
-                                },
-                                {
-                                    "name": "Launcher",
-                                    "url": "https://github.com/YARC-Official/YARC-Launcher/releases"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/sqpu4R552r"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/YARC-Official"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠YAVSRG (Interlude) - Rhythm Game Engine /",
-                            "links": [
-                                {
-                                    "name": "⁠YAVSRG (Interlude)",
-                                    "url": "https://www.yavsrg.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/tA22tWR"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bridge - Download Charts for Rhythm Games /",
-                            "links": [
-                                {
-                                    "name": "Bridge",
-                                    "url": "https://github.com/Geomitron/Bridge"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/cqaUXGm"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ITGmania - DDR Clone /",
-                            "links": [
-                                {
-                                    "name": "ITGmania",
-                                    "url": "https://www.itgmania.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/itgmania/itgmania"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "beatoraja - BMS Player as Alternative to IIDX / beatoraja English Guide",
-                            "links": [
-                                {
-                                    "name": "beatoraja",
-                                    "url": "https://mocha-repository.info/"
-                                },
-                                {
-                                    "name": "beatoraja English Guide",
-                                    "url": "https://github.com/wcko87/beatoraja-english-guide/wiki"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Unnamed SDVX clone - Sound Voltex Clone",
-                            "links": [
-                                {
-                                    "name": "Unnamed SDVX clone",
-                                    "url": "https://github.com/Drewol/unnamed-sdvx-clone"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "OpenTaiko - Taiko no Tatsujin Clone / Taiko Simulator Guide /",
-                            "links": [
-                                {
-                                    "name": "OpenTaiko",
-                                    "url": "https://github.com/0auBSQ/OpenTaiko"
-                                },
-                                {
-                                    "name": "Taiko Simulator Guide",
-                                    "url": "https://guide.tjadataba.se/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/aA8scTvZ6B"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Etterna or Quaver / / - O2Jam Clones",
-                            "links": [
-                                {
-                                    "name": "Etterna",
-                                    "url": "https://etternaonline.com/"
-                                },
-                                {
-                                    "name": "Quaver",
-                                    "url": "https://quavergame.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/quaver"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Quaver"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "osu! / / , osu!droid / / or McOsu / - Osu! Tatakae! Ouendan Clones",
-                            "links": [
-                                {
-                                    "name": "osu!",
-                                    "url": "https://osu.ppy.sh/home"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/ppy"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ppy"
-                                },
-                                {
-                                    "name": "osu!droid",
-                                    "url": "https://osudroid.moe/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/fAq9em8"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/osudroid/osu-droid"
-                                },
-                                {
-                                    "name": "McOsu",
-                                    "url": "https://store.steampowered.com/app/607260/McOsu/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/3UQnt7X"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PPD - Project Diva Clone",
-                            "links": [
-                                {
-                                    "name": "PPD",
-                                    "url": "https://projectdxxx.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rhythia - Sound Space Clone / / Wiki",
-                            "links": [
-                                {
-                                    "name": "Rhythia",
-                                    "url": "https://github.com/Rhythia/Client"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/rhythia"
-                                },
-                                {
-                                    "name": "Wiki",
-                                    "url": "https://wiki.rhythia.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cytoid - Cytus Clone /",
-                            "links": [
-                                {
-                                    "name": "Cytoid",
-                                    "url": "https://cytoid.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Cytoid/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Sonolus - Project Sekai Clone /",
-                            "links": [
-                                {
-                                    "name": "Sonolus",
-                                    "url": "https://sonolus.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Sonolus"
                                 }
                             ]
                         }
@@ -40586,75 +40430,6 @@
                             ]
                         },
                         {
-                            "full_text": "Web osu!mania - Browser osu!mania Beatmaps /",
-                            "links": [
-                                {
-                                    "name": "Web osu!mania",
-                                    "url": "https://rentry.co/FMHYB64#wosu"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/8zfxCdkfTx"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Taiko Web - Taiko no Tatsujin / Rhythm Game",
-                            "links": [
-                                {
-                                    "name": "Taiko Web",
-                                    "url": "https://rentry.co/FMHYB64#tnt"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rhythm Plus , 2 - Rhythm Game / /",
-                            "links": [
-                                {
-                                    "name": "Rhythm Plus",
-                                    "url": "https://rhythm-plus.com"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://rhythmplus.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/ZGhnKp4"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/henryzt/Rhythm-Plus-Music-Game"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bemuse - Rhythm Game / /",
-                            "links": [
-                                {
-                                    "name": "Bemuse",
-                                    "url": "https://bemuse.ninja/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/aB6ucmx"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/bemusic/bemuse"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pulsus - 3x3 Letter Tile Rhythm Game",
-                            "links": [
-                                {
-                                    "name": "Pulsus",
-                                    "url": "https://www.pulsus.cc/play/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Rooms - Room Design Game",
                             "links": [
                                 {
@@ -40865,6 +40640,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/wasmdotrip/wasm.rip"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ported2Browser - Browser PC Game Ports",
+                            "links": [
+                                {
+                                    "name": "Ported2Browser",
+                                    "url": "https://ported2browser.com/"
                                 }
                             ]
                         },
@@ -41573,7 +41357,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Eaglercraft / , Eaglercraft.dev , q13x's Distros , MessCraft / Site List / , Hiracraft , WebMC / 2 / 3 , EaglerCraftX or Minecraft Classic - Online Browser Minecraft /",
+                            "full_text": "Eaglercraft / , Eaglercraft.dev , q13x's Distros , MessCraft / Site List / , Hiracraft , WebMC / 2 / 3 , Classic Launcher , EaglerCraftX or Minecraft Classic - Online Browser Minecraft /",
                             "links": [
                                 {
                                     "name": "Eaglercraft",
@@ -41618,6 +41402,10 @@
                                 {
                                     "name": "3",
                                     "url": "https://webmc-launcher.vercel.app/"
+                                },
+                                {
+                                    "name": "Classic Launcher",
+                                    "url": "https://radmanplays.github.io/classic-launcher/"
                                 },
                                 {
                                     "name": "EaglerCraftX",
@@ -42116,15 +41904,6 @@
                             ]
                         },
                         {
-                            "full_text": "Gpop.io - Rhythm Game",
-                            "links": [
-                                {
-                                    "name": "Gpop.io",
-                                    "url": "https://gpop.io/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Betrayal - Among Us Clone",
                             "links": [
                                 {
@@ -42468,6 +42247,15 @@
                                 {
                                     "name": "ev.io",
                                     "url": "https://ev.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠StickFrag - PvP FPS",
+                            "links": [
+                                {
+                                    "name": "⁠StickFrag",
+                                    "url": "https://stickfrag.com/"
                                 }
                             ]
                         },
@@ -44320,6 +44108,100 @@
                                 {
                                     "name": "Wikitrivia",
                                     "url": "https://wikitrivia.tomjwatson.com/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Rhythm",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "️ Rhythm Game Engines / Tools",
+                            "links": [
+                                {
+                                    "name": "Rhythm Game Engines / Tools",
+                                    "url": "https://fmhy.net/gaming-tools/#rhythm-tools"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Web osu!mania - osu!mania Beatmaps / /",
+                            "links": [
+                                {
+                                    "name": "Web osu!mania",
+                                    "url": "https://rentry.co/FMHYB64#wosu"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/8zfxCdkfTx"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Taiko Web - Taiko no Tatsujin / Rhythm Game /",
+                            "links": [
+                                {
+                                    "name": "Taiko Web",
+                                    "url": "https://rentry.co/FMHYB64#tnt"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Rhythm Plus , 2 - Rhythm Game / / /",
+                            "links": [
+                                {
+                                    "name": "Rhythm Plus",
+                                    "url": "https://rhythm-plus.com"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://rhythmplus.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/ZGhnKp4"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/henryzt/Rhythm-Plus-Music-Game"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Gpop.io - Rhythm Game / Multiplayer /",
+                            "links": [
+                                {
+                                    "name": "Gpop.io",
+                                    "url": "https://gpop.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Bemuse - Rhythm Game / / /",
+                            "links": [
+                                {
+                                    "name": "Bemuse",
+                                    "url": "https://bemuse.ninja/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/aB6ucmx"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/bemusic/bemuse"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pulsus - 3x3 Letter Tile Rhythm Game /",
+                            "links": [
+                                {
+                                    "name": "Pulsus",
+                                    "url": "https://www.pulsus.cc/play/"
                                 }
                             ]
                         }
@@ -46776,6 +46658,19 @@
                                     "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠kindle-weather-dashboard - Weather Display for Kindle / Requires Jailbreak /",
+                            "links": [
+                                {
+                                    "name": "⁠kindle-weather-dashboard",
+                                    "url": "https://kindle.hrincar.eu/weather/config.html"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/matopeto/kindle-weather-dashboard"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -48795,7 +48690,10 @@
                 {
                     "heading": "Manga",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "TIP",
+                        "Keep in mind many manga sites may also include adult content, some allow you to filter it out in their settings."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Wotaku - Manga Site Index /",
@@ -48944,15 +48842,11 @@
                             ]
                         },
                         {
-                            "full_text": "Weeb Central / Use Adblock",
+                            "full_text": "Weeb Central",
                             "links": [
                                 {
                                     "name": "Weeb Central",
                                     "url": "https://weebcentral.com/"
-                                },
-                                {
-                                    "name": "Adblock",
-                                    "url": "https://fmhy.net/privacy/#adblocking"
                                 }
                             ]
                         },
@@ -49252,7 +49146,7 @@
                             ]
                         },
                         {
-                            "full_text": "Scans.gg / Some NSFW /",
+                            "full_text": "Scans.gg /",
                             "links": [
                                 {
                                     "name": "Scans.gg",
@@ -49313,7 +49207,7 @@
                             ]
                         },
                         {
-                            "full_text": "Toonily - Manhwa / Some NSFW",
+                            "full_text": "Toonily - Manhwa",
                             "links": [
                                 {
                                     "name": "Toonily",
@@ -49322,7 +49216,7 @@
                             ]
                         },
                         {
-                            "full_text": "LilyManga - Yuri / Some NSFW",
+                            "full_text": "LilyManga - Yuri",
                             "links": [
                                 {
                                     "name": "LilyManga",
@@ -54430,11 +54324,11 @@
                             ]
                         },
                         {
-                            "full_text": "LRepacks - Use Translator",
+                            "full_text": "Soft98 - Use Translator",
                             "links": [
                                 {
-                                    "name": "LRepacks",
-                                    "url": "https://lrepacks.net/"
+                                    "name": "Soft98",
+                                    "url": "https://soft98.ir/"
                                 },
                                 {
                                     "name": "Translator",
@@ -54443,11 +54337,11 @@
                             ]
                         },
                         {
-                            "full_text": "Soft98 - Use Translator",
+                            "full_text": "LRepacks - Use Adblock + Translator",
                             "links": [
                                 {
-                                    "name": "Soft98",
-                                    "url": "https://soft98.ir/"
+                                    "name": "LRepacks",
+                                    "url": "https://lrepacks.net/"
                                 },
                                 {
                                     "name": "Translator",
@@ -57154,15 +57048,6 @@
                                     "url": "https://sonicbit.net/"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Multi-Up - 10 GB",
-                            "links": [
-                                {
-                                    "name": "Multi-Up",
-                                    "url": "https://multiup.io/en/upload/from-torrent"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -59846,6 +59731,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠How To Mechatronics - Tutorials / Guides for Mechatronics & Electronics",
+                            "links": [
+                                {
+                                    "name": "⁠How To Mechatronics",
+                                    "url": "https://howtomechatronics.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Robot Shop - Robotics Forum",
                             "links": [
                                 {
@@ -59925,11 +59819,15 @@
                             ]
                         },
                         {
-                            "full_text": "Falstad , SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
+                            "full_text": "Falstad , Altium , SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
                             "links": [
                                 {
                                     "name": "Falstad",
                                     "url": "https://www.falstad.com/circuit/"
+                                },
+                                {
+                                    "name": "Altium",
+                                    "url": "https://www.altium.com/viewer/"
                                 },
                                 {
                                     "name": "SKiDL",
@@ -63724,6 +63622,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Game Boy Hardware Database - Game Boy Console & Cartridge Archive",
+                            "links": [
+                                {
+                                    "name": "⁠Game Boy Hardware Database",
+                                    "url": "https://gbhwdb.gekkio.fi/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Web Rewind - Interactive Web History Journey",
                             "links": [
                                 {
@@ -65819,7 +65726,7 @@
                             ]
                         },
                         {
-                            "full_text": "Muted , Open Music Theory / 2 , Chromatone , Teoria , SimplifyingTheory , LightNote or Music Theory - Music Theory",
+                            "full_text": "Muted , Open Music Theory / 2 , Chromatone , Teoria , SimplifyingTheory , ⁠Teoria , LightNote or Music Theory - Music Theory Learning",
                             "links": [
                                 {
                                     "name": "Muted",
@@ -65844,6 +65751,10 @@
                                 {
                                     "name": "SimplifyingTheory",
                                     "url": "https://www.simplifyingtheory.com/"
+                                },
+                                {
+                                    "name": "⁠Teoria",
+                                    "url": "https://www.teoria.com/"
                                 },
                                 {
                                     "name": "LightNote",
@@ -68290,6 +68201,15 @@
                                 {
                                     "name": "Language Squad",
                                     "url": "https://www.languagesquad.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Elara Archive - Endangered Language Video + Audio Archive",
+                            "links": [
+                                {
+                                    "name": "⁠Elara Archive",
+                                    "url": "https://www.elararchive.org/"
                                 }
                             ]
                         },
@@ -71673,11 +71593,15 @@
                             ]
                         },
                         {
-                            "full_text": "Learn to Code HTML & CSS , CSS Tip or ⁠HTML Hobbyist - HTML/CSS Learning Sites",
+                            "full_text": "Learn to Code HTML & CSS , ⁠CSS Tricks , CSS Tip or ⁠HTML Hobbyist - HTML/CSS Learning Sites",
                             "links": [
                                 {
                                     "name": "Learn to Code HTML & CSS",
                                     "url": "https://learn.shayhowe.com/"
+                                },
+                                {
+                                    "name": "⁠CSS Tricks",
+                                    "url": "https://css-tricks.com/"
                                 },
                                 {
                                     "name": "CSS Tip",
@@ -73915,6 +73839,15 @@
                                     "url": "https://www.deep-ml.com/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "Wolfram Cloud - Computational Intelligence",
+                            "links": [
+                                {
+                                    "name": "Wolfram Cloud",
+                                    "url": "https://www.wolframcloud.com/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -74537,59 +74470,6 @@
                             ]
                         },
                         {
-                            "full_text": "Better Canvas - Canvas Enhancement Extension",
-                            "links": [
-                                {
-                                    "name": "Better Canvas",
-                                    "url": "https://github.com/UseBetterCanvas/bettercanvas"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ImageJ / Web or Fiji - Scientific Image Analyzers",
-                            "links": [
-                                {
-                                    "name": "ImageJ",
-                                    "url": "https://imagej.net/"
-                                },
-                                {
-                                    "name": "Web",
-                                    "url": "https://ij.imjoy.io/"
-                                },
-                                {
-                                    "name": "Fiji",
-                                    "url": "https://fiji.sc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Altium - Schematics Visualizer",
-                            "links": [
-                                {
-                                    "name": "Altium",
-                                    "url": "https://www.altium.com/viewer/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Wolfram Cloud - Computational Intelligence",
-                            "links": [
-                                {
-                                    "name": "Wolfram Cloud",
-                                    "url": "https://www.wolframcloud.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GradesFixer - Essay Samples",
-                            "links": [
-                                {
-                                    "name": "GradesFixer",
-                                    "url": "https://www.gradesfixer.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Edu VPN - Institute Access VPN",
                             "links": [
                                 {
@@ -74604,6 +74484,62 @@
                                 {
                                     "name": "BachelorStudies",
                                     "url": "https://bachelorstudies.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Niche , TheUniGuide , Alumnius or Top Universities - University / School Comparisons",
+                            "links": [
+                                {
+                                    "name": "Niche",
+                                    "url": "https://www.niche.com/"
+                                },
+                                {
+                                    "name": "TheUniGuide",
+                                    "url": "https://www.theuniguide.co.uk/"
+                                },
+                                {
+                                    "name": "Alumnius",
+                                    "url": "https://alumnius.net/"
+                                },
+                                {
+                                    "name": "Top Universities",
+                                    "url": "https://www.topuniversities.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RateMyDorm or :) - College Dorm Reviews",
+                            "links": [
+                                {
+                                    "name": "RateMyDorm",
+                                    "url": "https://ratemydorm.com"
+                                },
+                                {
+                                    "name": ":)",
+                                    "url": "https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RateMyProfessor - Professor Ratings",
+                            "links": [
+                                {
+                                    "name": "RateMyProfessor",
+                                    "url": "https://www.ratemyprofessors.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ExpertFile or ExpertiseFinder - Industry / Academic Expert Search",
+                            "links": [
+                                {
+                                    "name": "ExpertFile",
+                                    "url": "https://expertfile.com/"
+                                },
+                                {
+                                    "name": "ExpertiseFinder",
+                                    "url": "https://expertisefinder.com/"
                                 }
                             ]
                         },
@@ -74638,67 +74574,11 @@
                             ]
                         },
                         {
-                            "full_text": "Niche , TheUniGuide , Alumnius or Top Universities - University / School Comparisons",
-                            "links": [
-                                {
-                                    "name": "Niche",
-                                    "url": "https://www.niche.com/"
-                                },
-                                {
-                                    "name": "TheUniGuide",
-                                    "url": "https://www.theuniguide.co.uk/"
-                                },
-                                {
-                                    "name": "Alumnius",
-                                    "url": "https://alumnius.net/"
-                                },
-                                {
-                                    "name": "Top Universities",
-                                    "url": "https://www.topuniversities.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠CSRankings - Publication Activity of Computer Science Colleges per Topic",
                             "links": [
                                 {
                                     "name": "⁠CSRankings",
                                     "url": "https://csrankings.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ExpertFile or ExpertiseFinder - Industry / Academic Expert Search",
-                            "links": [
-                                {
-                                    "name": "ExpertFile",
-                                    "url": "https://expertfile.com/"
-                                },
-                                {
-                                    "name": "ExpertiseFinder",
-                                    "url": "https://expertisefinder.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RateMyDorm or :) - College Dorm Reviews",
-                            "links": [
-                                {
-                                    "name": "RateMyDorm",
-                                    "url": "https://ratemydorm.com"
-                                },
-                                {
-                                    "name": ":)",
-                                    "url": "https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RateMyProfessor - Professor Ratings",
-                            "links": [
-                                {
-                                    "name": "RateMyProfessor",
-                                    "url": "https://www.ratemyprofessors.com/"
                                 }
                             ]
                         },
@@ -74839,33 +74719,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠StudyKit - Online Study Tools",
-                            "links": [
-                                {
-                                    "name": "⁠StudyKit",
-                                    "url": "https://studytoolkit.vercel.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Studyn - Discord Bot w/ Study Tracking, Stats, Anki Integration and more",
-                            "links": [
-                                {
-                                    "name": "⁠Studyn",
-                                    "url": "https://studyn.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Study Together - Study / Productivity Focused Server",
-                            "links": [
-                                {
-                                    "name": "⁠Study Together",
-                                    "url": "https://discord.gg/study"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Graded - Grades Tracker /",
                             "links": [
                                 {
@@ -74884,11 +74737,56 @@
                             ]
                         },
                         {
+                            "full_text": "⁠StudyKit - Online Study Tools",
+                            "links": [
+                                {
+                                    "name": "⁠StudyKit",
+                                    "url": "https://studytoolkit.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MammothMemory - Visual Memory-Based Solutions",
+                            "links": [
+                                {
+                                    "name": "MammothMemory",
+                                    "url": "https://mammothmemory.net/index.html"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cheatography - Educational Cheat Sheets",
+                            "links": [
+                                {
+                                    "name": "Cheatography",
+                                    "url": "https://cheatography.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GradesFixer - Essay Samples",
+                            "links": [
+                                {
+                                    "name": "GradesFixer",
+                                    "url": "https://www.gradesfixer.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LearnedEasy - Create Summaries / Quizzes from Books",
                             "links": [
                                 {
                                     "name": "LearnedEasy",
                                     "url": "https://learnedeasy.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Free Numerade Videos - Homework Help Videos",
+                            "links": [
+                                {
+                                    "name": "⁠Free Numerade Videos",
+                                    "url": "https://discord.gg/nEYfaceEcU"
                                 }
                             ]
                         },
@@ -74906,33 +74804,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Free Numerade Videos - Homework Help Videos",
-                            "links": [
-                                {
-                                    "name": "⁠Free Numerade Videos",
-                                    "url": "https://discord.gg/nEYfaceEcU"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MammothMemory - Visual Memory-Based Solutions",
-                            "links": [
-                                {
-                                    "name": "MammothMemory",
-                                    "url": "https://mammothmemory.net/index.html"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Modern Classroom - Improved Google Classroom Extension",
-                            "links": [
-                                {
-                                    "name": "⁠Modern Classroom",
-                                    "url": "https://chromewebstore.google.com/detail/modern-classroom/bbeejocagpeechkgliijfedcbeggncne"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "StudyStream or ⁠Yeolpumta - Online Study Groups",
                             "links": [
                                 {
@@ -74946,6 +74817,24 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Study Together - Study / Productivity Focused Server",
+                            "links": [
+                                {
+                                    "name": "⁠Study Together",
+                                    "url": "https://discord.gg/study"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Studyn - Discord Bot w/ Study Tracking, Stats, Anki Integration and more",
+                            "links": [
+                                {
+                                    "name": "⁠Studyn",
+                                    "url": "https://studyn.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Space Finder - UK Study Space Search",
                             "links": [
                                 {
@@ -74955,11 +74844,20 @@
                             ]
                         },
                         {
-                            "full_text": "Cheatography - Educational Cheat Sheets",
+                            "full_text": "⁠Modern Classroom - Google Classroom Enhancement Extension",
                             "links": [
                                 {
-                                    "name": "Cheatography",
-                                    "url": "https://cheatography.com/"
+                                    "name": "⁠Modern Classroom",
+                                    "url": "https://chromewebstore.google.com/detail/modern-classroom/bbeejocagpeechkgliijfedcbeggncne"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Better Canvas - Canvas Enhancement Extension",
+                            "links": [
+                                {
+                                    "name": "Better Canvas",
+                                    "url": "https://github.com/UseBetterCanvas/bettercanvas"
                                 }
                             ]
                         }
@@ -75049,11 +74947,140 @@
                             ]
                         },
                         {
+                            "full_text": "Lurnby - Research Highlighting Tool /",
+                            "links": [
+                                {
+                                    "name": "Lurnby",
+                                    "url": "https://www.lurnby.com"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Roznoshchik/Lurnby"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Co-STORM - Generate Scientific Articles",
                             "links": [
                                 {
                                     "name": "Co-STORM",
                                     "url": "https://storm.genie.stanford.edu/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenRefine - Data Cleaning",
+                            "links": [
+                                {
+                                    "name": "OpenRefine",
+                                    "url": "https://openrefine.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ImageJ / Web or Fiji - Scientific Image Analyzers",
+                            "links": [
+                                {
+                                    "name": "ImageJ",
+                                    "url": "https://imagej.net/"
+                                },
+                                {
+                                    "name": "Web",
+                                    "url": "https://ij.imjoy.io/"
+                                },
+                                {
+                                    "name": "Fiji",
+                                    "url": "https://fiji.sc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Foam - Knowledge Management System",
+                            "links": [
+                                {
+                                    "name": "Foam",
+                                    "url": "https://foambubble.github.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zotero - Research Assistant",
+                            "links": [
+                                {
+                                    "name": "Zotero",
+                                    "url": "https://www.zotero.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Scrible - Research / Writing Platform",
+                            "links": [
+                                {
+                                    "name": "Scrible",
+                                    "url": "https://www.scrible.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CATMA - Research Markup & Analysis Tool",
+                            "links": [
+                                {
+                                    "name": "CATMA",
+                                    "url": "https://catma.de/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GROBID - Extract / Organize Scientific Document Info",
+                            "links": [
+                                {
+                                    "name": "GROBID",
+                                    "url": "https://grobid.readthedocs.io"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "General Index - Article Metadata Mining Project",
+                            "links": [
+                                {
+                                    "name": "General Index",
+                                    "url": "https://archive.org/details/GeneralIndex"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Papertag - Attach Digital Content to Paper",
+                            "links": [
+                                {
+                                    "name": "Papertag",
+                                    "url": "https://www.papertag.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Taguette - Data Analysis Document Tagging",
+                            "links": [
+                                {
+                                    "name": "Taguette",
+                                    "url": "https://app.taguette.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Inciteful - Find Connected Literature via Citations",
+                            "links": [
+                                {
+                                    "name": "Inciteful",
+                                    "url": "https://incitefulmed.com/academic/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Publish or Perish - Citation Analyzer",
+                            "links": [
+                                {
+                                    "name": "Publish or Perish",
+                                    "url": "https://harzing.com/resources/publish-or-perish"
                                 }
                             ]
                         },
@@ -75103,24 +75130,6 @@
                             ]
                         },
                         {
-                            "full_text": "Publish or Perish - Citation Analyzer",
-                            "links": [
-                                {
-                                    "name": "Publish or Perish",
-                                    "url": "https://harzing.com/resources/publish-or-perish"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Inciteful - Find Connected Literature via Citations",
-                            "links": [
-                                {
-                                    "name": "Inciteful",
-                                    "url": "https://incitefulmed.com/academic/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "PlagiarismDetector or Duplichecker - Plagiarism Checkers",
                             "links": [
                                 {
@@ -75130,100 +75139,6 @@
                                 {
                                     "name": "Duplichecker",
                                     "url": "https://www.duplichecker.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GROBID - Extract / Organize Scientific Document Info",
-                            "links": [
-                                {
-                                    "name": "GROBID",
-                                    "url": "https://grobid.readthedocs.io"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Foam - Knowledge Management System",
-                            "links": [
-                                {
-                                    "name": "Foam",
-                                    "url": "https://foambubble.github.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zotero - Research Assistant",
-                            "links": [
-                                {
-                                    "name": "Zotero",
-                                    "url": "https://www.zotero.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CATMA - Research Markup & Analysis Tool",
-                            "links": [
-                                {
-                                    "name": "CATMA",
-                                    "url": "https://catma.de/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Scrible - Research / Writing Platform",
-                            "links": [
-                                {
-                                    "name": "Scrible",
-                                    "url": "https://www.scrible.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "OpenRefine - Data Cleaning",
-                            "links": [
-                                {
-                                    "name": "OpenRefine",
-                                    "url": "https://openrefine.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Taguette - Data Analysis Document Tagging",
-                            "links": [
-                                {
-                                    "name": "Taguette",
-                                    "url": "https://app.taguette.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Lurnby - Research Highlighting Tool /",
-                            "links": [
-                                {
-                                    "name": "Lurnby",
-                                    "url": "https://www.lurnby.com"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Roznoshchik/Lurnby"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "General Index - Article Metadata Mining Project",
-                            "links": [
-                                {
-                                    "name": "General Index",
-                                    "url": "https://archive.org/details/GeneralIndex"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Papertag - Attach Digital Content to Paper",
-                            "links": [
-                                {
-                                    "name": "Papertag",
-                                    "url": "https://www.papertag.app/"
                                 }
                             ]
                         }
@@ -86772,6 +86687,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Bark - Custom Push Notifications",
+                            "links": [
+                                {
+                                    "name": "⁠Bark",
+                                    "url": "https://github.com/finb/bark"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mobile Walls , FreshWalls or iOS Wallpapers - iOS Wallpapers",
                             "links": [
                                 {
@@ -89566,7 +89490,7 @@
                             ]
                         },
                         {
-                            "full_text": "Cosmos Music Player , VOX , Jewelcase , FooBar or Melodista - Audio Players",
+                            "full_text": "Cosmos Music Player , VOX , ⁠Offline Music Player , Jewelcase , FooBar or Melodista - Audio Players",
                             "links": [
                                 {
                                     "name": "Cosmos Music Player",
@@ -89575,6 +89499,10 @@
                                 {
                                     "name": "VOX",
                                     "url": "https://apps.apple.com/app/id916215494"
+                                },
+                                {
+                                    "name": "⁠Offline Music Player",
+                                    "url": "https://apps.apple.com/app/id6756036292"
                                 },
                                 {
                                     "name": "Jewelcase",
@@ -89907,7 +89835,7 @@
                             ]
                         },
                         {
-                            "full_text": "FlowTunes = Customizable Ambient Sound Mixer",
+                            "full_text": "FlowTunes - Customizable Ambient Sound Mixer",
                             "links": [
                                 {
                                     "name": "FlowTunes",
@@ -91983,7 +91911,7 @@
                             ]
                         },
                         {
-                            "full_text": "fastfetch , Archey4 , Anifetch , Hyfetch , Macchina or CPU-X - System Info Displays / Fetch Tools",
+                            "full_text": "fastfetch , Archey4 , Anifetch , Hyfetch or Macchina - System Info Displays / Fetch Tools",
                             "links": [
                                 {
                                     "name": "fastfetch",
@@ -92004,10 +91932,6 @@
                                 {
                                     "name": "Macchina",
                                     "url": "https://github.com/Macchina-CLI/macchina"
-                                },
-                                {
-                                    "name": "CPU-X",
-                                    "url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X"
                                 }
                             ]
                         },
@@ -97835,7 +97759,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nuage - Soundcloud Client",
+                            "full_text": "Nuage - SoundcCoud Client",
                             "links": [
                                 {
                                     "name": "Nuage",
@@ -98076,15 +98000,6 @@
                                 {
                                     "name": "appnetica",
                                     "url": "https://appnetica.com/?platform=mac"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠MacSteam - Steam Game + DLC Unlocker",
-                            "links": [
-                                {
-                                    "name": "⁠MacSteam",
-                                    "url": "https://github.com/Selectively11/macSteam"
                                 }
                             ]
                         },
@@ -101683,6 +101598,15 @@
                                 {
                                     "name": "haodoo",
                                     "url": "https://haodoo.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Wenku - Fiction / Non-fiction",
+                            "links": [
+                                {
+                                    "name": "Wenku",
+                                    "url": "https://wenku.mojimoon.top/"
                                 }
                             ]
                         },
@@ -110511,6 +110435,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Com-X - Comics",
+                            "links": [
+                                {
+                                    "name": "⁠Com-X",
+                                    "url": "https://com-x.life/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "mmnt - Document Search",
                             "links": [
                                 {
@@ -111387,6 +111320,15 @@
                             ]
                         },
                         {
+                            "full_text": "AnimeAV1 - Anime",
+                            "links": [
+                                {
+                                    "name": "AnimeAV1",
+                                    "url": "https://animeav1.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LaQuay TDT Channels - Live TV / Live Radio / IPTV / Castilian /",
                             "links": [
                                 {
@@ -112031,15 +111973,6 @@
                                 {
                                     "name": "veranimes",
                                     "url": "https://wwv.veranimes.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "animeav1 - Anime",
-                            "links": [
-                                {
-                                    "name": "animeav1",
-                                    "url": "https://animeav1.com/"
                                 }
                             ]
                         },
@@ -115042,6 +114975,15 @@
                                 {
                                     "name": "CloudHiker",
                                     "url": "https://cloudhiker.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OpenWeird - Find Random Strange Sites",
+                            "links": [
+                                {
+                                    "name": "⁠OpenWeird",
+                                    "url": "https://openweird.com/"
                                 }
                             ]
                         },
@@ -118473,7 +118415,7 @@
                             ]
                         },
                         {
-                            "full_text": "OpenStreetMap Tools - Resources / Features / Advanced Search / Advanced Editor / AI Editor / Overpass API GUI",
+                            "full_text": "OpenStreetMap Tools - Resources / Features / Advanced Search / Advanced Editor / AI Editor / ⁠Opening Hours Validation / Overpass API GUI",
                             "links": [
                                 {
                                     "name": "Resources",
@@ -118494,6 +118436,10 @@
                                 {
                                     "name": "AI Editor",
                                     "url": "https://rapideditor.org/"
+                                },
+                                {
+                                    "name": "⁠Opening Hours Validation",
+                                    "url": "https://opening-hours.pages.dev/"
                                 },
                                 {
                                     "name": "Overpass API GUI",
@@ -130626,6 +130572,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Fanlore - Fan Community Wiki",
+                            "links": [
+                                {
+                                    "name": "⁠Fanlore",
+                                    "url": "https://fanlore.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "The Cutting Room Floor - Unused Video Game Content Research",
                             "links": [
                                 {
@@ -136213,7 +136168,16 @@
                             ]
                         },
                         {
-                            "full_text": "MacType - Use Mac Fonts on Windows /",
+                            "full_text": "⁠FontWizard - Change Windows System Fonts",
+                            "links": [
+                                {
+                                    "name": "⁠FontWizard",
+                                    "url": "https://github.com/karnyadavdev/FontWizard"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MacType - macOS Style System Font for Windows /",
                             "links": [
                                 {
                                     "name": "MacType",
@@ -136578,6 +136542,15 @@
                                 {
                                     "name": "⁠Kawaii Hoshi",
                                     "url": "https://kawaiihoshi.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "4K Wallpapers - High Resolution Wallpapers",
+                            "links": [
+                                {
+                                    "name": "4K Wallpapers",
+                                    "url": "https://4kwallpapers.com/"
                                 }
                             ]
                         },
@@ -157559,11 +157532,15 @@
                             ]
                         },
                         {
-                            "full_text": "Morsecode World - Morse Code Translation Tools",
+                            "full_text": "Morsecode World or The Morse Lab - Morse Code Translation Tools",
                             "links": [
                                 {
                                     "name": "Morsecode World",
                                     "url": "https://morsecode.world/"
+                                },
+                                {
+                                    "name": "The Morse Lab",
+                                    "url": "https://themorselab.com/"
                                 }
                             ]
                         },
@@ -160262,6 +160239,15 @@
                                 {
                                     "name": "TadViewer",
                                     "url": "https://www.tadviewer.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠PerspectiveFix - Document Perspective Correction Tool",
+                            "links": [
+                                {
+                                    "name": "⁠PerspectiveFix",
+                                    "url": "https://perspectivefix.app/"
                                 }
                             ]
                         }
@@ -165510,6 +165496,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Game Boy Hardware Database - Game Boy Console & Cartridge Archive",
+                            "links": [
+                                {
+                                    "name": "⁠Game Boy Hardware Database",
+                                    "url": "https://gbhwdb.gekkio.fi/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Polish Pixels - Retro Polish Games Database",
                             "links": [
                                 {
@@ -168893,15 +168888,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "r/360Hacks Guide - Xbox 360 Modding Guides List",
-                            "links": [
-                                {
-                                    "name": "r/360Hacks Guide",
-                                    "url": "https://redd.it/8y9jql"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Team Resurgent - Xbox Homebrew Tools",
                             "links": [
                                 {
@@ -172070,6 +172056,313 @@
                     ]
                 },
                 {
+                    "heading": "Rhythm Tools",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "osu! Game Resources / or Useful Osu - Osu! Resources",
+                            "links": [
+                                {
+                                    "name": "osu! Game Resources",
+                                    "url": "https://resources.osucord.moe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/osucord/resources"
+                                },
+                                {
+                                    "name": "Useful Osu",
+                                    "url": "https://github.com/CarbonUwU/Useful-osu"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Browser Rhythm Games",
+                            "links": [
+                                {
+                                    "name": "Browser Rhythm Games",
+                                    "url": "https://fmhy.net/gaming/#rhythm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Clone Hero - Guitar Hero Clone / Wiki / Guides / Setlists , 2 / Custom Client /",
+                            "links": [
+                                {
+                                    "name": "Clone Hero",
+                                    "url": "https://clonehero.net/"
+                                },
+                                {
+                                    "name": "Wiki / Guides",
+                                    "url": "https://wiki.clonehero.net/"
+                                },
+                                {
+                                    "name": "Setlists",
+                                    "url": "https://rentry.co/FMHYB64#setlists"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://customsongscentral.com/"
+                                },
+                                {
+                                    "name": "Custom Client",
+                                    "url": "https://clonehero.scorespy.online"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Hsn4Cgu"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "YARG - Rock Band Clone / Launcher / /",
+                            "links": [
+                                {
+                                    "name": "YARG",
+                                    "url": "https://yarg.in/"
+                                },
+                                {
+                                    "name": "Launcher",
+                                    "url": "https://github.com/YARC-Official/YARC-Launcher/releases"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/sqpu4R552r"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/YARC-Official"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠YAVSRG (Interlude) - Rhythm Game Engine /",
+                            "links": [
+                                {
+                                    "name": "⁠YAVSRG (Interlude)",
+                                    "url": "https://www.yavsrg.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/tA22tWR"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Bridge - Download Charts for Rhythm Games /",
+                            "links": [
+                                {
+                                    "name": "Bridge",
+                                    "url": "https://github.com/Geomitron/Bridge"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/cqaUXGm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ITGmania - DDR Clone /",
+                            "links": [
+                                {
+                                    "name": "ITGmania",
+                                    "url": "https://www.itgmania.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/itgmania/itgmania"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "beatoraja - BMS Player as Alternative to IIDX / beatoraja English Guide",
+                            "links": [
+                                {
+                                    "name": "beatoraja",
+                                    "url": "https://mocha-repository.info/"
+                                },
+                                {
+                                    "name": "beatoraja English Guide",
+                                    "url": "https://github.com/wcko87/beatoraja-english-guide/wiki"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Unnamed SDVX clone - Sound Voltex Clone",
+                            "links": [
+                                {
+                                    "name": "Unnamed SDVX clone",
+                                    "url": "https://github.com/Drewol/unnamed-sdvx-clone"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenTaiko - Taiko no Tatsujin Clone / Taiko Simulator Guide /",
+                            "links": [
+                                {
+                                    "name": "OpenTaiko",
+                                    "url": "https://github.com/0auBSQ/OpenTaiko"
+                                },
+                                {
+                                    "name": "Taiko Simulator Guide",
+                                    "url": "https://guide.tjadataba.se/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/aA8scTvZ6B"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Etterna or Quaver / / - O2Jam Clones",
+                            "links": [
+                                {
+                                    "name": "Etterna",
+                                    "url": "https://etternaonline.com/"
+                                },
+                                {
+                                    "name": "Quaver",
+                                    "url": "https://quavergame.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/quaver"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Quaver"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "osu! / / , osu!droid / / or McOsu / - Osu! Tatakae! Ouendan Clones",
+                            "links": [
+                                {
+                                    "name": "osu!",
+                                    "url": "https://osu.ppy.sh/home"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/ppy"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ppy"
+                                },
+                                {
+                                    "name": "osu!droid",
+                                    "url": "https://osudroid.moe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/fAq9em8"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/osudroid/osu-droid"
+                                },
+                                {
+                                    "name": "McOsu",
+                                    "url": "https://store.steampowered.com/app/607260/McOsu/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3UQnt7X"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PPD - Project Diva Clone",
+                            "links": [
+                                {
+                                    "name": "PPD",
+                                    "url": "https://projectdxxx.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Rhythia - Sound Space Clone / / Wiki",
+                            "links": [
+                                {
+                                    "name": "Rhythia",
+                                    "url": "https://github.com/Rhythia/Client"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/rhythia"
+                                },
+                                {
+                                    "name": "Wiki",
+                                    "url": "https://wiki.rhythia.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cytoid - Cytus Clone /",
+                            "links": [
+                                {
+                                    "name": "Cytoid",
+                                    "url": "https://cytoid.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Cytoid/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Sonolus - Project Sekai Clone /",
+                            "links": [
+                                {
+                                    "name": "Sonolus",
+                                    "url": "https://sonolus.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Sonolus"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Collection Manager - Osu! Collection Manager",
+                            "links": [
+                                {
+                                    "name": "Collection Manager",
+                                    "url": "https://github.com/Piotrekol/CollectionManager"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "osu trainer - Osu! Trainer",
+                            "links": [
+                                {
+                                    "name": "osu trainer",
+                                    "url": "https://github.com/FunOrange/osu-trainer"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "danser-go - Osu! Dancing Visualizer",
+                            "links": [
+                                {
+                                    "name": "danser-go",
+                                    "url": "https://github.com/Wieku/danser-go"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SpinShare - Spin Rhythm XD Custom Charts",
+                            "links": [
+                                {
+                                    "name": "SpinShare",
+                                    "url": "https://spinsha.re/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Gacha Tools",
                     "level": "h3",
                     "text_explanations": [],
@@ -172910,23 +173203,6 @@
                             ]
                         },
                         {
-                            "full_text": "osu! Game Resources / or Useful Osu - Osu! Resources",
-                            "links": [
-                                {
-                                    "name": "osu! Game Resources",
-                                    "url": "https://resources.osucord.moe/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/osucord/resources"
-                                },
-                                {
-                                    "name": "Useful Osu",
-                                    "url": "https://github.com/CarbonUwU/Useful-osu"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "FM Scout - Football Manager Resources / Community",
                             "links": [
                                 {
@@ -173153,42 +173429,6 @@
                                 {
                                     "name": "WRCsetups",
                                     "url": "https://wrcsetups.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Collection Manager - Osu! Collection Manager",
-                            "links": [
-                                {
-                                    "name": "Collection Manager",
-                                    "url": "https://github.com/Piotrekol/CollectionManager"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "osu trainer - Osu! Trainer",
-                            "links": [
-                                {
-                                    "name": "osu trainer",
-                                    "url": "https://github.com/FunOrange/osu-trainer"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "danser-go - Osu! Dancing Visualizer",
-                            "links": [
-                                {
-                                    "name": "danser-go",
-                                    "url": "https://github.com/Wieku/danser-go"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SpinShare - Spin Rhythm XD Custom Charts",
-                            "links": [
-                                {
-                                    "name": "SpinShare",
-                                    "url": "https://spinsha.re/"
                                 }
                             ]
                         },
@@ -174432,6 +174672,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠GDTree - Geometry Dash Profile / Link in Bio",
+                            "links": [
+                                {
+                                    "name": "⁠GDTree",
+                                    "url": "https://gdtree.cc/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Global Stats Viewer or ⁠DashStats / - Global Stats / Leaderboards",
                             "links": [
                                 {
@@ -175582,6 +175831,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠BrainDeadBackgroundRemover - Background Remover /",
+                            "links": [
+                                {
+                                    "name": "⁠BrainDeadBackgroundRemover",
+                                    "url": "https://github.com/BizaNator/BrainDeadBackgroundRemover"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Segment Anything - Visual Segmentation /",
                             "links": [
                                 {
@@ -176625,6 +176883,19 @@
                                 {
                                     "name": "Pixelated",
                                     "url": "https://pixelated.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Xprite - Pixel Art Editor / /",
+                            "links": [
+                                {
+                                    "name": "⁠Xprite",
+                                    "url": "https://xprite.cc/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/rhinoc/xprite"
                                 }
                             ]
                         },
@@ -180944,6 +181215,15 @@
                                 {
                                     "name": "⁠Universal Sig Rotator",
                                     "url": "https://sig.grumpybumpers.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠PerspectiveFix - Perspective Correction Tool",
+                            "links": [
+                                {
+                                    "name": "⁠PerspectiveFix",
+                                    "url": "https://perspectivefix.app/"
                                 }
                             ]
                         },
@@ -186957,6 +187237,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠CYBROX - Multi-Site / Online",
+                            "links": [
+                                {
+                                    "name": "⁠CYBROX",
+                                    "url": "https://cybrox.pro/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "vdwn.cloud , 2 - Multi-Site / Online",
                             "links": [
                                 {
@@ -188341,7 +188630,7 @@
                             ]
                         },
                         {
-                            "full_text": "LibreSprite / , GraphicsGale , Poxil / , JPixel , Aseprite / Guide , SpriteSheep / , fizzy / Web App / , KPix or SpookyGhost - Pixel Art Animation Tools",
+                            "full_text": "LibreSprite / , GraphicsGale , Poxil / , JPixel , Aseprite / Guide , SpriteSheep / , fizzy / Web App / , KPix , ⁠Xprite / or SpookyGhost - Pixel Art Animation Tools",
                             "links": [
                                 {
                                     "name": "LibreSprite",
@@ -188398,6 +188687,14 @@
                                 {
                                     "name": "KPix",
                                     "url": "https://github.com/krush62/KPix"
+                                },
+                                {
+                                    "name": "⁠Xprite",
+                                    "url": "https://xprite.cc/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/rhinoc/xprite"
                                 },
                                 {
                                     "name": "SpookyGhost",
@@ -188944,7 +189241,7 @@
                             ]
                         },
                         {
-                            "full_text": "SoundCloud or ⁠soundcloak / Instances - User-Made & User-Uploaded Songs",
+                            "full_text": "SoundCloud or ⁠soundcloak / Instances - User-Made & User-Uploaded Songs / Account Manager",
                             "links": [
                                 {
                                     "name": "SoundCloud",
@@ -188957,6 +189254,10 @@
                                 {
                                     "name": "Instances",
                                     "url": "https://maid.zone/soundcloak/instances.html"
+                                },
+                                {
+                                    "name": "Account Manager",
+                                    "url": "https://github.com/Kuzuw/scam"
                                 }
                             ]
                         },
@@ -190158,11 +190459,19 @@
                             ]
                         },
                         {
-                            "full_text": "PodSync - Turn YouTube Video into Podcasts",
+                            "full_text": "PodSync or PigeonPod / - Turn YouTube/Bilibili Channels + Playlists into Podcasts",
                             "links": [
                                 {
                                     "name": "PodSync",
                                     "url": "https://github.com/mxpv/podsync"
+                                },
+                                {
+                                    "name": "PigeonPod",
+                                    "url": "https://pigeonpod.cloud/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/aizhimou/pigeon-pod"
                                 }
                             ]
                         },
@@ -191980,8 +192289,12 @@
                             ]
                         },
                         {
-                            "full_text": "Spotlistr - Platform-to-Spotify Playlist Converter",
+                            "full_text": "Playlister or Spotlistr - Platform-to-Spotify Playlist Converters",
                             "links": [
+                                {
+                                    "name": "Playlister",
+                                    "url": "https://playlister.cc/"
+                                },
                                 {
                                     "name": "Spotlistr",
                                     "url": "https://www.spotlistr.com/"
@@ -191989,7 +192302,7 @@
                             ]
                         },
                         {
-                            "full_text": "Playlistor - Convert Apple Music Playlists to Spotify",
+                            "full_text": "Playlistor - Apple-to-Spotify Playlist Converter",
                             "links": [
                                 {
                                     "name": "Playlistor",
@@ -192205,6 +192518,15 @@
                                 {
                                     "name": "vdwn.cloud",
                                     "url": "https://vdwn.cloud/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠CYBROX - Multi-Site / 320kb MP3",
+                            "links": [
+                                {
+                                    "name": "⁠CYBROX",
+                                    "url": "https://cybrox.pro/"
                                 }
                             ]
                         },
@@ -195220,7 +195542,7 @@
                             ]
                         },
                         {
-                            "full_text": "Musicroamer , Music Galaxy , Unchartify / , SAGE , LivePlasma or GNOD - Artist Discovery Tools",
+                            "full_text": "Musicroamer , Music Galaxy , ⁠Music Atlas , Unchartify / , SAGE , LivePlasma or GNOD - Artist Discovery Tools",
                             "links": [
                                 {
                                     "name": "Musicroamer",
@@ -195229,6 +195551,10 @@
                                 {
                                     "name": "Music Galaxy",
                                     "url": "https://galaxy.spotifytrack.net/"
+                                },
+                                {
+                                    "name": "⁠Music Atlas",
+                                    "url": "https://music-atlas.app/"
                                 },
                                 {
                                     "name": "Unchartify",
@@ -201143,6 +201469,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠How To Mechatronics - Tutorials / Guides for Mechatronics & Electronics",
+                            "links": [
+                                {
+                                    "name": "⁠How To Mechatronics",
+                                    "url": "https://howtomechatronics.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Robot Shop - Robotics Forum",
                             "links": [
                                 {
@@ -201222,11 +201557,15 @@
                             ]
                         },
                         {
-                            "full_text": "Falstad , SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
+                            "full_text": "Falstad , Altium , SKiDL / , atopile , EasyEDA or LibrePCB - Electronic Circuit Design / Simulation Tools",
                             "links": [
                                 {
                                     "name": "Falstad",
                                     "url": "https://www.falstad.com/circuit/"
+                                },
+                                {
+                                    "name": "Altium",
+                                    "url": "https://www.altium.com/viewer/"
                                 },
                                 {
                                     "name": "SKiDL",
@@ -205021,6 +205360,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Game Boy Hardware Database - Game Boy Console & Cartridge Archive",
+                            "links": [
+                                {
+                                    "name": "⁠Game Boy Hardware Database",
+                                    "url": "https://gbhwdb.gekkio.fi/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Web Rewind - Interactive Web History Journey",
                             "links": [
                                 {
@@ -207116,7 +207464,7 @@
                             ]
                         },
                         {
-                            "full_text": "Muted , Open Music Theory / 2 , Chromatone , Teoria , SimplifyingTheory , LightNote or Music Theory - Music Theory",
+                            "full_text": "Muted , Open Music Theory / 2 , Chromatone , Teoria , SimplifyingTheory , ⁠Teoria , LightNote or Music Theory - Music Theory Learning",
                             "links": [
                                 {
                                     "name": "Muted",
@@ -207141,6 +207489,10 @@
                                 {
                                     "name": "SimplifyingTheory",
                                     "url": "https://www.simplifyingtheory.com/"
+                                },
+                                {
+                                    "name": "⁠Teoria",
+                                    "url": "https://www.teoria.com/"
                                 },
                                 {
                                     "name": "LightNote",
@@ -209587,6 +209939,15 @@
                                 {
                                     "name": "Language Squad",
                                     "url": "https://www.languagesquad.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Elara Archive - Endangered Language Video + Audio Archive",
+                            "links": [
+                                {
+                                    "name": "⁠Elara Archive",
+                                    "url": "https://www.elararchive.org/"
                                 }
                             ]
                         },
@@ -212970,11 +213331,15 @@
                             ]
                         },
                         {
-                            "full_text": "Learn to Code HTML & CSS , CSS Tip or ⁠HTML Hobbyist - HTML/CSS Learning Sites",
+                            "full_text": "Learn to Code HTML & CSS , ⁠CSS Tricks , CSS Tip or ⁠HTML Hobbyist - HTML/CSS Learning Sites",
                             "links": [
                                 {
                                     "name": "Learn to Code HTML & CSS",
                                     "url": "https://learn.shayhowe.com/"
+                                },
+                                {
+                                    "name": "⁠CSS Tricks",
+                                    "url": "https://css-tricks.com/"
                                 },
                                 {
                                     "name": "CSS Tip",
@@ -215212,6 +215577,15 @@
                                     "url": "https://www.deep-ml.com/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "Wolfram Cloud - Computational Intelligence",
+                            "links": [
+                                {
+                                    "name": "Wolfram Cloud",
+                                    "url": "https://www.wolframcloud.com/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -215834,59 +216208,6 @@
                             ]
                         },
                         {
-                            "full_text": "Better Canvas - Canvas Enhancement Extension",
-                            "links": [
-                                {
-                                    "name": "Better Canvas",
-                                    "url": "https://github.com/UseBetterCanvas/bettercanvas"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ImageJ / Web or Fiji - Scientific Image Analyzers",
-                            "links": [
-                                {
-                                    "name": "ImageJ",
-                                    "url": "https://imagej.net/"
-                                },
-                                {
-                                    "name": "Web",
-                                    "url": "https://ij.imjoy.io/"
-                                },
-                                {
-                                    "name": "Fiji",
-                                    "url": "https://fiji.sc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Altium - Schematics Visualizer",
-                            "links": [
-                                {
-                                    "name": "Altium",
-                                    "url": "https://www.altium.com/viewer/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Wolfram Cloud - Computational Intelligence",
-                            "links": [
-                                {
-                                    "name": "Wolfram Cloud",
-                                    "url": "https://www.wolframcloud.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GradesFixer - Essay Samples",
-                            "links": [
-                                {
-                                    "name": "GradesFixer",
-                                    "url": "https://www.gradesfixer.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Edu VPN - Institute Access VPN",
                             "links": [
                                 {
@@ -215901,6 +216222,62 @@
                                 {
                                     "name": "BachelorStudies",
                                     "url": "https://bachelorstudies.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Niche , TheUniGuide , Alumnius or Top Universities - University / School Comparisons",
+                            "links": [
+                                {
+                                    "name": "Niche",
+                                    "url": "https://www.niche.com/"
+                                },
+                                {
+                                    "name": "TheUniGuide",
+                                    "url": "https://www.theuniguide.co.uk/"
+                                },
+                                {
+                                    "name": "Alumnius",
+                                    "url": "https://alumnius.net/"
+                                },
+                                {
+                                    "name": "Top Universities",
+                                    "url": "https://www.topuniversities.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RateMyDorm or :) - College Dorm Reviews",
+                            "links": [
+                                {
+                                    "name": "RateMyDorm",
+                                    "url": "https://ratemydorm.com"
+                                },
+                                {
+                                    "name": ":)",
+                                    "url": "https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RateMyProfessor - Professor Ratings",
+                            "links": [
+                                {
+                                    "name": "RateMyProfessor",
+                                    "url": "https://www.ratemyprofessors.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ExpertFile or ExpertiseFinder - Industry / Academic Expert Search",
+                            "links": [
+                                {
+                                    "name": "ExpertFile",
+                                    "url": "https://expertfile.com/"
+                                },
+                                {
+                                    "name": "ExpertiseFinder",
+                                    "url": "https://expertisefinder.com/"
                                 }
                             ]
                         },
@@ -215935,67 +216312,11 @@
                             ]
                         },
                         {
-                            "full_text": "Niche , TheUniGuide , Alumnius or Top Universities - University / School Comparisons",
-                            "links": [
-                                {
-                                    "name": "Niche",
-                                    "url": "https://www.niche.com/"
-                                },
-                                {
-                                    "name": "TheUniGuide",
-                                    "url": "https://www.theuniguide.co.uk/"
-                                },
-                                {
-                                    "name": "Alumnius",
-                                    "url": "https://alumnius.net/"
-                                },
-                                {
-                                    "name": "Top Universities",
-                                    "url": "https://www.topuniversities.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠CSRankings - Publication Activity of Computer Science Colleges per Topic",
                             "links": [
                                 {
                                     "name": "⁠CSRankings",
                                     "url": "https://csrankings.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ExpertFile or ExpertiseFinder - Industry / Academic Expert Search",
-                            "links": [
-                                {
-                                    "name": "ExpertFile",
-                                    "url": "https://expertfile.com/"
-                                },
-                                {
-                                    "name": "ExpertiseFinder",
-                                    "url": "https://expertisefinder.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RateMyDorm or :) - College Dorm Reviews",
-                            "links": [
-                                {
-                                    "name": "RateMyDorm",
-                                    "url": "https://ratemydorm.com"
-                                },
-                                {
-                                    "name": ":)",
-                                    "url": "https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RateMyProfessor - Professor Ratings",
-                            "links": [
-                                {
-                                    "name": "RateMyProfessor",
-                                    "url": "https://www.ratemyprofessors.com/"
                                 }
                             ]
                         },
@@ -216136,33 +216457,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠StudyKit - Online Study Tools",
-                            "links": [
-                                {
-                                    "name": "⁠StudyKit",
-                                    "url": "https://studytoolkit.vercel.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Studyn - Discord Bot w/ Study Tracking, Stats, Anki Integration and more",
-                            "links": [
-                                {
-                                    "name": "⁠Studyn",
-                                    "url": "https://studyn.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Study Together - Study / Productivity Focused Server",
-                            "links": [
-                                {
-                                    "name": "⁠Study Together",
-                                    "url": "https://discord.gg/study"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Graded - Grades Tracker /",
                             "links": [
                                 {
@@ -216181,11 +216475,56 @@
                             ]
                         },
                         {
+                            "full_text": "⁠StudyKit - Online Study Tools",
+                            "links": [
+                                {
+                                    "name": "⁠StudyKit",
+                                    "url": "https://studytoolkit.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MammothMemory - Visual Memory-Based Solutions",
+                            "links": [
+                                {
+                                    "name": "MammothMemory",
+                                    "url": "https://mammothmemory.net/index.html"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cheatography - Educational Cheat Sheets",
+                            "links": [
+                                {
+                                    "name": "Cheatography",
+                                    "url": "https://cheatography.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GradesFixer - Essay Samples",
+                            "links": [
+                                {
+                                    "name": "GradesFixer",
+                                    "url": "https://www.gradesfixer.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LearnedEasy - Create Summaries / Quizzes from Books",
                             "links": [
                                 {
                                     "name": "LearnedEasy",
                                     "url": "https://learnedeasy.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Free Numerade Videos - Homework Help Videos",
+                            "links": [
+                                {
+                                    "name": "⁠Free Numerade Videos",
+                                    "url": "https://discord.gg/nEYfaceEcU"
                                 }
                             ]
                         },
@@ -216203,33 +216542,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Free Numerade Videos - Homework Help Videos",
-                            "links": [
-                                {
-                                    "name": "⁠Free Numerade Videos",
-                                    "url": "https://discord.gg/nEYfaceEcU"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MammothMemory - Visual Memory-Based Solutions",
-                            "links": [
-                                {
-                                    "name": "MammothMemory",
-                                    "url": "https://mammothmemory.net/index.html"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Modern Classroom - Improved Google Classroom Extension",
-                            "links": [
-                                {
-                                    "name": "⁠Modern Classroom",
-                                    "url": "https://chromewebstore.google.com/detail/modern-classroom/bbeejocagpeechkgliijfedcbeggncne"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "StudyStream or ⁠Yeolpumta - Online Study Groups",
                             "links": [
                                 {
@@ -216243,6 +216555,24 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Study Together - Study / Productivity Focused Server",
+                            "links": [
+                                {
+                                    "name": "⁠Study Together",
+                                    "url": "https://discord.gg/study"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Studyn - Discord Bot w/ Study Tracking, Stats, Anki Integration and more",
+                            "links": [
+                                {
+                                    "name": "⁠Studyn",
+                                    "url": "https://studyn.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Space Finder - UK Study Space Search",
                             "links": [
                                 {
@@ -216252,11 +216582,20 @@
                             ]
                         },
                         {
-                            "full_text": "Cheatography - Educational Cheat Sheets",
+                            "full_text": "⁠Modern Classroom - Google Classroom Enhancement Extension",
                             "links": [
                                 {
-                                    "name": "Cheatography",
-                                    "url": "https://cheatography.com/"
+                                    "name": "⁠Modern Classroom",
+                                    "url": "https://chromewebstore.google.com/detail/modern-classroom/bbeejocagpeechkgliijfedcbeggncne"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Better Canvas - Canvas Enhancement Extension",
+                            "links": [
+                                {
+                                    "name": "Better Canvas",
+                                    "url": "https://github.com/UseBetterCanvas/bettercanvas"
                                 }
                             ]
                         }
@@ -216346,11 +216685,140 @@
                             ]
                         },
                         {
+                            "full_text": "Lurnby - Research Highlighting Tool /",
+                            "links": [
+                                {
+                                    "name": "Lurnby",
+                                    "url": "https://www.lurnby.com"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Roznoshchik/Lurnby"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Co-STORM - Generate Scientific Articles",
                             "links": [
                                 {
                                     "name": "Co-STORM",
                                     "url": "https://storm.genie.stanford.edu/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenRefine - Data Cleaning",
+                            "links": [
+                                {
+                                    "name": "OpenRefine",
+                                    "url": "https://openrefine.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ImageJ / Web or Fiji - Scientific Image Analyzers",
+                            "links": [
+                                {
+                                    "name": "ImageJ",
+                                    "url": "https://imagej.net/"
+                                },
+                                {
+                                    "name": "Web",
+                                    "url": "https://ij.imjoy.io/"
+                                },
+                                {
+                                    "name": "Fiji",
+                                    "url": "https://fiji.sc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Foam - Knowledge Management System",
+                            "links": [
+                                {
+                                    "name": "Foam",
+                                    "url": "https://foambubble.github.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zotero - Research Assistant",
+                            "links": [
+                                {
+                                    "name": "Zotero",
+                                    "url": "https://www.zotero.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Scrible - Research / Writing Platform",
+                            "links": [
+                                {
+                                    "name": "Scrible",
+                                    "url": "https://www.scrible.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CATMA - Research Markup & Analysis Tool",
+                            "links": [
+                                {
+                                    "name": "CATMA",
+                                    "url": "https://catma.de/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GROBID - Extract / Organize Scientific Document Info",
+                            "links": [
+                                {
+                                    "name": "GROBID",
+                                    "url": "https://grobid.readthedocs.io"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "General Index - Article Metadata Mining Project",
+                            "links": [
+                                {
+                                    "name": "General Index",
+                                    "url": "https://archive.org/details/GeneralIndex"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Papertag - Attach Digital Content to Paper",
+                            "links": [
+                                {
+                                    "name": "Papertag",
+                                    "url": "https://www.papertag.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Taguette - Data Analysis Document Tagging",
+                            "links": [
+                                {
+                                    "name": "Taguette",
+                                    "url": "https://app.taguette.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Inciteful - Find Connected Literature via Citations",
+                            "links": [
+                                {
+                                    "name": "Inciteful",
+                                    "url": "https://incitefulmed.com/academic/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Publish or Perish - Citation Analyzer",
+                            "links": [
+                                {
+                                    "name": "Publish or Perish",
+                                    "url": "https://harzing.com/resources/publish-or-perish"
                                 }
                             ]
                         },
@@ -216400,24 +216868,6 @@
                             ]
                         },
                         {
-                            "full_text": "Publish or Perish - Citation Analyzer",
-                            "links": [
-                                {
-                                    "name": "Publish or Perish",
-                                    "url": "https://harzing.com/resources/publish-or-perish"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Inciteful - Find Connected Literature via Citations",
-                            "links": [
-                                {
-                                    "name": "Inciteful",
-                                    "url": "https://incitefulmed.com/academic/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "PlagiarismDetector or Duplichecker - Plagiarism Checkers",
                             "links": [
                                 {
@@ -216427,100 +216877,6 @@
                                 {
                                     "name": "Duplichecker",
                                     "url": "https://www.duplichecker.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GROBID - Extract / Organize Scientific Document Info",
-                            "links": [
-                                {
-                                    "name": "GROBID",
-                                    "url": "https://grobid.readthedocs.io"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Foam - Knowledge Management System",
-                            "links": [
-                                {
-                                    "name": "Foam",
-                                    "url": "https://foambubble.github.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zotero - Research Assistant",
-                            "links": [
-                                {
-                                    "name": "Zotero",
-                                    "url": "https://www.zotero.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CATMA - Research Markup & Analysis Tool",
-                            "links": [
-                                {
-                                    "name": "CATMA",
-                                    "url": "https://catma.de/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Scrible - Research / Writing Platform",
-                            "links": [
-                                {
-                                    "name": "Scrible",
-                                    "url": "https://www.scrible.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "OpenRefine - Data Cleaning",
-                            "links": [
-                                {
-                                    "name": "OpenRefine",
-                                    "url": "https://openrefine.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Taguette - Data Analysis Document Tagging",
-                            "links": [
-                                {
-                                    "name": "Taguette",
-                                    "url": "https://app.taguette.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Lurnby - Research Highlighting Tool /",
-                            "links": [
-                                {
-                                    "name": "Lurnby",
-                                    "url": "https://www.lurnby.com"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Roznoshchik/Lurnby"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "General Index - Article Metadata Mining Project",
-                            "links": [
-                                {
-                                    "name": "General Index",
-                                    "url": "https://archive.org/details/GeneralIndex"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Papertag - Attach Digital Content to Paper",
-                            "links": [
-                                {
-                                    "name": "Papertag",
-                                    "url": "https://www.papertag.app/"
                                 }
                             ]
                         }
@@ -218482,7 +218838,7 @@
                             ]
                         },
                         {
-                            "full_text": "Android Studio - App Creator / Builder",
+                            "full_text": "Android Studio - Android App Creator / Builder",
                             "links": [
                                 {
                                     "name": "Android Studio",
@@ -218606,6 +218962,19 @@
                                 {
                                     "name": "React Native Apps",
                                     "url": "https://github.com/ReactNativeNews/React-Native-Apps/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "xtool - iOS App Creator / Builder /",
+                            "links": [
+                                {
+                                    "name": "xtool",
+                                    "url": "https://xtool.sh/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/xtool-org/xtool"
                                 }
                             ]
                         },
@@ -218898,7 +219267,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠git.gay , GitHub.com , ⁠CodeFloe , ⁠Tangled / , GitLab , Radicle , ⁠Upd.dev , Codeberg / Matrix , git.sr.ht , GitGud or Notabug - Git Hosting Services",
+                            "full_text": "⁠git.gay , GitHub.com , ⁠CodeFloe , ⁠Tangled / , GitLab , Radicle , ⁠Upd.dev , Codeberg / Matrix , git.sr.ht , GitGud.io , GitGud or Notabug - Git Hosting Services",
                             "links": [
                                 {
                                     "name": "⁠git.gay",
@@ -218943,6 +219312,10 @@
                                 {
                                     "name": "git.sr.ht",
                                     "url": "https://git.sr.ht/"
+                                },
+                                {
+                                    "name": "GitGud.io",
+                                    "url": "https://fanlore.org/"
                                 },
                                 {
                                     "name": "GitGud",
@@ -222922,6 +223295,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Which AI Made This? - Compare AI Model Frontend + Motion Designs /",
+                            "links": [
+                                {
+                                    "name": "⁠Which AI Made This?",
+                                    "url": "https://www.whichai.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/SunkenInTime/which-ai"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠book-to-skill - Convert Technical Books / Documents to Agent Skills",
                             "links": [
                                 {
@@ -223894,14 +224280,14 @@
                             ]
                         },
                         {
-                            "full_text": "CSS Cheat Sheet or CSS Tricks - CSS Cheat Sheets",
+                            "full_text": "CSS Cheat Sheet or CSS Tricks (Snippets) - CSS Cheat Sheets",
                             "links": [
                                 {
                                     "name": "CSS Cheat Sheet",
                                     "url": "https://docs.emmet.io/cheat-sheet/"
                                 },
                                 {
-                                    "name": "CSS Tricks",
+                                    "name": "CSS Tricks (Snippets)",
                                     "url": "https://css-tricks.com/snippets/"
                                 }
                             ]
@@ -225625,6 +226011,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠mkdir - Web Design Inspiration Site Index",
+                            "links": [
+                                {
+                                    "name": "⁠mkdir",
+                                    "url": "https://mkdir.directory/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Awesome Web Animation - Web Animation Resources",
                             "links": [
                                 {
@@ -226047,6 +226442,19 @@
                                 {
                                     "name": "PicSum",
                                     "url": "https://picsum.photos/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠BlurHash - Compact Representation Algorithm for Image Placeholders /",
+                            "links": [
+                                {
+                                    "name": "⁠BlurHash",
+                                    "url": "https://blurha.sh/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/woltapp/blurhash"
                                 }
                             ]
                         },
@@ -229756,6 +230164,12 @@
                     ]
                 },
                 {
+                    "heading": "Malicious File Hosts",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": []
+                },
+                {
                     "heading": "Fake Z-Lib Sites",
                     "level": "h3",
                     "text_explanations": [],
@@ -229791,6 +230205,51 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Binged / Beta - TV / Sports (Removed in 1208008 )",
+                            "links": [
+                                {
+                                    "name": "1208008",
+                                    "url": "https://github.com/fmhy/edit/commit/1208008be89cc87761a42c7bfe8525b3821966c2#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL559"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "r/360Hacks Guide - Xbox 360 Modding Guides List (Removed in e092b2d )",
+                            "links": [
+                                {
+                                    "name": "e092b2d",
+                                    "url": "https://github.com/fmhy/edit/commit/e092b2d2b2cf702d11ad830a8bb05b14c92eb012#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L655"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MacSteam - Steam Game + DLC Unlocker (Removed in e092b2d )",
+                            "links": [
+                                {
+                                    "name": "e092b2d",
+                                    "url": "https://github.com/fmhy/edit/commit/e092b2d2b2cf702d11ad830a8bb05b14c92eb012#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL741"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Multi-Up - 10 GB (Removed in e092b2d )",
+                            "links": [
+                                {
+                                    "name": "e092b2d",
+                                    "url": "https://github.com/fmhy/edit/commit/e092b2d2b2cf702d11ad830a8bb05b14c92eb012#diff-0a2b098c65369f9d8199ca389cf876db0e18de3d9c02a5ad677cd806c2a3ac85L128"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Enma - Sub / Dub / Auto-Next (Removed in e092b2d )",
+                            "links": [
+                                {
+                                    "name": "e092b2d",
+                                    "url": "https://github.com/fmhy/edit/commit/e092b2d2b2cf702d11ad830a8bb05b14c92eb012#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL381"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Check My Links - Check for Broken Links (Removed in fe6cb39 )",
                             "links": [
@@ -232180,6 +232639,15 @@
                             ]
                         },
                         {
+                            "full_text": "MultiUp.io (use uBlock) / Extract / Upload / Discord or Mirrored.to - Multi Host Uploaders (Removed in 1bb336d : removed the rest of the malicious file hosts)",
+                            "links": [
+                                {
+                                    "name": "1bb336d",
+                                    "url": "https://github.com/fmhy/edit/commit/1bb336d70dd8b431c8a4f21043c0534a73fd448b#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL405"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠IUMB - AI Mathematics Benchmarks / Leaderboard (Removed in 0bcec9b )",
                             "links": [
                                 {
@@ -232374,33 +232842,6 @@
                                 {
                                     "name": "b6a608a",
                                     "url": "https://github.com/fmhy/edit/commit/b6a608af29e228ad7d2df540e799811c427e9d2a#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL973"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠ancientgreek.jean.land - Ancient Greek Learning Site (Removed in f38b081 : updateed 21 pages)",
-                            "links": [
-                                {
-                                    "name": "f38b081",
-                                    "url": "https://github.com/fmhy/edit/commit/f38b081d7c707f16fbdf5bc25a36b7ee36ddd073#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1240"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "byp4xx - Bypass \"403 Forbidden\" Errors (Removed in f38b081 : updateed 21 pages)",
-                            "links": [
-                                {
-                                    "name": "f38b081",
-                                    "url": "https://github.com/fmhy/edit/commit/f38b081d7c707f16fbdf5bc25a36b7ee36ddd073#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L13"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Dramacool - TV / Movies (Removed in f38b081 : updateed 21 pages)",
-                            "links": [
-                                {
-                                    "name": "f38b081",
-                                    "url": "https://github.com/fmhy/edit/commit/f38b081d7c707f16fbdf5bc25a36b7ee36ddd073#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL451"
                                 }
                             ]
                         }
@@ -232607,7 +233048,7 @@
                     "heading": "Design Resources",
                     "level": "h2",
                     "text_explanations": [
-                        "design-resources-for-developers,Freebies.ByPeople,Design Bundles,Design Resources,GraphicsFuel,Pixeden,Interfacer,Freebiesbug,Creative Fabrica,Toools.design/2/3,Evernote.Design,GFXTRA,XSGames,design.dev,UI STORE DESIGN,Pixelbuddha,squax,𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕,all 4 designer,GFXMountain,degreeless,CraftWork,Delightful Creative Tools"
+                        "design-resources-for-developers,Freebies.ByPeople,Design Bundles,Design Resources,GraphicsFuel,Pixeden,Interfacer,Freebiesbug,Creative Fabrica,Toools.design/2/3,Evernote.Design,GFXTRA,XSGames,design.dev,UI STORE DESIGN,Pixelbuddha,squax,𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕,all 4 designer,GFXMountain,degreeless,CraftWork,Delightful Creative Tools,⁠DesignEng"
                     ],
                     "resource_items": [
                         {
