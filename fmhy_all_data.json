@@ -262,7 +262,7 @@
                             "links": [
                                 {
                                     "name": "⁠ArchiveTune",
-                                    "url": "https://archivetune.koiiverse.cloud/"
+                                    "url": "https://archivetune.miuka.moe/"
                                 },
                                 {
                                     "name": "Morphe",
@@ -803,7 +803,7 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Make sure it's not already in the wiki. The easiest way to do this is to check our Single Page / 2 using ctrl+f .",
+                            "full_text": "Make sure it's not already in the wiki. The easiest way to do this is to check our Single Page / 2 using Ctrl+F .",
                             "links": [
                                 {
                                     "name": "Single Page",
@@ -1770,6 +1770,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/zYTM3rZM4T"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Detect It Easy - File Identification + Static Inspection Tool",
+                            "links": [
+                                {
+                                    "name": "Detect It Easy",
+                                    "url": "https://github.com/horsicq/detect-it-easy"
                                 }
                             ]
                         },
@@ -6378,15 +6387,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Tryingopen - DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Kimi K3 / Unlimited (12 per chat) / OpenAI Bridge",
+                            "full_text": "⁠Tryingopen - DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Kimi K3 / Unlimited (12 per chat)",
                             "links": [
                                 {
                                     "name": "⁠Tryingopen",
                                     "url": "https://www.tryingopen.com/"
-                                },
-                                {
-                                    "name": "OpenAI Bridge",
-                                    "url": "https://github.com/khrotu/radio-house-api"
                                 }
                             ]
                         },
@@ -7360,7 +7365,7 @@
                             ]
                         },
                         {
-                            "full_text": "Perchance , 2 or Custom API - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / Resources / Lemmy / /",
+                            "full_text": "Perchance , 2 , 3 or Custom API - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / Resources / Lemmy / /",
                             "links": [
                                 {
                                     "name": "Perchance",
@@ -7369,6 +7374,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://perchance.org/urv-ai-chat"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://perchance.org/aschat"
                                 },
                                 {
                                     "name": "Custom API",
@@ -10776,6 +10785,19 @@
                             ]
                         },
                         {
+                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Streamo",
+                                    "url": "https://streamo.st/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/5pujSb9mh"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ArrowTV , 2 or Cinezo , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -10823,19 +10845,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/kPJ2yJxYng"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Streamo",
-                                    "url": "https://streamo.st/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/5pujSb9mh"
                                 }
                             ]
                         },
@@ -11400,6 +11409,15 @@
                             ]
                         },
                         {
+                            "full_text": "Zoryva X - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Zoryva X",
+                                    "url": "https://zoryva.me/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PopcornTime - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11706,6 +11724,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Cno.tv - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Cno.tv",
+                                    "url": "https://cno.to/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "NEPU , 2 , 3 , 4 - Movies / TV / Anime / Auto-Next / 4K / Status /",
                             "links": [
                                 {
@@ -11731,19 +11758,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nepu"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "EE3 or RIPS - Movies / Invite Codes: mpgh or 1hack / Requires Sign-Up",
-                            "links": [
-                                {
-                                    "name": "EE3",
-                                    "url": "https://ee3.me/"
-                                },
-                                {
-                                    "name": "RIPS",
-                                    "url": "https://rips.cc/"
                                 }
                             ]
                         },
@@ -12229,7 +12243,7 @@
                             ]
                         },
                         {
-                            "full_text": "Vidbox , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
+                            "full_text": "Vidbox , 2 , 3 , 4 - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
                                     "name": "Vidbox",
@@ -12242,6 +12256,10 @@
                                 {
                                     "name": "3",
                                     "url": "https://hotflix.to/"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://vidbox.wtf/"
                                 },
                                 {
                                     "name": "Status",
@@ -14276,6 +14294,15 @@
                             ]
                         },
                         {
+                            "full_text": "Senshi - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Senshi",
+                                    "url": "https://senshi.to/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠JustAnime - Sub / Dub / Auto-Next / Mirrors / /",
                             "links": [
                                 {
@@ -14392,15 +14419,6 @@
                             ]
                         },
                         {
-                            "full_text": "Senshi - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Senshi",
-                                    "url": "https://senshi.to/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "AniZone - Sub",
                             "links": [
                                 {
@@ -14440,11 +14458,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Anime Nexus - Sub / Dub",
+                            "full_text": "⁠Anime Nexus - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
                                     "name": "⁠Anime Nexus",
                                     "url": "https://anime.nexus/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/cDZwX3XEkc"
                                 }
                             ]
                         },
@@ -16935,7 +16957,7 @@
                             "links": [
                                 {
                                     "name": "⁠CMVTV",
-                                    "url": "https://cmvlr.lovable.app/"
+                                    "url": "https://cmvh.lovable.app/"
                                 },
                                 {
                                     "name": "Status",
@@ -23175,6 +23197,15 @@
                                     "url": "https://muffon.netlify.app/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠Squidify Desktop - Game & Anime Soundtracks Streaming App",
+                            "links": [
+                                {
+                                    "name": "⁠Squidify Desktop",
+                                    "url": "https://github.com/kobayashi90/squidify-desktop"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -28433,7 +28464,7 @@
                             ]
                         },
                         {
-                            "full_text": "Squidify , 2 - Game / Anime Soundtracks",
+                            "full_text": "Squidify , 2 - Game / Anime Soundtracks / Desktop",
                             "links": [
                                 {
                                     "name": "Squidify",
@@ -28442,6 +28473,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://www.squidify.net/"
+                                },
+                                {
+                                    "name": "Desktop",
+                                    "url": "https://github.com/kobayashi90/squidify-desktop"
                                 }
                             ]
                         },
@@ -34799,6 +34834,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Awesome Decomp Games - Game Decompilations / Ports",
+                            "links": [
+                                {
+                                    "name": "⁠Awesome Decomp Games",
+                                    "url": "https://github.com/SubmitGame/awesome-decomp-games"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠PortsDR - Game Decompilations / Ports",
                             "links": [
                                 {
@@ -34822,6 +34866,15 @@
                                 {
                                     "name": "GameTechWiki Ports",
                                     "url": "https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠recomp.fyi - Recomp Status Tracker",
+                            "links": [
+                                {
+                                    "name": "⁠recomp.fyi",
+                                    "url": "https://recomp.fyi/"
                                 }
                             ]
                         },
@@ -37124,6 +37177,15 @@
                                 {
                                     "name": "NXbrew",
                                     "url": "https://nxbrew.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "NSWPURE - ROMs / Switch",
+                            "links": [
+                                {
+                                    "name": "NSWPURE",
+                                    "url": "https://nswpure.com/"
                                 }
                             ]
                         },
@@ -41280,96 +41342,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Eaglercraft / , Eaglercraft.dev , q13x's Distros , MessCraft / Site List / , Hiracraft , WebMC / 2 / 3 , Classic Launcher , EaglerCraftX or Minecraft Classic - Online Browser Minecraft /",
-                            "links": [
-                                {
-                                    "name": "Eaglercraft",
-                                    "url": "https://eaglercraft.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/yxpa55BahB"
-                                },
-                                {
-                                    "name": "Eaglercraft.dev",
-                                    "url": "https://eaglercraft.dev/"
-                                },
-                                {
-                                    "name": "q13x's Distros",
-                                    "url": "https://eaglercraft.q13x.com/"
-                                },
-                                {
-                                    "name": "MessCraft",
-                                    "url": "https://mess.eu.org/"
-                                },
-                                {
-                                    "name": "Site List",
-                                    "url": "https://deev.is/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/kbzUdZQWgd"
-                                },
-                                {
-                                    "name": "Hiracraft",
-                                    "url": "https://craft.hira.im/"
-                                },
-                                {
-                                    "name": "WebMC",
-                                    "url": "https://webmc.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://webmc.colbster937.dev/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://webmc-launcher.vercel.app/"
-                                },
-                                {
-                                    "name": "Classic Launcher",
-                                    "url": "https://radmanplays.github.io/classic-launcher/"
-                                },
-                                {
-                                    "name": "EaglerCraftX",
-                                    "url": "https://client.eaglercraft.win/"
-                                },
-                                {
-                                    "name": "Minecraft Classic",
-                                    "url": "https://classic.minecraft.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Eaglercraft Tools - Mod Loader / Create Mods , 2 / Public Servers / Improved Servers , 2",
-                            "links": [
-                                {
-                                    "name": "Mod Loader",
-                                    "url": "https://eaglerforge.github.io/"
-                                },
-                                {
-                                    "name": "Create Mods",
-                                    "url": "https://eaglerforge-builder.vercel.app/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://eaglerforge.github.io/EaglerForgeBuilderNew/"
-                                },
-                                {
-                                    "name": "Public Servers",
-                                    "url": "https://topeaglerservers.com/"
-                                },
-                                {
-                                    "name": "Improved Servers",
-                                    "url": "https://github.com/lax1dude/eaglerxserver"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://modrinth.com/organization/eaglercraftxserver"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "NetGames - Multiple Games /",
                             "links": [
                                 {
@@ -41544,31 +41516,6 @@
                             ]
                         },
                         {
-                            "full_text": "Bloxd / Texture Editor / Assets / or MiniBlox / - Online Minecraft Clones",
-                            "links": [
-                                {
-                                    "name": "Bloxd",
-                                    "url": "https://bloxd.io/"
-                                },
-                                {
-                                    "name": "Texture Editor / Assets",
-                                    "url": "https://www.bloxdforge.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/vwMp5y25RX"
-                                },
-                                {
-                                    "name": "MiniBlox",
-                                    "url": "https://miniblox.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/nAwzkUJNmb"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "PandaBomber or Game Of Bombs / - Multiplayer Bomberman Style Games",
                             "links": [
                                 {
@@ -41634,6 +41581,15 @@
                                 {
                                     "name": "Slither.io",
                                     "url": "http://slither.com/io"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Neon Wardens - Multiplayer Elemental Tower Defense",
+                            "links": [
+                                {
+                                    "name": "⁠Neon Wardens",
+                                    "url": "https://neonwardens.com/"
                                 }
                             ]
                         },
@@ -41872,6 +41828,200 @@
                                 {
                                     "name": "tix.tax",
                                     "url": "https://tix.tax/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Browser Minecraft",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Top Eaglercraft Servers - Public Eaglercraft Server List",
+                            "links": [
+                                {
+                                    "name": "Top Eaglercraft Servers",
+                                    "url": "https://topeaglerservers.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Eaglercraft - Browser-Based Minecraft / /",
+                            "links": [
+                                {
+                                    "name": "Eaglercraft",
+                                    "url": "https://eaglercraft.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/yxpa55BahB"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "q13x's Distros - Custom Eaglercraft Clients",
+                            "links": [
+                                {
+                                    "name": "q13x's Distros",
+                                    "url": "https://eaglercraft.q13x.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Eaglercraft.dev - Eaglercraft Client Directory & Launcher",
+                            "links": [
+                                {
+                                    "name": "Eaglercraft.dev",
+                                    "url": "https://eaglercraft.dev/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WebMC , 2 , 3 - Eaglercraft Multi-Version Launcher",
+                            "links": [
+                                {
+                                    "name": "WebMC",
+                                    "url": "https://webmc.xyz/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://webmc.colbster937.dev/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://webmc-launcher.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EaglerCraftX - Eaglercraft Mirror / Alt Versions",
+                            "links": [
+                                {
+                                    "name": "EaglerCraftX",
+                                    "url": "https://client.eaglercraft.win/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MessCraft - Eaglercraft Server Network / Site List /",
+                            "links": [
+                                {
+                                    "name": "MessCraft",
+                                    "url": "https://mess.eu.org/"
+                                },
+                                {
+                                    "name": "Site List",
+                                    "url": "https://deev.is/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/kbzUdZQWgd"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hiracraft - Eaglercraft Mirror",
+                            "links": [
+                                {
+                                    "name": "Hiracraft",
+                                    "url": "https://craft.hira.im/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Classic Launcher or Minecraft Classic - Browser-Based Pre-Classic / Classic Minecraft",
+                            "links": [
+                                {
+                                    "name": "Classic Launcher",
+                                    "url": "https://radmanplays.github.io/classic-launcher/"
+                                },
+                                {
+                                    "name": "Minecraft Classic",
+                                    "url": "https://classic.minecraft.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ClassiCube - Browser-Based Minecraft Clone / /",
+                            "links": [
+                                {
+                                    "name": "ClassiCube",
+                                    "url": "https://www.classicube.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/DvYYyRw"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/UnknownShadow200/ClassiCube"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Bloxd - Browser-Based Minecraft Clone / Texture Editor / Assets /",
+                            "links": [
+                                {
+                                    "name": "Bloxd",
+                                    "url": "https://bloxd.io/"
+                                },
+                                {
+                                    "name": "Texture Editor / Assets",
+                                    "url": "https://www.bloxdforge.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/vwMp5y25RX"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MiniBlox - Browser-Based Minecraft Clone /",
+                            "links": [
+                                {
+                                    "name": "MiniBlox",
+                                    "url": "https://miniblox.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/nAwzkUJNmb"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EaglerForge - Eaglercraft Mod Loader",
+                            "links": [
+                                {
+                                    "name": "EaglerForge",
+                                    "url": "https://eaglerforge.github.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EaglerForge Builder or EaglerForgeBuilderNew - Create Eaglercraft Mods",
+                            "links": [
+                                {
+                                    "name": "EaglerForge Builder",
+                                    "url": "https://eaglerforge-builder.vercel.app/"
+                                },
+                                {
+                                    "name": "EaglerForgeBuilderNew",
+                                    "url": "https://eaglerforge.github.io/EaglerForgeBuilderNew/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EaglercraftXServer - Improved Eaglercraft Server Tool /",
+                            "links": [
+                                {
+                                    "name": "EaglercraftXServer",
+                                    "url": "https://modrinth.com/organization/eaglercraftxserver"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/lax1dude/eaglerxserver"
                                 }
                             ]
                         }
@@ -42658,15 +42808,6 @@
                                 {
                                     "name": "Hacker Wars",
                                     "url": "https://hackerwars.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Startup Simulator - Startup Simulation Game",
-                            "links": [
-                                {
-                                    "name": "Startup Simulator",
-                                    "url": "https://toggl.com/startup-simulator/"
                                 }
                             ]
                         },
@@ -48719,27 +48860,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Comix , 2 / /",
-                            "links": [
-                                {
-                                    "name": "⁠Comix",
-                                    "url": "https://comix.to/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://comix.ws/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/comix"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/kZgWWHUj22"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "MangaDot / Matrix",
                             "links": [
                                 {
@@ -48805,6 +48925,27 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/mangadex"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Comix , 2 / /",
+                            "links": [
+                                {
+                                    "name": "⁠Comix",
+                                    "url": "https://comix.to/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://comix.ws/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/comix"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/kZgWWHUj22"
                                 }
                             ]
                         },
@@ -60847,11 +60988,15 @@
                             ]
                         },
                         {
-                            "full_text": "Get Body Smart or University of Michigan Anatomy - Anatomy Guides",
+                            "full_text": "Get Body Smart , Kenhub or University of Michigan Anatomy - Anatomy Guides",
                             "links": [
                                 {
                                     "name": "Get Body Smart",
                                     "url": "https://www.getbodysmart.com/"
+                                },
+                                {
+                                    "name": "Kenhub",
+                                    "url": "https://www.kenhub.com/"
                                 },
                                 {
                                     "name": "University of Michigan Anatomy",
@@ -62059,6 +62204,15 @@
                                 {
                                     "name": "",
                                     "url": "https://x.com/InfographicTony"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Historic Spacecraft - Spacecraft / Rocket Photos & illustrations",
+                            "links": [
+                                {
+                                    "name": "⁠Historic Spacecraft",
+                                    "url": "https://historicspacecraft.com/"
                                 }
                             ]
                         },
@@ -63941,23 +64095,6 @@
                             ]
                         },
                         {
-                            "full_text": "ABookOfCreatures , Demons of the Deep or Bestiary - Mythical Creature Encyclopedias",
-                            "links": [
-                                {
-                                    "name": "ABookOfCreatures",
-                                    "url": "https://abookofcreatures.com/"
-                                },
-                                {
-                                    "name": "Demons of the Deep",
-                                    "url": "https://seademons.weebly.com/"
-                                },
-                                {
-                                    "name": "Bestiary",
-                                    "url": "https://bestiary.ca/beasts.htm"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Germanic Mythology - Germanic Mythology",
                             "links": [
                                 {
@@ -64021,6 +64158,28 @@
                                 {
                                     "name": "Yokai",
                                     "url": "https://yokai.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ABookOfCreatures or Bestiary - Mythical Creature Encyclopedias",
+                            "links": [
+                                {
+                                    "name": "ABookOfCreatures",
+                                    "url": "https://abookofcreatures.com/"
+                                },
+                                {
+                                    "name": "Bestiary",
+                                    "url": "https://bestiary.ca/beasts.htm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BlackDrago - Dragon Encyclopedia",
+                            "links": [
+                                {
+                                    "name": "BlackDrago",
+                                    "url": "https://www.blackdrago.com/"
                                 }
                             ]
                         }
@@ -74489,15 +74648,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠CSRankings - Publication Activity of Computer Science Colleges per Topic",
-                            "links": [
-                                {
-                                    "name": "⁠CSRankings",
-                                    "url": "https://csrankings.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Wordwall - Lesson Creator",
                             "links": [
                                 {
@@ -74540,11 +74690,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "StudyLion - Study Tracker / Productivity Discord Bot /",
+                            "full_text": "StudyLion - Study Tracker / Productivity Discord Bot / /",
                             "links": [
                                 {
                                     "name": "StudyLion",
                                     "url": "https://lionbot.org"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/the-study-lions-780195610154237993"
                                 },
                                 {
                                     "name": "",
@@ -74553,11 +74707,15 @@
                             ]
                         },
                         {
-                            "full_text": "StudyKit , Studocu / Downloader , Knowt , Quizlet / Show Hidden , Shmoop , Bitesize or SparkNotes - Quizzes / Study Material",
+                            "full_text": "StudyKit / , Studocu / Downloader , Knowt , Quizlet / Show Hidden , Shmoop , Bitesize or SparkNotes - Quizzes / Study Material",
                             "links": [
                                 {
                                     "name": "StudyKit",
                                     "url": "https://studykit.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3xY797eH3E"
                                 },
                                 {
                                     "name": "Studocu",
@@ -74657,6 +74815,15 @@
                                 {
                                     "name": "⁠StudyKit",
                                     "url": "https://studytoolkit.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Schoolhouse - Free Online Tutoring",
+                            "links": [
+                                {
+                                    "name": "⁠Schoolhouse",
+                                    "url": "https://schoolhouse.world/"
                                 }
                             ]
                         },
@@ -84048,6 +84215,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Xangetsu - Manga Reader",
+                            "links": [
+                                {
+                                    "name": "⁠Xangetsu",
+                                    "url": "https://projectjust.xyz/xangetsu"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Perfect Viewer (search) - Manga File Viewer",
                             "links": [
                                 {
@@ -84862,7 +85038,7 @@
                             "links": [
                                 {
                                     "name": "⁠ArchiveTune",
-                                    "url": "https://archivetune.koiiverse.cloud/"
+                                    "url": "https://archivetune.miuka.moe/"
                                 },
                                 {
                                     "name": "",
@@ -85563,6 +85739,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠P-Stream (cfd) - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "⁠P-Stream (cfd)",
+                                    "url": "https://github.com/pennythiefuk/P-Stream-Releases"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Zangetsu - Movies / TV / Anime / /",
                             "links": [
                                 {
@@ -86050,6 +86235,15 @@
                                 {
                                     "name": "",
                                     "url": "https://git.rebelonion.dev/rebelonion/Dantotsu/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Xangetsu",
+                            "links": [
+                                {
+                                    "name": "⁠Xangetsu",
+                                    "url": "https://projectjust.xyz/xangetsu"
                                 }
                             ]
                         },
@@ -89386,6 +89580,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/SpotCompiled/SpotC-Plus-Plus"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Vitrine - Spotify / Ad-Free / Sideloaded",
+                            "links": [
+                                {
+                                    "name": "⁠Vitrine",
+                                    "url": "https://github.com/My-Name-Is-Jeff/vitrine"
                                 }
                             ]
                         },
@@ -93665,6 +93868,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠osu-winello - osu! Installer for Linux",
+                            "links": [
+                                {
+                                    "name": "⁠osu-winello",
+                                    "url": "https://github.com/NelloKudo/osu-winello/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Touhou Linux Guide , 2 - Touhou Game Series Linux Guide /",
                             "links": [
                                 {
@@ -96205,11 +96417,15 @@
                             ]
                         },
                         {
-                            "full_text": "niri - Scrollable-Tiling Wayland Compositor",
+                            "full_text": "niri - Scrollable-Tiling Wayland Compositor / Config",
                             "links": [
                                 {
                                     "name": "niri",
                                     "url": "https://github.com/YaLTeR/niri"
+                                },
+                                {
+                                    "name": "Config",
+                                    "url": "https://github.com/srinivasr/nirimod"
                                 }
                             ]
                         },
@@ -98484,7 +98700,7 @@
                             ]
                         },
                         {
-                            "full_text": "Alfred , Raycast / FMHY Search , Albert / , Quicksilver , KeyboardCowboy or SOL - Keystroke Launchers / Spotlight Replacements / Alfred Workflows / Themes",
+                            "full_text": "Alfred , Raycast / FMHY Search , Albert / , Quicksilver , ⁠Tinycast , KeyboardCowboy or SOL - Keystroke Launchers / Spotlight Replacements / Alfred Workflows / Themes",
                             "links": [
                                 {
                                     "name": "Alfred",
@@ -98509,6 +98725,10 @@
                                 {
                                     "name": "Quicksilver",
                                     "url": "https://qsapp.com/"
+                                },
+                                {
+                                    "name": "⁠Tinycast",
+                                    "url": "https://tinycast.dev/"
                                 },
                                 {
                                     "name": "KeyboardCowboy",
@@ -104974,6 +105194,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Kartoons - Cartoons /",
+                            "links": [
+                                {
+                                    "name": "Kartoons",
+                                    "url": "https://kartoons.me/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/5fKH3TYVmE"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PirateXPlay - Cartoons / Anime / Mirrors",
                             "links": [
                                 {
@@ -105334,19 +105567,6 @@
                                 {
                                     "name": "desidubanime",
                                     "url": "https://www.desidubanime.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kartoons - Cartoons /",
-                            "links": [
-                                {
-                                    "name": "Kartoons",
-                                    "url": "https://kartoons.me/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/5fKH3TYVmE"
                                 }
                             ]
                         },
@@ -105837,6 +106057,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Ipersphera - Movies / TV / Sub",
+                            "links": [
+                                {
+                                    "name": "Ipersphera",
+                                    "url": "https://www.ipersphera.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OverDay - Courses / Books / Mirrors / 2 /",
                             "links": [
                                 {
@@ -105854,15 +106083,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/Overposting1"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Ipersphera - Movies / TV / Sub",
-                            "links": [
-                                {
-                                    "name": "Ipersphera",
-                                    "url": "https://www.ipersphera.com/"
                                 }
                             ]
                         },
@@ -116672,7 +116892,7 @@
                             ]
                         },
                         {
-                            "full_text": "Sweet Home 3D , ⁠Planner5D or Homestyler - Interior Design Apps",
+                            "full_text": "Sweet Home 3D , ⁠Planner5D , ⁠3D Room Maker or Homestyler - Interior Design Tools",
                             "links": [
                                 {
                                     "name": "Sweet Home 3D",
@@ -116681,6 +116901,10 @@
                                 {
                                     "name": "⁠Planner5D",
                                     "url": "https://planner5d.com/"
+                                },
+                                {
+                                    "name": "⁠3D Room Maker",
+                                    "url": "https://3droommaker.com/"
                                 },
                                 {
                                     "name": "Homestyler",
@@ -123932,10 +124156,10 @@
                             ]
                         },
                         {
-                            "full_text": "money-manager , Buckwheat , My Expenses or Cashew - Mobile Expense Managers",
+                            "full_text": "Money Manager Ex , Buckwheat , My Expenses or Cashew - Mobile Expense Managers",
                             "links": [
                                 {
-                                    "name": "money-manager",
+                                    "name": "Money Manager Ex",
                                     "url": "https://github.com/moneymanagerex/android-money-manager-ex"
                                 },
                                 {
@@ -130617,6 +130841,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "️ Mythology / Folklore",
+                            "links": [
+                                {
+                                    "name": "Mythology / Folklore",
+                                    "url": "https://fmhy.net/educational/#mythology-folklore"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MorbidKuriosity - Dark History, Conspiracies, Crime, Myths, etc.",
                             "links": [
                                 {
@@ -130679,20 +130912,20 @@
                             ]
                         },
                         {
+                            "full_text": "Demons of the Deep - Demon Encyclopedia",
+                            "links": [
+                                {
+                                    "name": "Demons of the Deep",
+                                    "url": "https://seademons.weebly.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "BFRO - Bigfoot Research Site",
                             "links": [
                                 {
                                     "name": "BFRO",
                                     "url": "https://bfro.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BlackDrago - Dragon Encyclopedia",
-                            "links": [
-                                {
-                                    "name": "BlackDrago",
-                                    "url": "https://www.blackdrago.com/"
                                 }
                             ]
                         },
@@ -139853,6 +140086,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Plik - 50GB / Forever",
+                            "links": [
+                                {
+                                    "name": "⁠Plik",
+                                    "url": "https://up2store.de/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠MaraFile - 1GB / Forever",
                             "links": [
                                 {
@@ -139897,6 +140139,15 @@
                                 {
                                     "name": "⁠Filester",
                                     "url": "https://filester.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠ATM - 10GB / Forever",
+                            "links": [
+                                {
+                                    "name": "⁠ATM",
+                                    "url": "https://atm.rip/"
                                 }
                             ]
                         },
@@ -140681,6 +140932,15 @@
                                 {
                                     "name": "MrOwl",
                                     "url": "https://www.mrowl.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Koofr - 10GB / Forever / ~$10 (1TB Suitcase)",
+                            "links": [
+                                {
+                                    "name": "Koofr",
+                                    "url": "https://koofr.eu/"
                                 }
                             ]
                         },
@@ -145093,6 +145353,15 @@
                                 {
                                     "name": "Talos",
                                     "url": "https://talosintelligence.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Tranco - Domain Popularity Rank Chart",
+                            "links": [
+                                {
+                                    "name": "⁠Tranco",
+                                    "url": "https://tranco-list.eu/query"
                                 }
                             ]
                         }
@@ -150218,11 +150487,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Nelly - Discord Web Tools",
+                            "full_text": "⁠Nelly or Discorder - Discord Web Tools",
                             "links": [
                                 {
                                     "name": "⁠Nelly",
                                     "url": "https://nelly.tools/"
+                                },
+                                {
+                                    "name": "Discorder",
+                                    "url": "https://discorder.tools/"
                                 }
                             ]
                         },
@@ -157968,7 +158241,7 @@
                     ]
                 },
                 {
-                    "heading": "Emoticons",
+                    "heading": "Emojis / Emoticons",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
@@ -157982,7 +158255,7 @@
                             ]
                         },
                         {
-                            "full_text": "Emojipedia , Emoji Charts , EmojiDB or Emoji Picker - Emoji Indexes",
+                            "full_text": "Emojipedia , Emoji Charts , EmojiDB , OpenMoji , JoyPixels or Emoji Picker - Emoji Indexes",
                             "links": [
                                 {
                                     "name": "Emojipedia",
@@ -157995,6 +158268,14 @@
                                 {
                                     "name": "EmojiDB",
                                     "url": "https://emojidb.org/"
+                                },
+                                {
+                                    "name": "OpenMoji",
+                                    "url": "https://openmoji.org/"
+                                },
+                                {
+                                    "name": "JoyPixels",
+                                    "url": "https://www.joypixels.com/"
                                 },
                                 {
                                     "name": "Emoji Picker",
@@ -158021,7 +158302,38 @@
                             ]
                         },
                         {
-                            "full_text": "Animated Fluent Emojis - Microsoft Fluent Animated Emojis /",
+                            "full_text": "EmojiCreator or Slackmoji Lab - Make Custom Animated Emojis",
+                            "links": [
+                                {
+                                    "name": "EmojiCreator",
+                                    "url": "https://emojicreator.ai/"
+                                },
+                                {
+                                    "name": "Slackmoji Lab",
+                                    "url": "https://slackmojilab.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AnimGifMoji - GIF to Emoji Converter",
+                            "links": [
+                                {
+                                    "name": "⁠AnimGifMoji",
+                                    "url": "https://www.animgifmoji.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Animated Noto Emojis - Google Animated Emojis",
+                            "links": [
+                                {
+                                    "name": "⁠Animated Noto Emojis",
+                                    "url": "https://googlefonts.github.io/noto-emoji-animation/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Animated Fluent Emojis - Microsoft Animated Emojis /",
                             "links": [
                                 {
                                     "name": "Animated Fluent Emojis",
@@ -160885,7 +161197,7 @@
                             ]
                         },
                         {
-                            "full_text": "REXPaint , Asciistrator , ASCII Sketch , Playscii , ⁠Monosketch or PabloDraw - ASCII Editors / Drawing",
+                            "full_text": "REXPaint , Asciistrator , ASCII Sketch , Playscii , ⁠Monosketch , Asciify or PabloDraw - ASCII Editors / Drawing",
                             "links": [
                                 {
                                     "name": "REXPaint",
@@ -160906,6 +161218,10 @@
                                 {
                                     "name": "⁠Monosketch",
                                     "url": "https://monosketch.io/"
+                                },
+                                {
+                                    "name": "Asciify",
+                                    "url": "https://asciify.org/editor"
                                 },
                                 {
                                     "name": "PabloDraw",
@@ -169740,6 +170056,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "️ Browser Minecraft",
+                            "links": [
+                                {
+                                    "name": "Browser Minecraft",
+                                    "url": "https://fmhy.net/gaming/#browser-minecraft"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PineconeMC , 2 / / , Freesm Launcher / Theme Creator / / / or ShatteredPrism - Prism Launcher Forks w/ Alt Auth Server Support /",
                             "links": [
                                 {
@@ -169875,11 +170200,19 @@
                             ]
                         },
                         {
-                            "full_text": "LeviLauncher or Bedrock Launcher / - Bedrock Launchers / Guides /",
+                            "full_text": "LeviLauncher / Mods , 2 or Bedrock Launcher / - Bedrock Launchers / Guides /",
                             "links": [
                                 {
                                     "name": "LeviLauncher",
                                     "url": "https://github.com/LiteLDev/LeviLauncher"
+                                },
+                                {
+                                    "name": "Mods",
+                                    "url": "https://discord.gg/v5R5P4vRZk"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://pkg.levimc.org/"
                                 },
                                 {
                                     "name": "Bedrock Launcher",
@@ -172143,6 +172476,49 @@
                             ]
                         },
                         {
+                            "full_text": "osu! - Rhythm Game / /",
+                            "links": [
+                                {
+                                    "name": "osu!",
+                                    "url": "https://osu.ppy.sh/home"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/ppy"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ppy"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠osu-winello - osu! Installer for Linux",
+                            "links": [
+                                {
+                                    "name": "⁠osu-winello",
+                                    "url": "https://github.com/NelloKudo/osu-winello/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "osu!droid - osu! for Android / /",
+                            "links": [
+                                {
+                                    "name": "osu!droid",
+                                    "url": "https://osudroid.moe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/fAq9em8"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/osudroid/osu-droid"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "YARG - Rock Band Clone / Launcher / /",
                             "links": [
                                 {
@@ -172263,32 +172639,8 @@
                             ]
                         },
                         {
-                            "full_text": "osu! / / , osu!droid / / or McOsu / - Osu! Tatakae! Ouendan Clones",
+                            "full_text": "McOsu - Osu! Tatakae! Ouendan Clone /",
                             "links": [
-                                {
-                                    "name": "osu!",
-                                    "url": "https://osu.ppy.sh/home"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/ppy"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ppy"
-                                },
-                                {
-                                    "name": "osu!droid",
-                                    "url": "https://osudroid.moe/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/fAq9em8"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/osudroid/osu-droid"
-                                },
                                 {
                                     "name": "McOsu",
                                     "url": "https://store.steampowered.com/app/607260/McOsu/"
@@ -177195,7 +177547,22 @@
                 {
                     "heading": "GIF Tools",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Gifski- GIF Encoder //",
+                        "EZGif,⁠KlipyorGIFnText- GIF Generators /",
+                        "⁠3D Gif Maker- Online GIF Tools /",
+                        "⁠PicMix- Glitter Style GIF Creator",
+                        "Gifsicle- GIF Generator //",
+                        "Giphy,Tenor,Gifer,GIFVibe,GifCities,AnimationsorGIFBin- View / Download GIFs",
+                        "⁠AnimGifMoji- GIF to Emoji Converter",
+                        "DrawIslandorSketch Machine- Create GIFs from Drawings",
+                        "ScreenToGif- GIF Recorder //",
+                        "licecap- Create GIFs via Screencasts //",
+                        "ugiffer- Create GIFs via Screencasts /",
+                        "blinkies.cafe/or⁠88x31px Button Generator- Create Retro Blinkie GIFs / 88x31 Badges",
+                        "Babamos 88x31,matdoes,88x31 Buttons,88x31 CollectionorWeb Badges World- Download Retro 88x31 Web Badges / Blinkies",
+                        "⁠DotChibikoor⁠Minecraft Chibi Skin Maker- Generate Chibi Style GIFs from Minecraft Skins"
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Gifski - GIF Encoder / /",
@@ -177246,19 +177613,6 @@
                                 {
                                     "name": "⁠PicMix",
                                     "url": "https://www.picmix.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "EmojiCreator or Slackmoji Lab - Make Custom Animated Emojis",
-                            "links": [
-                                {
-                                    "name": "EmojiCreator",
-                                    "url": "https://emojicreator.ai/"
-                                },
-                                {
-                                    "name": "Slackmoji Lab",
-                                    "url": "https://slackmojilab.com/"
                                 }
                             ]
                         },
@@ -177834,6 +178188,19 @@
                                 {
                                     "name": "VistaCreate",
                                     "url": "https://create.vista.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Doory - Design App / /",
+                            "links": [
+                                {
+                                    "name": "⁠Doory",
+                                    "url": "https://doory.art/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/shaongitbd/doory"
                                 }
                             ]
                         },
@@ -178836,19 +179203,6 @@
                                 {
                                     "name": "Dezoomify",
                                     "url": "https://dezoomify.ophir.dev/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "OpenMoji or JoyPixels - Emojis",
-                            "links": [
-                                {
-                                    "name": "OpenMoji",
-                                    "url": "https://openmoji.org/"
-                                },
-                                {
-                                    "name": "JoyPixels",
-                                    "url": "https://www.joypixels.com/"
                                 }
                             ]
                         },
@@ -189255,6 +189609,15 @@
                                     "url": "https://muffon.netlify.app/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠Squidify Desktop - Game & Anime Soundtracks Streaming App",
+                            "links": [
+                                {
+                                    "name": "⁠Squidify Desktop",
+                                    "url": "https://github.com/kobayashi90/squidify-desktop"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -194513,7 +194876,7 @@
                             ]
                         },
                         {
-                            "full_text": "Squidify , 2 - Game / Anime Soundtracks",
+                            "full_text": "Squidify , 2 - Game / Anime Soundtracks / Desktop",
                             "links": [
                                 {
                                     "name": "Squidify",
@@ -194522,6 +194885,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://www.squidify.net/"
+                                },
+                                {
+                                    "name": "Desktop",
+                                    "url": "https://github.com/kobayashi90/squidify-desktop"
                                 }
                             ]
                         },
@@ -202759,11 +203126,15 @@
                             ]
                         },
                         {
-                            "full_text": "Get Body Smart or University of Michigan Anatomy - Anatomy Guides",
+                            "full_text": "Get Body Smart , Kenhub or University of Michigan Anatomy - Anatomy Guides",
                             "links": [
                                 {
                                     "name": "Get Body Smart",
                                     "url": "https://www.getbodysmart.com/"
+                                },
+                                {
+                                    "name": "Kenhub",
+                                    "url": "https://www.kenhub.com/"
                                 },
                                 {
                                     "name": "University of Michigan Anatomy",
@@ -203971,6 +204342,15 @@
                                 {
                                     "name": "",
                                     "url": "https://x.com/InfographicTony"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Historic Spacecraft - Spacecraft / Rocket Photos & illustrations",
+                            "links": [
+                                {
+                                    "name": "⁠Historic Spacecraft",
+                                    "url": "https://historicspacecraft.com/"
                                 }
                             ]
                         },
@@ -205853,23 +206233,6 @@
                             ]
                         },
                         {
-                            "full_text": "ABookOfCreatures , Demons of the Deep or Bestiary - Mythical Creature Encyclopedias",
-                            "links": [
-                                {
-                                    "name": "ABookOfCreatures",
-                                    "url": "https://abookofcreatures.com/"
-                                },
-                                {
-                                    "name": "Demons of the Deep",
-                                    "url": "https://seademons.weebly.com/"
-                                },
-                                {
-                                    "name": "Bestiary",
-                                    "url": "https://bestiary.ca/beasts.htm"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Germanic Mythology - Germanic Mythology",
                             "links": [
                                 {
@@ -205933,6 +206296,28 @@
                                 {
                                     "name": "Yokai",
                                     "url": "https://yokai.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ABookOfCreatures or Bestiary - Mythical Creature Encyclopedias",
+                            "links": [
+                                {
+                                    "name": "ABookOfCreatures",
+                                    "url": "https://abookofcreatures.com/"
+                                },
+                                {
+                                    "name": "Bestiary",
+                                    "url": "https://bestiary.ca/beasts.htm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BlackDrago - Dragon Encyclopedia",
+                            "links": [
+                                {
+                                    "name": "BlackDrago",
+                                    "url": "https://www.blackdrago.com/"
                                 }
                             ]
                         }
@@ -216401,15 +216786,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠CSRankings - Publication Activity of Computer Science Colleges per Topic",
-                            "links": [
-                                {
-                                    "name": "⁠CSRankings",
-                                    "url": "https://csrankings.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Wordwall - Lesson Creator",
                             "links": [
                                 {
@@ -216452,11 +216828,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "StudyLion - Study Tracker / Productivity Discord Bot /",
+                            "full_text": "StudyLion - Study Tracker / Productivity Discord Bot / /",
                             "links": [
                                 {
                                     "name": "StudyLion",
                                     "url": "https://lionbot.org"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/the-study-lions-780195610154237993"
                                 },
                                 {
                                     "name": "",
@@ -216465,11 +216845,15 @@
                             ]
                         },
                         {
-                            "full_text": "StudyKit , Studocu / Downloader , Knowt , Quizlet / Show Hidden , Shmoop , Bitesize or SparkNotes - Quizzes / Study Material",
+                            "full_text": "StudyKit / , Studocu / Downloader , Knowt , Quizlet / Show Hidden , Shmoop , Bitesize or SparkNotes - Quizzes / Study Material",
                             "links": [
                                 {
                                     "name": "StudyKit",
                                     "url": "https://studykit.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3xY797eH3E"
                                 },
                                 {
                                     "name": "Studocu",
@@ -216569,6 +216953,15 @@
                                 {
                                     "name": "⁠StudyKit",
                                     "url": "https://studytoolkit.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Schoolhouse - Free Online Tutoring",
+                            "links": [
+                                {
+                                    "name": "⁠Schoolhouse",
+                                    "url": "https://schoolhouse.world/"
                                 }
                             ]
                         },
@@ -223472,6 +223865,15 @@
                             ]
                         },
                         {
+                            "full_text": "Asciify - ASCII Engine for Coding Agents",
+                            "links": [
+                                {
+                                    "name": "Asciify",
+                                    "url": "https://asciify.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Code2prompt - Codebase To LLM Prompt",
                             "links": [
                                 {
@@ -230330,6 +230732,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Startup Simulator - Startup Simulation Game (Removed in 223835b )",
+                            "links": [
+                                {
+                                    "name": "223835b",
+                                    "url": "https://github.com/fmhy/edit/commit/223835b1911cc91be9e5faad17154b5252f78604#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL971"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EE3 or RIPS - Movies / Invite Codes: mpgh or 1hack / Requires Sign-Up (Removed in 223835b )",
+                            "links": [
+                                {
+                                    "name": "223835b",
+                                    "url": "https://github.com/fmhy/edit/commit/223835b1911cc91be9e5faad17154b5252f78604#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL109"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠FourOnDaFloor - Sound Effects (Removed in 66e7415 )",
                             "links": [
                                 {
@@ -230596,15 +231016,6 @@
                                 {
                                     "name": "fe6cb39",
                                     "url": "https://github.com/fmhy/edit/commit/fe6cb39240dfc1b5057e65dbaac23f91f0e37891#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L801"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zoryva X - Movies / TV / Anime / Auto-Next (Removed in fe6cb39 )",
-                            "links": [
-                                {
-                                    "name": "fe6cb39",
-                                    "url": "https://github.com/fmhy/edit/commit/fe6cb39240dfc1b5057e65dbaac23f91f0e37891#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL70"
                                 }
                             ]
                         },
@@ -233074,51 +233485,6 @@
                                 {
                                     "name": "a6c9e5c",
                                     "url": "https://github.com/fmhy/edit/commit/a6c9e5c0130302fdbf244f4333364f467450d523#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L569"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ Survival / Prepping (Removed in 33f5317 )",
-                            "links": [
-                                {
-                                    "name": "33f5317",
-                                    "url": "https://github.com/fmhy/edit/commit/33f5317457b68833ec55c058906c00b1dbd575ca#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL815"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Trireme - Deluge Client (Removed in 33f5317 )",
-                            "links": [
-                                {
-                                    "name": "33f5317",
-                                    "url": "https://github.com/fmhy/edit/commit/33f5317457b68833ec55c058906c00b1dbd575ca#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L808"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "StreamCloud - Movies / TV / 720p (Removed in 33f5317 )",
-                            "links": [
-                                {
-                                    "name": "33f5317",
-                                    "url": "https://github.com/fmhy/edit/commit/33f5317457b68833ec55c058906c00b1dbd575ca#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L573"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "androidkino - Movies / TV (Removed in 33f5317 )",
-                            "links": [
-                                {
-                                    "name": "33f5317",
-                                    "url": "https://github.com/fmhy/edit/commit/33f5317457b68833ec55c058906c00b1dbd575ca#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1297"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NullBoard (Removed in 33f5317 )",
-                            "links": [
-                                {
-                                    "name": "33f5317",
-                                    "url": "https://github.com/fmhy/edit/commit/33f5317457b68833ec55c058906c00b1dbd575ca#diff-22677cf783b082896ee54428761a2137c7e8e2b6385dee44f986c2f72194e222L426"
                                 }
                             ]
                         }
