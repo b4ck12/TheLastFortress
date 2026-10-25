@@ -128,8 +128,6 @@
           "tags": [
             "Easy download",
             "Self-host",
-            "Old reliable",
-            "Simple interface",
             "Hard-sub"
           ],
           "rank": 3,
@@ -356,14 +354,16 @@
           }
         },
         {
-          "id": "anizone",
-          "title": "AniZone",
-          "link": "https://anizone.to/",
-          "icon": "https://static.everythingmoe.com/icons/anizone.png",
+          "id": "gotaku",
+          "title": "Gotaku",
+          "link": "https://gotaku.to/",
+          "icon": "https://static.everythingmoe.com/icons/gotaku.png",
           "tags": [
             "Self-host",
-            "Soft-sub",
-            "Hard-sub"
+            "Modern interface",
+            "Dub friendly",
+            "Hard-sub",
+            "NEW"
           ],
           "rank": 8,
           "is_licensed": false,
@@ -373,16 +373,18 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Decent stream quality (medium-high bitrate)",
-              "Self hosted server",
-              "Rich subtitle typesetting",
-              "Display video file release info"
+              "Nice interface",
+              "Own encode and server",
+              "Fast stream",
+              "Medium library",
+              "Actively updated"
             ],
             "negatives": [
-              "Medium-small library",
-              "No comments section"
+              "New site",
+              "Add watermark"
             ],
-            "info": "note: Great for watching recent or currently airing anime. Older release use Hard-sub, but recent one is Soft-sub."
+            "info": "note: Library recently reset after maintenance, but quickly adding up.",
+            "extra": "9 pages x 28 + 2"
           }
         },
         {
@@ -392,7 +394,6 @@
           "icon": "https://static.everythingmoe.com/icons/cr.png",
           "tags": [
             "Modern interface",
-            "Old reliable",
             "Dub friendly",
             "Soft-sub"
           ],
@@ -424,6 +425,36 @@
           }
         },
         {
+          "id": "anizone",
+          "title": "AniZone",
+          "link": "https://anizone.to/",
+          "icon": "https://static.everythingmoe.com/icons/anizone.png",
+          "tags": [
+            "Self-host",
+            "Soft-sub",
+            "Hard-sub"
+          ],
+          "rank": 10,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Decent stream quality (medium-high bitrate)",
+              "Self hosted server",
+              "Rich subtitle typesetting",
+              "Display video file release info"
+            ],
+            "negatives": [
+              "Medium-small library",
+              "No comments section"
+            ],
+            "info": "note: Great for watching recent or currently airing anime. Older release use Hard-sub, but recent one is Soft-sub."
+          }
+        },
+        {
           "id": "123animes",
           "title": "aniwaves.ru",
           "link": "https://aniwaves.ru/home",
@@ -432,7 +463,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -523,7 +554,7 @@
             "Modern interface",
             "Soft-sub"
           ],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -592,39 +623,6 @@
               }
             ],
             "domains": "krussdomi.com"
-          }
-        },
-        {
-          "id": "gotaku",
-          "title": "Gotaku",
-          "link": "https://gotaku.to/",
-          "icon": "https://static.everythingmoe.com/icons/gotaku.png",
-          "tags": [
-            "Self-host",
-            "Modern interface",
-            "Dub friendly",
-            "Hard-sub",
-            "NEW"
-          ],
-          "rank": 12,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Nice interface",
-              "Own encode and server",
-              "Fast stream",
-              "Medium library",
-              "Actively updated"
-            ],
-            "negatives": [
-              "New site"
-            ],
-            "info": "note: Library recently reset after maintenance, but quickly adding up.",
-            "extra": "9 pages x 28 + 2"
           }
         },
         {
@@ -826,6 +824,7 @@
           "details": {
             "positives": [
               "Large library",
+              "Nice interface",
               "Multiple sources options"
             ],
             "negatives": [
@@ -961,8 +960,6 @@
           "icon": "https://static.everythingmoe.com/icons/animedefenders.png",
           "tags": [
             "Self-host",
-            "Old reliable",
-            "Simple interface",
             "Soft-sub",
             "Hard-sub"
           ],
@@ -1010,7 +1007,7 @@
           "icon": "https://static.everythingmoe.com/icons/uniquestream.png",
           "tags": [
             "Self-host",
-            "Simple interface",
+            "Modern interface",
             "Hard-sub",
             "Dub friendly"
           ],
@@ -1024,7 +1021,7 @@
             "positives": [
               "Highest video streaming quality",
               "Multi language hard-subs",
-              "Simple interface",
+              "Modern interface",
               "Medium library (CR + ADN + Retrocrush)"
             ],
             "negatives": [
@@ -1047,7 +1044,6 @@
           "icon": "https://static.everythingmoe.com/icons/anipara.png",
           "tags": [
             "Self-host",
-            "Simple interface",
             "Soft-sub"
           ],
           "rank": 23,
@@ -1153,7 +1149,6 @@
           "icon": "https://static.everythingmoe.com/icons/animeheavenme.png",
           "tags": [
             "Self-host",
-            "Simple interface",
             "Easy download",
             "Hard-sub"
           ],
@@ -1185,7 +1180,6 @@
           "tags": [
             "Easy download",
             "Self-host",
-            "Old reliable",
             "Dub friendly",
             "Hard-sub"
           ],
@@ -1243,6 +1237,7 @@
           "icon": "https://static.everythingmoe.com/icons/animotvslash.png",
           "tags": [
             "Self-host",
+            "Modern interface",
             "Scraper",
             "Hard-sub",
             "Soft-sub"
@@ -1421,6 +1416,7 @@
           "icon": "https://static.everythingmoe.com/icons/anilight.png",
           "tags": [
             "Scraper",
+            "Modern interface",
             "Soft-sub",
             "Hard-sub",
             "mult"
@@ -1448,6 +1444,7 @@
           "icon": "https://static.everythingmoe.com/icons/anistream.png",
           "tags": [
             "Scraper",
+            "Modern interface",
             "Soft-sub",
             "Hard-sub",
             "mult"
@@ -1477,6 +1474,7 @@
           "icon": "https://static.everythingmoe.com/icons/2dhive.png",
           "tags": [
             "Self-host",
+            "Modern interface",
             "Hard-sub",
             "Soft-sub",
             "Easy download"
@@ -1585,6 +1583,7 @@
           "icon": "https://static.everythingmoe.com/icons/anichan.png",
           "tags": [
             "Self-host",
+            "Modern interface",
             "Soft-sub"
           ],
           "rank": 39,
@@ -1611,6 +1610,7 @@
           "icon": "https://static.everythingmoe.com/icons/shonento.png",
           "tags": [
             "Scraper",
+            "Modern interface",
             "Soft-sub",
             "new"
           ],
@@ -1720,7 +1720,6 @@
           "icon": "https://static.everythingmoe.com/icons/kisskh.png",
           "tags": [
             "Self-host",
-            "Simple interface",
             "Hard-sub"
           ],
           "rank": 44,
@@ -1791,6 +1790,35 @@
           }
         },
         {
+          "id": "animetvplus",
+          "title": "animeTVplus",
+          "link": "https://animetvplus.xyz/",
+          "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
+          "tags": [
+            "Self-host",
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "new"
+          ],
+          "rank": 46,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Some content depends on the websites it scrapes"
+            ],
+            "info": "note: Some server are self-hosted, while other are scrapers."
+          }
+        },
+        {
           "id": "zokoanime",
           "title": "hianimes.se",
           "link": "https://hianimes.se/home",
@@ -1798,7 +1826,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1840,7 +1868,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1881,7 +1909,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1914,7 +1942,7 @@
             "Hard-sub",
             "Easy download"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1939,11 +1967,10 @@
           "icon": "https://static.everythingmoe.com/icons/wco.png",
           "tags": [
             "Self-host",
-            "Old reliable",
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2009,7 +2036,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2036,11 +2063,10 @@
           "icon": "https://static.everythingmoe.com/icons/kimoitv.png",
           "tags": [
             "Self-host",
-            "Simple interface",
             "Easy download",
             "Hard-sub"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2066,11 +2092,10 @@
           "icon": "https://static.everythingmoe.com/icons/otakustreamers.png",
           "tags": [
             "Self-host",
-            "Old reliable",
             "Hard-sub",
             "login"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2115,7 +2140,7 @@
             "Easy download",
             "Soft-sub"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2145,35 +2170,6 @@
               }
             ],
             "info": "note: This site focuses on Download, but you can also stream it."
-          }
-        },
-        {
-          "id": "animetvplus",
-          "title": "animeTVplus",
-          "link": "https://animetvplus.xyz/",
-          "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
-          "tags": [
-            "Self-host",
-            "Scraper",
-            "Soft-sub",
-            "Hard-sub",
-            "new"
-          ],
-          "rank": 55,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Some content depends on the websites it scrapes"
-            ],
-            "info": "note: Some server are self-hosted, while other are scrapers."
           }
         },
         {
@@ -2427,6 +2423,7 @@
           "icon": "https://static.everythingmoe.com/icons/animelover.png",
           "tags": [
             "Scraper",
+            "Modern interface",
             "Soft-sub",
             "mult"
           ],
@@ -2458,6 +2455,7 @@
           "icon": "https://static.everythingmoe.com/icons/yumezone.png",
           "tags": [
             "Scraper",
+            "Modern interface",
             "Soft-sub",
             "mult"
           ],
@@ -2536,6 +2534,7 @@
           "icon": "https://static.everythingmoe.com/icons/luffytv.png",
           "tags": [
             "Scraper",
+            "Modern interface",
             "Soft-sub",
             "Hard-sub",
             "mult"
@@ -2903,6 +2902,10 @@
               {
                 "name": "AnimeGo",
                 "url": "https://animego.net/"
+              },
+              {
+                "name": "koianime",
+                "url": "https://koianime.lol/"
               }
             ],
             "info": "note: each made by different people, uses third party embed.",
@@ -3442,7 +3445,6 @@
           "icon": "https://static.everythingmoe.com/icons/hulu.png",
           "tags": [
             "Modern interface",
-            "Old reliable",
             "Dub friendly",
             "Soft-sub",
             "licensed"
@@ -8321,7 +8323,7 @@
         },
         {
           "id": "fenyk",
-          "title": "Fennyk",
+          "title": "Fenyk",
           "link": "https://fenyk.org/",
           "icon": "https://static.everythingmoe.com/icons/default.png",
           "tags": [
@@ -11626,25 +11628,6 @@
           }
         },
         {
-          "id": "zeroscans",
-          "title": "Zero Scans",
-          "link": "https://zscans.com/",
-          "icon": "https://static.everythingmoe.com/icons/zeroscans.png",
-          "tags": [
-            "Mostly Scans",
-            "scan"
-          ],
-          "rank": 60,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manhwa",
-          "details": {
-            "info": "note: no review yet"
-          }
-        },
-        {
           "id": "hivescans",
           "title": "Hive Scans",
           "link": "https://hivescans.com/",
@@ -11653,7 +11636,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 61,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11672,45 +11655,26 @@
             "Mostly Scans",
             "scan"
           ],
+          "rank": 61,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manhwa",
+          "details": {
+            "info": "note: no review yet"
+          }
+        },
+        {
+          "id": "nyxscans",
+          "title": "Nyx Scans",
+          "link": "https://https://nyxscans.com/",
+          "icon": "https://static.everythingmoe.com/icons/nyxscans.png",
+          "tags": [
+            "Mostly Scans",
+            "scan"
+          ],
           "rank": 62,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manhwa",
-          "details": {
-            "info": "note: no review yet"
-          }
-        },
-        {
-          "id": "plutoscans",
-          "title": "Flame Scans",
-          "link": "https://flamescans.lol/",
-          "icon": "https://static.everythingmoe.com/icons/flamescanslol.png",
-          "tags": [
-            "Mostly Scans",
-            "scan"
-          ],
-          "rank": 63,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manhwa",
-          "details": {
-            "info": "note: no review yet"
-          }
-        },
-        {
-          "id": "erosscans",
-          "title": "ErosScan",
-          "link": "https://erosscans.xyz/",
-          "icon": "https://static.everythingmoe.com/icons/erosscans.png",
-          "tags": [
-            "Mostly Scans",
-            "scan"
-          ],
-          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11728,7 +11692,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 65,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11757,7 +11721,7 @@
           "link": "https://manhuaus.club/",
           "icon": "https://static.everythingmoe.com/icons/manhuaus.png",
           "tags": [],
-          "rank": 66,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11777,7 +11741,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 67,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11797,7 +11761,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 68,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -11818,7 +11782,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 69,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -11839,7 +11803,7 @@
             "MTL",
             "mtl"
           ],
-          "rank": 70,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23419,7 +23383,7 @@
         {
           "id": "hydrahd",
           "title": "HydraHD",
-          "link": "https://hydrahd.ws/",
+          "link": "https://hydrahd.gd/",
           "icon": "https://static.everythingmoe.com/icons/hydrahd.png",
           "tags": [
             "WESTERN"
@@ -23436,10 +23400,6 @@
               {
                 "name": ".com",
                 "url": "https://hydrahd.com/"
-              },
-              {
-                "name": ".ru",
-                "url": "https://hydrahd.ru/"
               },
               {
                 "name": ".me",
@@ -23503,10 +23463,10 @@
           }
         },
         {
-          "id": "cinemaos",
-          "title": "Cinemaos",
-          "link": "https://cinemaos.live/",
-          "icon": "https://static.everythingmoe.com/icons/cinemaos.png",
+          "id": "pressplayx",
+          "title": "PressPlayX",
+          "link": "https://https://pressplayx.to/",
+          "icon": "https://static.everythingmoe.com/icons/pressplayx.png",
           "tags": [
             "WESTERN"
           ],
@@ -25946,11 +25906,15 @@
           "status": "active",
           "section": "artboard",
           "details": {
-            "info": "Public bypass / archive for Patreon, and Pixiv Fanbox. Probably more later.",
+            "info": "Public bypass / archive for Patreon, and Pixiv Fanbox. pawstash is alternative client / app.",
             "altlinks": [
               {
                 "name": ".st",
                 "url": "https://pawchive.st/"
+              },
+              {
+                "name": "pawstash",
+                "url": "https://github.com/pawstash/pawstash"
               }
             ]
           }
@@ -32553,7 +32517,6 @@
           "icon": "https://static.everythingmoe.com/icons/anitake.png",
           "tags": [
             "Scraper",
-            "Simple interface",
             "Third party",
             "Hard-sub"
           ],
@@ -36096,6 +36059,24 @@
           "details": {}
         },
         {
+          "id": "zeroscans",
+          "title": "Zero Scans",
+          "link": "https://zscans.com/",
+          "icon": "https://static.everythingmoe.com/icons/zeroscans.png",
+          "tags": [
+            "SCAN"
+          ],
+          "rank": 19,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "manhwa",
+          "details": {
+            "info": "note: no review yet"
+          }
+        },
+        {
           "id": "resetscans",
           "title": "Reset Scans",
           "link": "https://reset-scans.org/",
@@ -36103,7 +36084,25 @@
           "tags": [
             "SCAN"
           ],
-          "rank": 19,
+          "rank": 20,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "manhwa",
+          "details": {
+            "info": "note: no review yet"
+          }
+        },
+        {
+          "id": "plutoscans",
+          "title": "Flame Scans",
+          "link": "https://flamescans.lol/",
+          "icon": "https://static.everythingmoe.com/icons/flamescanslol.png",
+          "tags": [
+            "SCAN"
+          ],
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -36121,7 +36120,25 @@
           "tags": [
             "SCAN"
           ],
-          "rank": 20,
+          "rank": 22,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "manhwa",
+          "details": {
+            "info": "note: no review yet"
+          }
+        },
+        {
+          "id": "erosscans",
+          "title": "ErosScan",
+          "link": "https://erosscans.xyz/",
+          "icon": "https://static.everythingmoe.com/icons/erosscans.png",
+          "tags": [
+            "SCAN"
+          ],
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -36137,7 +36154,7 @@
           "link": "https://manhuafast.net/",
           "icon": "https://static.everythingmoe.com/icons/manhuafast.png",
           "tags": [],
-          "rank": 21,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -38987,8 +39004,6 @@
       "tags": [
         "Easy download",
         "Self-host",
-        "Old reliable",
-        "Simple interface",
         "Hard-sub"
       ],
       "is_licensed": false,
@@ -39214,15 +39229,17 @@
         "info": "note: Self-hosted but also provide third party server options."
       }
     },
-    "anizone": {
-      "id": "anizone",
-      "title": "AniZone",
-      "link": "https://anizone.to/",
-      "icon": "https://static.everythingmoe.com/icons/anizone.png",
+    "gotaku": {
+      "id": "gotaku",
+      "title": "Gotaku",
+      "link": "https://gotaku.to/",
+      "icon": "https://static.everythingmoe.com/icons/gotaku.png",
       "tags": [
         "Self-host",
-        "Soft-sub",
-        "Hard-sub"
+        "Modern interface",
+        "Dub friendly",
+        "Hard-sub",
+        "NEW"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -39232,16 +39249,18 @@
       ],
       "details": {
         "positives": [
-          "Decent stream quality (medium-high bitrate)",
-          "Self hosted server",
-          "Rich subtitle typesetting",
-          "Display video file release info"
+          "Nice interface",
+          "Own encode and server",
+          "Fast stream",
+          "Medium library",
+          "Actively updated"
         ],
         "negatives": [
-          "Medium-small library",
-          "No comments section"
+          "New site",
+          "Add watermark"
         ],
-        "info": "note: Great for watching recent or currently airing anime. Older release use Hard-sub, but recent one is Soft-sub."
+        "info": "note: Library recently reset after maintenance, but quickly adding up.",
+        "extra": "9 pages x 28 + 2"
       }
     },
     "Crunchyroll": {
@@ -39251,7 +39270,6 @@
       "icon": "https://static.everythingmoe.com/icons/cr.png",
       "tags": [
         "Modern interface",
-        "Old reliable",
         "Dub friendly",
         "Soft-sub"
       ],
@@ -39280,6 +39298,36 @@
           }
         ],
         "info": "note: Library size depend on your region. You can use VPN to get the most of it."
+      }
+    },
+    "anizone": {
+      "id": "anizone",
+      "title": "AniZone",
+      "link": "https://anizone.to/",
+      "icon": "https://static.everythingmoe.com/icons/anizone.png",
+      "tags": [
+        "Self-host",
+        "Soft-sub",
+        "Hard-sub"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Decent stream quality (medium-high bitrate)",
+          "Self hosted server",
+          "Rich subtitle typesetting",
+          "Display video file release info"
+        ],
+        "negatives": [
+          "Medium-small library",
+          "No comments section"
+        ],
+        "info": "note: Great for watching recent or currently airing anime. Older release use Hard-sub, but recent one is Soft-sub."
       }
     },
     "123animes": {
@@ -39451,39 +39499,6 @@
           }
         ],
         "domains": "krussdomi.com"
-      }
-    },
-    "gotaku": {
-      "id": "gotaku",
-      "title": "Gotaku",
-      "link": "https://gotaku.to/",
-      "icon": "https://static.everythingmoe.com/icons/gotaku.png",
-      "tags": [
-        "Self-host",
-        "Modern interface",
-        "Dub friendly",
-        "Hard-sub",
-        "NEW"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Nice interface",
-          "Own encode and server",
-          "Fast stream",
-          "Medium library",
-          "Actively updated"
-        ],
-        "negatives": [
-          "New site"
-        ],
-        "info": "note: Library recently reset after maintenance, but quickly adding up.",
-        "extra": "9 pages x 28 + 2"
       }
     },
     "anisnatch": {
@@ -39685,6 +39700,7 @@
       "details": {
         "positives": [
           "Large library",
+          "Nice interface",
           "Multiple sources options"
         ],
         "negatives": [
@@ -39820,8 +39836,6 @@
       "icon": "https://static.everythingmoe.com/icons/animedefenders.png",
       "tags": [
         "Self-host",
-        "Old reliable",
-        "Simple interface",
         "Soft-sub",
         "Hard-sub"
       ],
@@ -39869,7 +39883,7 @@
       "icon": "https://static.everythingmoe.com/icons/uniquestream.png",
       "tags": [
         "Self-host",
-        "Simple interface",
+        "Modern interface",
         "Hard-sub",
         "Dub friendly"
       ],
@@ -39883,7 +39897,7 @@
         "positives": [
           "Highest video streaming quality",
           "Multi language hard-subs",
-          "Simple interface",
+          "Modern interface",
           "Medium library (CR + ADN + Retrocrush)"
         ],
         "negatives": [
@@ -39906,7 +39920,6 @@
       "icon": "https://static.everythingmoe.com/icons/anipara.png",
       "tags": [
         "Self-host",
-        "Simple interface",
         "Soft-sub"
       ],
       "is_licensed": false,
@@ -40012,7 +40025,6 @@
       "icon": "https://static.everythingmoe.com/icons/animeheavenme.png",
       "tags": [
         "Self-host",
-        "Simple interface",
         "Easy download",
         "Hard-sub"
       ],
@@ -40044,7 +40056,6 @@
       "tags": [
         "Easy download",
         "Self-host",
-        "Old reliable",
         "Dub friendly",
         "Hard-sub"
       ],
@@ -40102,6 +40113,7 @@
       "icon": "https://static.everythingmoe.com/icons/animotvslash.png",
       "tags": [
         "Self-host",
+        "Modern interface",
         "Scraper",
         "Hard-sub",
         "Soft-sub"
@@ -40280,6 +40292,7 @@
       "icon": "https://static.everythingmoe.com/icons/anilight.png",
       "tags": [
         "Scraper",
+        "Modern interface",
         "Soft-sub",
         "Hard-sub",
         "mult"
@@ -40307,6 +40320,7 @@
       "icon": "https://static.everythingmoe.com/icons/anistream.png",
       "tags": [
         "Scraper",
+        "Modern interface",
         "Soft-sub",
         "Hard-sub",
         "mult"
@@ -40336,6 +40350,7 @@
       "icon": "https://static.everythingmoe.com/icons/2dhive.png",
       "tags": [
         "Self-host",
+        "Modern interface",
         "Hard-sub",
         "Soft-sub",
         "Easy download"
@@ -40444,6 +40459,7 @@
       "icon": "https://static.everythingmoe.com/icons/anichan.png",
       "tags": [
         "Self-host",
+        "Modern interface",
         "Soft-sub"
       ],
       "is_licensed": false,
@@ -40470,6 +40486,7 @@
       "icon": "https://static.everythingmoe.com/icons/shonento.png",
       "tags": [
         "Scraper",
+        "Modern interface",
         "Soft-sub",
         "new"
       ],
@@ -40579,7 +40596,6 @@
       "icon": "https://static.everythingmoe.com/icons/kisskh.png",
       "tags": [
         "Self-host",
-        "Simple interface",
         "Hard-sub"
       ],
       "is_licensed": false,
@@ -40647,6 +40663,35 @@
           }
         ],
         "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto."
+      }
+    },
+    "animetvplus": {
+      "id": "animetvplus",
+      "title": "animeTVplus",
+      "link": "https://animetvplus.xyz/",
+      "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
+      "tags": [
+        "Self-host",
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "new"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Some content depends on the websites it scrapes"
+        ],
+        "info": "note: Some server are self-hosted, while other are scrapers."
       }
     },
     "zokoanime": {
@@ -40798,7 +40843,6 @@
       "icon": "https://static.everythingmoe.com/icons/wco.png",
       "tags": [
         "Self-host",
-        "Old reliable",
         "Dub friendly",
         "Hard-sub"
       ],
@@ -40895,7 +40939,6 @@
       "icon": "https://static.everythingmoe.com/icons/kimoitv.png",
       "tags": [
         "Self-host",
-        "Simple interface",
         "Easy download",
         "Hard-sub"
       ],
@@ -40925,7 +40968,6 @@
       "icon": "https://static.everythingmoe.com/icons/otakustreamers.png",
       "tags": [
         "Self-host",
-        "Old reliable",
         "Hard-sub",
         "login"
       ],
@@ -41004,35 +41046,6 @@
           }
         ],
         "info": "note: This site focuses on Download, but you can also stream it."
-      }
-    },
-    "animetvplus": {
-      "id": "animetvplus",
-      "title": "animeTVplus",
-      "link": "https://animetvplus.xyz/",
-      "icon": "https://static.everythingmoe.com/icons/animetvplus.png",
-      "tags": [
-        "Self-host",
-        "Scraper",
-        "Soft-sub",
-        "Hard-sub",
-        "new"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Some content depends on the websites it scrapes"
-        ],
-        "info": "note: Some server are self-hosted, while other are scrapers."
       }
     },
     "meguanime": {
@@ -41286,6 +41299,7 @@
       "icon": "https://static.everythingmoe.com/icons/animelover.png",
       "tags": [
         "Scraper",
+        "Modern interface",
         "Soft-sub",
         "mult"
       ],
@@ -41317,6 +41331,7 @@
       "icon": "https://static.everythingmoe.com/icons/yumezone.png",
       "tags": [
         "Scraper",
+        "Modern interface",
         "Soft-sub",
         "mult"
       ],
@@ -41395,6 +41410,7 @@
       "icon": "https://static.everythingmoe.com/icons/luffytv.png",
       "tags": [
         "Scraper",
+        "Modern interface",
         "Soft-sub",
         "Hard-sub",
         "mult"
@@ -41762,6 +41778,10 @@
           {
             "name": "AnimeGo",
             "url": "https://animego.net/"
+          },
+          {
+            "name": "koianime",
+            "url": "https://koianime.lol/"
           }
         ],
         "info": "note: each made by different people, uses third party embed.",
@@ -42301,7 +42321,6 @@
       "icon": "https://static.everythingmoe.com/icons/hulu.png",
       "tags": [
         "Modern interface",
-        "Old reliable",
         "Dub friendly",
         "Soft-sub",
         "licensed"
@@ -47144,7 +47163,7 @@
     },
     "fenyk": {
       "id": "fenyk",
-      "title": "Fennyk",
+      "title": "Fenyk",
       "link": "https://fenyk.org/",
       "icon": "https://static.everythingmoe.com/icons/default.png",
       "tags": [
@@ -50439,25 +50458,6 @@
         "info": "note: no review yet"
       }
     },
-    "zeroscans": {
-      "id": "zeroscans",
-      "title": "Zero Scans",
-      "link": "https://zscans.com/",
-      "icon": "https://static.everythingmoe.com/icons/zeroscans.png",
-      "tags": [
-        "Mostly Scans",
-        "scan"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manhwa"
-      ],
-      "details": {
-        "info": "note: no review yet"
-      }
-    },
     "hivescans": {
       "id": "hivescans",
       "title": "Hive Scans",
@@ -50496,30 +50496,11 @@
         "info": "note: no review yet"
       }
     },
-    "plutoscans": {
-      "id": "plutoscans",
-      "title": "Flame Scans",
-      "link": "https://flamescans.lol/",
-      "icon": "https://static.everythingmoe.com/icons/flamescanslol.png",
-      "tags": [
-        "Mostly Scans",
-        "scan"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manhwa"
-      ],
-      "details": {
-        "info": "note: no review yet"
-      }
-    },
-    "erosscans": {
-      "id": "erosscans",
-      "title": "ErosScan",
-      "link": "https://erosscans.xyz/",
-      "icon": "https://static.everythingmoe.com/icons/erosscans.png",
+    "nyxscans": {
+      "id": "nyxscans",
+      "title": "Nyx Scans",
+      "link": "https://https://nyxscans.com/",
+      "icon": "https://static.everythingmoe.com/icons/nyxscans.png",
       "tags": [
         "Mostly Scans",
         "scan"
@@ -62152,7 +62133,7 @@
     "hydrahd": {
       "id": "hydrahd",
       "title": "HydraHD",
-      "link": "https://hydrahd.ws/",
+      "link": "https://hydrahd.gd/",
       "icon": "https://static.everythingmoe.com/icons/hydrahd.png",
       "tags": [
         "WESTERN"
@@ -62169,10 +62150,6 @@
           {
             "name": ".com",
             "url": "https://hydrahd.com/"
-          },
-          {
-            "name": ".ru",
-            "url": "https://hydrahd.ru/"
           },
           {
             "name": ".me",
@@ -62235,11 +62212,11 @@
         "info": "note : not otaku related site"
       }
     },
-    "cinemaos": {
-      "id": "cinemaos",
-      "title": "Cinemaos",
-      "link": "https://cinemaos.live/",
-      "icon": "https://static.everythingmoe.com/icons/cinemaos.png",
+    "pressplayx": {
+      "id": "pressplayx",
+      "title": "PressPlayX",
+      "link": "https://https://pressplayx.to/",
+      "icon": "https://static.everythingmoe.com/icons/pressplayx.png",
       "tags": [
         "WESTERN"
       ],
@@ -64625,11 +64602,15 @@
         "artboard"
       ],
       "details": {
-        "info": "Public bypass / archive for Patreon, and Pixiv Fanbox. Probably more later.",
+        "info": "Public bypass / archive for Patreon, and Pixiv Fanbox. pawstash is alternative client / app.",
         "altlinks": [
           {
             "name": ".st",
             "url": "https://pawchive.st/"
+          },
+          {
+            "name": "pawstash",
+            "url": "https://github.com/pawstash/pawstash"
           }
         ]
       }
@@ -71176,7 +71157,6 @@
       "icon": "https://static.everythingmoe.com/icons/anitake.png",
       "tags": [
         "Scraper",
-        "Simple interface",
         "Third party",
         "Hard-sub"
       ],
@@ -74673,6 +74653,24 @@
       ],
       "details": {}
     },
+    "zeroscans": {
+      "id": "zeroscans",
+      "title": "Zero Scans",
+      "link": "https://zscans.com/",
+      "icon": "https://static.everythingmoe.com/icons/zeroscans.png",
+      "tags": [
+        "SCAN"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "info": "note: no review yet"
+      }
+    },
     "resetscans": {
       "id": "resetscans",
       "title": "Reset Scans",
@@ -74691,11 +74689,47 @@
         "info": "note: no review yet"
       }
     },
+    "plutoscans": {
+      "id": "plutoscans",
+      "title": "Flame Scans",
+      "link": "https://flamescans.lol/",
+      "icon": "https://static.everythingmoe.com/icons/flamescanslol.png",
+      "tags": [
+        "SCAN"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "info": "note: no review yet"
+      }
+    },
     "utoon": {
       "id": "utoon",
       "title": "UTOON",
       "link": "https://utoon.net/",
       "icon": "https://static.everythingmoe.com/icons/utoon.png",
+      "tags": [
+        "SCAN"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "info": "note: no review yet"
+      }
+    },
+    "erosscans": {
+      "id": "erosscans",
+      "title": "ErosScan",
+      "link": "https://erosscans.xyz/",
+      "icon": "https://static.everythingmoe.com/icons/erosscans.png",
       "tags": [
         "SCAN"
       ],
