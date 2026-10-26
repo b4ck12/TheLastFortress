@@ -183,7 +183,7 @@
         {
           "id": "miruro",
           "title": "Miruro",
-          "link": "https://www.miruro.to/",
+          "link": "https://www.miruro.cx/",
           "icon": "https://static.everythingmoe.com/icons/miruro.png",
           "tags": [
             "Scraper",
@@ -213,8 +213,8 @@
                 "url": "https://anivault.tv/"
               },
               {
-                "name": ".cx",
-                "url": "https://www.miruro.cx/"
+                "name": ".to",
+                "url": "https://www.miruro.to/"
               },
               {
                 "name": ".bz",
@@ -253,6 +253,40 @@
           }
         },
         {
+          "id": "gotaku",
+          "title": "Gotaku",
+          "link": "https://gotaku.to/",
+          "icon": "https://static.everythingmoe.com/icons/gotaku.png",
+          "tags": [
+            "Self-host",
+            "Modern interface",
+            "Dub friendly",
+            "Hard-sub",
+            "NEW"
+          ],
+          "rank": 5,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Own encode and server",
+              "Fast stream",
+              "Medium-large library",
+              "Actively updated"
+            ],
+            "negatives": [
+              "New site",
+              "Add watermark"
+            ],
+            "info": "note: Library recently reset after maintenance, but quickly adding up.",
+            "extra": "9 pages x 28 + 2"
+          }
+        },
+        {
           "id": "AllAnime",
           "title": "MKissa",
           "link": "https://mkissa.to/anime",
@@ -263,7 +297,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 5,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -288,33 +322,6 @@
           }
         },
         {
-          "id": "senshi",
-          "title": "Senshi",
-          "link": "https://senshi.to/",
-          "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
-          "tags": [
-            "Self-host",
-            "Modern interface",
-            "Soft-sub",
-            "Dub friendly"
-          ],
-          "rank": 6,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Modern site design",
-              "Reliable stream server",
-              "Rich subtitle typesetting",
-              "Medium library"
-            ],
-            "domains": "ninstream.com"
-          }
-        },
-        {
           "id": "anipm",
           "title": "ani.pm",
           "link": "https://ani.pm/",
@@ -323,6 +330,7 @@
             "Self-host",
             "Soft-sub",
             "Hard-sub",
+            "Dub friendly",
             "NEW"
           ],
           "rank": 7,
@@ -354,16 +362,15 @@
           }
         },
         {
-          "id": "gotaku",
-          "title": "Gotaku",
-          "link": "https://gotaku.to/",
-          "icon": "https://static.everythingmoe.com/icons/gotaku.png",
+          "id": "senshi",
+          "title": "Senshi",
+          "link": "https://senshi.to/",
+          "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
           "tags": [
             "Self-host",
             "Modern interface",
-            "Dub friendly",
-            "Hard-sub",
-            "NEW"
+            "Soft-sub",
+            "Dub friendly"
           ],
           "rank": 8,
           "is_licensed": false,
@@ -373,18 +380,12 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Nice interface",
-              "Own encode and server",
-              "Fast stream",
-              "Medium library",
-              "Actively updated"
+              "Modern site design",
+              "Reliable stream server",
+              "Rich subtitle typesetting",
+              "Medium library"
             ],
-            "negatives": [
-              "New site",
-              "Add watermark"
-            ],
-            "info": "note: Library recently reset after maintenance, but quickly adding up.",
-            "extra": "9 pages x 28 + 2"
+            "domains": "ninstream.com"
           }
         },
         {
@@ -6898,6 +6899,7 @@
           "tags": [
             "Official Rips",
             "Modern interface",
+            "Multi Language",
             "Scanlator Hub",
             "HUB"
           ],
@@ -6912,6 +6914,7 @@
               "Large library",
               "Actively updated",
               "Modern interface",
+              "Large language selection options",
               "Multi scan/TL support",
               "Advanced manga info & filtering"
             ],
@@ -8325,7 +8328,7 @@
           "id": "fenyk",
           "title": "Fenyk",
           "link": "https://fenyk.org/",
-          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "icon": "https://static.everythingmoe.com/icons/fenyk.png",
           "tags": [
             "Official Rips",
             "new"
@@ -9990,7 +9993,7 @@
               "Mostly high quality official translation",
               "Well organized library"
             ],
-            "info": "note: There are also some from scan groups but mostly official rip manhwa. It also have several JP manga.",
+            "info": "note: Initially only offical rip manhwa, but now also have some from scan groups, and JP manga too.",
             "altlinks": [
               {
                 "name": ".cx",
@@ -14029,12 +14032,34 @@
           }
         },
         {
+          "id": "katdrama",
+          "title": "Kat Drama",
+          "link": "https://k-drama.in/",
+          "icon": "https://static.everythingmoe.com/icons/katdrama.png",
+          "tags": [],
+          "rank": 14,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "drama",
+          "details": {
+            "positives": [
+              "Embed third party sources",
+              "Multiple server options"
+            ],
+            "negatives": [
+              "Content mixed with other stuff"
+            ]
+          }
+        },
+        {
           "id": "asiaflix",
           "title": "Asiaflix",
           "link": "https://asiaflix.net/home",
           "icon": "https://static.everythingmoe.com/icons/asiaflix.png",
           "tags": [],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14066,29 +14091,6 @@
               }
             ],
             "info": "note: kisskh.or.at is different site that also embed stream"
-          }
-        },
-        {
-          "id": "katdrama",
-          "title": "Kat Drama",
-          "link": "https://k-drama.in/",
-          "icon": "https://static.everythingmoe.com/icons/default.png",
-          "tags": [],
-          "rank": 15,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "drama",
-          "details": {
-            "positives": [
-              "Embed third party sources",
-              "Multiple server options"
-            ],
-            "negatives": [
-              "Bad ads",
-              "Relatively short track record"
-            ]
           }
         },
         {
@@ -22978,6 +22980,58 @@
           }
         },
         {
+          "id": "animeoshi",
+          "title": "AnimeOshi",
+          "link": "https://www.animeoshi.com/",
+          "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
+          "tags": [
+            "Anime",
+            "new"
+          ],
+          "rank": 29,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "database",
+          "details": {
+            "positives": [
+              "Anime Tracker site",
+              "Nice modern interface"
+            ],
+            "negatives": [
+              "New site"
+            ]
+          }
+        },
+        {
+          "id": "hoshika",
+          "title": "Hoshika",
+          "link": "https://hoshika.app/",
+          "icon": "https://static.everythingmoe.com/icons/hoshika.png",
+          "tags": [
+            "Aniem",
+            "Manga",
+            "LN",
+            "new"
+          ],
+          "rank": 30,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "database",
+          "details": {
+            "positives": [
+              "Anime, Manga, LN Tracker + DB",
+              "Nice interface"
+            ],
+            "negatives": [
+              "New site"
+            ]
+          }
+        },
+        {
           "id": "shikimori",
           "title": "Шикимори",
           "link": "https://shikimori.one",
@@ -22987,7 +23041,7 @@
             "Manga",
             "LN"
           ],
-          "rank": 29,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23005,7 +23059,7 @@
           "tags": [
             "Anime"
           ],
-          "rank": 30,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23031,7 +23085,7 @@
           "tags": [
             "LN"
           ],
-          "rank": 31,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23049,31 +23103,6 @@
           }
         },
         {
-          "id": "animeoshi",
-          "title": "AnimeOshi",
-          "link": "https://www.animeoshi.com/",
-          "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
-          "tags": [
-            "Anime",
-            "new"
-          ],
-          "rank": 32,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "database",
-          "details": {
-            "positives": [
-              "Anime Tracker site",
-              "Nice modern interface"
-            ],
-            "negatives": [
-              "New site"
-            ]
-          }
-        },
-        {
           "id": "wholesomelist",
           "title": "WholesomeList",
           "link": "https://wholesomelist.com/list",
@@ -23082,7 +23111,7 @@
             "Doujin",
             "H"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23118,7 +23147,7 @@
             "Doujin",
             "doujin"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23150,7 +23179,7 @@
             "Doujin",
             "doujin"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23175,7 +23204,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23209,7 +23238,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23228,7 +23257,7 @@
             "Music",
             "music"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23249,7 +23278,7 @@
           "tags": [
             "Anime"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23275,7 +23304,7 @@
           "tags": [
             "Anime"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23294,7 +23323,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23313,7 +23342,7 @@
             "Char",
             "char"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23329,7 +23358,7 @@
           "link": "https://absoluteterritory.moe/",
           "icon": "https://static.everythingmoe.com/icons/absoluteterritory.png",
           "tags": [],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23465,7 +23494,7 @@
         {
           "id": "pressplayx",
           "title": "PressPlayX",
-          "link": "https://https://pressplayx.to/",
+          "link": "https://pressplayz.top/home",
           "icon": "https://static.everythingmoe.com/icons/pressplayx.png",
           "tags": [
             "WESTERN"
@@ -39059,7 +39088,7 @@
     "miruro": {
       "id": "miruro",
       "title": "Miruro",
-      "link": "https://www.miruro.to/",
+      "link": "https://www.miruro.cx/",
       "icon": "https://static.everythingmoe.com/icons/miruro.png",
       "tags": [
         "Scraper",
@@ -39089,8 +39118,8 @@
             "url": "https://anivault.tv/"
           },
           {
-            "name": ".cx",
-            "url": "https://www.miruro.cx/"
+            "name": ".to",
+            "url": "https://www.miruro.to/"
           },
           {
             "name": ".bz",
@@ -39128,6 +39157,40 @@
         ]
       }
     },
+    "gotaku": {
+      "id": "gotaku",
+      "title": "Gotaku",
+      "link": "https://gotaku.to/",
+      "icon": "https://static.everythingmoe.com/icons/gotaku.png",
+      "tags": [
+        "Self-host",
+        "Modern interface",
+        "Dub friendly",
+        "Hard-sub",
+        "NEW"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Own encode and server",
+          "Fast stream",
+          "Medium-large library",
+          "Actively updated"
+        ],
+        "negatives": [
+          "New site",
+          "Add watermark"
+        ],
+        "info": "note: Library recently reset after maintenance, but quickly adding up.",
+        "extra": "9 pages x 28 + 2"
+      }
+    },
     "AllAnime": {
       "id": "AllAnime",
       "title": "MKissa",
@@ -39163,33 +39226,6 @@
         "info": "note: Have dub, just the UI a bit difficult to switch sub/dub. This site have many server options mostly third party / external host. Formerly known as AllAnime & AllManga."
       }
     },
-    "senshi": {
-      "id": "senshi",
-      "title": "Senshi",
-      "link": "https://senshi.to/",
-      "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
-      "tags": [
-        "Self-host",
-        "Modern interface",
-        "Soft-sub",
-        "Dub friendly"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Modern site design",
-          "Reliable stream server",
-          "Rich subtitle typesetting",
-          "Medium library"
-        ],
-        "domains": "ninstream.com"
-      }
-    },
     "anipm": {
       "id": "anipm",
       "title": "ani.pm",
@@ -39199,6 +39235,7 @@
         "Self-host",
         "Soft-sub",
         "Hard-sub",
+        "Dub friendly",
         "NEW"
       ],
       "is_licensed": false,
@@ -39229,17 +39266,16 @@
         "info": "note: Self-hosted but also provide third party server options."
       }
     },
-    "gotaku": {
-      "id": "gotaku",
-      "title": "Gotaku",
-      "link": "https://gotaku.to/",
-      "icon": "https://static.everythingmoe.com/icons/gotaku.png",
+    "senshi": {
+      "id": "senshi",
+      "title": "Senshi",
+      "link": "https://senshi.to/",
+      "icon": "https://static.everythingmoe.com/icons/senshinotfinal.png",
       "tags": [
         "Self-host",
         "Modern interface",
-        "Dub friendly",
-        "Hard-sub",
-        "NEW"
+        "Soft-sub",
+        "Dub friendly"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -39249,18 +39285,12 @@
       ],
       "details": {
         "positives": [
-          "Nice interface",
-          "Own encode and server",
-          "Fast stream",
-          "Medium library",
-          "Actively updated"
+          "Modern site design",
+          "Reliable stream server",
+          "Rich subtitle typesetting",
+          "Medium library"
         ],
-        "negatives": [
-          "New site",
-          "Add watermark"
-        ],
-        "info": "note: Library recently reset after maintenance, but quickly adding up.",
-        "extra": "9 pages x 28 + 2"
+        "domains": "ninstream.com"
       }
     },
     "Crunchyroll": {
@@ -45738,6 +45768,7 @@
       "tags": [
         "Official Rips",
         "Modern interface",
+        "Multi Language",
         "Scanlator Hub",
         "HUB"
       ],
@@ -45752,6 +45783,7 @@
           "Large library",
           "Actively updated",
           "Modern interface",
+          "Large language selection options",
           "Multi scan/TL support",
           "Advanced manga info & filtering"
         ],
@@ -47165,7 +47197,7 @@
       "id": "fenyk",
       "title": "Fenyk",
       "link": "https://fenyk.org/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "icon": "https://static.everythingmoe.com/icons/fenyk.png",
       "tags": [
         "Official Rips",
         "new"
@@ -48821,7 +48853,7 @@
           "Mostly high quality official translation",
           "Well organized library"
         ],
-        "info": "note: There are also some from scan groups but mostly official rip manhwa. It also have several JP manga.",
+        "info": "note: Initially only offical rip manhwa, but now also have some from scan groups, and JP manga too.",
         "altlinks": [
           {
             "name": ".cx",
@@ -52841,6 +52873,28 @@
         ]
       }
     },
+    "katdrama": {
+      "id": "katdrama",
+      "title": "Kat Drama",
+      "link": "https://k-drama.in/",
+      "icon": "https://static.everythingmoe.com/icons/katdrama.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "drama"
+      ],
+      "details": {
+        "positives": [
+          "Embed third party sources",
+          "Multiple server options"
+        ],
+        "negatives": [
+          "Content mixed with other stuff"
+        ]
+      }
+    },
     "asiaflix": {
       "id": "asiaflix",
       "title": "Asiaflix",
@@ -52879,29 +52933,6 @@
           }
         ],
         "info": "note: kisskh.or.at is different site that also embed stream"
-      }
-    },
-    "katdrama": {
-      "id": "katdrama",
-      "title": "Kat Drama",
-      "link": "https://k-drama.in/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "drama"
-      ],
-      "details": {
-        "positives": [
-          "Embed third party sources",
-          "Multiple server options"
-        ],
-        "negatives": [
-          "Bad ads",
-          "Relatively short track record"
-        ]
       }
     },
     "kissoppa": {
@@ -61736,6 +61767,58 @@
         "info": "note: Previously this site link to where you can read, now only tracker & DB."
       }
     },
+    "animeoshi": {
+      "id": "animeoshi",
+      "title": "AnimeOshi",
+      "link": "https://www.animeoshi.com/",
+      "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
+      "tags": [
+        "Anime",
+        "new"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "database"
+      ],
+      "details": {
+        "positives": [
+          "Anime Tracker site",
+          "Nice modern interface"
+        ],
+        "negatives": [
+          "New site"
+        ]
+      }
+    },
+    "hoshika": {
+      "id": "hoshika",
+      "title": "Hoshika",
+      "link": "https://hoshika.app/",
+      "icon": "https://static.everythingmoe.com/icons/hoshika.png",
+      "tags": [
+        "Aniem",
+        "Manga",
+        "LN",
+        "new"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "database"
+      ],
+      "details": {
+        "positives": [
+          "Anime, Manga, LN Tracker + DB",
+          "Nice interface"
+        ],
+        "negatives": [
+          "New site"
+        ]
+      }
+    },
     "shikimori": {
       "id": "shikimori",
       "title": "Шикимори",
@@ -61805,31 +61888,6 @@
           "Minimal information"
         ],
         "info": "note: Made by <a href=\"/s/lightnovelpub\">LightNovelWorld</a>, comments are transferred."
-      }
-    },
-    "animeoshi": {
-      "id": "animeoshi",
-      "title": "AnimeOshi",
-      "link": "https://www.animeoshi.com/",
-      "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
-      "tags": [
-        "Anime",
-        "new"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "database"
-      ],
-      "details": {
-        "positives": [
-          "Anime Tracker site",
-          "Nice modern interface"
-        ],
-        "negatives": [
-          "New site"
-        ]
       }
     },
     "wholesomelist": {
@@ -62215,7 +62273,7 @@
     "pressplayx": {
       "id": "pressplayx",
       "title": "PressPlayX",
-      "link": "https://https://pressplayx.to/",
+      "link": "https://pressplayz.top/home",
       "icon": "https://static.everythingmoe.com/icons/pressplayx.png",
       "tags": [
         "WESTERN"
