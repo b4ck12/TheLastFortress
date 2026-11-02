@@ -2578,7 +2578,7 @@
                             ]
                         },
                         {
-                            "full_text": "Awesome Privacy / , Awesome Security Hardening or pluja's Awesome Privacy / - Privacy Apps / Services",
+                            "full_text": "Awesome Privacy / , ⁠Techlore SPA , Awesome Security Hardening or pluja's Awesome Privacy / - Privacy Apps / Services",
                             "links": [
                                 {
                                     "name": "Awesome Privacy",
@@ -2587,6 +2587,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/lissy93/awesome-privacy"
+                                },
+                                {
+                                    "name": "⁠Techlore SPA",
+                                    "url": "https://tools.techlore.tech/"
                                 },
                                 {
                                     "name": "Awesome Security Hardening",
@@ -3131,23 +3135,6 @@
                             ]
                         },
                         {
-                            "full_text": "arkenfox - Firefox Privacy Tweak / Video / GUI /",
-                            "links": [
-                                {
-                                    "name": "arkenfox",
-                                    "url": "https://github.com/arkenfox/user.js"
-                                },
-                                {
-                                    "name": "Video",
-                                    "url": "https://youtu.be/F7-bW2y6lcI"
-                                },
-                                {
-                                    "name": "GUI",
-                                    "url": "https://arkenfox.github.io/gui/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "LibreWolf - Custom Privacy-Focused Firefox / Auto-Updater , 2 / /",
                             "links": [
                                 {
@@ -3216,6 +3203,23 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/celenityy/Phoenix"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "arkenfox - Firefox Privacy Tweak / Video / GUI /",
+                            "links": [
+                                {
+                                    "name": "arkenfox",
+                                    "url": "https://github.com/arkenfox/user.js"
+                                },
+                                {
+                                    "name": "Video",
+                                    "url": "https://youtu.be/F7-bW2y6lcI"
+                                },
+                                {
+                                    "name": "GUI",
+                                    "url": "https://arkenfox.github.io/gui/"
                                 }
                             ]
                         },
@@ -4162,27 +4166,6 @@
                             ]
                         },
                         {
-                            "full_text": "ClearURLs / / or URLCleaner - Clean URLs / Remove Tracking Elements from URLs / Can Break Sites /",
-                            "links": [
-                                {
-                                    "name": "ClearURLs",
-                                    "url": "https://docs.clearurls.xyz"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ClearURLs/Addon"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://gitlab.com/KevinRoebert/ClearUrls"
-                                },
-                                {
-                                    "name": "URLCleaner",
-                                    "url": "https://urlcleaner.net/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Webbkoll or Blacklight - Site Tracking Info",
                             "links": [
                                 {
@@ -4210,6 +4193,27 @@
                                 {
                                     "name": "GameIndustry",
                                     "url": "https://gameindustry.eu/en/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ClearURLs / / or URLCleaner - Clean URLs / Remove Tracking Elements from URLs / Can Break Sites /",
+                            "links": [
+                                {
+                                    "name": "ClearURLs",
+                                    "url": "https://docs.clearurls.xyz"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ClearURLs/Addon"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://gitlab.com/KevinRoebert/ClearUrls"
+                                },
+                                {
+                                    "name": "URLCleaner",
+                                    "url": "https://urlcleaner.net/"
                                 }
                             ]
                         },
@@ -6373,7 +6377,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠Together.ai - GLM-5.3 / Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / Up To 110 Daily /",
+                            "full_text": "⁠Together.ai - GLM-5.3 / Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / Sign-Up / Up To 110 Daily /",
                             "links": [
                                 {
                                     "name": "⁠Together.ai",
@@ -6514,20 +6518,20 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Mode - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)",
-                            "links": [
-                                {
-                                    "name": "Google AI Mode",
-                                    "url": "https://google.com/aimode"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Ask Brave - AI Search Engine",
                             "links": [
                                 {
                                     "name": "⁠Ask Brave",
                                     "url": "https://search.brave.com/ask"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Google AI Mode - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)",
+                            "links": [
+                                {
+                                    "name": "Google AI Mode",
+                                    "url": "https://google.com/aimode"
                                 }
                             ]
                         },
@@ -11008,7 +11012,7 @@
                             ]
                         },
                         {
-                            "full_text": "Zenox - Movies / TV / Anime / 4K /",
+                            "full_text": "Zenox - Movies / TV / Anime / Auto-Next / 4K /",
                             "links": [
                                 {
                                     "name": "Zenox",
@@ -11017,6 +11021,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/mYvhW9FNC9"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nexa - Movies / TV / Anime / Auto-Next / 4K /",
+                            "links": [
+                                {
+                                    "name": "Nexa",
+                                    "url": "https://nexa.mov/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Yb6vu9xxUR"
                                 }
                             ]
                         },
@@ -11119,6 +11136,19 @@
                             ]
                         },
                         {
+                            "full_text": "Koddo - Movies / TV / Anime / Auto-Next / 4K /",
+                            "links": [
+                                {
+                                    "name": "Koddo",
+                                    "url": "https://koddo.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Ss2x86nsvK"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Freekz or ZXCSTREAM - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
@@ -11191,6 +11221,23 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/38yFnFCJnA"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TaroFlix or Cinetaro - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "TaroFlix",
+                                    "url": "https://taroflix.net/"
+                                },
+                                {
+                                    "name": "Cinetaro",
+                                    "url": "https://cinetaro.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/2UPkZwn9v"
                                 }
                             ]
                         },
@@ -11313,32 +11360,6 @@
                             ]
                         },
                         {
-                            "full_text": "Koddo - Movies / TV / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Koddo",
-                                    "url": "https://koddo.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Ss2x86nsvK"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinetaro - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinetaro",
-                                    "url": "https://cinetaro.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/2UPkZwn9v"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11357,19 +11378,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/p7XVyk6vs"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Nexa - Movies / TV / Anime / Auto-Next / 4K /",
-                            "links": [
-                                {
-                                    "name": "Nexa",
-                                    "url": "https://nexa.mov/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/Yb6vu9xxUR"
                                 }
                             ]
                         },
@@ -12483,19 +12491,19 @@
                             ]
                         },
                         {
-                            "full_text": "WatchSeries , 2 , 3 - Movies / TV / Anime",
+                            "full_text": "WatchSeries , 2 - Movies / TV / Anime / Mirrors",
                             "links": [
                                 {
                                     "name": "WatchSeries",
-                                    "url": "https://watchseries.bar/"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://watchseries.cool/"
                                 },
                                 {
-                                    "name": "3",
-                                    "url": "https://watchseries.domains/"
+                                    "name": "2",
+                                    "url": "https://watchseries.bar/"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://Watchseries.domains/"
                                 }
                             ]
                         },
@@ -13544,11 +13552,33 @@
                             ]
                         },
                         {
+                            "full_text": "⁠SkyStream - Streaming App / Extension-Based / /",
+                            "links": [
+                                {
+                                    "name": "⁠SkyStream",
+                                    "url": "https://github.com/akashdh11/skystream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/73XGA8Mxn9"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠WatchWave - Streaming App / Download in Top Right /",
                             "links": [
                                 {
                                     "name": "⁠WatchWave",
                                     "url": "https://watchwave.pro/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AIOStreams - Streaming App / Debrid or Usenet Required /",
+                            "links": [
+                                {
+                                    "name": "⁠AIOStreams",
+                                    "url": "https://docs.aiostreams.viren070.me/apps/"
                                 }
                             ]
                         },
@@ -14112,6 +14142,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Gotaku - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠Gotaku",
+                                    "url": "https://gotaku.to/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Re:ANIME , 2 , 3 - Sub / Dub / Auto-Next / Index / Status /",
                             "links": [
                                 {
@@ -14279,15 +14318,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Gotaku - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠Gotaku",
-                                    "url": "https://gotaku.to/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "WeebTube or JJBA.lol - Sub / Dub / Auto-Next / Status /",
                             "links": [
                                 {
@@ -14352,27 +14382,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠AniKuro , 2 - Sub / Dub / Status / /",
+                            "full_text": "Kuroko - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
-                                    "name": "⁠AniKuro",
-                                    "url": "https://anikuro.to/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://anikuro.ru/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://anikuro.site/"
+                                    "name": "Kuroko",
+                                    "url": "https://kuroko.cc/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://t.me/+DrD7eAO7R69mZGM0"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/Svc9yFjQBq"
+                                    "url": "https://discord.gg/cdBcrvR7es"
                                 }
                             ]
                         },
@@ -14499,6 +14517,19 @@
                             ]
                         },
                         {
+                            "full_text": "animeTVplus or AniHost - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "animeTVplus",
+                                    "url": "https://animetvplus.xyz/"
+                                },
+                                {
+                                    "name": "AniHost",
+                                    "url": "https://anihosts.xyz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠YumeZone - Sub / Dub / Auto-Next",
                             "links": [
                                 {
@@ -14592,20 +14623,20 @@
                             ]
                         },
                         {
-                            "full_text": "animeTVplus - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "animeTVplus",
-                                    "url": "https://animetvplus.xyz/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Shonen - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "⁠Shonen",
                                     "url": "https://shonen.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Tatakai - Sub / Dub / Extension-Based",
+                            "links": [
+                                {
+                                    "name": "⁠Tatakai",
+                                    "url": "https://tatakai.me/browse"
                                 }
                             ]
                         },
@@ -14733,27 +14764,6 @@
                                 {
                                     "name": "⁠Zenbu",
                                     "url": "https://zen-bu.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rive Anime , 2 - Sub / Dub / Auto-Next / Status /",
-                            "links": [
-                                {
-                                    "name": "Rive Anime",
-                                    "url": "https://www.rivestream.app/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://rivestream.ru/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rentry.co/rivestream"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6xJmJja8fV"
                                 }
                             ]
                         },
@@ -16738,19 +16748,6 @@
                             ]
                         },
                         {
-                            "full_text": "Watch Footy / Mirrors",
-                            "links": [
-                                {
-                                    "name": "Watch Footy",
-                                    "url": "https://watchfooty.st/"
-                                },
-                                {
-                                    "name": "Mirrors",
-                                    "url": "https://wfty.link/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "NTV , 2 /",
                             "links": [
                                 {
@@ -18097,6 +18094,32 @@
                             ]
                         },
                         {
+                            "full_text": "⁠AIOStreams - Streaming App / Debrid or Usenet Required",
+                            "links": [
+                                {
+                                    "name": "⁠AIOStreams",
+                                    "url": "https://docs.aiostreams.viren070.me/apps/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Luna - Streaming App / tvOS / Extension-Based / Modules /",
+                            "links": [
+                                {
+                                    "name": "Luna",
+                                    "url": "https://github.com/cranci1/Luna"
+                                },
+                                {
+                                    "name": "Modules",
+                                    "url": "https://library.cufiy.net/library/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/XR3SrmUbpd"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "YTCast - Cast YouTube Videos to Smart TV",
                             "links": [
                                 {
@@ -18191,23 +18214,6 @@
                                 {
                                     "name": "Samsung Smart TV Adblock",
                                     "url": "https://redd.it/gn7fw5"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Luna - Streaming App / tvOS / Extension-Based / Modules /",
-                            "links": [
-                                {
-                                    "name": "Luna",
-                                    "url": "https://github.com/cranci1/Luna"
-                                },
-                                {
-                                    "name": "Modules",
-                                    "url": "https://library.cufiy.net/library/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/XR3SrmUbpd"
                                 }
                             ]
                         },
@@ -18525,6 +18531,32 @@
                             ]
                         },
                         {
+                            "full_text": "Syncler - Streaming App / Providers",
+                            "links": [
+                                {
+                                    "name": "Syncler",
+                                    "url": "https://syncler.net/"
+                                },
+                                {
+                                    "name": "Providers",
+                                    "url": "https://www.reddit.com/r/providers4syncler/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠SkyStream - Streaming App / Extension Based /",
+                            "links": [
+                                {
+                                    "name": "⁠SkyStream",
+                                    "url": "https://github.com/akashdh11/skystream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/73XGA8Mxn9"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Vyla TV - Streaming App /",
                             "links": [
                                 {
@@ -18578,19 +18610,6 @@
                                 {
                                     "name": "Nova Video Player",
                                     "url": "https://github.com/nova-video-player/aos-AVP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Syncler - Streaming App / Providers",
-                            "links": [
-                                {
-                                    "name": "Syncler",
-                                    "url": "https://syncler.net/"
-                                },
-                                {
-                                    "name": "Providers",
-                                    "url": "https://www.reddit.com/r/providers4syncler/"
                                 }
                             ]
                         },
@@ -20258,6 +20277,19 @@
                                 {
                                     "name": "⁠Magnolia",
                                     "url": "https://github.com/chwair/magnolia"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠SkyStream - Torrent Streaming App / Stremio Addon Support /",
+                            "links": [
+                                {
+                                    "name": "⁠SkyStream",
+                                    "url": "https://github.com/akashdh11/skystream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/73XGA8Mxn9"
                                 }
                             ]
                         },
@@ -22687,15 +22719,6 @@
                             ]
                         },
                         {
-                            "full_text": "Media Stack DIY - High Quality Streaming Guide",
-                            "links": [
-                                {
-                                    "name": "Media Stack DIY",
-                                    "url": "https://tennojim.xyz/article/media_stack_diy"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠IMAX Guide - Database of IMAX Theatres /",
                             "links": [
                                 {
@@ -23146,15 +23169,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/AlirezaKJ/BetterSoundCloud"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mornye - Streaming",
-                            "links": [
-                                {
-                                    "name": "Mornye",
-                                    "url": "https://github.com/mornyeapp/Mornye-Desktop"
                                 }
                             ]
                         },
@@ -24228,7 +24242,7 @@
                             ]
                         },
                         {
-                            "full_text": "Spotify Podcasts - Podcasts / SponsorBlock , / Companion / RSS / Video Download / Audio Download",
+                            "full_text": "Spotify Podcasts - Podcasts / SponsorBlock , / Companion / RSS / Video Download",
                             "links": [
                                 {
                                     "name": "Spotify Podcasts",
@@ -24253,10 +24267,6 @@
                                 {
                                     "name": "Video Download",
                                     "url": "https://rentry.co/spotifypodcast"
-                                },
-                                {
-                                    "name": "Audio Download",
-                                    "url": "https://rentry.co/dlspotifypodcast"
                                 }
                             ]
                         },
@@ -30508,6 +30518,19 @@
                             ]
                         },
                         {
+                            "full_text": "Mornye - Audio Player / /",
+                            "links": [
+                                {
+                                    "name": "Mornye",
+                                    "url": "https://desktop.mornye.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/mornyeapp/Mornye-Desktop"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Snowify - Audio Player / / /",
                             "links": [
                                 {
@@ -33453,7 +33476,7 @@
                             ]
                         },
                         {
-                            "full_text": "AstralGames - Download / Achievements / Pre-Installed / /",
+                            "full_text": "AstralGames - Download / Pre-Installed / Achievements / /",
                             "links": [
                                 {
                                     "name": "AstralGames",
@@ -37230,7 +37253,7 @@
                             ]
                         },
                         {
-                            "full_text": "ROMSLAB - ROMs / Switch / /",
+                            "full_text": "ROMSLAB - ROMs / Switch 2 / Switch / /",
                             "links": [
                                 {
                                     "name": "ROMSLAB",
@@ -37247,7 +37270,7 @@
                             ]
                         },
                         {
-                            "full_text": "NXbrew - ROMs / Switch",
+                            "full_text": "NXbrew - ROMs / Switch 2 / Switch",
                             "links": [
                                 {
                                     "name": "NXbrew",
@@ -39542,6 +39565,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/RoepStoep/lidraughts"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Old King's Crown - ⁠The Old King's Crown Browser Adaptation",
+                            "links": [
+                                {
+                                    "name": "⁠The Old King's Crown",
+                                    "url": "https://oldkingscrown.fly.dev/"
                                 }
                             ]
                         },
@@ -42058,15 +42090,11 @@
                             ]
                         },
                         {
-                            "full_text": "MessCraft - Eaglercraft Server Network / Site List /",
+                            "full_text": "MessCraft - Eaglercraft Server Network /",
                             "links": [
                                 {
                                     "name": "MessCraft",
                                     "url": "https://mess.eu.org/"
-                                },
-                                {
-                                    "name": "Site List",
-                                    "url": "https://deev.is/"
                                 },
                                 {
                                     "name": "",
@@ -45508,10 +45536,10 @@
                             ]
                         },
                         {
-                            "full_text": "Calibre - Plugin-Based Book Downloader / Manager / Libraries / Tools /",
+                            "full_text": "calibre - Plugin-Based Book Downloader / Manager / Libraries / Tools /",
                             "links": [
                                 {
-                                    "name": "Calibre",
+                                    "name": "calibre",
                                     "url": "https://calibre-ebook.com/"
                                 },
                                 {
@@ -46568,10 +46596,10 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Calibre - E-Reader Book Manager / Downloader / Libraries / Tools /",
+                            "full_text": "calibre - E-Reader Book Manager / Downloader / Libraries / Tools /",
                             "links": [
                                 {
-                                    "name": "Calibre",
+                                    "name": "calibre",
                                     "url": "https://calibre-ebook.com/"
                                 },
                                 {
@@ -49370,11 +49398,11 @@
                             ]
                         },
                         {
-                            "full_text": "Like Manga",
+                            "full_text": "Mgread",
                             "links": [
                                 {
-                                    "name": "Like Manga",
-                                    "url": "https://likemanga.ink/"
+                                    "name": "Mgread",
+                                    "url": "https://mgread.io/"
                                 }
                             ]
                         },
@@ -53203,7 +53231,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "StoryGraph - Tracking / Reviews / Recommendations",
+                            "full_text": "StoryGraph - Reading Tracker / Detailed Statistics / Mood-Based Recommendations",
                             "links": [
                                 {
                                     "name": "StoryGraph",
@@ -53212,7 +53240,7 @@
                             ]
                         },
                         {
-                            "full_text": "Hardcover - Tracking / Reviews / Recommendations / KOReader Plugin /",
+                            "full_text": "Hardcover - Book Tracking / Reviews / Recommendations / KOReader Plugin /",
                             "links": [
                                 {
                                     "name": "Hardcover",
@@ -53229,10 +53257,10 @@
                             ]
                         },
                         {
-                            "full_text": "GoodReads - Tracking / Database / Reviews / Recommendations / Frontend",
+                            "full_text": "Goodreads - Book Tracking / Reviews / Reading Lists / Recommendations / Frontend",
                             "links": [
                                 {
-                                    "name": "GoodReads",
+                                    "name": "Goodreads",
                                     "url": "https://www.goodreads.com/"
                                 },
                                 {
@@ -53242,61 +53270,109 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Book Notification - Book / Author Release Notifications",
+                            "full_text": "LibraryThing - Personal Library Cataloguing / Reviews / Recommendations / Talpa Search",
                             "links": [
                                 {
-                                    "name": "⁠Book Notification",
+                                    "name": "LibraryThing",
+                                    "url": "https://www.librarything.com/"
+                                },
+                                {
+                                    "name": "Talpa Search",
+                                    "url": "https://www.talpasearch.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Open Library - Open Bibliographic Database / Editions / Reading Lists / API",
+                            "links": [
+                                {
+                                    "name": "Open Library",
+                                    "url": "https://openlibrary.org/"
+                                },
+                                {
+                                    "name": "API",
+                                    "url": "https://openlibrary.org/developers/api"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WorldCat - Global Library Catalogue / Book Editions / Library Holdings",
+                            "links": [
+                                {
+                                    "name": "WorldCat",
+                                    "url": "https://search.worldcat.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BookBrainz - Open Book Metadata Database / API",
+                            "links": [
+                                {
+                                    "name": "BookBrainz",
+                                    "url": "https://bookbrainz.org/"
+                                },
+                                {
+                                    "name": "API",
+                                    "url": "https://api.bookbrainz.org/1/docs/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Book Notification - Author & Series Tracking / New Release Alerts / Reading Orders",
+                            "links": [
+                                {
+                                    "name": "Book Notification",
                                     "url": "https://www.booknotification.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "⁠Bookfeed.io - Author Release RSS Feeds",
+                            "full_text": "Bookfeed.io - RSS Feeds for New Releases by Favourite Authors",
                             "links": [
                                 {
-                                    "name": "⁠Bookfeed.io",
+                                    "name": "Bookfeed.io",
                                     "url": "https://bookfeed.io/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "LibraryThing - Tracking / Reviews / Recommendations / Database",
+                            "full_text": "ISFDB - Science Fiction / Fantasy / Horror Bibliographic Database / Awards / Publication Histories",
                             "links": [
                                 {
-                                    "name": "LibraryThing",
-                                    "url": "https://www.librarything.com/"
+                                    "name": "ISFDB",
+                                    "url": "https://www.isfdb.org/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "⁠EntertainMe - Tracking / Recommendations",
+                            "full_text": "Fantastic Fiction - Author Bibliographies / Book Series / New Releases",
                             "links": [
                                 {
-                                    "name": "⁠EntertainMe",
-                                    "url": "https://www.entertainme.fun/"
+                                    "name": "Fantastic Fiction",
+                                    "url": "https://www.fantasticfiction.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "CandlApp - Tracking / Recommendations",
+                            "full_text": "Book Series in Order - Author Bibliographies / Publication & Chronological Reading Orders",
                             "links": [
                                 {
-                                    "name": "CandlApp",
-                                    "url": "https://www.candlapp.com/"
+                                    "name": "Book Series in Order",
+                                    "url": "https://www.bookseriesinorder.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Oku - Tracking",
+                            "full_text": "BookHype - Reading Tracker / Book Release Calendar / Series Tracking",
                             "links": [
                                 {
-                                    "name": "Oku",
-                                    "url": "https://oku.club/"
+                                    "name": "BookHype",
+                                    "url": "https://bookhype.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "BookWyrm - Tracking / Official Instance",
+                            "full_text": "BookWyrm - Open-Source Federated Reading Tracker / Official Instance /",
                             "links": [
                                 {
                                     "name": "BookWyrm",
@@ -53305,24 +53381,15 @@
                                 {
                                     "name": "Official Instance",
                                     "url": "https://bookwyrm.social/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "rate.house or Yamtrack - Media Trackers",
-                            "links": [
-                                {
-                                    "name": "rate.house",
-                                    "url": "https://rate.house/"
                                 },
                                 {
-                                    "name": "Yamtrack",
-                                    "url": "https://github.com/FuzzyGrim/Yamtrack"
+                                    "name": "",
+                                    "url": "https://github.com/bookwyrm-social/bookwyrm"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Literal - Social Tracking Platform",
+                            "full_text": "Literal - Social Reading Tracker / Reviews / Reading Lists",
                             "links": [
                                 {
                                     "name": "Literal",
@@ -53331,12 +53398,35 @@
                             ]
                         },
                         {
-                            "full_text": "libib or All My Books - Desktop Catalogs",
+                            "full_text": "Oku - Book Tracking / Reading Goals / Collections / Statistics",
                             "links": [
                                 {
-                                    "name": "libib",
+                                    "name": "Oku",
+                                    "url": "https://oku.club/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Candl - Private Reading Tracker / Notes / Statistics / Spaced Repetition",
+                            "links": [
+                                {
+                                    "name": "Candl",
+                                    "url": "https://www.candlapp.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Libib - Personal Library Cataloguing / ISBN Scanning / Web & Mobile",
+                            "links": [
+                                {
+                                    "name": "Libib",
                                     "url": "https://www.libib.com/"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "All My Books - Desktop Book Collection Manager /",
+                            "links": [
                                 {
                                     "name": "All My Books",
                                     "url": "https://www.bolidesoft.com/allmybooks.html"
@@ -53344,7 +53434,7 @@
                             ]
                         },
                         {
-                            "full_text": "Anobii - Book Cataloguing / Reviews",
+                            "full_text": "Anobii - Book Cataloguing / Reviews / Reading Community",
                             "links": [
                                 {
                                     "name": "Anobii",
@@ -53353,16 +53443,43 @@
                             ]
                         },
                         {
-                            "full_text": "Ratings Filter - Goodreads / Storygraph Rating Aggregator + Filter",
+                            "full_text": "Litsy - Social Reading / Reviews / Book Community",
                             "links": [
                                 {
-                                    "name": "Ratings Filter",
-                                    "url": "https://www.book-filter.com/"
+                                    "name": "Litsy",
+                                    "url": "https://www.litsy.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Listal - Book Database",
+                            "full_text": "EntertainMe - Multi-Media Tracking / Books / Films / Games",
+                            "links": [
+                                {
+                                    "name": "EntertainMe",
+                                    "url": "https://www.entertainme.fun/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "rate.house - Multi-Media Ratings / Reviews / Tracking",
+                            "links": [
+                                {
+                                    "name": "rate.house",
+                                    "url": "https://rate.house/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Yamtrack - Self-Hosted Media Tracker / Books / Films / TV / Games",
+                            "links": [
+                                {
+                                    "name": "Yamtrack",
+                                    "url": "https://github.com/FuzzyGrim/Yamtrack"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Listal - Media Collection Tracking / Reviews / Lists",
                             "links": [
                                 {
                                     "name": "Listal",
@@ -53371,11 +53488,47 @@
                             ]
                         },
                         {
-                            "full_text": "Books Search - Book Database",
+                            "full_text": "Ratings Filter - Filter Books by Goodreads & StoryGraph Ratings",
+                            "links": [
+                                {
+                                    "name": "Ratings Filter",
+                                    "url": "https://www.book-filter.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Books Search - Fast Open Library Book Database Search",
                             "links": [
                                 {
                                     "name": "Books Search",
                                     "url": "https://books-search.typesense.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Romance.io - Romance Book Database / Tropes / Content Warnings / Ratings",
+                            "links": [
+                                {
+                                    "name": "Romance.io",
+                                    "url": "https://www.romance.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "nooSFere - French-Language Science Fiction Bibliographic Database",
+                            "links": [
+                                {
+                                    "name": "nooSFere",
+                                    "url": "https://www.noosfere.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Uchronia - Alternate History Fiction Bibliography / Series / Divergence Points",
+                            "links": [
+                                {
+                                    "name": "Uchronia",
+                                    "url": "https://www.uchronia.net/"
                                 }
                             ]
                         },
@@ -53385,78 +53538,6 @@
                                 {
                                     "name": "⁠Banned Book List",
                                     "url": "https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ISFDB - Speculative Fiction",
-                            "links": [
-                                {
-                                    "name": "ISFDB",
-                                    "url": "https://isfdb.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Uchronia - Fictional \"What If\" History",
-                            "links": [
-                                {
-                                    "name": "⁠Uchronia",
-                                    "url": "https://www.uchronia.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Fantastic Fiction - Fiction Tracking / Database",
-                            "links": [
-                                {
-                                    "name": "⁠Fantastic Fiction",
-                                    "url": "https://www.fantasticfiction.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "nooSFere - Science Fiction",
-                            "links": [
-                                {
-                                    "name": "nooSFere",
-                                    "url": "https://www.noosfere.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Romance.io - Romance Database",
-                            "links": [
-                                {
-                                    "name": "Romance.io",
-                                    "url": "https://www.romance.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Tolkien Gateway - J.R.R. Tolkien Content Encyclopedia / Wiki",
-                            "links": [
-                                {
-                                    "name": "⁠Tolkien Gateway",
-                                    "url": "https://tolkiengateway.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Talpa Search - Find Books by Describing Them",
-                            "links": [
-                                {
-                                    "name": "Talpa Search",
-                                    "url": "https://www.talpasearch.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Book Series in Order - Book Character / Author Release Orders",
-                            "links": [
-                                {
-                                    "name": "⁠Book Series in Order",
-                                    "url": "https://www.bookseriesinorder.com/"
                                 }
                             ]
                         }
@@ -53629,7 +53710,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Book Awards - Index of Book Awards",
+                            "full_text": "Book Awards - Index of Literary Awards",
                             "links": [
                                 {
                                     "name": "Book Awards",
@@ -53638,47 +53719,7 @@
                             ]
                         },
                         {
-                            "full_text": "StoryGraph - Discovery and Recommendations",
-                            "links": [
-                                {
-                                    "name": "StoryGraph",
-                                    "url": "https://www.thestorygraph.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The Greatest Books - Algorithmic Books Lists",
-                            "links": [
-                                {
-                                    "name": "The Greatest Books",
-                                    "url": "https://www.thegreatestbooks.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠NPR's Books We Love - Book Discovery / Recommendations",
-                            "links": [
-                                {
-                                    "name": "⁠NPR's Books We Love",
-                                    "url": "https://apps.npr.org/best-books/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠The Book Prize Index or LibraryThing Awards - Book Awards + Winning Book Index",
-                            "links": [
-                                {
-                                    "name": "⁠The Book Prize Index",
-                                    "url": "https://book-prize-index.vercel.app/"
-                                },
-                                {
-                                    "name": "LibraryThing Awards",
-                                    "url": "https://www.librarything.com/award"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Five Books - Expert Recommended Books",
+                            "full_text": "Five Books - Expert Recommendations / Interviews / Reading Lists by Subject",
                             "links": [
                                 {
                                     "name": "Five Books",
@@ -53687,7 +53728,83 @@
                             ]
                         },
                         {
-                            "full_text": "GoodBooks or Read This Twice - Book Recommendations by Influential People",
+                            "full_text": "The Greatest Books - Aggregated Greatest Books Rankings / Custom Lists",
+                            "links": [
+                                {
+                                    "name": "The Greatest Books",
+                                    "url": "https://www.thegreatestbooks.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "NPR's Books We Love - Curated Recommendations / Genre & Theme Filters",
+                            "links": [
+                                {
+                                    "name": "NPR's Books We Love",
+                                    "url": "https://apps.npr.org/best-books/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "StoryGraph - Personalized Recommendations / Mood & Genre Filters",
+                            "links": [
+                                {
+                                    "name": "StoryGraph",
+                                    "url": "https://www.thestorygraph.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Book Marks - Aggregated Professional Reviews / Critics' Consensus",
+                            "links": [
+                                {
+                                    "name": "Book Marks",
+                                    "url": "https://bookmarks.reviews/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Whichbook - Mood-Based Discovery / Reader-Curated Recommendations",
+                            "links": [
+                                {
+                                    "name": "Whichbook",
+                                    "url": "https://www.whichbook.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "The Book Prize Index - Nonfiction Awards / Searchable Prize Database / API",
+                            "links": [
+                                {
+                                    "name": "The Book Prize Index",
+                                    "url": "https://book-prize-index.vercel.app/"
+                                },
+                                {
+                                    "name": "API",
+                                    "url": "https://book-prize-index.vercel.app/data"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LibraryThing Awards - Literary Awards / Winners & Nominees",
+                            "links": [
+                                {
+                                    "name": "LibraryThing Awards",
+                                    "url": "https://www.librarything.com/award"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Book DNA - Author-Curated Recommendations / Themed Reading Lists",
+                            "links": [
+                                {
+                                    "name": "Book DNA",
+                                    "url": "https://bookdna.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GoodBooks or Read This Twice - Recommendations from Notable People",
                             "links": [
                                 {
                                     "name": "GoodBooks",
@@ -53700,160 +53817,7 @@
                             ]
                         },
                         {
-                            "full_text": "r/ifyoulikeblank - Personalized Recommendation Subreddit",
-                            "links": [
-                                {
-                                    "name": "r/ifyoulikeblank",
-                                    "url": "https://www.reddit.com/r/ifyoulikeblank/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BookHype - Book Discovery / Recommendations",
-                            "links": [
-                                {
-                                    "name": "BookHype",
-                                    "url": "https://bookhype.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Dan's Library - Book Recommendations",
-                            "links": [
-                                {
-                                    "name": "⁠Dan's Library",
-                                    "url": "https://rentry.co/danslibrary/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠The Book Rex - Book Discovery / Recommendations",
-                            "links": [
-                                {
-                                    "name": "⁠The Book Rex",
-                                    "url": "https://thebookrex.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Reddit Reads - Most Popular Books from Subreddits",
-                            "links": [
-                                {
-                                    "name": "Reddit Reads",
-                                    "url": "https://www.redditreads.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Gnooks - Book Discovery / Recommendations",
-                            "links": [
-                                {
-                                    "name": "Gnooks",
-                                    "url": "https://www.gnooks.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RecommendMeABook - First Page Book Teasers",
-                            "links": [
-                                {
-                                    "name": "RecommendMeABook",
-                                    "url": "https://recommendmeabook.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "WhichBook - Mood-Based Book Discovery",
-                            "links": [
-                                {
-                                    "name": "WhichBook",
-                                    "url": "https://www.whichbook.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TasteDive - Discovery and Recommendations",
-                            "links": [
-                                {
-                                    "name": "TasteDive",
-                                    "url": "https://tastedive.com/books"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠r/TrueLit Top 100 Lists - Book Recommendations",
-                            "links": [
-                                {
-                                    "name": "⁠r/TrueLit Top 100 Lists",
-                                    "url": "https://www.reddit.com/r/TrueLit/wiki/top100lists"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Readow - Book Recommendations",
-                            "links": [
-                                {
-                                    "name": "Readow",
-                                    "url": "https://readow.ai/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠The Greatest Literature - Book Recommendations / Top Lists",
-                            "links": [
-                                {
-                                    "name": "⁠The Greatest Literature",
-                                    "url": "https://editoreric.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Book DNA - Book Recommendations",
-                            "links": [
-                                {
-                                    "name": "Book DNA",
-                                    "url": "https://bookdna.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Greater Books - Book Recommendations",
-                            "links": [
-                                {
-                                    "name": "Greater Books",
-                                    "url": "http://www.greaterbooks.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Uncovered - Book Sample / Recommendation Tool",
-                            "links": [
-                                {
-                                    "name": "⁠Uncovered",
-                                    "url": "https://uncovered.ink/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Literature-Map - Author Discovery by Genre",
-                            "links": [
-                                {
-                                    "name": "Literature-Map",
-                                    "url": "https://www.literature-map.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Break the Bubble! - Challenge Narrow Tastes",
-                            "links": [
-                                {
-                                    "name": "Break the Bubble!",
-                                    "url": "https://abooklike.foo/escape"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Most Recommended Books - Book Recommendations",
+                            "full_text": "Most Recommended Books - Recommendations from Influential People",
                             "links": [
                                 {
                                     "name": "Most Recommended Books",
@@ -53862,47 +53826,61 @@
                             ]
                         },
                         {
-                            "full_text": "Hacker Recommended Books - Book Recommendations",
+                            "full_text": "r/suggestmeabook - Community Recommendations",
                             "links": [
                                 {
-                                    "name": "Hacker Recommended Books",
-                                    "url": "https://hacker-recommended-books.vercel.app/"
+                                    "name": "r/suggestmeabook",
+                                    "url": "https://www.reddit.com/r/suggestmeabook/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Mind Expanding Books - Book Recommendations /",
+                            "full_text": "The Book Rex - Fiction Discovery by Genre / Tropes / Content Warnings",
                             "links": [
                                 {
-                                    "name": "Mind Expanding Books",
-                                    "url": "https://mindexpandingbooks.com"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/hackerkid/Mind-Expanding-Books"
+                                    "name": "The Book Rex",
+                                    "url": "https://thebookrex.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Litsy - Book Recommendation / Photo Sharing Community",
+                            "full_text": "Dan's Library - Curated Recommendations",
                             "links": [
                                 {
-                                    "name": "Litsy",
-                                    "url": "https://www.litsy.com/"
+                                    "name": "Dan's Library",
+                                    "url": "https://rentry.co/danslibrary/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Bookmarks Review - Book Review Aggregator",
+                            "full_text": "r/TrueLit Top 100 Lists - Community-Ranked Literary Fiction",
                             "links": [
                                 {
-                                    "name": "Bookmarks Review",
-                                    "url": "https://bookmarks.reviews/"
+                                    "name": "r/TrueLit Top 100 Lists",
+                                    "url": "https://www.reddit.com/r/TrueLit/wiki/top100lists"
                                 }
                             ]
                         },
                         {
-                            "full_text": "5000 Best - Top 5000 Books",
+                            "full_text": "The Greatest Literature - Classic Literature Rankings / Literary Canon",
+                            "links": [
+                                {
+                                    "name": "The Greatest Literature",
+                                    "url": "https://editoreric.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Greater Books - Recommendations / Reading Lists",
+                            "links": [
+                                {
+                                    "name": "Greater Books",
+                                    "url": "http://www.greaterbooks.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "5000 Best - Top 5000 Books / Rankings",
                             "links": [
                                 {
                                     "name": "5000 Best",
@@ -53911,23 +53889,86 @@
                             ]
                         },
                         {
-                            "full_text": "BookStash , Sobrief , Summrize or Glimbay - Book Summaries",
+                            "full_text": "RecommendMeABook or Uncovered - Discover by Reading The Opening Pages",
                             "links": [
                                 {
-                                    "name": "BookStash",
-                                    "url": "https://bookstash.io/"
+                                    "name": "RecommendMeABook",
+                                    "url": "https://recommendmeabook.com/"
                                 },
                                 {
-                                    "name": "Sobrief",
-                                    "url": "https://sobrief.com/"
+                                    "name": "Uncovered",
+                                    "url": "https://uncovered.ink/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Gnooks or Literature-Map - Similar Author Discovery",
+                            "links": [
+                                {
+                                    "name": "Gnooks",
+                                    "url": "https://www.gnooks.com/"
                                 },
                                 {
-                                    "name": "Summrize",
-                                    "url": "https://www.summrize.com/"
+                                    "name": "Literature-Map",
+                                    "url": "https://www.literature-map.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Break the Bubble! - Discover Books Outside Your Usual Reading Tastes",
+                            "links": [
+                                {
+                                    "name": "Break the Bubble!",
+                                    "url": "https://abooklike.foo/escape"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TasteDive - Similar Book Recommendations",
+                            "links": [
+                                {
+                                    "name": "TasteDive",
+                                    "url": "https://tastedive.com/books"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Readow - AI-Based Recommendations",
+                            "links": [
+                                {
+                                    "name": "Readow",
+                                    "url": "https://readow.ai/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hacker Recommended Books - Recommendations from Hacker News",
+                            "links": [
+                                {
+                                    "name": "Hacker Recommended Books",
+                                    "url": "https://hacker-recommended-books.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mind Expanding Books - Curated Recommendations /",
+                            "links": [
+                                {
+                                    "name": "Mind Expanding Books",
+                                    "url": "https://mindexpandingbooks.com/"
                                 },
                                 {
-                                    "name": "Glimbay",
-                                    "url": "https://glimbay.netlify.app/"
+                                    "name": "",
+                                    "url": "https://github.com/hackerkid/Mind-Expanding-Books"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Reddit Reads - Historical Most-Mentioned Books on Reddit / Data Through March 2023",
+                            "links": [
+                                {
+                                    "name": "Reddit Reads",
+                                    "url": "https://www.redditreads.com/"
                                 }
                             ]
                         }
@@ -65429,11 +65470,15 @@
                             ]
                         },
                         {
-                            "full_text": "Flag Guesser , ⁠Flagle , FlagGuessr , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
+                            "full_text": "Flag Guesser , ⁠Geotrivia (Flags) , ⁠Flagle , FlagGuessr , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
                             "links": [
                                 {
                                     "name": "Flag Guesser",
                                     "url": "https://flagguesser.com/"
+                                },
+                                {
+                                    "name": "⁠Geotrivia (Flags)",
+                                    "url": "https://geotrivia.com/world/flags"
                                 },
                                 {
                                     "name": "⁠Flagle",
@@ -76994,7 +77039,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Keep in mind some modded APK sites will list apps with fake names which are generally not worth using."
+                        "Keep in mind some modded APK sites will list apps with fake names, which are generally not worth using. Make sure to install anadblocker, always verify that the uploaders are trustworthy when using forums as your APK source."
                     ],
                     "resource_items": [
                         {
@@ -77483,15 +77528,6 @@
                                     "url": "https://t.me/EasyAPK"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "AyraProject - Custom ROM / Ports",
-                            "links": [
-                                {
-                                    "name": "AyraProject",
-                                    "url": "https://t.me/AyraProject"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -77523,15 +77559,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/moneytoo/awesome-fdroid"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Shizuku - Shizuku App Index",
-                            "links": [
-                                {
-                                    "name": "Awesome Shizuku",
-                                    "url": "https://github.com/timschneeb/awesome-shizuku"
                                 }
                             ]
                         },
@@ -77688,7 +77715,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "You can useAntiSplit-Mif you need to merge \"split\" or \"bundled\" APK formats such as APKM or APKX. This will convert them to regular APK format used for installing and patching."
+                        "You can useMP Managerif you need to merge \"split\" or \"bundled\" APK formats such as APKM or APKX. This will convert them to regular APK format used for installing and patching."
                     ],
                     "resource_items": [
                         {
@@ -77717,7 +77744,7 @@
                                 },
                                 {
                                     "name": "Installer",
-                                    "url": "https://github.com/AbdurazaaqMohammed/AntiSplit-M"
+                                    "url": "https://github.com/AbdurazaaqMohammed/MP-Manager"
                                 }
                             ]
                         },
@@ -78116,11 +78143,11 @@
                             ]
                         },
                         {
-                            "full_text": "AntiSplit-M - Merge Split APKs",
+                            "full_text": "MP Manager - Merge Split APKs",
                             "links": [
                                 {
-                                    "name": "AntiSplit-M",
-                                    "url": "https://github.com/AbdurazaaqMohammed/AntiSplit-M"
+                                    "name": "MP Manager",
+                                    "url": "https://github.com/AbdurazaaqMohammed/MP-Manager"
                                 }
                             ]
                         },
@@ -78379,7 +78406,7 @@
                             ]
                         },
                         {
-                            "full_text": "NullStore / or FiorenMas Pre-Built / - Every Patched App",
+                            "full_text": "NullStore / or FiorenMas Pre-Built / - Latest Patched Apps / Morphe, ReVanced & Revanced-Extended",
                             "links": [
                                 {
                                     "name": "NullStore",
@@ -78486,7 +78513,7 @@
                             ]
                         },
                         {
-                            "full_text": "Valenced / / or ⁠raincord / - Modded Discord Clients",
+                            "full_text": "Valenced / / Fonts , 2 / or ⁠raincord / - Modded Discord Clients",
                             "links": [
                                 {
                                     "name": "Valenced",
@@ -78495,6 +78522,14 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/dtBTQHYSx4"
+                                },
+                                {
+                                    "name": "Fonts",
+                                    "url": "https://github.com/Rairof/Theme-Fonts"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://github.com/Purple-EyeZ/Bunny-Fonts"
                                 },
                                 {
                                     "name": "",
@@ -78578,7 +78613,7 @@
                             ]
                         },
                         {
-                            "full_text": "piko (Instagram) / / , MyInsta / / or ⁠Instafel / - Modded Instagram Clients",
+                            "full_text": "piko (Instagram) / / , MyInsta / / or ⁠Instafel / - Modded Instagram Clients / Warning",
                             "links": [
                                 {
                                     "name": "piko (Instagram)",
@@ -78607,6 +78642,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/mamiiblt/instafel/"
+                                },
+                                {
+                                    "name": "Warning",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/insta-android.md"
                                 }
                             ]
                         },
@@ -79129,7 +79168,7 @@
                             ]
                         },
                         {
-                            "full_text": "Shizuku Fork , Shizuku / or Dhizuku - Let Apps Use System API",
+                            "full_text": "Shizuku Fork , Shizuku / or Dhizuku - Let Apps Use System API / Shizuku Apps **",
                             "links": [
                                 {
                                     "name": "Shizuku Fork",
@@ -79146,6 +79185,10 @@
                                 {
                                     "name": "Dhizuku",
                                     "url": "https://github.com/iamr0s/Dhizuku"
+                                },
+                                {
+                                    "name": "Shizuku Apps",
+                                    "url": "https://github.com/timschneeb/awesome-shizuku"
                                 }
                             ]
                         },
@@ -80428,6 +80471,15 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/GrapheneOS"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AyraProject - Custom ROM / Ports",
+                            "links": [
+                                {
+                                    "name": "AyraProject",
+                                    "url": "https://t.me/AyraProject"
                                 }
                             ]
                         },
@@ -82950,7 +83002,7 @@
                             "links": [
                                 {
                                     "name": "Android Note-Taking",
-                                    "url": "https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#note-taking"
+                                    "url": "https://fmhy.net/text-tools/#note-taking"
                                 }
                             ]
                         },
@@ -82964,19 +83016,19 @@
                             ]
                         },
                         {
-                            "full_text": "Xed-Editor / , Acode , QuickEdit (search) - Text / Code Editors",
+                            "full_text": "Xed-Editor , Acode / , QuickEdit (search) - Text / Code Editors",
                             "links": [
                                 {
                                     "name": "Xed-Editor",
                                     "url": "https://github.com/Xed-Editor/Xed-Editor"
                                 },
                                 {
-                                    "name": "",
-                                    "url": "https://github.com/Acode-Foundation/Acode"
-                                },
-                                {
                                     "name": "Acode",
                                     "url": "https://acode.app"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Acode-Foundation/Acode"
                                 },
                                 {
                                     "name": "QuickEdit",
@@ -84067,6 +84119,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠GameNative - Game Emulator / Launcher / /",
+                            "links": [
+                                {
+                                    "name": "⁠GameNative",
+                                    "url": "https://gamenative.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/2hKv4VfZfE"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/utkarshdalal/GameNative"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "JoiPlay - Game Interpreter for RPG Maker, Ren'Py, & Other Formats",
                             "links": [
                                 {
@@ -84121,23 +84190,6 @@
                                 {
                                     "name": "GameHub Lite",
                                     "url": "https://github.com/Producdevity/gamehub-lite"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠GameNative - Game Emulator / Launcher / /",
-                            "links": [
-                                {
-                                    "name": "⁠GameNative",
-                                    "url": "https://gamenative.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/2hKv4VfZfE"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/utkarshdalal/GameNative"
                                 }
                             ]
                         },
@@ -85850,7 +85902,7 @@
                             "links": [
                                 {
                                     "name": "⁠Flow",
-                                    "url": "https://flowapp-website.vercel.app/"
+                                    "url": "https://flow-tube.org/"
                                 },
                                 {
                                     "name": "",
@@ -86535,6 +86587,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠SkyStream - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "⁠SkyStream",
+                                    "url": "https://github.com/akashdh11/skystream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/73XGA8Mxn9"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Atlantic - Movies / TV / Anime",
                             "links": [
                                 {
@@ -86667,6 +86732,15 @@
                                 {
                                     "name": "LokLok",
                                     "url": "https://loklok.com/download"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AIOStreams - Movies / TV / Anime / Debrid or Usenet Required",
+                            "links": [
+                                {
+                                    "name": "⁠AIOStreams",
+                                    "url": "https://docs.aiostreams.viren070.me/apps/"
                                 }
                             ]
                         },
@@ -87683,6 +87757,15 @@
                             ]
                         },
                         {
+                            "full_text": "Keka (search) - File Archiver",
+                            "links": [
+                                {
+                                    "name": "Keka",
+                                    "url": "https://fmhy.net/mobile/#ios-ipas"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Santander or Documents - File Managers",
                             "links": [
                                 {
@@ -87692,15 +87775,6 @@
                                 {
                                     "name": "Documents",
                                     "url": "https://apps.apple.com/app/documents-file-manager-docs/id364901807"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Keka - File Archiver",
-                            "links": [
-                                {
-                                    "name": "Keka",
-                                    "url": "https://testflight.apple.com/join/gPYINGCJ"
                                 }
                             ]
                         },
@@ -87981,15 +88055,6 @@
                                 {
                                     "name": "SwiftKey",
                                     "url": "https://www.microsoft.com/en-us/swiftkey"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Pass4Wallet - Create Custom Cards for Apple Wallet App",
-                            "links": [
-                                {
-                                    "name": "⁠Pass4Wallet",
-                                    "url": "https://apps.apple.com/app/pass4wallet-store-cards/id1423106610"
                                 }
                             ]
                         },
@@ -89161,7 +89226,7 @@
                             ]
                         },
                         {
-                            "full_text": "SideStore or ⁠SideInstaller (iOS 27) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / Install w/ ⁠iloader / / /",
+                            "full_text": "SideStore or ⁠SideInstaller / (iOS 27) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / Install w/ ⁠iloader / / /",
                             "links": [
                                 {
                                     "name": "SideStore",
@@ -89169,6 +89234,10 @@
                                 },
                                 {
                                     "name": "⁠SideInstaller",
+                                    "url": "https://sideinstaller.net/"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/FrizzleM/SideInstaller"
                                 },
                                 {
@@ -90011,7 +90080,7 @@
                             ]
                         },
                         {
-                            "full_text": "Valenced / / or ⁠raincord / - Modded Discord Clients",
+                            "full_text": "Valenced / / Fonts , 2 / or ⁠raincord / - Modded Discord Clients",
                             "links": [
                                 {
                                     "name": "Valenced",
@@ -90020,6 +90089,14 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/dtBTQHYSx4"
+                                },
+                                {
+                                    "name": "Fonts",
+                                    "url": "https://github.com/Rairof/Theme-Fonts"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://github.com/Purple-EyeZ/Bunny-Fonts"
                                 },
                                 {
                                     "name": "",
@@ -91012,6 +91089,19 @@
                                 {
                                     "name": "Swiftfin",
                                     "url": "https://apps.apple.com/app/id1604098728"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠SkyStream - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "⁠SkyStream",
+                                    "url": "https://github.com/akashdh11/skystream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/73XGA8Mxn9"
                                 }
                             ]
                         },
@@ -99275,7 +99365,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠uBO Lite Safari / , AdGuard Mini / Guide / 2 or wBlock / - Safari Adblockers",
+                            "full_text": "⁠uBO Lite Safari / , AdGuard Mini / Guide / 2 or wBlock / / - Safari Adblockers",
                             "links": [
                                 {
                                     "name": "⁠uBO Lite Safari",
@@ -99295,7 +99385,11 @@
                                 },
                                 {
                                     "name": "wBlock",
-                                    "url": "https://apps.apple.com/app/wblock/id6746388723"
+                                    "url": "https://skula.me/project/wblock/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Y3yTFPpbXr"
                                 },
                                 {
                                     "name": "",
@@ -100700,6 +100794,15 @@
                             ]
                         },
                         {
+                            "full_text": "TukTukCinema - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "TukTukCinema",
+                                    "url": "https://tuktukcinemas.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "TopCinema - Movies / TV / Anime / Use Adblock",
                             "links": [
                                 {
@@ -100877,6 +100980,15 @@
                                 {
                                     "name": "2",
                                     "url": "https://ahwaktv.beer/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TukTukCinema - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "TukTukCinema",
+                                    "url": "https://tuktukcinemas.com/"
                                 }
                             ]
                         },
@@ -114918,7 +115030,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Albkanale - Albanian Live TV Android App + Web Versions",
+                            "full_text": "⁠Albkanale - Albanian / Live TV /",
                             "links": [
                                 {
                                     "name": "⁠Albkanale",
@@ -116094,11 +116206,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠OpenWeird - Find Random Strange Sites",
+                            "full_text": "⁠OpenWeird or ⁠r/WeirdWebsites - Find Random Weird Sites",
                             "links": [
                                 {
                                     "name": "⁠OpenWeird",
                                     "url": "https://openweird.com/"
+                                },
+                                {
+                                    "name": "⁠r/WeirdWebsites",
+                                    "url": "https://www.reddit.com/r/WeirdWebsites/"
                                 }
                             ]
                         },
@@ -125346,11 +125462,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "TradingView , GoCharting , ticker or finviz - Market Charting / Analysis",
+                            "full_text": "TradingView / Alert Forwarder , GoCharting , ticker or finviz - Market Charting / Analysis",
                             "links": [
                                 {
                                     "name": "TradingView",
                                     "url": "https://www.tradingview.com/"
+                                },
+                                {
+                                    "name": "Alert Forwarder",
+                                    "url": "https://github.com/fabston/TradingView-Webhook-Bot"
                                 },
                                 {
                                     "name": "GoCharting",
@@ -125519,15 +125639,6 @@
                                 {
                                     "name": "Financials Extension",
                                     "url": "https://github.com/cmallwitz/Financials-Extension"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TradingView Webhook Bot - TradingView Alert Automation",
-                            "links": [
-                                {
-                                    "name": "TradingView Webhook Bot",
-                                    "url": "https://github.com/fabston/TradingView-Webhook-Bot"
                                 }
                             ]
                         },
@@ -147738,6 +147849,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Anon.li - 10 Shared / Catch-All",
+                            "links": [
+                                {
+                                    "name": "⁠Anon.li",
+                                    "url": "https://anon.li/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "addy.io - 10 Shared / 10MB Monthly Bandwidth / Catch-All /",
                             "links": [
                                 {
@@ -148657,27 +148777,6 @@
                             ]
                         },
                         {
-                            "full_text": "arkenfox / Video / GUI or Betterfox - Firefox user.js Tweaks /",
-                            "links": [
-                                {
-                                    "name": "arkenfox",
-                                    "url": "https://github.com/arkenfox/user.js"
-                                },
-                                {
-                                    "name": "Video",
-                                    "url": "https://youtu.be/F7-bW2y6lcI"
-                                },
-                                {
-                                    "name": "GUI",
-                                    "url": "https://arkenfox.github.io/gui/"
-                                },
-                                {
-                                    "name": "Betterfox",
-                                    "url": "https://github.com/yokoffing/Betterfox"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Firefox Keyboard Shortcuts",
                             "links": [
                                 {
@@ -148767,6 +148866,27 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/celenityy/Phoenix"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "arkenfox */ Video / GUI or Betterfox - Firefox user.js Tweaks /",
+                            "links": [
+                                {
+                                    "name": "arkenfox",
+                                    "url": "https://github.com/arkenfox/user.js"
+                                },
+                                {
+                                    "name": "Video",
+                                    "url": "https://youtu.be/F7-bW2y6lcI"
+                                },
+                                {
+                                    "name": "GUI",
+                                    "url": "https://arkenfox.github.io/gui/"
+                                },
+                                {
+                                    "name": "Betterfox",
+                                    "url": "https://github.com/yokoffing/Betterfox"
                                 }
                             ]
                         }
@@ -151952,7 +152072,7 @@
                             ]
                         },
                         {
-                            "full_text": "Discorch / or Discrub - Message Manipulation Tools / Always Delay 9+ Seconds",
+                            "full_text": "Discorch / , CordWipe or Discrub - Message Manipulation Tools / Always Delay 9+ Seconds",
                             "links": [
                                 {
                                     "name": "Discorch",
@@ -151961,6 +152081,10 @@
                                 {
                                     "name": "",
                                     "url": "https://codeberg.org/discorch/discorch"
+                                },
+                                {
+                                    "name": "CordWipe",
+                                    "url": "https://github.com/avizmarlon/cordwipe"
                                 },
                                 {
                                     "name": "Discrub",
@@ -156398,15 +156522,11 @@
                             ]
                         },
                         {
-                            "full_text": "Alternate Player for Twitch.tv - Firefox / Chrome",
+                            "full_text": "Alternate Player for Twitch.tv - Firefox",
                             "links": [
                                 {
                                     "name": "Firefox",
                                     "url": "https://addons.mozilla.org/en-US/firefox/addon/twitch_5/"
-                                },
-                                {
-                                    "name": "Chrome",
-                                    "url": "https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf"
                                 }
                             ]
                         },
@@ -156595,7 +156715,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nitter , 2 , 3 / Instances / 2 / , ⁠Twitee , ⁠sotwe , twstalker or ⁠Twitter Viewer - X.com Frontends / Viewers",
+                            "full_text": "Nitter , 2 , 3 / Redirector / Instances / 2 / , ⁠Twitee , ⁠sotwe , twstalker or ⁠Twitter Viewer - X.com Frontends / Viewers",
                             "links": [
                                 {
                                     "name": "Nitter",
@@ -156608,6 +156728,10 @@
                                 {
                                     "name": "3",
                                     "url": "https://tw1tter.com/"
+                                },
+                                {
+                                    "name": "Redirector",
+                                    "url": "https://xxcancel.com/"
                                 },
                                 {
                                     "name": "Instances",
@@ -164562,7 +164686,7 @@
                             ]
                         },
                         {
-                            "full_text": "r/CrackWatch , r/RepackWorld , ⁠IsItCracked , GameStatus or GitGud - Scene Release Trackers",
+                            "full_text": "r/CrackWatch , r/RepackWorld , ⁠IsItCracked , GameStatus or GitGud - Release Trackers",
                             "links": [
                                 {
                                     "name": "r/CrackWatch",
@@ -168158,11 +168282,23 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Pub's Lounge - DRM Bypass / Activation Server",
+                            "full_text": "⁠Pub's Lounge or ⁠Anti Denuvo Sanctuary / / - DRM Bypass / Activation Servers",
                             "links": [
                                 {
                                     "name": "⁠Pub's Lounge",
                                     "url": "https://discord.gg/pubslounge"
+                                },
+                                {
+                                    "name": "⁠Anti Denuvo Sanctuary",
+                                    "url": "https://rentry.denuvosanctuary.com/discordinvite"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/Denuvosanctuary/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/denuvosanctuary"
                                 }
                             ]
                         },
@@ -174193,14 +174329,14 @@
                             ]
                         },
                         {
-                            "full_text": "Rhythm Heaven Advance - Rhythm Heaven Advance PC Port / GItHub",
+                            "full_text": "Rhythm Heaven Advance - Rhythm Tengoku English Patch /",
                             "links": [
                                 {
                                     "name": "Rhythm Heaven Advance",
                                     "url": "https://rhadvance.github.io/"
                                 },
                                 {
-                                    "name": "GItHub",
+                                    "name": "",
                                     "url": "https://github.com/RHAdvance/RhythmHeavenAdvance"
                                 }
                             ]
@@ -175658,6 +175794,15 @@
                                 {
                                     "name": "Universal Pokémon Randomizer ZX",
                                     "url": "https://github.com/Ajarmar/universal-pokemon-randomizer-zx/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ironmon Tracker - Live Tracker for Ironmon Challenges",
+                            "links": [
+                                {
+                                    "name": "Ironmon Tracker",
+                                    "url": "https://github.com/besteon/Ironmon-Tracker"
                                 }
                             ]
                         },
@@ -183972,11 +184117,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "ImageGlass / /",
+                            "full_text": "ImageGlass / / /",
                             "links": [
                                 {
                                     "name": "ImageGlass",
                                     "url": "https://imageglass.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/tWjbynH2X8"
                                 },
                                 {
                                     "name": "",
@@ -184283,7 +184432,7 @@
                             ]
                         },
                         {
-                            "full_text": "Immich / / Resources / Storage Server / Bulk Uploader / Power Tools / /",
+                            "full_text": "Immich / Resources / Storage Server / Bulk Uploader / Power Tools / / /",
                             "links": [
                                 {
                                     "name": "Immich",
@@ -187670,7 +187819,7 @@
                             ]
                         },
                         {
-                            "full_text": "PotPlayer - Video Player / Twitch Addon / YouTube Addon / Guide",
+                            "full_text": "PotPlayer - Video Player / Twitch Addon / YouTube Addon",
                             "links": [
                                 {
                                     "name": "PotPlayer",
@@ -187683,10 +187832,6 @@
                                 {
                                     "name": "YouTube Addon",
                                     "url": "https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://tennojim.xyz/article/media_stack_diy"
                                 }
                             ]
                         },
@@ -191214,15 +191359,6 @@
                             ]
                         },
                         {
-                            "full_text": "Mornye - Streaming",
-                            "links": [
-                                {
-                                    "name": "Mornye",
-                                    "url": "https://github.com/mornyeapp/Mornye-Desktop"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Nuclear - Streaming / /",
                             "links": [
                                 {
@@ -192292,7 +192428,7 @@
                             ]
                         },
                         {
-                            "full_text": "Spotify Podcasts - Podcasts / SponsorBlock , / Companion / RSS / Video Download / Audio Download",
+                            "full_text": "Spotify Podcasts - Podcasts / SponsorBlock , / Companion / RSS / Video Download",
                             "links": [
                                 {
                                     "name": "Spotify Podcasts",
@@ -192317,10 +192453,6 @@
                                 {
                                     "name": "Video Download",
                                     "url": "https://rentry.co/spotifypodcast"
-                                },
-                                {
-                                    "name": "Audio Download",
-                                    "url": "https://rentry.co/dlspotifypodcast"
                                 }
                             ]
                         },
@@ -198568,6 +198700,19 @@
                                 {
                                     "name": "⁠Nagi",
                                     "url": "https://github.com/Anthonyy232/Nagi"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mornye - Audio Player / /",
+                            "links": [
+                                {
+                                    "name": "Mornye",
+                                    "url": "https://desktop.mornye.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/mornyeapp/Mornye-Desktop"
                                 }
                             ]
                         },
@@ -209120,11 +209265,15 @@
                             ]
                         },
                         {
-                            "full_text": "Flag Guesser , ⁠Flagle , FlagGuessr , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
+                            "full_text": "Flag Guesser , ⁠Geotrivia (Flags) , ⁠Flagle , FlagGuessr , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
                             "links": [
                                 {
                                     "name": "Flag Guesser",
                                     "url": "https://flagguesser.com/"
+                                },
+                                {
+                                    "name": "⁠Geotrivia (Flags)",
+                                    "url": "https://geotrivia.com/world/flags"
                                 },
                                 {
                                     "name": "⁠Flagle",
@@ -224120,11 +224269,15 @@
                             ]
                         },
                         {
-                            "full_text": "Neovim - Code Editor / Matrix /",
+                            "full_text": "Neovim - Code Editor / Tools / Matrix /",
                             "links": [
                                 {
                                     "name": "Neovim",
                                     "url": "https://neovim.io/"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/developer-tools/#vim-neovim-tools"
                                 },
                                 {
                                     "name": "Matrix",
@@ -224693,6 +224846,15 @@
                             ]
                         },
                         {
+                            "full_text": "Xed-Editor - Android Code Editor",
+                            "links": [
+                                {
+                                    "name": "Xed-Editor",
+                                    "url": "https://github.com/Xed-Editor/Xed-Editor"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Sora - Android Code Editor",
                             "links": [
                                 {
@@ -224819,12 +224981,8 @@
                             ]
                         },
                         {
-                            "full_text": "ThemesElection or Dracula - Code Editor Themes",
+                            "full_text": "Dracula - Code Editor Themes",
                             "links": [
-                                {
-                                    "name": "ThemesElection",
-                                    "url": "https://themeselection.com/"
-                                },
                                 {
                                     "name": "Dracula",
                                     "url": "https://draculatheme.com/"
@@ -225636,11 +225794,11 @@
                             ]
                         },
                         {
-                            "full_text": "Code Web Chat - Coding AI / No Sign-Up / / /",
+                            "full_text": "Code Web Chat - Coding AI / No Sign-Up / /",
                             "links": [
                                 {
                                     "name": "Code Web Chat",
-                                    "url": "https://codeweb.chat/"
+                                    "url": "https://github.com/robertpiosik/CodeWebChat"
                                 },
                                 {
                                     "name": "",
@@ -225649,10 +225807,6 @@
                                 {
                                     "name": "",
                                     "url": "https://www.reddit.com/r/codewebchat/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/robertpiosik/CodeWebChat"
                                 }
                             ]
                         },
@@ -230136,7 +230290,7 @@
                             "links": [
                                 {
                                     "name": "censys",
-                                    "url": "https://search.censys.io/"
+                                    "url": "https://platform.censys.io/home"
                                 },
                                 {
                                     "name": "WebDNA",
@@ -233101,6 +233255,51 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Note - You can use AntiSplit-M if you need to merge \"split\" or \"bundled\" APK formats such as APKM or APKX. This will convert them to regular APK format used for installing and patching. (Removed in 3a5011d )",
+                            "links": [
+                                {
+                                    "name": "3a5011d",
+                                    "url": "https://github.com/fmhy/edit/commit/3a5011d1ac9cc6a577e504984605ddcd40390b54#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L85"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Like Manga (Removed in 3a5011d )",
+                            "links": [
+                                {
+                                    "name": "3a5011d",
+                                    "url": "https://github.com/fmhy/edit/commit/3a5011d1ac9cc6a577e504984605ddcd40390b54#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L455"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BookStash, Sobrief, Summrize or Glimbay - Book Summaries (Removed in 3a5011d )",
+                            "links": [
+                                {
+                                    "name": "3a5011d",
+                                    "url": "https://github.com/fmhy/edit/commit/3a5011d1ac9cc6a577e504984605ddcd40390b54#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L926"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Media Stack DIY - High Quality Streaming Guide (Removed in 3a5011d )",
+                            "links": [
+                                {
+                                    "name": "3a5011d",
+                                    "url": "https://github.com/fmhy/edit/commit/3a5011d1ac9cc6a577e504984605ddcd40390b54#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL1208"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pass4Wallet - Create Custom Cards for Apple Wallet App (Removed in cec10ec : + added nov 2026 monthly)",
+                            "links": [
+                                {
+                                    "name": "cec10ec",
+                                    "url": "https://github.com/fmhy/edit/commit/cec10ecb8298a765b5456f54dd2cfb8d41e1e6eb#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1148"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "BlackFriday GPTs Prompts - Prompt Directory (Removed in b0df3f6 )",
                             "links": [
                                 {
@@ -234456,42 +234655,6 @@
                                 {
                                     "name": "976e291",
                                     "url": "https://github.com/fmhy/edit/commit/976e29187cbdb1ddacbd237f39c7afec143bd746#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL84"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GizmoPlex - MST3K Movies (Removed in f2591a8 )",
-                            "links": [
-                                {
-                                    "name": "f2591a8",
-                                    "url": "https://github.com/fmhy/edit/commit/f2591a80b9e5a2f0360812c36211bf9bf1fa3367#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL328"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "iOS: SpotiFLAC-Mobile / Extension (Removed in 53497e7 : monthly updates +)",
-                            "links": [
-                                {
-                                    "name": "53497e7",
-                                    "url": "https://github.com/fmhy/edit/commit/53497e78093fbfc9b55e2518a3a897099f61686a#diff-2d6dcc15ba8af436362ade93f7b357797e0091a37444a49c4bf71ae4c5af9589L77"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Gamelib - Tracking / Database (Removed in 53497e7 : monthly updates +)",
-                            "links": [
-                                {
-                                    "name": "53497e7",
-                                    "url": "https://github.com/fmhy/edit/commit/53497e78093fbfc9b55e2518a3a897099f61686a#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L273"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CoScreen / , macOS (Removed in 53497e7 : monthly updates +)",
-                            "links": [
-                                {
-                                    "name": "53497e7",
-                                    "url": "https://github.com/fmhy/edit/commit/53497e78093fbfc9b55e2518a3a897099f61686a#diff-b35ef55ca61a4c86623997efc3296e00f7eae488e1cd3409d4645c8f8d355cf5L136"
                                 }
                             ]
                         }
