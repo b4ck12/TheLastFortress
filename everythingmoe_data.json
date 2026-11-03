@@ -1723,29 +1723,6 @@
           }
         },
         {
-          "id": "mgread",
-          "title": "Mgread - Anime",
-          "link": "https://mgread.io/genre/anime/",
-          "icon": "https://static.everythingmoe.com/icons/mgread.png",
-          "tags": [],
-          "rank": 44,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Reliable stream server"
-            ],
-            "negatives": [
-              "Mixed with Manga",
-              "Medium-small library"
-            ],
-            "info": "note: Site is mainly manga reading site, but also have anime. Part of <a href=\"/s/likemangaio\">LikeManga</a>."
-          }
-        },
-        {
           "id": "kisskhanime",
           "title": "Kisskh",
           "link": "https://kisskh.co/Explore?type=3&sub=1&country=3",
@@ -1754,7 +1731,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1789,7 +1766,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1804,7 +1781,7 @@
               "Sometimes slow stream",
               "New site"
             ],
-            "altlinks": [
+            "ex-altlinks": [
               {
                 "name": "zangetsu.cc",
                 "url": "https://zangetsu.cc/"
@@ -1818,7 +1795,30 @@
                 "url": "https://4animo.xyz/download-app"
               }
             ],
-            "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto."
+            "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto. Formerly known as 4animo"
+          }
+        },
+        {
+          "id": "mgread",
+          "title": "Mgread - Anime",
+          "link": "https://mgread.io/genre/anime/",
+          "icon": "https://static.everythingmoe.com/icons/mgread.png",
+          "tags": [],
+          "rank": 46,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Reliable stream server"
+            ],
+            "negatives": [
+              "Mixed with Manga",
+              "Medium-small library"
+            ],
+            "info": "note: Site is mainly manga reading site, but also have anime. Part of <a href=\"/s/likemangaio\">LikeManga</a>."
           }
         },
         {
@@ -3140,6 +3140,10 @@
               {
                 "name": "Cove",
                 "url": "https://cove-ani.online/"
+              },
+              {
+                "name": "animehunter",
+                "url": "https://animehunter.to/home"
               }
             ],
             "info": "note: each made by different people, uses third party embed.",
@@ -7218,6 +7222,12 @@
             "negatives": [
               "Bad ads"
             ],
+            "altlinks": [
+              {
+                "name": "lgbtoon",
+                "url": "https://lgbtoon.com/"
+              }
+            ],
             "info": "note: Scanlators can directly upload here, this site also reupload manga from multiple websites. Probably this site have the largest manga & manhwa library."
           }
         },
@@ -7423,35 +7433,6 @@
           }
         },
         {
-          "id": "onisaga",
-          "title": "OniSaga",
-          "link": "https://onisaga.com/",
-          "icon": "https://static.everythingmoe.com/icons/onisaga.png",
-          "tags": [
-            "Official Rips",
-            "Modern interface",
-            "Multi Language",
-            "Scanlator Hub"
-          ],
-          "rank": 10,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Nice user interface",
-              "Very Large library",
-              "Multi language/TL support"
-            ],
-            "negatives": [
-              "No comments section"
-            ],
-            "info": "note: Scanlators can directly upload here."
-          }
-        },
-        {
           "id": "allmanga",
           "title": "MKissa Manga",
           "link": "https://mkissa.to/manga",
@@ -7459,7 +7440,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 11,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7479,6 +7460,35 @@
               }
             ],
             "info": "note: Formerly known as Allmanga"
+          }
+        },
+        {
+          "id": "chikari",
+          "title": "chikari.moe",
+          "link": "https://chikari.moe/",
+          "icon": "https://static.everythingmoe.com/icons/chikari.png",
+          "tags": [
+            "Official Rips",
+            "Modern interface",
+            "NEW"
+          ],
+          "rank": 11,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Well organized",
+              "Customized reader",
+              "Medium library"
+            ],
+            "negatives": [
+              "New site"
+            ],
+            "info": "note: Related with <a href=\"/s/lightnovelworldorg\">lightnovelworld.org</a>."
           }
         },
         {
@@ -7552,6 +7562,35 @@
           }
         },
         {
+          "id": "onisaga",
+          "title": "OniSaga",
+          "link": "https://onisaga.com/",
+          "icon": "https://static.everythingmoe.com/icons/onisaga.png",
+          "tags": [
+            "Official Rips",
+            "Modern interface",
+            "Multi Language",
+            "Scanlator Hub"
+          ],
+          "rank": 14,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Nice user interface",
+              "Very Large library",
+              "Multi language/TL support"
+            ],
+            "negatives": [
+              "No comments section"
+            ],
+            "info": "note: Scanlators can directly upload here."
+          }
+        },
+        {
           "id": "mangapeak",
           "title": "MangaTaro",
           "link": "https://mangataro.org/home",
@@ -7562,7 +7601,7 @@
             "Scanlator Hub",
             "Multi Language"
           ],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7594,7 +7633,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7693,7 +7732,7 @@
             "Mostly Scans",
             "NEW"
           ],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7723,35 +7762,6 @@
                 "url": "https://yona.to/"
               }
             ]
-          }
-        },
-        {
-          "id": "chikari",
-          "title": "chikari.moe",
-          "link": "https://chikari.moe/",
-          "icon": "https://static.everythingmoe.com/icons/chikari.png",
-          "tags": [
-            "Official Rips",
-            "Modern interface",
-            "NEW"
-          ],
-          "rank": 17,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Nice interface",
-              "Well organized",
-              "Customized reader"
-            ],
-            "negatives": [
-              "Medium-small library",
-              "New site"
-            ],
-            "info": "note: Related with <a href=\"/s/lightnovelworldorg\">lightnovelworld.org</a>."
           }
         },
         {
@@ -17653,8 +17663,12 @@
                 "url": "https://github.com/amarullz/AnimeTV"
               },
               {
-                "name": "Fork",
+                "name": "Fork 1",
                 "url": "https://animetv-fork.github.io/"
+              },
+              {
+                "name": "Fork 2",
+                "url": "https://github.com/paregi12/AnimeTV"
               }
             ],
             "info": "note: App repo is deleted, but the dev still publish the app.",
@@ -41096,29 +41110,6 @@
         "info": "note: Mostly contain nsfw ecchi anime, uncensored"
       }
     },
-    "mgread": {
-      "id": "mgread",
-      "title": "Mgread - Anime",
-      "link": "https://mgread.io/genre/anime/",
-      "icon": "https://static.everythingmoe.com/icons/mgread.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Reliable stream server"
-        ],
-        "negatives": [
-          "Mixed with Manga",
-          "Medium-small library"
-        ],
-        "info": "note: Site is mainly manga reading site, but also have anime. Part of <a href=\"/s/likemangaio\">LikeManga</a>."
-      }
-    },
     "kisskhanime": {
       "id": "kisskhanime",
       "title": "Kisskh",
@@ -41178,7 +41169,7 @@
           "Sometimes slow stream",
           "New site"
         ],
-        "altlinks": [
+        "ex-altlinks": [
           {
             "name": "zangetsu.cc",
             "url": "https://zangetsu.cc/"
@@ -41192,7 +41183,30 @@
             "url": "https://4animo.xyz/download-app"
           }
         ],
-        "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto."
+        "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto. Formerly known as 4animo"
+      }
+    },
+    "mgread": {
+      "id": "mgread",
+      "title": "Mgread - Anime",
+      "link": "https://mgread.io/genre/anime/",
+      "icon": "https://static.everythingmoe.com/icons/mgread.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Reliable stream server"
+        ],
+        "negatives": [
+          "Mixed with Manga",
+          "Medium-small library"
+        ],
+        "info": "note: Site is mainly manga reading site, but also have anime. Part of <a href=\"/s/likemangaio\">LikeManga</a>."
       }
     },
     "zokoanime": {
@@ -42514,6 +42528,10 @@
           {
             "name": "Cove",
             "url": "https://cove-ani.online/"
+          },
+          {
+            "name": "animehunter",
+            "url": "https://animehunter.to/home"
           }
         ],
         "info": "note: each made by different people, uses third party embed.",
@@ -46556,6 +46574,12 @@
         "negatives": [
           "Bad ads"
         ],
+        "altlinks": [
+          {
+            "name": "lgbtoon",
+            "url": "https://lgbtoon.com/"
+          }
+        ],
         "info": "note: Scanlators can directly upload here, this site also reupload manga from multiple websites. Probably this site have the largest manga & manhwa library."
       }
     },
@@ -46760,35 +46784,6 @@
         "info": "note: Reupload from many websites. Largest yaoi manga collection."
       }
     },
-    "onisaga": {
-      "id": "onisaga",
-      "title": "OniSaga",
-      "link": "https://onisaga.com/",
-      "icon": "https://static.everythingmoe.com/icons/onisaga.png",
-      "tags": [
-        "Official Rips",
-        "Modern interface",
-        "Multi Language",
-        "Scanlator Hub"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Nice user interface",
-          "Very Large library",
-          "Multi language/TL support"
-        ],
-        "negatives": [
-          "No comments section"
-        ],
-        "info": "note: Scanlators can directly upload here."
-      }
-    },
     "allmanga": {
       "id": "allmanga",
       "title": "MKissa Manga",
@@ -46817,6 +46812,35 @@
           }
         ],
         "info": "note: Formerly known as Allmanga"
+      }
+    },
+    "chikari": {
+      "id": "chikari",
+      "title": "chikari.moe",
+      "link": "https://chikari.moe/",
+      "icon": "https://static.everythingmoe.com/icons/chikari.png",
+      "tags": [
+        "Official Rips",
+        "Modern interface",
+        "NEW"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Well organized",
+          "Customized reader",
+          "Medium library"
+        ],
+        "negatives": [
+          "New site"
+        ],
+        "info": "note: Related with <a href=\"/s/lightnovelworldorg\">lightnovelworld.org</a>."
       }
     },
     "bookwalker": {
@@ -46887,6 +46911,35 @@
         "negatives": [
           "Per-item based purchase"
         ]
+      }
+    },
+    "onisaga": {
+      "id": "onisaga",
+      "title": "OniSaga",
+      "link": "https://onisaga.com/",
+      "icon": "https://static.everythingmoe.com/icons/onisaga.png",
+      "tags": [
+        "Official Rips",
+        "Modern interface",
+        "Multi Language",
+        "Scanlator Hub"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Nice user interface",
+          "Very Large library",
+          "Multi language/TL support"
+        ],
+        "negatives": [
+          "No comments section"
+        ],
+        "info": "note: Scanlators can directly upload here."
       }
     },
     "mangapeak": {
@@ -47061,35 +47114,6 @@
             "url": "https://yona.to/"
           }
         ]
-      }
-    },
-    "chikari": {
-      "id": "chikari",
-      "title": "chikari.moe",
-      "link": "https://chikari.moe/",
-      "icon": "https://static.everythingmoe.com/icons/chikari.png",
-      "tags": [
-        "Official Rips",
-        "Modern interface",
-        "NEW"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Nice interface",
-          "Well organized",
-          "Customized reader"
-        ],
-        "negatives": [
-          "Medium-small library",
-          "New site"
-        ],
-        "info": "note: Related with <a href=\"/s/lightnovelworldorg\">lightnovelworld.org</a>."
       }
     },
     "swarm": {
@@ -56946,8 +56970,12 @@
             "url": "https://github.com/amarullz/AnimeTV"
           },
           {
-            "name": "Fork",
+            "name": "Fork 1",
             "url": "https://animetv-fork.github.io/"
+          },
+          {
+            "name": "Fork 2",
+            "url": "https://github.com/paregi12/AnimeTV"
           }
         ],
         "info": "note: App repo is deleted, but the dev still publish the app.",
