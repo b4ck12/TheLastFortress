@@ -10263,7 +10263,7 @@
         {
           "id": "kagane",
           "title": "Kagane",
-          "link": "https://kagane.cx/",
+          "link": "https://kagane.moe/",
           "icon": "https://static.everythingmoe.com/icons/kagane.png",
           "tags": [
             "Official Rips"
@@ -10284,14 +10284,6 @@
             "info": "note: Initially only offical rip manhwa, but now also have some from scan groups, and JP manga too.",
             "altlinks": [
               {
-                "name": ".moe",
-                "url": "https://kagane.moe/"
-              },
-              {
-                "name": ".net",
-                "url": "https://kagane.net/"
-              },
-              {
                 "name": "mirrors",
                 "url": "https://kagane.org/"
               }
@@ -10304,6 +10296,14 @@
               {
                 "name": ".to",
                 "url": "https://kagane.to/"
+              },
+              {
+                "name": ".net",
+                "url": "https://kagane.net/"
+              },
+              {
+                "name": ".cx",
+                "url": "https://kagane.cx/"
               }
             ]
           }
@@ -49704,7 +49704,7 @@
     "kagane": {
       "id": "kagane",
       "title": "Kagane",
-      "link": "https://kagane.cx/",
+      "link": "https://kagane.moe/",
       "icon": "https://static.everythingmoe.com/icons/kagane.png",
       "tags": [
         "Official Rips"
@@ -49725,14 +49725,6 @@
         "info": "note: Initially only offical rip manhwa, but now also have some from scan groups, and JP manga too.",
         "altlinks": [
           {
-            "name": ".moe",
-            "url": "https://kagane.moe/"
-          },
-          {
-            "name": ".net",
-            "url": "https://kagane.net/"
-          },
-          {
             "name": "mirrors",
             "url": "https://kagane.org/"
           }
@@ -49745,6 +49737,14 @@
           {
             "name": ".to",
             "url": "https://kagane.to/"
+          },
+          {
+            "name": ".net",
+            "url": "https://kagane.net/"
+          },
+          {
+            "name": ".cx",
+            "url": "https://kagane.cx/"
           }
         ]
       }
