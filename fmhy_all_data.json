@@ -279,7 +279,7 @@
                                 },
                                 {
                                     "name": "Modules",
-                                    "url": "https://8spine-modules.vercel.app/"
+                                    "url": "https://8spine-moduels.pages.dev/"
                                 },
                                 {
                                     "name": "EeveeSpotifyReincarnated",
@@ -6033,7 +6033,7 @@
                             ]
                         },
                         {
-                            "full_text": "Meta AI - Muse Spark 1.2 / Muse Glimmer 30B / Meta Sign-Up / Unlimited",
+                            "full_text": "Meta AI - Muse Spark 1.3 / Muse Glimmer 30B / Meta Sign-Up / Unlimited",
                             "links": [
                                 {
                                     "name": "Meta AI",
@@ -6109,7 +6109,7 @@
                             ]
                         },
                         {
-                            "full_text": "Tencent AI Studio - Hy4 Preview / Unlimited / Sign-Up",
+                            "full_text": "Tencent AI Studio - Hy4 / Unlimited / Sign-Up",
                             "links": [
                                 {
                                     "name": "Tencent AI Studio",
@@ -6443,15 +6443,11 @@
                             ]
                         },
                         {
-                            "full_text": "Arena , 2 - Multiple Models / Agent / Sign-Up / Limits / /",
+                            "full_text": "Arena - Multiple Models / Agent / Sign-Up / Limits / /",
                             "links": [
                                 {
                                     "name": "Arena",
                                     "url": "https://arena.ai/text/direct"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://canaryarena.ai/text/direct"
                                 },
                                 {
                                     "name": "Limits",
@@ -6552,15 +6548,11 @@
                             ]
                         },
                         {
-                            "full_text": "Arena , 2 - AI Search Engine / Sign-Up / /",
+                            "full_text": "Arena - AI Search Engine / Sign-Up / /",
                             "links": [
                                 {
                                     "name": "Arena",
                                     "url": "https://arena.ai/search/direct"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://canaryarena.ai/search/direct"
                                 },
                                 {
                                     "name": "",
@@ -7527,20 +7519,8 @@
                             ]
                         },
                         {
-                            "full_text": "AI Dungeon / / , Spellbound or FictionLab / - Roleplaying + Story Chatbot / No Sign-Up",
+                            "full_text": "Spellbound or FictionLab / - Roleplaying + Story Chatbot / No Sign-Up",
                             "links": [
-                                {
-                                    "name": "AI Dungeon",
-                                    "url": "https://aidungeon.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/AIDungeon/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/HB2YBZYjyf"
-                                },
                                 {
                                     "name": "Spellbound",
                                     "url": "https://www.tryspellbound.com/"
@@ -7730,15 +7710,11 @@
                             ]
                         },
                         {
-                            "full_text": "Arena , 2 - 2 Daily / Sign-Up / Random Models / End-Watermark / /",
+                            "full_text": "Arena - 2 Daily / Sign-Up / Random Models / End-Watermark / /",
                             "links": [
                                 {
                                     "name": "Arena",
                                     "url": "https://arena.ai/video"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://canaryarena.ai/video"
                                 },
                                 {
                                     "name": "",
@@ -8133,15 +8109,11 @@
                             ]
                         },
                         {
-                            "full_text": "Arena , 2 - Multiple Generators / Editing / 15 Daily / Sign-Up / /",
+                            "full_text": "Arena - Multiple Generators / Editing / 15 Daily / Sign-Up / /",
                             "links": [
                                 {
                                     "name": "Arena",
                                     "url": "https://arena.ai/image/direct"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://canaryarena.ai/image/direct"
                                 },
                                 {
                                     "name": "",
@@ -9464,6 +9436,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Vonovox - Real-Time Voice Changer / NVIDIA GPUs /",
+                            "links": [
+                                {
+                                    "name": "⁠Vonovox",
+                                    "url": "https://github.com/dr87/Vonovox"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠VoiceStudio - Voice Cloning / /",
                             "links": [
                                 {
@@ -10263,15 +10244,11 @@
                             ]
                         },
                         {
-                            "full_text": "Arena , 2 - Chatbot Leaderboards / Benchmarks / /",
+                            "full_text": "Arena - Chatbot Leaderboards / Benchmarks / /",
                             "links": [
                                 {
                                     "name": "Arena",
                                     "url": "https://arena.ai/leaderboard"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://canaryarena.ai/"
                                 },
                                 {
                                     "name": "",
@@ -10783,6 +10760,19 @@
                             ]
                         },
                         {
+                            "full_text": "SweetFox or 67Movies - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "SweetFox",
+                                    "url": "https://sweetfox.app/"
+                                },
+                                {
+                                    "name": "67Movies",
+                                    "url": "https://67movies.st/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "CineLite - Movies / TV / Anime / Auto-Next / 4K",
                             "links": [
                                 {
@@ -10901,19 +10891,6 @@
                             ]
                         },
                         {
-                            "full_text": "Movie Night - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Movie Night",
-                                    "url": "https://movienig.ht/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/kPJ2yJxYng"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Reelix or Coreflix - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -10923,6 +10900,19 @@
                                 {
                                     "name": "Coreflix",
                                     "url": "https://coreflix.tv/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "moanatv. - Movies / TV / Anime / Auto-Next / 4K /",
+                            "links": [
+                                {
+                                    "name": "moanatv.",
+                                    "url": "https://lfmx.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/EPHJzCZEq"
                                 }
                             ]
                         },
@@ -10940,15 +10930,15 @@
                             ]
                         },
                         {
-                            "full_text": "moanatv. - Movies / TV / Anime / Auto-Next / 4K /",
+                            "full_text": "Movie Night - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
-                                    "name": "moanatv.",
-                                    "url": "https://lfmx.app/"
+                                    "name": "Movie Night",
+                                    "url": "https://movienig.ht/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/EPHJzCZEq"
+                                    "url": "https://discord.com/invite/kPJ2yJxYng"
                                 }
                             ]
                         },
@@ -11000,15 +10990,15 @@
                             ]
                         },
                         {
-                            "full_text": "SweetFox or 67Movies - Movies / TV / Anime / Auto-Next",
+                            "full_text": "watched - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
-                                    "name": "SweetFox",
-                                    "url": "https://sweetfox.app/"
+                                    "name": "watched",
+                                    "url": "https://watched.cx/"
                                 },
                                 {
-                                    "name": "67Movies",
-                                    "url": "https://67movies.st/"
+                                    "name": "",
+                                    "url": "https://discord.gg/t8J7eyY2F"
                                 }
                             ]
                         },
@@ -11279,32 +11269,6 @@
                                 {
                                     "name": "HiveX",
                                     "url": "https://hivex.stream/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Overlook - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "Overlook",
-                                    "url": "https://overlook.cx/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/rbe9DJNuhH"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cineapse - Movies / TV / Anime / Auto-Next / 4K /",
-                            "links": [
-                                {
-                                    "name": "Cineapse",
-                                    "url": "https://www.cineapse.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/5XzXsD9wnJ"
                                 }
                             ]
                         },
@@ -11747,11 +11711,20 @@
                             ]
                         },
                         {
-                            "full_text": "Streaming Unity - Movies / TV / Anime",
+                            "full_text": "Q62 - Movies / TV",
                             "links": [
                                 {
-                                    "name": "Streaming Unity",
-                                    "url": "https://streamingunity.vip/"
+                                    "name": "Q62",
+                                    "url": "https://q62flix.ws/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "StreamingUnity - Movies / TV / Anime / 720p",
+                            "links": [
+                                {
+                                    "name": "StreamingUnity",
+                                    "url": "https://streamingunity.fun/"
                                 }
                             ]
                         },
@@ -11831,7 +11804,7 @@
                             "links": [
                                 {
                                     "name": "OnionPlay",
-                                    "url": "https://onionplay.st/"
+                                    "url": "https://onionplay.ae/"
                                 },
                                 {
                                     "name": "",
@@ -11849,24 +11822,6 @@
                                 {
                                     "name": "Throwaway Gmail",
                                     "url": "https://fmhy.net/internet-tools/#temp-mail"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "UniqueStream - Movies / TV / Anime / 720p",
-                            "links": [
-                                {
-                                    "name": "UniqueStream",
-                                    "url": "https://uniquestream.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BFLIX - Movies / TV",
-                            "links": [
-                                {
-                                    "name": "BFLIX",
-                                    "url": "https://bbflix.one/"
                                 }
                             ]
                         },
@@ -11923,7 +11878,7 @@
                             ]
                         },
                         {
-                            "full_text": "SubSL - Movies / TV / 720p /",
+                            "full_text": "SubSL - Movies / TV /",
                             "links": [
                                 {
                                     "name": "SubSL",
@@ -12094,6 +12049,23 @@
                             ]
                         },
                         {
+                            "full_text": "AuroraScreen , 2 - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AuroraScreen",
+                                    "url": "https://www.aurorascreen.mov/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://www.aurorascreen.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/kPUWwAQCzk"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ZetMoon - Movies / TV / Anime",
                             "links": [
                                 {
@@ -12108,27 +12080,6 @@
                                 {
                                     "name": "TonkaCine",
                                     "url": "https://tonkacine.watch/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Primeshows , NetShows or Youshows - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "Primeshows",
-                                    "url": "https://www.primeshows.org/"
-                                },
-                                {
-                                    "name": "NetShows",
-                                    "url": "https://netshows.xyz/"
-                                },
-                                {
-                                    "name": "Youshows",
-                                    "url": "https://youshows.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/nmtywkrZjd"
                                 }
                             ]
                         },
@@ -12197,15 +12148,23 @@
                             ]
                         },
                         {
-                            "full_text": "AuroraScreen - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "Primeshows , NetShows , YouShows - Movies / TV / Anime /",
                             "links": [
                                 {
-                                    "name": "AuroraScreen",
-                                    "url": "https://www.aurorascreen.org/"
+                                    "name": "Primeshows",
+                                    "url": "https://www.primeshows.org/"
+                                },
+                                {
+                                    "name": "NetShows",
+                                    "url": "https://netshows.xyz/"
+                                },
+                                {
+                                    "name": "YouShows",
+                                    "url": "https://youshows.org/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.com/invite/kPUWwAQCzk"
+                                    "url": "https://discord.com/invite/nmtywkrZjd"
                                 }
                             ]
                         },
@@ -12231,19 +12190,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/VGQKGPM9Ej"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zencine - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "Zencine",
-                                    "url": "https://zencine.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/beWuUrKhHP"
                                 }
                             ]
                         },
@@ -13916,27 +13862,6 @@
                             ]
                         },
                         {
-                            "full_text": "Miruro or AniVault - Hard Subs / Soft Subs / Dub / Auto-Next / Status /",
-                            "links": [
-                                {
-                                    "name": "Miruro",
-                                    "url": "https://miruro.cx"
-                                },
-                                {
-                                    "name": "AniVault",
-                                    "url": "https://anivault.tv/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://status.miruro.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/miruro/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "animepahe - Hard Sub / Dub / Some NSFW / Enhancements / Downloader",
                             "links": [
                                 {
@@ -13950,23 +13875,6 @@
                                 {
                                     "name": "Downloader",
                                     "url": "https://github.com/KevCui/animepahe-dl"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MKissa or All Manga - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "MKissa",
-                                    "url": "https://mkissa.to/"
-                                },
-                                {
-                                    "name": "All Manga",
-                                    "url": "https://allmanga.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/6nce6cyJyM"
                                 }
                             ]
                         },
@@ -14000,11 +13908,23 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Gotaku - Sub / Dub",
+                            "full_text": "Miruro or AniVault - Hard Subs / Soft Subs / Dub / Auto-Next / Status /",
                             "links": [
                                 {
-                                    "name": "⁠Gotaku",
-                                    "url": "https://gotaku.to/"
+                                    "name": "Miruro",
+                                    "url": "https://miruro.cx"
+                                },
+                                {
+                                    "name": "AniVault",
+                                    "url": "https://anivault.tv/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://status.miruro.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/miruro/"
                                 }
                             ]
                         },
@@ -14038,15 +13958,28 @@
                             ]
                         },
                         {
-                            "full_text": "AnimeX - Sub / Dub / Auto-Next /",
+                            "full_text": "⁠Gotaku - Sub / Dub / Auto-Next",
                             "links": [
                                 {
-                                    "name": "AnimeX",
-                                    "url": "https://animex.one/"
+                                    "name": "⁠Gotaku",
+                                    "url": "https://gotaku.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MKissa or All Manga - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "MKissa",
+                                    "url": "https://mkissa.to/"
+                                },
+                                {
+                                    "name": "All Manga",
+                                    "url": "https://allmanga.to/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.com/invite/xNZcSQRbTm"
+                                    "url": "https://discord.com/invite/6nce6cyJyM"
                                 }
                             ]
                         },
@@ -14072,6 +14005,19 @@
                             ]
                         },
                         {
+                            "full_text": "AnimeX - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AnimeX",
+                                    "url": "https://animex.one/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/xNZcSQRbTm"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠NekoWatch - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
@@ -14085,6 +14031,19 @@
                             ]
                         },
                         {
+                            "full_text": "AniLight - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AniLight",
+                                    "url": "https://anilight.live/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": " https://discord.com/invite/zwv8PpAJmA"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Anidap - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
@@ -14094,6 +14053,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/CGZEvjx53u"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AniXo - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠AniXo",
+                                    "url": "https://anixo.online/"
                                 }
                             ]
                         },
@@ -14133,15 +14101,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/yPxFt6tFRw"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anixo - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠Anixo",
-                                    "url": "https://anixo.online/"
                                 }
                             ]
                         },
@@ -14206,19 +14165,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/V5AWy78VTv"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniLight - Sub / Dub / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "AniLight",
-                                    "url": "https://anilight.live/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": " https://discord.com/invite/zwv8PpAJmA"
                                 }
                             ]
                         },
@@ -14397,6 +14343,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠2Dhive - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠2Dhive",
+                                    "url": "https://2dhive.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠YumeZone - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
@@ -14410,11 +14365,15 @@
                             ]
                         },
                         {
-                            "full_text": "Anikura - Sub / Dub /",
+                            "full_text": "Anikura - Sub / Dub / /",
                             "links": [
                                 {
                                     "name": "Anikura",
                                     "url": "https://anikura.club/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/anikuratv"
                                 },
                                 {
                                     "name": "",
@@ -16260,6 +16219,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠election.run - Multi-Stream Election Streams / News",
+                            "links": [
+                                {
+                                    "name": "⁠election.run",
+                                    "url": "https://election.run/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SHOWROOM - Live Performance Broadcasts",
                             "links": [
                                 {
@@ -16351,7 +16319,7 @@
                             "links": [
                                 {
                                     "name": "⁠StreamFree",
-                                    "url": "https:/strmfree.pk/"
+                                    "url": "https://strmfree.pk/"
                                 },
                                 {
                                     "name": "2",
@@ -16422,6 +16390,27 @@
                             ]
                         },
                         {
+                            "full_text": "SportsBite , 2 / /",
+                            "links": [
+                                {
+                                    "name": "SportsBite",
+                                    "url": "https://sportsbite.org/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://sportsbite.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/+Zo7CoigxqRczMjRk"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Qg7uRXWAhU"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "StreamSports99 / Mirrors / Bypass Blocks /",
                             "links": [
                                 {
@@ -16460,27 +16449,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/eJs8FRqt7G"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SportsBite , 2 / /",
-                            "links": [
-                                {
-                                    "name": "SportsBite",
-                                    "url": "https://sportsbite.org/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://sportsbite.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+Zo7CoigxqRczMjRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Qg7uRXWAhU"
                                 }
                             ]
                         },
@@ -16770,11 +16738,11 @@
                             "links": [
                                 {
                                     "name": "TotalSportek",
-                                    "url": "https://total-sportekk.st/"
+                                    "url": "https://totalsport-ek.st/"
                                 },
                                 {
                                     "name": "Sportsurge.st",
-                                    "url": "https://ww1.sportsurge.st/"
+                                    "url": "https://sportsurges.st/"
                                 },
                                 {
                                     "name": "",
@@ -18642,15 +18610,15 @@
                             ]
                         },
                         {
-                            "full_text": "111477 - Movies / TV / Anime / Directory / 4K / HEVC / Search Filters / Stars /",
+                            "full_text": "111477 - Movies / TV / Anime / Directory / 4K / HEVC / Features / Cover-Art /",
                             "links": [
                                 {
                                     "name": "111477",
                                     "url": "https://rentry.co/FMHYB64#directory-111477"
                                 },
                                 {
-                                    "name": "Search Filters / Stars",
-                                    "url": "https://greasyfork.org/scripts/585901"
+                                    "name": "Features / Cover-Art",
+                                    "url": "https://greasyfork.org/scripts/603382"
                                 },
                                 {
                                     "name": "",
@@ -18958,7 +18926,7 @@
                             "links": [
                                 {
                                     "name": "PSArips",
-                                    "url": "https://psa.wf/"
+                                    "url": "https://psa.rip/"
                                 }
                             ]
                         },
@@ -19184,7 +19152,7 @@
                             ]
                         },
                         {
-                            "full_text": "SubSL - Movies / TV / 360p /",
+                            "full_text": "SubSL - Movies / TV /",
                             "links": [
                                 {
                                     "name": "SubSL",
@@ -19601,11 +19569,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Anime Tosho - Sub / Dub",
+                            "full_text": "⁠Anime Tosho - Sub / Dub /",
                             "links": [
                                 {
                                     "name": "⁠Anime Tosho",
                                     "url": "https://animetosho.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "http://animetoshwu5w2kapugp6y25k3qpwicxwcll6odi2ptumvnh7ybqlfqd.onion/"
                                 }
                             ]
                         },
@@ -23075,6 +23047,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Meiro - YouTube Music Client /",
+                            "links": [
+                                {
+                                    "name": "⁠Meiro",
+                                    "url": "https://meiro.elianiva.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/elianiva/meiro"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Flow Desktop - YouTube Music Client",
                             "links": [
                                 {
@@ -23302,6 +23287,15 @@
                                 {
                                     "name": "Pandora",
                                     "url": "https://www.pandora.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠pointify - Browser Music",
+                            "links": [
+                                {
+                                    "name": "⁠pointify",
+                                    "url": "https://pointify.qzz.io/"
                                 }
                             ]
                         },
@@ -24220,7 +24214,7 @@
                             ]
                         },
                         {
-                            "full_text": "Spotify Podcasts - Podcasts / SponsorBlock , / Companion / RSS / Video Download",
+                            "full_text": "Spotify Podcasts - Podcast Streaming / Video Podcasts / SponsorBlock / Companion / RSS Tool / Video Download",
                             "links": [
                                 {
                                     "name": "Spotify Podcasts",
@@ -24231,15 +24225,11 @@
                                     "url": "https://spotsponsorblock.org/"
                                 },
                                 {
-                                    "name": "",
-                                    "url": "https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension"
-                                },
-                                {
                                     "name": "Companion",
                                     "url": "https://sebschaef.bitbucket.io/podify/"
                                 },
                                 {
-                                    "name": "RSS",
+                                    "name": "RSS Tool",
                                     "url": "https://github.com/Yetangitu/Spodcast"
                                 },
                                 {
@@ -24249,11 +24239,11 @@
                             ]
                         },
                         {
-                            "full_text": "Pocket Casts - Podcasts / Desktop App",
+                            "full_text": "Pocket Casts - Cross-Platform Podcast Player / Playlists / Playback Controls / Desktop App",
                             "links": [
                                 {
                                     "name": "Pocket Casts",
-                                    "url": "https://pocketcasts.com/discover"
+                                    "url": "https://pocketcasts.com/"
                                 },
                                 {
                                     "name": "Desktop App",
@@ -24262,82 +24252,56 @@
                             ]
                         },
                         {
-                            "full_text": "⁠jumbletop or ⁠Pirate Podcast Feeds - Premium Podcast Feeds",
-                            "links": [
-                                {
-                                    "name": "⁠jumbletop",
-                                    "url": "https://jumble.top/"
-                                },
-                                {
-                                    "name": "⁠Pirate Podcast Feeds",
-                                    "url": "https://piratefeeds.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠PodcastToMP3 - Podcast Downloads / Search",
-                            "links": [
-                                {
-                                    "name": "⁠PodcastToMP3",
-                                    "url": "https://podcasttomp3.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Podchaser , Podcast Index or ⁠Podstatus - Podcast Charts / Databases",
-                            "links": [
-                                {
-                                    "name": "Podchaser",
-                                    "url": "https://www.podchaser.com/charts"
-                                },
-                                {
-                                    "name": "Podcast Index",
-                                    "url": "https://podcastindex.org/"
-                                },
-                                {
-                                    "name": "⁠Podstatus",
-                                    "url": "https://podstatus.com/charts"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Listen Notes - Podcast Search Engine",
+                            "full_text": "Listen Notes - Podcast & Episode Search Engine / Curated Playlists / API",
                             "links": [
                                 {
                                     "name": "Listen Notes",
                                     "url": "https://www.listennotes.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rephonic - Find Similar Podcasts",
-                            "links": [
+                                },
                                 {
-                                    "name": "Rephonic",
-                                    "url": "https://rephonic.com/graph"
+                                    "name": "API",
+                                    "url": "https://www.listennotes.com/api/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Apple Podcasts",
+                            "full_text": "Apple Podcasts - Podcast Streaming / Discovery / Charts / Transcripts",
                             "links": [
                                 {
                                     "name": "Apple Podcasts",
-                                    "url": "https://podcasts.apple.com/us/home"
+                                    "url": "https://podcasts.apple.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "PodParadise",
+                            "full_text": "Podcast Republic - Podcast Player / Playlists / Downloads / Custom RSS Feeds",
                             "links": [
                                 {
-                                    "name": "PodParadise",
-                                    "url": "https://www.podparadise.com/"
+                                    "name": "Podcast Republic",
+                                    "url": "https://www.podcastrepublic.net/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Podbean",
+                            "full_text": "Player FM - Podcast Player / Discovery / Categories / Offline Listening",
+                            "links": [
+                                {
+                                    "name": "Player FM",
+                                    "url": "https://player.fm/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podverse - Open-Source Podcast Player / RSS Feeds / Podcasting 2.0 / Web & Mobile",
+                            "links": [
+                                {
+                                    "name": "Podverse",
+                                    "url": "https://podverse.fm/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podbean - Podcast Streaming / Discovery / Hosting Platform",
                             "links": [
                                 {
                                     "name": "Podbean",
@@ -24346,8 +24310,12 @@
                             ]
                         },
                         {
-                            "full_text": "Podbay",
+                            "full_text": "PodParadise or Podbay - Browser-Based Podcast Players / Discovery",
                             "links": [
+                                {
+                                    "name": "PodParadise",
+                                    "url": "https://www.podparadise.com/"
+                                },
                                 {
                                     "name": "Podbay",
                                     "url": "https://podbay.fm/"
@@ -24355,7 +24323,7 @@
                             ]
                         },
                         {
-                            "full_text": "BBC Podcasts / Downloader",
+                            "full_text": "BBC Podcasts - BBC Podcast Streaming / Downloader",
                             "links": [
                                 {
                                     "name": "BBC Podcasts",
@@ -24368,25 +24336,7 @@
                             ]
                         },
                         {
-                            "full_text": "Player FM",
-                            "links": [
-                                {
-                                    "name": "Player FM",
-                                    "url": "https://player.fm/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Podcast Republic",
-                            "links": [
-                                {
-                                    "name": "Podcast Republic",
-                                    "url": "https://www.podcastrepublic.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Relay.fm",
+                            "full_text": "Relay.fm - Independent Podcast Network / Technology & Creative Shows",
                             "links": [
                                 {
                                     "name": "Relay.fm",
@@ -24395,7 +24345,78 @@
                             ]
                         },
                         {
-                            "full_text": "podcast-dl , PodcastBulkDownloader , PodDL or PodGrab - Podcast Downloaders",
+                            "full_text": "Podchaser - Podcast Database / Ratings / Reviews / Creator Credits",
+                            "links": [
+                                {
+                                    "name": "Podchaser",
+                                    "url": "https://www.podchaser.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podcast Index - Open Podcast Directory / Podcasting 2.0 / API",
+                            "links": [
+                                {
+                                    "name": "Podcast Index",
+                                    "url": "https://podcastindex.org/"
+                                },
+                                {
+                                    "name": "API",
+                                    "url": "https://podcastindex-org.github.io/docs-api/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podstatus - Apple Podcasts & Spotify Rankings / Country & Category Charts",
+                            "links": [
+                                {
+                                    "name": "Podstatus",
+                                    "url": "https://podstatus.com/charts"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Rephonic - Similar Podcast Discovery / Interactive Audience Graph",
+                            "links": [
+                                {
+                                    "name": "Rephonic",
+                                    "url": "https://rephonic.com/graph"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PodScripts - Searchable Podcast Transcripts",
+                            "links": [
+                                {
+                                    "name": "PodScripts",
+                                    "url": "https://podscripts.co/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "jumbletop or Pirate Podcast Feeds - Premium Podcast Feed Indexes",
+                            "links": [
+                                {
+                                    "name": "jumbletop",
+                                    "url": "https://jumble.top/"
+                                },
+                                {
+                                    "name": "Pirate Podcast Feeds",
+                                    "url": "https://piratefeeds.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PodcastToMP3 - Search & Download Podcast Episodes / MP3",
+                            "links": [
+                                {
+                                    "name": "PodcastToMP3",
+                                    "url": "https://podcasttomp3.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "podcast-dl , PodcastBulkDownloader , PodDL or PodGrab - Podcast Downloaders / Archiving Tools",
                             "links": [
                                 {
                                     "name": "podcast-dl",
@@ -24416,25 +24437,33 @@
                             ]
                         },
                         {
-                            "full_text": "PodScripts - Podcast Transcript Search",
+                            "full_text": "PinePods - Self-Hosted Podcast Server / Multi-Device Sync /",
                             "links": [
                                 {
-                                    "name": "PodScripts",
-                                    "url": "https://podscripts.co/"
+                                    "name": "PinePods",
+                                    "url": "https://pinepods.online/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/madeofpendletonwool/PinePods"
                                 }
                             ]
                         },
                         {
-                            "full_text": "OpenPodcast - Podcast Analytics",
+                            "full_text": "Grover or gPodder - Desktop Podcast Clients",
                             "links": [
                                 {
-                                    "name": "OpenPodcast",
-                                    "url": "https://openpodcast.dev"
+                                    "name": "Grover",
+                                    "url": "https://www.microsoft.com/store/"
+                                },
+                                {
+                                    "name": "gPodder",
+                                    "url": "https://gpodder.github.io/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "castero - TUI Terminal Podcast Client",
+                            "full_text": "castero - Terminal-Based Podcast Client",
                             "links": [
                                 {
                                     "name": "castero",
@@ -24443,20 +24472,7 @@
                             ]
                         },
                         {
-                            "full_text": "Grover or GPodder - Podcast Client",
-                            "links": [
-                                {
-                                    "name": "Grover",
-                                    "url": "https://www.microsoft.com/store/productId/9NBLGGH6C4BC"
-                                },
-                                {
-                                    "name": "GPodder",
-                                    "url": "https://gpodder.github.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "EchoWalk - Turn Articles / Webpages into Podcasts",
+                            "full_text": "EchoWalk - Turn Articles & Webpages into Spoken Audio",
                             "links": [
                                 {
                                     "name": "EchoWalk",
@@ -24465,7 +24481,7 @@
                             ]
                         },
                         {
-                            "full_text": "PodSync or PigeonPod / - Turn YouTube/Bilibili Channels + Playlists into Podcasts",
+                            "full_text": "PodSync or PigeonPod - Convert Video Channels & Playlists into Podcast RSS Feeds",
                             "links": [
                                 {
                                     "name": "PodSync",
@@ -24474,18 +24490,23 @@
                                 {
                                     "name": "PigeonPod",
                                     "url": "https://pigeonpod.cloud/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/aizhimou/pigeon-pod"
                                 }
                             ]
                         },
                         {
-                            "full_text": "⁠Podnews - Podcast News",
+                            "full_text": "OpenPodcast - Podcast Analytics",
                             "links": [
                                 {
-                                    "name": "⁠Podnews",
+                                    "name": "OpenPodcast",
+                                    "url": "https://openpodcast.dev/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podnews - Podcast Industry News / Trends / New Releases",
+                            "links": [
+                                {
+                                    "name": "Podnews",
                                     "url": "https://podnews.net/"
                                 }
                             ]
@@ -25266,6 +25287,15 @@
                                 {
                                     "name": "⁠The Lot Radio",
                                     "url": "https://www.thelotradio.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Worldwide FM - Independent Internet Radio",
+                            "links": [
+                                {
+                                    "name": "⁠Worldwide FM",
+                                    "url": "https://www.worldwidefm.net/"
                                 }
                             ]
                         },
@@ -29666,6 +29696,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠zig~zag - Music Discovery Map /",
+                            "links": [
+                                {
+                                    "name": "⁠zig~zag",
+                                    "url": "https://www.zig-zag.fm/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/uhst5zaMne"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Chosic , SongsLikeX , Discover Quickly or Dubolt - Similar Song / Playlist Discovery Tools",
                             "links": [
                                 {
@@ -33630,7 +33673,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠HizSearch / Steam Button , Virgil Game Search , 2 / , Game Download CSE , Game Torrent CSE or r/PiratedGames CSE - Multi-Site Search Engines",
+                            "full_text": "⁠HizSearch / Steam Button / , Virgil Game Search , 2 / , Game Download CSE , Game Torrent CSE or r/PiratedGames CSE - Multi-Site Search Engines",
                             "links": [
                                 {
                                     "name": "⁠HizSearch",
@@ -33639,6 +33682,10 @@
                                 {
                                     "name": "Steam Button",
                                     "url": "https://github.com/hiz0147/HizSteamButton"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/QFnktdhedT"
                                 },
                                 {
                                     "name": "Virgil Game Search",
@@ -37296,10 +37343,10 @@
                             ]
                         },
                         {
-                            "full_text": "NXbrew - ROMs / Switch 2 / Switch",
+                            "full_text": "NXBrew - ROMs / Switch 2 / Switch",
                             "links": [
                                 {
-                                    "name": "NXbrew",
+                                    "name": "NXBrew",
                                     "url": "https://nxbrew.net/"
                                 }
                             ]
@@ -40823,6 +40870,15 @@
                             ]
                         },
                         {
+                            "full_text": "Arcadia - Browser PC Game Ports / Aggregator",
+                            "links": [
+                                {
+                                    "name": "Arcadia",
+                                    "url": "https://arcadia.baby/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Fancade - Browser Game World / Creator",
                             "links": [
                                 {
@@ -42323,6 +42379,23 @@
                                 {
                                     "name": "TextAventures",
                                     "url": "https://textadventures.co.uk/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AI Dungeon - Open World Text RPG / / ,",
+                            "links": [
+                                {
+                                    "name": "AI Dungeon",
+                                    "url": "https://aidungeon.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/AIDungeon/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/HB2YBZYjyf"
                                 }
                             ]
                         },
@@ -49428,6 +49501,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠YumeZone",
+                            "links": [
+                                {
+                                    "name": "⁠YumeZone",
+                                    "url": "https://yumezone.live/manga/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mgread",
                             "links": [
                                 {
@@ -53510,6 +53592,27 @@
                                 {
                                     "name": "Yamtrack",
                                     "url": "https://github.com/FuzzyGrim/Yamtrack"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠BookOrbit / or ⁠Grimmory / - Ebook Managers / Self-Hosted",
+                            "links": [
+                                {
+                                    "name": "⁠BookOrbit",
+                                    "url": "https://bookorbit.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/bookorbit/bookorbit"
+                                },
+                                {
+                                    "name": "⁠Grimmory",
+                                    "url": "https://grimmory.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/grimmory-tools/grimmory"
                                 }
                             ]
                         },
@@ -78333,7 +78436,7 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Morphe Patch Index / 2 , 3 - Morphe Patch Indexes",
+                            "full_text": "Morphe Patch Index / 2 - Morphe Patch Indexes",
                             "links": [
                                 {
                                     "name": "Morphe Patch Index",
@@ -78341,10 +78444,6 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://redd.it/1ta0bek"
-                                },
-                                {
-                                    "name": "3",
                                     "url": "https://awesome-morphe.vercel.app/"
                                 }
                             ]
@@ -78704,7 +78803,7 @@
                             ]
                         },
                         {
-                            "full_text": "piko (Instagram) / / , MyInsta / / or ⁠Instafel / - Modded Instagram Clients /",
+                            "full_text": "piko (Instagram) / / , MyInsta / / , HushGram or ⁠Instafel / - Modded Instagram Clients /",
                             "links": [
                                 {
                                     "name": "piko (Instagram)",
@@ -78725,6 +78824,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/HqkMnY3yX5"
+                                },
+                                {
+                                    "name": "HushGram",
+                                    "url": "https://github.com/SysAdminDoc/HushGram"
                                 },
                                 {
                                     "name": "⁠Instafel",
@@ -79867,19 +79970,6 @@
                             ]
                         },
                         {
-                            "full_text": "HeliBoard - Customizable Privacy-Focused Keyboard / Layouts Guide",
-                            "links": [
-                                {
-                                    "name": "HeliBoard",
-                                    "url": "https://github.com/Helium314/HeliBoard"
-                                },
-                                {
-                                    "name": "Layouts Guide",
-                                    "url": "https://github.com/Helium314/HeliBoard/wiki/2.-Layouts"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠WM Keyboard - Privacy-Focused Keyboard /",
                             "links": [
                                 {
@@ -79889,6 +79979,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/wasi-master/wmkeyboard"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HeliBoard - Customizable Privacy-Focused Keyboard / Layouts Guide",
+                            "links": [
+                                {
+                                    "name": "HeliBoard",
+                                    "url": "https://github.com/Helium314/HeliBoard"
+                                },
+                                {
+                                    "name": "Layouts Guide",
+                                    "url": "https://github.com/Helium314/HeliBoard/wiki/2.-Layouts"
                                 }
                             ]
                         },
@@ -81167,7 +81270,7 @@
                             ]
                         },
                         {
-                            "full_text": "Unified Remote (search), 2 or KDE Connect - Control PC with App",
+                            "full_text": "Unified Remote (search), 2 or KDE Connect - Phone / PC Controllers + Connectors",
                             "links": [
                                 {
                                     "name": "Unified Remote",
@@ -85394,6 +85497,19 @@
                             ]
                         },
                         {
+                            "full_text": "MySpoti or Spotify (official) - Spotify App /",
+                            "links": [
+                                {
+                                    "name": "MySpoti",
+                                    "url": "https://github.com/kota-zo/myspoti"
+                                },
+                                {
+                                    "name": "Spotify (official)",
+                                    "url": "https://play.google.com/store/apps/details?id=com.spotify.music"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Spotify Tools - Friend Activity / Mute Ads , 2 / Stats / Improved Lyrics , 2",
                             "links": [
                                 {
@@ -85571,15 +85687,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/5cZAbW3Tbg"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Spotify (official) - Spotify App /",
-                            "links": [
-                                {
-                                    "name": "Spotify (official)",
-                                    "url": "https://play.google.com/store/apps/details?id=com.spotify.music"
                                 }
                             ]
                         },
@@ -85975,7 +86082,7 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Morphe - Ad-Free YouTube Patcher / / Resources / Easy Install / Updates / / Patch Index , 2 , 3 /",
+                            "full_text": "Morphe - Ad-Free YouTube Patcher / / Easy Install / Updates / /",
                             "links": [
                                 {
                                     "name": "Morphe",
@@ -85986,28 +86093,12 @@
                                     "url": "https://x.com/MorpheApp"
                                 },
                                 {
-                                    "name": "Resources",
-                                    "url": "https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/"
-                                },
-                                {
                                     "name": "Easy Install / Updates",
                                     "url": "https://wispydocs.pages.dev/morphe-piko-obtainium/"
                                 },
                                 {
                                     "name": "",
                                     "url": "https://reddit.com/r/MorpheApp"
-                                },
-                                {
-                                    "name": "Patch Index",
-                                    "url": "https://morphe-patches.software/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://redd.it/1ta0bek"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://awesome-morphe.vercel.app/"
                                 },
                                 {
                                     "name": "",
@@ -86050,11 +86141,15 @@
                             ]
                         },
                         {
-                            "full_text": "Metrolist - YouTube Music Player / / /",
+                            "full_text": "Metrolist - YouTube Music Player / / / /",
                             "links": [
                                 {
                                     "name": "Metrolist",
                                     "url": "https://metrolist.meowery.eu/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/metrolist/"
                                 },
                                 {
                                     "name": "",
@@ -86605,6 +86700,15 @@
                             ]
                         },
                         {
+                            "full_text": "Shiopa Mobile - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Shiopa Mobile",
+                                    "url": "https://help.shiopa.com/docs/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Kodi - r/Addons4Kodi / Tracker / Trending",
                             "links": [
                                 {
@@ -86657,15 +86761,6 @@
                                 {
                                     "name": "CineHD",
                                     "url": "https://cinehd.dev/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Shiopa Mobile - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Shiopa Mobile",
-                                    "url": "https://help.shiopa.com/docs/"
                                 }
                             ]
                         },
@@ -88058,6 +88153,15 @@
                                 {
                                     "name": "⁠Applesauce",
                                     "url": "https://github.com/johnny901901901/touchHLE"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "nxnative - Run Switch Games on iOS",
+                            "links": [
+                                {
+                                    "name": "nxnative",
+                                    "url": "https://github.com/seedds/nxnative"
                                 }
                             ]
                         },
@@ -89725,15 +89829,11 @@
                             ]
                         },
                         {
-                            "full_text": "DNSecure - Encrypted DNS / TestFlight /",
+                            "full_text": "DNSecure - Encrypted DNS /",
                             "links": [
                                 {
                                     "name": "DNSecure",
                                     "url": "https://apps.apple.com/en/app/dnsecure/id1533413232"
-                                },
-                                {
-                                    "name": "TestFlight",
-                                    "url": "https://testflight.apple.com/join/A8GwCnq8"
                                 },
                                 {
                                     "name": "",
@@ -90647,7 +90747,7 @@
                                 },
                                 {
                                     "name": "Modules",
-                                    "url": "https://8spine-modules.vercel.app/"
+                                    "url": "https://8spine-moduels.pages.dev/"
                                 }
                             ]
                         },
@@ -91109,6 +91209,15 @@
                             ]
                         },
                         {
+                            "full_text": "Shiopa Mobile - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Shiopa Mobile",
+                                    "url": "https://help.shiopa.com/docs/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Kodi - Movies / TV / Anime / r/Addons4Kodi / Tracker / Trending",
                             "links": [
                                 {
@@ -91206,15 +91315,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/73XGA8Mxn9"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Shiopa Mobile - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Shiopa Mobile",
-                                    "url": "https://help.shiopa.com/docs/"
                                 }
                             ]
                         },
@@ -99423,11 +99523,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠MacNativeGames - Run Switch Games Natively on Apple Silicon",
+                            "full_text": "⁠MacNativeGames or nxnative - Run Switch Games on macOS",
                             "links": [
                                 {
                                     "name": "⁠MacNativeGames",
                                     "url": "https://github.com/ly05010419/MacNativeGames"
+                                },
+                                {
+                                    "name": "nxnative",
+                                    "url": "https://github.com/seedds/nxnative"
                                 }
                             ]
                         },
@@ -106751,6 +106855,15 @@
                             ]
                         },
                         {
+                            "full_text": "UniqueStream - Movies / TV / Anime / 720p",
+                            "links": [
+                                {
+                                    "name": "UniqueStream",
+                                    "url": "https://uniquestream.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Screenscape - Movies / TV / Anime",
                             "links": [
                                 {
@@ -107476,7 +107589,7 @@
                             "links": [
                                 {
                                     "name": "StreamingUnity",
-                                    "url": "https://streamingunity.win/it"
+                                    "url": "https://streamingunity.fun/it"
                                 }
                             ]
                         },
@@ -108523,11 +108636,20 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "OnDemandKorean - Korean Movies / TV / 720p",
+                            "full_text": "OnDemandKorean - Movies / TV / 720p",
                             "links": [
                                 {
                                     "name": "OnDemandKorean",
                                     "url": "https://www.ondemandkorea.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "UniqueStream - Movies / TV / Anime / 720p",
+                            "links": [
+                                {
+                                    "name": "UniqueStream",
+                                    "url": "https://uniquestream.net/"
                                 }
                             ]
                         },
@@ -114721,6 +114843,15 @@
                             ]
                         },
                         {
+                            "full_text": "FreeKino - Movies / TV",
+                            "links": [
+                                {
+                                    "name": "FreeKino",
+                                    "url": "https://freekino.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AsilMedia - Movies / TV /",
                             "links": [
                                 {
@@ -114916,19 +115047,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠Tram Phim - Movies / TV / Anime / Sub / Dub / 1080p / 4K /",
-                            "links": [
-                                {
-                                    "name": "⁠Tram Phim",
-                                    "url": "https://tramphim.tech/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/Adtramphim"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Sofaflix - Movies / TV / Anime / Sub / Dub / 1080p /",
                             "links": [
                                 {
@@ -114956,6 +115074,19 @@
                                 {
                                     "name": "NguonC",
                                     "url": "https://phim.nguonc.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Tram Phim - Movies / TV / Anime / Sub / Dub / 1080p / 4K /",
+                            "links": [
+                                {
+                                    "name": "⁠Tram Phim",
+                                    "url": "https://tramphim.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/Adtramphim"
                                 }
                             ]
                         },
@@ -121581,6 +121712,19 @@
                             ]
                         },
                         {
+                            "full_text": "TV.Jest or WorldNews24 - Live TV / News",
+                            "links": [
+                                {
+                                    "name": "TV.Jest",
+                                    "url": "https://tv.jest.one/"
+                                },
+                                {
+                                    "name": "WorldNews24",
+                                    "url": "https://worldnews24.tv/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Google Alerts - News Alerts by Topics",
                             "links": [
                                 {
@@ -121761,6 +121905,15 @@
                                 {
                                     "name": "FinURLs",
                                     "url": "https://finurls.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠election.run - Multi-Stream Election Streams / News",
+                            "links": [
+                                {
+                                    "name": "⁠election.run",
+                                    "url": "https://election.run/"
                                 }
                             ]
                         },
@@ -122373,6 +122526,19 @@
                             ]
                         },
                         {
+                            "full_text": "Orange Juice - Hacker News Features / Extension /",
+                            "links": [
+                                {
+                                    "name": "Orange Juice",
+                                    "url": "https://oj-hn.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/OrangeJuiceExtension/OrangeJuice"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Hacki or Harmoni / - Android Hacker News Apps",
                             "links": [
                                 {
@@ -122432,19 +122598,6 @@
                                 {
                                     "name": "hckrnws",
                                     "url": "https://www.hckrnws.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Orange Juice - Hacker News Features / Extension /",
-                            "links": [
-                                {
-                                    "name": "Orange Juice",
-                                    "url": "https://oj-hn.com"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/OrangeJuiceExtension/OrangeJuice"
                                 }
                             ]
                         },
@@ -128952,7 +129105,7 @@
                             ]
                         },
                         {
-                            "full_text": "LeechBlock , Plucky , ⁠one sec , Block Site , uBlacklist / or Forest / Chrome - Site Blocking Extensions",
+                            "full_text": "LeechBlock , Plucky , ⁠one sec , Block Site or Forest / Chrome - Site Blocking Extensions",
                             "links": [
                                 {
                                     "name": "LeechBlock",
@@ -128969,14 +129122,6 @@
                                 {
                                     "name": "Block Site",
                                     "url": "https://webextension.org/listing/block-site.html"
-                                },
-                                {
-                                    "name": "uBlacklist",
-                                    "url": "https://ublacklist.github.io/docs"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/iorate/ublacklist"
                                 },
                                 {
                                     "name": "Forest",
@@ -141861,15 +142006,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Savedly - Unlimited / 7 Days",
-                            "links": [
-                                {
-                                    "name": "⁠Savedly",
-                                    "url": "https://savedly.net/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Upload.bg - 10GB / 30 Days",
                             "links": [
                                 {
@@ -142068,6 +142204,15 @@
                                 {
                                     "name": "FireLoad",
                                     "url": "https://www.fireload.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Savedly - Unlimited / 7 Days",
+                            "links": [
+                                {
+                                    "name": "⁠Savedly",
+                                    "url": "https://savedly.net/"
                                 }
                             ]
                         },
@@ -143167,6 +143312,19 @@
                                 {
                                     "name": "mRemoteNG",
                                     "url": "https://mremoteng.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠net-merge or ⁠MultiPath - Multi-Connection Network Combiner Tools",
+                            "links": [
+                                {
+                                    "name": "⁠net-merge",
+                                    "url": "https://github.com/rohit267/net-merge"
+                                },
+                                {
+                                    "name": "⁠MultiPath",
+                                    "url": "https://github.com/uditya-kumar/MultiPath"
                                 }
                             ]
                         },
@@ -144318,15 +144476,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Midas QR - Generator / Customizable /",
+                            "full_text": "⁠Midas QR - Generator / Customizable",
                             "links": [
                                 {
                                     "name": "⁠Midas QR",
-                                    "url": "https://midasqr.is-local.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Jimm144/midas-qr"
+                                    "url": "https://midas-qr.vercel.app/"
                                 }
                             ]
                         },
@@ -145501,7 +145655,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠HizSearch / Steam Button , Virgil Game Search , 2 / , Game Download CSE or r/PiratedGames CSE - Multi-Site Game Search Engines",
+                            "full_text": "⁠HizSearch / Steam Button / , Virgil Game Search , 2 / , Game Download CSE or r/PiratedGames CSE - Multi-Site Game Search Engines",
                             "links": [
                                 {
                                     "name": "⁠HizSearch",
@@ -145510,6 +145664,10 @@
                                 {
                                     "name": "Steam Button",
                                     "url": "https://github.com/hiz0147/HizSteamButton"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/QFnktdhedT"
                                 },
                                 {
                                     "name": "Virgil Game Search",
@@ -147031,7 +147189,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Aster Mail , navi.land , ⁠Mailo , Outlook , Private.Ki or Neir - Number-Free Email",
+                            "full_text": "⁠Aster Mail , navi.land , ⁠Mailo , Outlook , Private.Ki , ⁠Murena or Neir - Number-Free Email",
                             "links": [
                                 {
                                     "name": "⁠Aster Mail",
@@ -147052,6 +147210,10 @@
                                 {
                                     "name": "Private.Ki",
                                     "url": "https://private.ki/"
+                                },
+                                {
+                                    "name": "⁠Murena",
+                                    "url": "https://murena.com/workspace/"
                                 },
                                 {
                                     "name": "Neir",
@@ -149602,6 +149764,19 @@
                             ]
                         },
                         {
+                            "full_text": "uBlacklist - Google Search Results Filter /",
+                            "links": [
+                                {
+                                    "name": "uBlacklist",
+                                    "url": "https://ublacklist.github.io/docs"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/iorate/ublacklist"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Always Visible - Always Active / On-Top Window",
                             "links": [
                                 {
@@ -150393,15 +150568,6 @@
                                 {
                                     "name": "SmoothKeyScroll",
                                     "url": "https://www.smoothkeyscroll.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Page Pad - Web Page Note-Taking",
-                            "links": [
-                                {
-                                    "name": "Page Pad",
-                                    "url": "https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn"
                                 }
                             ]
                         },
@@ -153778,11 +153944,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Reveddit , Undelete , ⁠Reddit Restore (Userscript), redditOSINT / , Ghostddit or Reddit Uncensored - View Deleted / Hidden Reddit Posts + Comments",
+                            "full_text": "Reveddit , rOSINT+ , Undelete , ⁠Reddit Restore (Userscript), redditOSINT / , Ghostddit or Reddit Uncensored - View Deleted / Hidden Reddit Posts + Comments",
                             "links": [
                                 {
                                     "name": "Reveddit",
                                     "url": "https://www.reveddit.com/"
+                                },
+                                {
+                                    "name": "rOSINT+",
+                                    "url": "https://rosintplus.vercel.app/"
                                 },
                                 {
                                     "name": "Undelete",
@@ -155040,7 +155210,7 @@
                             ]
                         },
                         {
-                            "full_text": "FreeTube / or Flow Desktop - Desktop YouTube Apps",
+                            "full_text": "FreeTube / , ⁠OpenTubeX / or Flow Desktop - Desktop YouTube Apps",
                             "links": [
                                 {
                                     "name": "FreeTube",
@@ -155049,6 +155219,14 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/FreeTubeApp/FreeTube"
+                                },
+                                {
+                                    "name": "⁠OpenTubeX",
+                                    "url": "https://opentubex.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/OpenTubeX/OpenTubeX"
                                 },
                                 {
                                     "name": "Flow Desktop",
@@ -173929,7 +174107,7 @@
                                 },
                                 {
                                     "name": "Dependencies",
-                                    "url": "https://github.com/LeagueToolkit/ltk-manager/tree/main/src-tauri/resources"
+                                    "url": "https://github.com/LeagueToolkit/ltk-manager/releases"
                                 },
                                 {
                                     "name": "",
@@ -191524,6 +191702,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Meiro - YouTube Music Client /",
+                            "links": [
+                                {
+                                    "name": "⁠Meiro",
+                                    "url": "https://meiro.elianiva.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/elianiva/meiro"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Flow Desktop - YouTube Music Client",
                             "links": [
                                 {
@@ -191751,6 +191942,15 @@
                                 {
                                     "name": "Pandora",
                                     "url": "https://www.pandora.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠pointify - Browser Music",
+                            "links": [
+                                {
+                                    "name": "⁠pointify",
+                                    "url": "https://pointify.qzz.io/"
                                 }
                             ]
                         },
@@ -192669,7 +192869,7 @@
                             ]
                         },
                         {
-                            "full_text": "Spotify Podcasts - Podcasts / SponsorBlock , / Companion / RSS / Video Download",
+                            "full_text": "Spotify Podcasts - Podcast Streaming / Video Podcasts / SponsorBlock / Companion / RSS Tool / Video Download",
                             "links": [
                                 {
                                     "name": "Spotify Podcasts",
@@ -192680,15 +192880,11 @@
                                     "url": "https://spotsponsorblock.org/"
                                 },
                                 {
-                                    "name": "",
-                                    "url": "https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension"
-                                },
-                                {
                                     "name": "Companion",
                                     "url": "https://sebschaef.bitbucket.io/podify/"
                                 },
                                 {
-                                    "name": "RSS",
+                                    "name": "RSS Tool",
                                     "url": "https://github.com/Yetangitu/Spodcast"
                                 },
                                 {
@@ -192698,11 +192894,11 @@
                             ]
                         },
                         {
-                            "full_text": "Pocket Casts - Podcasts / Desktop App",
+                            "full_text": "Pocket Casts - Cross-Platform Podcast Player / Playlists / Playback Controls / Desktop App",
                             "links": [
                                 {
                                     "name": "Pocket Casts",
-                                    "url": "https://pocketcasts.com/discover"
+                                    "url": "https://pocketcasts.com/"
                                 },
                                 {
                                     "name": "Desktop App",
@@ -192711,82 +192907,56 @@
                             ]
                         },
                         {
-                            "full_text": "⁠jumbletop or ⁠Pirate Podcast Feeds - Premium Podcast Feeds",
-                            "links": [
-                                {
-                                    "name": "⁠jumbletop",
-                                    "url": "https://jumble.top/"
-                                },
-                                {
-                                    "name": "⁠Pirate Podcast Feeds",
-                                    "url": "https://piratefeeds.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠PodcastToMP3 - Podcast Downloads / Search",
-                            "links": [
-                                {
-                                    "name": "⁠PodcastToMP3",
-                                    "url": "https://podcasttomp3.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Podchaser , Podcast Index or ⁠Podstatus - Podcast Charts / Databases",
-                            "links": [
-                                {
-                                    "name": "Podchaser",
-                                    "url": "https://www.podchaser.com/charts"
-                                },
-                                {
-                                    "name": "Podcast Index",
-                                    "url": "https://podcastindex.org/"
-                                },
-                                {
-                                    "name": "⁠Podstatus",
-                                    "url": "https://podstatus.com/charts"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Listen Notes - Podcast Search Engine",
+                            "full_text": "Listen Notes - Podcast & Episode Search Engine / Curated Playlists / API",
                             "links": [
                                 {
                                     "name": "Listen Notes",
                                     "url": "https://www.listennotes.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rephonic - Find Similar Podcasts",
-                            "links": [
+                                },
                                 {
-                                    "name": "Rephonic",
-                                    "url": "https://rephonic.com/graph"
+                                    "name": "API",
+                                    "url": "https://www.listennotes.com/api/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Apple Podcasts",
+                            "full_text": "Apple Podcasts - Podcast Streaming / Discovery / Charts / Transcripts",
                             "links": [
                                 {
                                     "name": "Apple Podcasts",
-                                    "url": "https://podcasts.apple.com/us/home"
+                                    "url": "https://podcasts.apple.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "PodParadise",
+                            "full_text": "Podcast Republic - Podcast Player / Playlists / Downloads / Custom RSS Feeds",
                             "links": [
                                 {
-                                    "name": "PodParadise",
-                                    "url": "https://www.podparadise.com/"
+                                    "name": "Podcast Republic",
+                                    "url": "https://www.podcastrepublic.net/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Podbean",
+                            "full_text": "Player FM - Podcast Player / Discovery / Categories / Offline Listening",
+                            "links": [
+                                {
+                                    "name": "Player FM",
+                                    "url": "https://player.fm/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podverse - Open-Source Podcast Player / RSS Feeds / Podcasting 2.0 / Web & Mobile",
+                            "links": [
+                                {
+                                    "name": "Podverse",
+                                    "url": "https://podverse.fm/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podbean - Podcast Streaming / Discovery / Hosting Platform",
                             "links": [
                                 {
                                     "name": "Podbean",
@@ -192795,8 +192965,12 @@
                             ]
                         },
                         {
-                            "full_text": "Podbay",
+                            "full_text": "PodParadise or Podbay - Browser-Based Podcast Players / Discovery",
                             "links": [
+                                {
+                                    "name": "PodParadise",
+                                    "url": "https://www.podparadise.com/"
+                                },
                                 {
                                     "name": "Podbay",
                                     "url": "https://podbay.fm/"
@@ -192804,7 +192978,7 @@
                             ]
                         },
                         {
-                            "full_text": "BBC Podcasts / Downloader",
+                            "full_text": "BBC Podcasts - BBC Podcast Streaming / Downloader",
                             "links": [
                                 {
                                     "name": "BBC Podcasts",
@@ -192817,25 +192991,7 @@
                             ]
                         },
                         {
-                            "full_text": "Player FM",
-                            "links": [
-                                {
-                                    "name": "Player FM",
-                                    "url": "https://player.fm/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Podcast Republic",
-                            "links": [
-                                {
-                                    "name": "Podcast Republic",
-                                    "url": "https://www.podcastrepublic.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Relay.fm",
+                            "full_text": "Relay.fm - Independent Podcast Network / Technology & Creative Shows",
                             "links": [
                                 {
                                     "name": "Relay.fm",
@@ -192844,7 +193000,78 @@
                             ]
                         },
                         {
-                            "full_text": "podcast-dl , PodcastBulkDownloader , PodDL or PodGrab - Podcast Downloaders",
+                            "full_text": "Podchaser - Podcast Database / Ratings / Reviews / Creator Credits",
+                            "links": [
+                                {
+                                    "name": "Podchaser",
+                                    "url": "https://www.podchaser.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podcast Index - Open Podcast Directory / Podcasting 2.0 / API",
+                            "links": [
+                                {
+                                    "name": "Podcast Index",
+                                    "url": "https://podcastindex.org/"
+                                },
+                                {
+                                    "name": "API",
+                                    "url": "https://podcastindex-org.github.io/docs-api/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podstatus - Apple Podcasts & Spotify Rankings / Country & Category Charts",
+                            "links": [
+                                {
+                                    "name": "Podstatus",
+                                    "url": "https://podstatus.com/charts"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Rephonic - Similar Podcast Discovery / Interactive Audience Graph",
+                            "links": [
+                                {
+                                    "name": "Rephonic",
+                                    "url": "https://rephonic.com/graph"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PodScripts - Searchable Podcast Transcripts",
+                            "links": [
+                                {
+                                    "name": "PodScripts",
+                                    "url": "https://podscripts.co/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "jumbletop or Pirate Podcast Feeds - Premium Podcast Feed Indexes",
+                            "links": [
+                                {
+                                    "name": "jumbletop",
+                                    "url": "https://jumble.top/"
+                                },
+                                {
+                                    "name": "Pirate Podcast Feeds",
+                                    "url": "https://piratefeeds.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PodcastToMP3 - Search & Download Podcast Episodes / MP3",
+                            "links": [
+                                {
+                                    "name": "PodcastToMP3",
+                                    "url": "https://podcasttomp3.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "podcast-dl , PodcastBulkDownloader , PodDL or PodGrab - Podcast Downloaders / Archiving Tools",
                             "links": [
                                 {
                                     "name": "podcast-dl",
@@ -192865,25 +193092,33 @@
                             ]
                         },
                         {
-                            "full_text": "PodScripts - Podcast Transcript Search",
+                            "full_text": "PinePods - Self-Hosted Podcast Server / Multi-Device Sync /",
                             "links": [
                                 {
-                                    "name": "PodScripts",
-                                    "url": "https://podscripts.co/"
+                                    "name": "PinePods",
+                                    "url": "https://pinepods.online/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/madeofpendletonwool/PinePods"
                                 }
                             ]
                         },
                         {
-                            "full_text": "OpenPodcast - Podcast Analytics",
+                            "full_text": "Grover or gPodder - Desktop Podcast Clients",
                             "links": [
                                 {
-                                    "name": "OpenPodcast",
-                                    "url": "https://openpodcast.dev"
+                                    "name": "Grover",
+                                    "url": "https://www.microsoft.com/store/"
+                                },
+                                {
+                                    "name": "gPodder",
+                                    "url": "https://gpodder.github.io/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "castero - TUI Terminal Podcast Client",
+                            "full_text": "castero - Terminal-Based Podcast Client",
                             "links": [
                                 {
                                     "name": "castero",
@@ -192892,20 +193127,7 @@
                             ]
                         },
                         {
-                            "full_text": "Grover or GPodder - Podcast Client",
-                            "links": [
-                                {
-                                    "name": "Grover",
-                                    "url": "https://www.microsoft.com/store/productId/9NBLGGH6C4BC"
-                                },
-                                {
-                                    "name": "GPodder",
-                                    "url": "https://gpodder.github.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "EchoWalk - Turn Articles / Webpages into Podcasts",
+                            "full_text": "EchoWalk - Turn Articles & Webpages into Spoken Audio",
                             "links": [
                                 {
                                     "name": "EchoWalk",
@@ -192914,7 +193136,7 @@
                             ]
                         },
                         {
-                            "full_text": "PodSync or PigeonPod / - Turn YouTube/Bilibili Channels + Playlists into Podcasts",
+                            "full_text": "PodSync or PigeonPod - Convert Video Channels & Playlists into Podcast RSS Feeds",
                             "links": [
                                 {
                                     "name": "PodSync",
@@ -192923,18 +193145,23 @@
                                 {
                                     "name": "PigeonPod",
                                     "url": "https://pigeonpod.cloud/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/aizhimou/pigeon-pod"
                                 }
                             ]
                         },
                         {
-                            "full_text": "⁠Podnews - Podcast News",
+                            "full_text": "OpenPodcast - Podcast Analytics",
                             "links": [
                                 {
-                                    "name": "⁠Podnews",
+                                    "name": "OpenPodcast",
+                                    "url": "https://openpodcast.dev/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podnews - Podcast Industry News / Trends / New Releases",
+                            "links": [
+                                {
+                                    "name": "Podnews",
                                     "url": "https://podnews.net/"
                                 }
                             ]
@@ -193715,6 +193942,15 @@
                                 {
                                     "name": "⁠The Lot Radio",
                                     "url": "https://www.thelotradio.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Worldwide FM - Independent Internet Radio",
+                            "links": [
+                                {
+                                    "name": "⁠Worldwide FM",
+                                    "url": "https://www.worldwidefm.net/"
                                 }
                             ]
                         },
@@ -198111,6 +198347,19 @@
                                 {
                                     "name": "SAGE",
                                     "url": "https://hate5six.com/sage"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠zig~zag - Music Discovery Map /",
+                            "links": [
+                                {
+                                    "name": "⁠zig~zag",
+                                    "url": "https://www.zig-zag.fm/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/uhst5zaMne"
                                 }
                             ]
                         },
@@ -223699,11 +223948,15 @@
                             ]
                         },
                         {
-                            "full_text": "hoppscotch , Firecamp or Strapi - API Builders",
+                            "full_text": "hoppscotch / , Firecamp or Strapi - API Builders",
                             "links": [
                                 {
                                     "name": "hoppscotch",
                                     "url": "https://hoppscotch.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/hoppscotch/hoppscotch"
                                 },
                                 {
                                     "name": "Firecamp",
@@ -228633,35 +228886,6 @@
                             ]
                         },
                         {
-                            "full_text": "PocketBase / , ⁠Convex / or Neon / - Open-Source Backend Platforms",
-                            "links": [
-                                {
-                                    "name": "PocketBase",
-                                    "url": "https://pocketbase.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/pocketbase/pocketbase"
-                                },
-                                {
-                                    "name": "⁠Convex",
-                                    "url": "https://www.convex.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/convex"
-                                },
-                                {
-                                    "name": "Neon",
-                                    "url": "https://neon.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/neondatabase/neon"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Caddy / or Nginx / - Web Servers",
                             "links": [
                                 {
@@ -229791,7 +230015,7 @@
                             ]
                         },
                         {
-                            "full_text": "UI Beats , ⁠Style UI or MagicUI - UI Components",
+                            "full_text": "UI Beats , ⁠Style UI / or MagicUI - UI Components",
                             "links": [
                                 {
                                     "name": "UI Beats",
@@ -229800,6 +230024,10 @@
                                 {
                                     "name": "⁠Style UI",
                                     "url": "https://style.ai.id/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/miqdadbadjuber/style-ui"
                                 },
                                 {
                                     "name": "MagicUI",
@@ -231921,11 +232149,15 @@
                             ]
                         },
                         {
-                            "full_text": "Unblob - Extraction Suite",
+                            "full_text": "Unblob - Extraction Suite /",
                             "links": [
                                 {
                                     "name": "Unblob",
                                     "url": "https://unblob.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/onekey-sec/unblob"
                                 }
                             ]
                         },
@@ -232488,6 +232720,39 @@
                             ]
                         },
                         {
+                            "full_text": "SupaBase , PocketBase / , ⁠Convex / or Neon / - Open-Source Backend Platforms",
+                            "links": [
+                                {
+                                    "name": "SupaBase",
+                                    "url": "https://supabase.com/"
+                                },
+                                {
+                                    "name": "PocketBase",
+                                    "url": "https://pocketbase.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/pocketbase/pocketbase"
+                                },
+                                {
+                                    "name": "⁠Convex",
+                                    "url": "https://www.convex.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/convex"
+                                },
+                                {
+                                    "name": "Neon",
+                                    "url": "https://neon.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/neondatabase/neon"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "WebAuthn - Web Authentication API - Demo",
                             "links": [
                                 {
@@ -232553,15 +232818,6 @@
                                 {
                                     "name": "SD Finder",
                                     "url": "https://subdomainfinder.c99.nl/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SupaBase - Database / Authentication Service",
-                            "links": [
-                                {
-                                    "name": "SupaBase",
-                                    "url": "https://supabase.com/"
                                 }
                             ]
                         },
@@ -234939,6 +235195,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Page Pad - Web Page Note-Taking · 5c6d326",
+                            "links": [
+                                {
+                                    "name": "5c6d326",
+                                    "url": "https://github.com/fmhy/edit/commit/5c6d326ac13ce6877a933ce6e37bb699521d7344#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L813"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Check My Links - Check for Broken Links · fe6cb39",
                             "links": [
                                 {
@@ -235183,15 +235448,6 @@
                                 {
                                     "name": "1e1b701",
                                     "url": "https://github.com/fmhy/edit/commit/1e1b701ccb4593aafbb5d6d05d586adba086e3ba#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1655"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Odyssey - Interactive 3D AI Generated Video · 18bb6fa",
-                            "links": [
-                                {
-                                    "name": "18bb6fa",
-                                    "url": "https://github.com/fmhy/edit/commit/18bb6fa3d5f8b9d6bd01a06d0c5a30e0be69719b#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1687"
                                 }
                             ]
                         },
@@ -235574,6 +235830,24 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Streaming Unity - Movies / TV / Anime · 5c6d326",
+                            "links": [
+                                {
+                                    "name": "5c6d326",
+                                    "url": "https://github.com/fmhy/edit/commit/5c6d326ac13ce6877a933ce6e37bb699521d7344#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL111"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BFLIX - Movies / TV · 5c6d326",
+                            "links": [
+                                {
+                                    "name": "5c6d326",
+                                    "url": "https://github.com/fmhy/edit/commit/5c6d326ac13ce6877a933ce6e37bb699521d7344#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL122"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "EE3 - Movies / Invite Codes: mpgh or 1hack / Requires Sign-Up · 223835b",
                             "links": [
                                 {
@@ -235588,6 +235862,15 @@
                                 {
                                     "name": "223835b",
                                     "url": "https://github.com/fmhy/edit/commit/223835b1911cc91be9e5faad17154b5252f78604#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL109"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zencine - Movies / TV / Anime / Discord · 5c6d326",
+                            "links": [
+                                {
+                                    "name": "5c6d326",
+                                    "url": "https://github.com/fmhy/edit/commit/5c6d326ac13ce6877a933ce6e37bb699521d7344#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL152"
                                 }
                             ]
                         },
@@ -235880,6 +236163,24 @@
                             ]
                         },
                         {
+                            "full_text": "Overlook - Movies / TV / Anime / Discord · 5c6d326",
+                            "links": [
+                                {
+                                    "name": "5c6d326",
+                                    "url": "https://github.com/fmhy/edit/commit/5c6d326ac13ce6877a933ce6e37bb699521d7344#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL60"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cineapse - Movies / TV / Anime / Auto-Next / 4K / Discord · 5c6d326",
+                            "links": [
+                                {
+                                    "name": "5c6d326",
+                                    "url": "https://github.com/fmhy/edit/commit/5c6d326ac13ce6877a933ce6e37bb699521d7344#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL61"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Nippleflix - Movies / TV / Anime / Auto-Next / Invite / Telegram · 2c12fca",
                             "links": [
                                 {
@@ -236031,15 +236332,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/4d55068528e84ebfd15e1ba46e3a70fc42fe1cba#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL40"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "SpenFlix - Movies / TV / Anime / Auto-Next / Status · 18bb6fa",
-                            "links": [
-                                {
-                                    "name": "18bb6fa",
-                                    "url": "https://github.com/fmhy/edit/commit/18bb6fa3d5f8b9d6bd01a06d0c5a30e0be69719b#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL35"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -236178,6 +236470,42 @@
                                 {
                                     "name": "37f205e",
                                     "url": "https://github.com/fmhy/edit/commit/37f205e83c9e540bae39a6687e1f8dba9db8bc4e#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L181"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pocket Casts - Podcasts / Desktop App · 1d81327",
+                            "links": [
+                                {
+                                    "name": "1d81327",
+                                    "url": "https://github.com/fmhy/edit/commit/1d8132766deb5afbb4c3a77f9d62f89bbf4a43a6#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L152"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Podchaser - Podcast Charts / Databases · 1d81327",
+                            "links": [
+                                {
+                                    "name": "1d81327",
+                                    "url": "https://github.com/fmhy/edit/commit/1d8132766deb5afbb4c3a77f9d62f89bbf4a43a6#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L155"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Apple Podcasts · 1d81327",
+                            "links": [
+                                {
+                                    "name": "1d81327",
+                                    "url": "https://github.com/fmhy/edit/commit/1d8132766deb5afbb4c3a77f9d62f89bbf4a43a6#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L158"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Grover - Podcast Client · 1d81327",
+                            "links": [
+                                {
+                                    "name": "1d81327",
+                                    "url": "https://github.com/fmhy/edit/commit/1d8132766deb5afbb4c3a77f9d62f89bbf4a43a6#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L170"
                                 }
                             ]
                         }
@@ -236831,6 +237159,38 @@
                     "level": "h2",
                     "text_explanations": [],
                     "resource_items": []
+                },
+                {
+                    "heading": "Free DNS Resolvers",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Tiarap - Privacy-Friendly DNS Resolver · 1d81327",
+                            "links": [
+                                {
+                                    "name": "1d81327",
+                                    "url": "https://github.com/fmhy/edit/commit/1d8132766deb5afbb4c3a77f9d62f89bbf4a43a6#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L97"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Free VPN Configs",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "v2ray servers · 1d81327",
+                            "links": [
+                                {
+                                    "name": "1d81327",
+                                    "url": "https://github.com/fmhy/edit/commit/1d8132766deb5afbb4c3a77f9d62f89bbf4a43a6#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L119"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "heading": "Searx Instances",
@@ -237581,15 +237941,6 @@
                             ]
                         },
                         {
-                            "full_text": "Tiarap - Privacy-Friendly DNS Resolver",
-                            "links": [
-                                {
-                                    "name": "Tiarap",
-                                    "url": "https://tiar.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Rethink DNS",
                             "links": [
                                 {
@@ -237716,15 +238067,6 @@
                                 {
                                     "name": "V2Nodes",
                                     "url": "https://v2nodes.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "v2ray servers",
-                            "links": [
-                                {
-                                    "name": "v2ray servers",
-                                    "url": "https://github.com/ebrasha/free-v2ray-public-list"
                                 }
                             ]
                         },
