@@ -1179,354 +1179,7 @@
                             ]
                         },
                         {
-                            "full_text": "HaGeZi Blocklists , 2 / Host Format - Blocklist Collection / Use Mini Editions /",
-                            "links": [
-                                {
-                                    "name": "HaGeZi Blocklists",
-                                    "url": "https://github.com/hagezi/dns-blocklists"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://gitlab.com/hagezi/mirror"
-                                },
-                                {
-                                    "name": "Host Format",
-                                    "url": "https://github.com/hagezi/dns-blocklists-legacy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "hBlock - Blocklist Collection /",
-                            "links": [
-                                {
-                                    "name": "hBlock",
-                                    "url": "https://hblock.molinero.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/hectorm/hblock"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FMHY Filterlist - Unsafe Sites Filter",
-                            "links": [
-                                {
-                                    "name": "FMHY Filterlist",
-                                    "url": "https://github.com/fmhy/FMHYFilterlist"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AI uBlock Blacklist - Blocks AI Generated Sites",
-                            "links": [
-                                {
-                                    "name": "AI uBlock Blacklist",
-                                    "url": "https://github.com/alvi-se/ai-ublock-blacklist"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "DNS Adblocking",
-                    "level": "h3",
-                    "text_explanations": [
-                        "TIP",
-                        "If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or anti-adblock."
-                    ],
-                    "resource_items": [
-                        {
-                            "full_text": "DNS Providers - DNS Provider Index",
-                            "links": [
-                                {
-                                    "name": "DNS Providers",
-                                    "url": "https://adguard-dns.io/kb/general/dns-providers/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ Free DNS Resolvers",
-                            "links": [
-                                {
-                                    "name": "Free DNS Resolvers",
-                                    "url": "https://fmhy.net/storage/#free-dns-resolvers"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pi-Hole - Self-Hosted DNS Adblocking / / /",
-                            "links": [
-                                {
-                                    "name": "Pi-Hole",
-                                    "url": "https://pi-hole.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/The_Pi_Hole"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/pihole/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/pi-hole"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pi-Hole Tools - Filters , 2 / Tray App / Android Server (root)",
-                            "links": [
-                                {
-                                    "name": "Filters",
-                                    "url": "https://firebog.net/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://github.com/zachlagden/Pi-hole-Optimized-Blocklists"
-                                },
-                                {
-                                    "name": "Tray App",
-                                    "url": "https://github.com/PinchToDebug/Pihole-Tray/"
-                                },
-                                {
-                                    "name": "Android Server",
-                                    "url": "https://github.com/DesktopECHO/Pi-hole-for-Android"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AdGuard Home - Self-Hosted DNS Adblocking / Balena-AdGuard / / / /",
-                            "links": [
-                                {
-                                    "name": "AdGuard Home",
-                                    "url": "https://adguard.com/en/adguard-home/overview.html"
-                                },
-                                {
-                                    "name": "Balena-AdGuard",
-                                    "url": "https://github.com/klutchell/balena-adguard"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/adguard"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/Adguard"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/adguarden"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/AdguardTeam/AdGuardHome"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DNS Speed Test / or DNS Perf - DNS Speed Tests",
-                            "links": [
-                                {
-                                    "name": "DNS Speed Test",
-                                    "url": "https://dnsspeedtest.online/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/BrainicHQ/DoHSpeedTest"
-                                },
-                                {
-                                    "name": "DNS Perf",
-                                    "url": "https://dnsperf.com/dns-speed-benchmark"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tiarap - DNS Adblocking /",
-                            "links": [
-                                {
-                                    "name": "Tiarap",
-                                    "url": "https://doh.tiar.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/pengelana/blocklist"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rethink DNS - DNS Adblocking / /",
-                            "links": [
-                                {
-                                    "name": "Rethink DNS",
-                                    "url": "https://rethinkdns.com/configure"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/rethinkdns/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/rethinkdns"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Blocky - DNS Adblocking /",
-                            "links": [
-                                {
-                                    "name": "Blocky",
-                                    "url": "https://0xerr0r.github.io/blocky/latest/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/0xERR0R/blocky"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AdGuard DNS - Customizable DNS Adblocking Service / / /",
-                            "links": [
-                                {
-                                    "name": "AdGuard DNS",
-                                    "url": "https://adguard-dns.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/adguard"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/Adguard"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/adguarden"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Control D - Customizable DNS Adblocking Service / / /",
-                            "links": [
-                                {
-                                    "name": "Control D",
-                                    "url": "https://controld.com/free-dns"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/controldns"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/ControlD/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/dns"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LibreDNS - DNS Adblocking /",
-                            "links": [
-                                {
-                                    "name": "LibreDNS",
-                                    "url": "https://libredns.gr/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://gitlab.com/libreops/libredns"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NextDNS - Customizable DNS Adblocking Service / Guide /",
-                            "links": [
-                                {
-                                    "name": "NextDNS",
-                                    "url": "https://nextdns.io"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://github.com/yokoffing/NextDNS-Config"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/nextdns/nextdns"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NxFilter - Self-Hosted Customizable DNS Adblocking /",
-                            "links": [
-                                {
-                                    "name": "NxFilter",
-                                    "url": "https://nxfilter.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/nxfilter"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TBlock - DNS Adblocking Client /",
-                            "links": [
-                                {
-                                    "name": "TBlock",
-                                    "url": "https://tblock.me/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://codeberg.org/tblock/tblock"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "YogaDNS - Custom DNS Client for Windows",
-                            "links": [
-                                {
-                                    "name": "YogaDNS",
-                                    "url": "https://yogadns.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Diversion - Asuswrt-Merlin Router Adblock Manager",
-                            "links": [
-                                {
-                                    "name": "Diversion",
-                                    "url": "https://diversion.ch/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Technitium - Self-Hosted DNS Server / /",
-                            "links": [
-                                {
-                                    "name": "Technitium",
-                                    "url": "https://technitium.com/dns"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/technitium/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/TechnitiumSoftware/DnsServer"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "DNS Filters",
-                    "level": "h3",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "HaGeZi Blocklists , 2 / Host Format - Multi-Source Domain Blocklist / Use Full Edition /",
+                            "full_text": "HaGeZi Blocklists , 2 / Host Format - Multi-Source Domain Blocklist / Use Full Edition for DNS Servers / Mini Edition for Browser Adblockers /",
                             "links": [
                                 {
                                     "name": "HaGeZi Blocklists",
@@ -1556,90 +1209,414 @@
                             ]
                         },
                         {
-                            "full_text": "hBlock",
+                            "full_text": "Rethink DNS - DNS Adblocker / Mix Multiple Blocklists / /",
                             "links": [
                                 {
-                                    "name": "hBlock",
-                                    "url": "https://github.com/hectorm/hblock"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "StevenBlack Hosts",
-                            "links": [
-                                {
-                                    "name": "StevenBlack Hosts",
-                                    "url": "https://github.com/StevenBlack/hosts"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Spamhaus /",
-                            "links": [
-                                {
-                                    "name": "Spamhaus",
-                                    "url": "https://www.spamhaus.org/blocklists/"
+                                    "name": "Rethink DNS",
+                                    "url": "https://rethinkdns.com/configure"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://x.com/spamhaus"
+                                    "url": "https://www.reddit.com/r/rethinkdns/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/rethinkdns"
                                 }
                             ]
                         },
                         {
-                            "full_text": "black-mirror",
+                            "full_text": "FMHY Filterlist - Unsafe Sites Filter",
                             "links": [
+                                {
+                                    "name": "FMHY Filterlist",
+                                    "url": "https://github.com/fmhy/FMHYFilterlist"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AI uBlock Blacklist - Blocks AI Generated Sites",
+                            "links": [
+                                {
+                                    "name": "AI uBlock Blacklist",
+                                    "url": "https://github.com/alvi-se/ai-ublock-blacklist"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "neodevhost , StevenBlack Hosts or black-mirror - Blocklists & Aggregated Feeds",
+                            "links": [
+                                {
+                                    "name": "neodevhost",
+                                    "url": "https://github.com/neodevpro/neodevhost"
+                                },
+                                {
+                                    "name": "StevenBlack Hosts",
+                                    "url": "https://github.com/StevenBlack/hosts"
+                                },
                                 {
                                     "name": "black-mirror",
                                     "url": "https://github.com/T145/black-mirror"
                                 }
                             ]
-                        },
+                        }
+                    ]
+                },
+                {
+                    "heading": "DNS Adblocking",
+                    "level": "h3",
+                    "text_explanations": [
+                        "TIP",
+                        "If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or anti-adblock."
+                    ],
+                    "resource_items": [
                         {
-                            "full_text": "Scam Blocklist",
+                            "full_text": "️ DNS Tools - Lookup, Propagation & Benchmarking",
                             "links": [
                                 {
-                                    "name": "Scam Blocklist",
-                                    "url": "https://github.com/durablenapkin/scamblocklist"
+                                    "name": "DNS Tools",
+                                    "url": "https://fmhy.net/developer-tools/#dns-tools"
                                 }
                             ]
                         },
                         {
-                            "full_text": "neodevhost",
+                            "full_text": "Pi-Hole - Self-Hosted DNS Adblocking / / / /",
                             "links": [
                                 {
-                                    "name": "neodevhost",
-                                    "url": "https://github.com/neodevpro/neodevhost"
+                                    "name": "Pi-Hole",
+                                    "url": "https://pi-hole.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/The_Pi_Hole"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/pihole/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/pi-hole"
                                 }
                             ]
                         },
                         {
-                            "full_text": "1Hosts / 2 /",
+                            "full_text": "Pi-Hole Tools - Filters , 2 / Tray App / Android Server (root) /",
                             "links": [
                                 {
-                                    "name": "1Hosts",
-                                    "url": "https://o0.pages.dev/"
+                                    "name": "Filters",
+                                    "url": "https://firebog.net/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://badmojr.github.io/1Hosts/"
+                                    "url": "https://github.com/zachlagden/Pi-hole-Optimized-Blocklists"
                                 },
                                 {
-                                    "name": "",
-                                    "url": "https://github.com/badmojr/1Hosts"
+                                    "name": "Tray App",
+                                    "url": "https://github.com/PinchToDebug/Pihole-Tray/"
+                                },
+                                {
+                                    "name": "Android Server",
+                                    "url": "https://github.com/DesktopECHO/Pi-hole-for-Android"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Phishing Army - DNS Phishing Blocklist /",
+                            "full_text": "AdGuard Home - Self-Hosted DNS Adblocking / / / / /",
                             "links": [
                                 {
-                                    "name": "Phishing Army",
-                                    "url": "https://phishing.army/"
+                                    "name": "AdGuard Home",
+                                    "url": "https://adguard.com/en/adguard-home/overview.html"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://x.com/PhishingArmy"
+                                    "url": "https://x.com/adguard"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/Adguard"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/adguarden"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/AdguardTeam/AdGuardHome"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNSveil - DNSCrypt, DoH & DoT Client / /",
+                            "links": [
+                                {
+                                    "name": "DNSveil",
+                                    "url": "https://msasanmh.github.io/DNSveil/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/msasanmh/DNSveil"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNSTT.XYZ - DNS Tunnel Client / / /",
+                            "links": [
+                                {
+                                    "name": "DNSTT.XYZ",
+                                    "url": "https://dnstt.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/dnstt_xyz"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/dnstt-xyz/dnstt_xyz_app"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Blocky - DNS Adblocking / /",
+                            "links": [
+                                {
+                                    "name": "Blocky",
+                                    "url": "https://0xerr0r.github.io/blocky/latest/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/0xERR0R/blocky"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Technitium - Self-Hosted DNS Server / / /",
+                            "links": [
+                                {
+                                    "name": "Technitium",
+                                    "url": "https://technitium.com/dns"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/technitium/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/TechnitiumSoftware/DnsServer"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Unbound - Self-Hosted, Validating, Recursive, Caching Resolver /",
+                            "links": [
+                                {
+                                    "name": "Unbound",
+                                    "url": "https://www.nlnetlabs.nl/projects/unbound/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/NLnetLabs/unbound"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AdGuard DNS - Customizable DNS Adblocking Service / Public DNS / / / /",
+                            "links": [
+                                {
+                                    "name": "AdGuard DNS",
+                                    "url": "https://adguard-dns.io/"
+                                },
+                                {
+                                    "name": "Public DNS",
+                                    "url": "https://adguard-dns.io/en/public-dns.html"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/adguard"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/Adguard"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/adguarden"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/AdguardTeam/AdguardSDNSFilter"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Control D - Customizable DNS Adblocking Service / / /",
+                            "links": [
+                                {
+                                    "name": "Control D",
+                                    "url": "https://controld.com/free-dns"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/controldns"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/ControlD/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/dns"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "NextDNS - Customizable DNS Adblocking Service / Provider Info / Guide /",
+                            "links": [
+                                {
+                                    "name": "NextDNS",
+                                    "url": "https://nextdns.io"
+                                },
+                                {
+                                    "name": "Provider Info",
+                                    "url": "https://adguard-dns.io/kb/general/dns-providers/#nextdns"
+                                },
+                                {
+                                    "name": "Guide",
+                                    "url": "https://github.com/yokoffing/NextDNS-Config"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/nextdns/nextdns"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "DNS Providers",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "DNS Providers - DNS Provider Index",
+                            "links": [
+                                {
+                                    "name": "DNS Providers",
+                                    "url": "https://adguard-dns.io/kb/general/dns-providers/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Public DNS indexes / 2 / 3 / 4",
+                            "links": [
+                                {
+                                    "name": "Public DNS indexes",
+                                    "url": "https://www.publicdns.xyz/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://acavalin.com/p/free_dns"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://publicdnsserver.com/"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://public-dns.info/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cloudflare 1.1.1.1 / DNS",
+                            "links": [
+                                {
+                                    "name": "Cloudflare 1.1.1.1",
+                                    "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/"
+                                },
+                                {
+                                    "name": "DNS",
+                                    "url": "https://www.cloudflare.com/products/dns/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Quad9 - Malware, Phishing, Spyware & Botnet DNS Protection /",
+                            "links": [
+                                {
+                                    "name": "Quad9",
+                                    "url": "https://quad9.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/quad9dns"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Artemis - Piracy Site DNS Resolver /",
+                            "links": [
+                                {
+                                    "name": "Artemis",
+                                    "url": "https://dns.fuzzing.uk/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/PUT-Request/Artemis/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNSBunker - Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking",
+                            "links": [
+                                {
+                                    "name": "DNSBunker",
+                                    "url": "https://dnsbunker.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HaGeZi DNS - Free, Non-Commercial EU DNS Servers",
+                            "links": [
+                                {
+                                    "name": "HaGeZi DNS",
+                                    "url": "https://github.com/hagezi/dns-servers"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNS for Family - Family Filtering with Safe Search & Malware Protection",
+                            "links": [
+                                {
+                                    "name": "DNS for Family",
+                                    "url": "https://dnsforfamily.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNS Forge - German DNS Servers with Four Filtering Levels",
+                            "links": [
+                                {
+                                    "name": "DNS Forge",
+                                    "url": "https://dnsforge.de/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LibreDNS - DNS Adblocking",
+                            "links": [
+                                {
+                                    "name": "LibreDNS",
+                                    "url": "https://libredns.gr/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "dns.sb - Free, Fast & No-Log Public DNS Resolver",
+                            "links": [
+                                {
+                                    "name": "dns.sb",
+                                    "url": "https://dns.sb/"
                                 }
                             ]
                         }
@@ -5644,19 +5621,6 @@
                             ]
                         },
                         {
-                            "full_text": "DNSveil - DNS Client /",
-                            "links": [
-                                {
-                                    "name": "DNSveil",
-                                    "url": "https://msasanmh.github.io/DNSveil/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/msasanmh/DNSveil"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Geph - Anti-Censorship Proxy /",
                             "links": [
                                 {
@@ -5670,55 +5634,6 @@
                             ]
                         },
                         {
-                            "full_text": "DNSTT.XYZ / / , ⁠HTTP Injector , ⁠HTTP Custom , ⁠NetMod VPN , SlipNet / Troubleshooting / , ⁠WhiteDNS or DarkTunnel - Mobile DNS Tunnels / Censorship Bypass",
-                            "links": [
-                                {
-                                    "name": "DNSTT.XYZ",
-                                    "url": "https://dnstt.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/dnstt_xyz"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/dnstt-xyz/dnstt_xyz_app"
-                                },
-                                {
-                                    "name": "⁠HTTP Injector",
-                                    "url": "https://play.google.com/store/apps/details?id=com.evozi.injector"
-                                },
-                                {
-                                    "name": "⁠HTTP Custom",
-                                    "url": "https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom"
-                                },
-                                {
-                                    "name": "⁠NetMod VPN",
-                                    "url": "https://play.google.com/store/apps/details?id=com.netmod.syna"
-                                },
-                                {
-                                    "name": "SlipNet",
-                                    "url": "https://github.com/anonvector/SlipNet"
-                                },
-                                {
-                                    "name": "Troubleshooting",
-                                    "url": "https://t.me/SlipNet_app"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/slipnet_chat"
-                                },
-                                {
-                                    "name": "⁠WhiteDNS",
-                                    "url": "https://github.com/iampedii/WhiteDNS"
-                                },
-                                {
-                                    "name": "DarkTunnel",
-                                    "url": "https://play.google.com/store/apps/details?id=net.darktunnel.app"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠FilterWatch - Censorship News / Articles",
                             "links": [
                                 {
@@ -5728,15 +5643,11 @@
                             ]
                         },
                         {
-                            "full_text": "ByeByeDPI , Rethink DNS , ⁠Paqet , PowerTunnel or Green Tunnel - Network Packet Alter / Packet Level Proxies",
+                            "full_text": "ByeByeDPI , ⁠Paqet , PowerTunnel or Green Tunnel - Network Packet Alter / Packet Level Proxies",
                             "links": [
                                 {
                                     "name": "ByeByeDPI",
                                     "url": "https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md"
-                                },
-                                {
-                                    "name": "Rethink DNS",
-                                    "url": "https://rethinkdns.com/app"
                                 },
                                 {
                                     "name": "⁠Paqet",
@@ -9661,19 +9572,6 @@
                                     "url": "https://github.com/aaif-goose/goose"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Paseo - Multi-Agent Coding Environment / All Platforms /",
-                            "links": [
-                                {
-                                    "name": "Paseo",
-                                    "url": "https://paseo.sh/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/getpaseo/paseo"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -10587,7 +10485,7 @@
                             ]
                         },
                         {
-                            "full_text": "7Movies , 2 - Movies / TV / Anime / Auto-Next / /",
+                            "full_text": "7Movies , 2 - Movies / TV / Anime / 4k / Auto-Next / /",
                             "links": [
                                 {
                                     "name": "7Movies",
@@ -11016,6 +10914,19 @@
                             ]
                         },
                         {
+                            "full_text": "Cinema (BZ) - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinema (BZ)",
+                                    "url": "https://cinema.army/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/cinemabz"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Zenox - Movies / TV / Anime / Auto-Next / 4K /",
                             "links": [
                                 {
@@ -11085,19 +10996,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/Dxq6bFv4FP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinema (BZ) - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinema (BZ)",
-                                    "url": "https://cinema.army/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/cinemabz"
                                 }
                             ]
                         },
@@ -11656,19 +11554,6 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Cno / Beta - Movies / TV / Anime / Auto-Next / 4K",
-                            "links": [
-                                {
-                                    "name": "Cno",
-                                    "url": "https://cno.to/"
-                                },
-                                {
-                                    "name": "Beta",
-                                    "url": "https://beta.cno.to/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "NEPU , 2 , 3 , 4 - Movies / TV / Anime / Auto-Next / 4K / Status /",
                             "links": [
                                 {
@@ -11694,6 +11579,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nepu"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cno / Beta - Movies / TV / Anime / Auto-Next / 4K",
+                            "links": [
+                                {
+                                    "name": "Cno",
+                                    "url": "https://cno.to/"
+                                },
+                                {
+                                    "name": "Beta",
+                                    "url": "https://beta.cno.to/"
                                 }
                             ]
                         },
@@ -14057,7 +13955,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠AniXo - Sub / Dub",
+                            "full_text": "⁠AniXo - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "⁠AniXo",
@@ -14186,7 +14084,7 @@
                             ]
                         },
                         {
-                            "full_text": "Zanix - Sub / Dub",
+                            "full_text": "Zanix - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "Zanix",
@@ -14295,23 +14193,6 @@
                             ]
                         },
                         {
-                            "full_text": "LuffyTV , 2 - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "LuffyTV",
-                                    "url": "https://luffytv.live/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://luffytv.online/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/SdFB3HxDH5"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠AniChan - Sub / Dub",
                             "links": [
                                 {
@@ -14321,7 +14202,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠AnimoTVSlash - Sub / Dub",
+                            "full_text": "⁠AnimoTVSlash - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "⁠AnimoTVSlash",
@@ -14352,7 +14233,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠YumeZone - Sub / Dub / Auto-Next /",
+                            "full_text": "⁠YumeZone - Hard Subs / Soft Subs / Dub / Auto-Next /",
                             "links": [
                                 {
                                     "name": "⁠YumeZone",
@@ -14404,7 +14285,7 @@
                             ]
                         },
                         {
-                            "full_text": "AnimeDex - Sub / Dub",
+                            "full_text": "AnimeDex - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "AnimeDex",
@@ -14422,7 +14303,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠anv - Sub / Dub",
+                            "full_text": "⁠anv - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "⁠anv",
@@ -14431,7 +14312,7 @@
                             ]
                         },
                         {
-                            "full_text": "Tsukuyomi - Sub / Dub /",
+                            "full_text": "Tsukuyomi - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
                                     "name": "Tsukuyomi",
@@ -14444,7 +14325,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Kyren - Sub / Dub",
+                            "full_text": "⁠Kyren - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "⁠Kyren",
@@ -14471,7 +14352,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠WatchAnimeX - Sub / Dub",
+                            "full_text": "⁠WatchAnimeX - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "⁠WatchAnimeX",
@@ -14580,7 +14461,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Zenbu - Sub / Dub",
+                            "full_text": "⁠Zenbu - Sub / Dub / Auto-Next",
                             "links": [
                                 {
                                     "name": "⁠Zenbu",
@@ -14603,15 +14484,6 @@
                                 {
                                     "name": "⁠9anime",
                                     "url": "https://9animstv.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MultiAnime - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "MultiAnime",
-                                    "url": "https://multinime.site/"
                                 }
                             ]
                         },
@@ -18610,14 +18482,14 @@
                             ]
                         },
                         {
-                            "full_text": "111477 - Movies / TV / Anime / Directory / 4K / HEVC / Features / Cover-Art /",
+                            "full_text": "111477 - Movies / TV / Anime / Directory / 4K / HEVC / Features / Posters /",
                             "links": [
                                 {
                                     "name": "111477",
                                     "url": "https://rentry.co/FMHYB64#directory-111477"
                                 },
                                 {
-                                    "name": "Features / Cover-Art",
+                                    "name": "Features / Posters",
                                     "url": "https://greasyfork.org/scripts/603382"
                                 },
                                 {
@@ -23187,7 +23059,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://monochrome.samidy.com/discord"
+                                    "url": "https://monochrome.st/discord"
                                 },
                                 {
                                     "name": "",
@@ -23468,15 +23340,11 @@
                             ]
                         },
                         {
-                            "full_text": "LostMyspace or Mydora - Lost Myspace Songs",
+                            "full_text": "LostMyspace - Lost Myspace Songs",
                             "links": [
                                 {
                                     "name": "LostMyspace",
                                     "url": "http://lostmyspace.com/"
-                                },
-                                {
-                                    "name": "Mydora",
-                                    "url": "https://mydora.restorativland.org/"
                                 }
                             ]
                         },
@@ -24454,7 +24322,7 @@
                             "links": [
                                 {
                                     "name": "Grover",
-                                    "url": "https://www.microsoft.com/store/"
+                                    "url": "https://apps.microsoft.com/detail/9nblggh6c4bc"
                                 },
                                 {
                                     "name": "gPodder",
@@ -24688,7 +24556,7 @@
                             ]
                         },
                         {
-                            "full_text": "Relaxing Sounds , Calmsound , Click Relax , Zen Sounds or NoisyLoop - Ambient Soundscapes",
+                            "full_text": "Relaxing Sounds , Calmsound , Click Relax or NoisyLoop - Ambient Soundscapes",
                             "links": [
                                 {
                                     "name": "Relaxing Sounds",
@@ -24701,10 +24569,6 @@
                                 {
                                     "name": "Click Relax",
                                     "url": "https://click-relax.com/"
-                                },
-                                {
-                                    "name": "Zen Sounds",
-                                    "url": "https://app.zenflowchart.com/zen-sounds"
                                 },
                                 {
                                     "name": "NoisyLoop",
@@ -25410,7 +25274,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , ⁠TuneJourney , GlobeRadio or ⁠RadioCast - Globe-Style World Radio",
+                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , ⁠TuneJourney or ⁠RadioCast - Globe-Style World Radio",
                             "links": [
                                 {
                                     "name": "Radio Garden",
@@ -25431,10 +25295,6 @@
                                 {
                                     "name": "⁠TuneJourney",
                                     "url": "https://tunejourney.com/"
-                                },
-                                {
-                                    "name": "GlobeRadio",
-                                    "url": "https://globeradio.app/"
                                 },
                                 {
                                     "name": "⁠RadioCast",
@@ -29366,15 +29226,11 @@
                             ]
                         },
                         {
-                            "full_text": "AlbumOfTheYear - Critic & User Ratings / Album Charts / Unofficial API",
+                            "full_text": "AlbumOfTheYear - Critic & User Ratings / Album Charts",
                             "links": [
                                 {
                                     "name": "AlbumOfTheYear",
                                     "url": "https://www.albumoftheyear.org/"
-                                },
-                                {
-                                    "name": "Unofficial API",
-                                    "url": "https://aoty.prigoana.pw/"
                                 }
                             ]
                         },
@@ -49115,24 +48971,6 @@
                             ]
                         },
                         {
-                            "full_text": "️ Manga Readers / Managers",
-                            "links": [
-                                {
-                                    "name": "Manga Readers / Managers",
-                                    "url": "https://fmhy.net/storage/#manga-readers"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ Manga Downloaders",
-                            "links": [
-                                {
-                                    "name": "Manga Downloaders",
-                                    "url": "https://fmhy.net/storage/#manga-downloaders"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Kagane /",
                             "links": [
                                 {
@@ -49327,6 +49165,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠YumeZone - Multi-Site Manga Aggregator",
+                            "links": [
+                                {
+                                    "name": "⁠YumeZone",
+                                    "url": "https://yumezone.live/manga/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cubari Proxy - Multi-Site Manga Aggregator /",
                             "links": [
                                 {
@@ -49501,15 +49348,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠YumeZone",
-                            "links": [
-                                {
-                                    "name": "⁠YumeZone",
-                                    "url": "https://yumezone.live/manga/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Mgread",
                             "links": [
                                 {
@@ -49666,9 +49504,99 @@
                                     "url": "https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0"
                                 }
                             ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Manga Readers / Tools",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "️ Android Readers / iOS Readers",
+                            "links": [
+                                {
+                                    "name": "Android Readers",
+                                    "url": "https://fmhy.net/mobile/#android-manga"
+                                },
+                                {
+                                    "name": "iOS Readers",
+                                    "url": "https://fmhy.net/mobile/#ios-reading"
+                                }
+                            ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Manga App / / /",
+                            "full_text": "Suwayomi - Manga Reader / Extensions , 2 / Desktop",
+                            "links": [
+                                {
+                                    "name": "Suwayomi",
+                                    "url": "https://github.com/Suwayomi"
+                                },
+                                {
+                                    "name": "Extensions",
+                                    "url": "https://keiyoushi.github.io/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://discord.gg/3FbCpdKbdY"
+                                },
+                                {
+                                    "name": "Desktop",
+                                    "url": "https://github.com/Suwayomi/Suwayomi-Server"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AllMangasReader - Manga Reader",
+                            "links": [
+                                {
+                                    "name": "AllMangasReader",
+                                    "url": "https://allmangasreader.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Houdoku - Manga Reader /",
+                            "links": [
+                                {
+                                    "name": "Houdoku",
+                                    "url": "https://houdoku.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/xgi/houdoku"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Adolla - Manga Reader",
+                            "links": [
+                                {
+                                    "name": "Adolla",
+                                    "url": "https://github.com/AdollaApp/Adolla"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenComic - Manga Reader",
+                            "links": [
+                                {
+                                    "name": "OpenComic",
+                                    "url": "https://github.com/ollm/OpenComic"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Manga-Organizer - Manga Reader",
+                            "links": [
+                                {
+                                    "name": "Manga-Organizer",
+                                    "url": "https://gitgud.io/Nagru/Manga-Organizer"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PlayTorrio , 2 - Manga Reader / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -49689,24 +49617,63 @@
                             ]
                         },
                         {
-                            "full_text": "Seanime - Self-Hosted Manga App /",
+                            "full_text": "MangaOnlineViewer - Manga Reader",
                             "links": [
                                 {
-                                    "name": "Seanime",
-                                    "url": "https://seanime.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/3AuhRGqUqh"
+                                    "name": "MangaOnlineViewer",
+                                    "url": "https://github.com/TagoDR/MangaOnlineViewer"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Webcomic Reader - Preloads Images, Remembers Progress and Keyboard Support",
+                            "full_text": "LANraragi - Manga Reader",
                             "links": [
                                 {
-                                    "name": "Webcomic Reader",
-                                    "url": "https://openuserjs.org/scripts/anka-213/Webcomic_Reader"
+                                    "name": "LANraragi",
+                                    "url": "https://github.com/Difegue/LANraragi"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Unyo - Manga Reader",
+                            "links": [
+                                {
+                                    "name": "Unyo",
+                                    "url": "https://github.com/K3vinb5/Unyo"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Manga-Manager - Manga Manager",
+                            "links": [
+                                {
+                                    "name": "Manga-Manager",
+                                    "url": "https://github.com/MangaManagerORG/Manga-Manager"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Comics Downloader , work_crawler , HDoujinDownloader , FMD2 or anime-dl - Manga Download Tools",
+                            "links": [
+                                {
+                                    "name": "Comics Downloader",
+                                    "url": "https://github.com/Girbons/comics-downloader"
+                                },
+                                {
+                                    "name": "work_crawler",
+                                    "url": "https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md"
+                                },
+                                {
+                                    "name": "HDoujinDownloader",
+                                    "url": "https://github.com/HDoujinDownloader/HDoujinDownloader"
+                                },
+                                {
+                                    "name": "FMD2",
+                                    "url": "https://github.com/dazedcat19/FMD2"
+                                },
+                                {
+                                    "name": "anime-dl",
+                                    "url": "https://github.com/vrienstudios/anime-dl"
                                 }
                             ]
                         },
@@ -49736,11 +49703,44 @@
                             ]
                         },
                         {
-                            "full_text": "Manga-Manager - Manga Managers",
+                            "full_text": "Seanime / , KavitaReader , Komga / / or atsumeru - Self-Hosted Manga Readers",
                             "links": [
                                 {
-                                    "name": "Manga-Manager",
-                                    "url": "https://github.com/MangaManagerORG/Manga-Manager"
+                                    "name": "Seanime",
+                                    "url": "https://seanime.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/3AuhRGqUqh"
+                                },
+                                {
+                                    "name": "KavitaReader",
+                                    "url": "https://www.kavitareader.com/"
+                                },
+                                {
+                                    "name": "Komga",
+                                    "url": "https://komga.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/gotson/komga"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/TdRpkDu"
+                                },
+                                {
+                                    "name": "atsumeru",
+                                    "url": "https://atsumeru.xyz/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Webcomic Reader - Preloads Images, Remembers Progress and Keyboard Support",
+                            "links": [
+                                {
+                                    "name": "Webcomic Reader",
+                                    "url": "https://openuserjs.org/scripts/anka-213/Webcomic_Reader"
                                 }
                             ]
                         }
@@ -81428,6 +81428,15 @@
                             ]
                         },
                         {
+                            "full_text": "FMHY Android - FMHY Android App",
+                            "links": [
+                                {
+                                    "name": "FMHY Android",
+                                    "url": "https://github.com/omeg4-dev/fmhy-android"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Catima - Loyalty Card Managers",
                             "links": [
                                 {
@@ -81947,6 +81956,43 @@
                                 {
                                     "name": "PrivateDNSAndroid",
                                     "url": "https://github.com/karasevm/PrivateDNSAndroid"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠HTTP Injector , ⁠HTTP Custom , ⁠NetMod VPN , SlipNet / Troubleshooting / , ⁠WhiteDNS or DarkTunnel - Mobile DNS Tunnels / Censorship Bypass",
+                            "links": [
+                                {
+                                    "name": "⁠HTTP Injector",
+                                    "url": "https://play.google.com/store/apps/details?id=com.evozi.injector"
+                                },
+                                {
+                                    "name": "⁠HTTP Custom",
+                                    "url": "https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom"
+                                },
+                                {
+                                    "name": "⁠NetMod VPN",
+                                    "url": "https://play.google.com/store/apps/details?id=com.netmod.syna"
+                                },
+                                {
+                                    "name": "SlipNet",
+                                    "url": "https://github.com/anonvector/SlipNet"
+                                },
+                                {
+                                    "name": "Troubleshooting",
+                                    "url": "https://t.me/SlipNet_app"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/slipnet_chat"
+                                },
+                                {
+                                    "name": "⁠WhiteDNS",
+                                    "url": "https://github.com/iampedii/WhiteDNS"
+                                },
+                                {
+                                    "name": "DarkTunnel",
+                                    "url": "https://play.google.com/store/apps/details?id=net.darktunnel.app"
                                 }
                             ]
                         }
@@ -104539,6 +104585,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠FlixVison - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "⁠FlixVison",
+                                    "url": "https://flixvision.xyz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "yablom - Movies / TV / Anime",
                             "links": [
                                 {
@@ -104548,11 +104603,15 @@
                             ]
                         },
                         {
-                            "full_text": "French Stream - Movies / TV / Anime / Status",
+                            "full_text": "French Stream , 2 - Movies / TV / Anime / Status",
                             "links": [
                                 {
                                     "name": "French Stream",
                                     "url": "https://fs27.lol/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://fsurl.top/"
                                 },
                                 {
                                     "name": "Status",
@@ -104587,20 +104646,20 @@
                             ]
                         },
                         {
-                            "full_text": "dulourd - Movies / TV",
-                            "links": [
-                                {
-                                    "name": "dulourd",
-                                    "url": "https://www.dulourd.boo/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "frembed - Movies / TV / Anime / Dub",
                             "links": [
                                 {
                                     "name": "frembed",
-                                    "url": "https://frembed.surf/"
+                                    "url": "https://frembed.uno/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Bowd - Movies / TV / Live TV",
+                            "links": [
+                                {
+                                    "name": "⁠Bowd",
+                                    "url": "https://bowdtv.com/"
                                 }
                             ]
                         },
@@ -104664,15 +104723,6 @@
                                 {
                                     "name": "myfluneo",
                                     "url": "https://myfluneo.eu/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠FlixVison - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "⁠FlixVison",
-                                    "url": "https://flixvision.xyz/"
                                 }
                             ]
                         },
@@ -106927,23 +106977,6 @@
                                 {
                                     "name": "IndianCine",
                                     "url": "https://indiancine.ma/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LuffyTV , 2 - Anime /",
-                            "links": [
-                                {
-                                    "name": "LuffyTV",
-                                    "url": "https://luffytv.live/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://luffytv.online/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/SdFB3HxDH5"
                                 }
                             ]
                         },
@@ -116021,6 +116054,15 @@
                                 {
                                     "name": "Wispy Docs",
                                     "url": "https://wispydocs.pages.dev/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FMHY Android - FMHY Android App",
+                            "links": [
+                                {
+                                    "name": "FMHY Android",
+                                    "url": "https://github.com/omeg4-dev/fmhy-android"
                                 }
                             ]
                         },
@@ -149338,15 +149380,6 @@
                             ]
                         },
                         {
-                            "full_text": "️ Tab Managers",
-                            "links": [
-                                {
-                                    "name": "Tab Managers",
-                                    "url": "https://fmhy.net/storage/#tab-managers"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Stylus - Custom Website Color Schemes /",
                             "links": [
                                 {
@@ -149554,6 +149587,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/FoxRefire/ChromeXPIPorter"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OneTab or One Tab Group - Tab Managers",
+                            "links": [
+                                {
+                                    "name": "⁠OneTab",
+                                    "url": "https://www.one-tab.com/"
+                                },
+                                {
+                                    "name": "One Tab Group",
+                                    "url": "https://www.tabdeck.so/"
                                 }
                             ]
                         },
@@ -150176,6 +150222,27 @@
                                 {
                                     "name": "FoxyTab",
                                     "url": "https://addons.mozilla.org/en-US/firefox/addon/foxytab/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Sidebery , TreeStyleTabs , Tab Stash or Simple Tab Groups - Tab Managers",
+                            "links": [
+                                {
+                                    "name": "Sidebery",
+                                    "url": "https://github.com/mbnuqw/sidebery"
+                                },
+                                {
+                                    "name": "TreeStyleTabs",
+                                    "url": "https://github.com/piroor/treestyletab"
+                                },
+                                {
+                                    "name": "Tab Stash",
+                                    "url": "https://josh-berry.github.io/tab-stash/"
+                                },
+                                {
+                                    "name": "Simple Tab Groups",
+                                    "url": "https://github.com/drive4ik/simple-tab-groups"
                                 }
                             ]
                         },
@@ -157030,7 +157097,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nitter , 2 , 3 / Redirector / Instances / 2 / , ⁠Twitee , ⁠sotwe , twstalker or ⁠Twitter Viewer - X.com Frontends / Viewers",
+                            "full_text": "Nitter , 2 , 3 / Redirector / Instances / 2 / , ⁠Twitee , ⁠sotwe , twstalker , Twitter Viewer or x⁠TwitterViewer - X.com Frontends / Viewers",
                             "links": [
                                 {
                                     "name": "Nitter",
@@ -157073,7 +157140,11 @@
                                     "url": "https://twstalker.com/"
                                 },
                                 {
-                                    "name": "⁠Twitter Viewer",
+                                    "name": "Twitter Viewer",
+                                    "url": "https://twitterviewer.net/"
+                                },
+                                {
+                                    "name": "x⁠TwitterViewer",
                                     "url": "https://xtwitterviewer.com/"
                                 }
                             ]
@@ -191842,7 +191913,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://monochrome.samidy.com/discord"
+                                    "url": "https://monochrome.st/discord"
                                 },
                                 {
                                     "name": "",
@@ -192123,15 +192194,11 @@
                             ]
                         },
                         {
-                            "full_text": "LostMyspace or Mydora - Lost Myspace Songs",
+                            "full_text": "LostMyspace - Lost Myspace Songs",
                             "links": [
                                 {
                                     "name": "LostMyspace",
                                     "url": "http://lostmyspace.com/"
-                                },
-                                {
-                                    "name": "Mydora",
-                                    "url": "https://mydora.restorativland.org/"
                                 }
                             ]
                         },
@@ -193109,7 +193176,7 @@
                             "links": [
                                 {
                                     "name": "Grover",
-                                    "url": "https://www.microsoft.com/store/"
+                                    "url": "https://apps.microsoft.com/detail/9nblggh6c4bc"
                                 },
                                 {
                                     "name": "gPodder",
@@ -193343,7 +193410,7 @@
                             ]
                         },
                         {
-                            "full_text": "Relaxing Sounds , Calmsound , Click Relax , Zen Sounds or NoisyLoop - Ambient Soundscapes",
+                            "full_text": "Relaxing Sounds , Calmsound , Click Relax or NoisyLoop - Ambient Soundscapes",
                             "links": [
                                 {
                                     "name": "Relaxing Sounds",
@@ -193356,10 +193423,6 @@
                                 {
                                     "name": "Click Relax",
                                     "url": "https://click-relax.com/"
-                                },
-                                {
-                                    "name": "Zen Sounds",
-                                    "url": "https://app.zenflowchart.com/zen-sounds"
                                 },
                                 {
                                     "name": "NoisyLoop",
@@ -194065,7 +194128,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , ⁠TuneJourney , GlobeRadio or ⁠RadioCast - Globe-Style World Radio",
+                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , ⁠TuneJourney or ⁠RadioCast - Globe-Style World Radio",
                             "links": [
                                 {
                                     "name": "Radio Garden",
@@ -194086,10 +194149,6 @@
                                 {
                                     "name": "⁠TuneJourney",
                                     "url": "https://tunejourney.com/"
-                                },
-                                {
-                                    "name": "GlobeRadio",
-                                    "url": "https://globeradio.app/"
                                 },
                                 {
                                     "name": "⁠RadioCast",
@@ -198021,15 +198080,11 @@
                             ]
                         },
                         {
-                            "full_text": "AlbumOfTheYear - Critic & User Ratings / Album Charts / Unofficial API",
+                            "full_text": "AlbumOfTheYear - Critic & User Ratings / Album Charts",
                             "links": [
                                 {
                                     "name": "AlbumOfTheYear",
                                     "url": "https://www.albumoftheyear.org/"
-                                },
-                                {
-                                    "name": "Unofficial API",
-                                    "url": "https://aoty.prigoana.pw/"
                                 }
                             ]
                         },
@@ -221476,15 +221531,6 @@
                             ]
                         },
                         {
-                            "full_text": "CyberArsenal - Cybersecurity Forums",
-                            "links": [
-                                {
-                                    "name": "CyberArsenal",
-                                    "url": "https://cyberarsenal.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠late.sh - Command-Line Style Clubhouse /",
                             "links": [
                                 {
@@ -226316,6 +226362,19 @@
                             ]
                         },
                         {
+                            "full_text": "Paseo - Multi-Agent Coding Environment / All Platforms /",
+                            "links": [
+                                {
+                                    "name": "Paseo",
+                                    "url": "https://paseo.sh/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/getpaseo/paseo"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OpenHands - Coding AI /",
                             "links": [
                                 {
@@ -230880,11 +230939,11 @@
                             ]
                         },
                         {
-                            "full_text": "️ Dynamic DNS Services / Subdomains",
+                            "full_text": "️ DNS Adblocking - DNS Providers & Adblocking",
                             "links": [
                                 {
-                                    "name": "Dynamic DNS Services / Subdomains",
-                                    "url": "https://fmhy.net/storage/#dynamic-dns-services-subdomains"
+                                    "name": "DNS Adblocking",
+                                    "url": "https://fmhy.net/privacy/#dns-adblocking"
                                 }
                             ]
                         },
@@ -231959,6 +232018,88 @@
                     ]
                 },
                 {
+                    "heading": "Dynamic DNS & Subdomains",
+                    "level": "h2",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "deSEC - Free Dynamic DNS with DNSSEC",
+                            "links": [
+                                {
+                                    "name": "deSEC",
+                                    "url": "https://desec.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DuckDNS , ClouDNS , FreeDNS / Warning , dynu , myaddr , nsupdate / - Dynamic DNS Providers",
+                            "links": [
+                                {
+                                    "name": "DuckDNS",
+                                    "url": "https://www.duckdns.org/"
+                                },
+                                {
+                                    "name": "ClouDNS",
+                                    "url": "https://www.cloudns.net/"
+                                },
+                                {
+                                    "name": "FreeDNS",
+                                    "url": "https://freedns.afraid.org/"
+                                },
+                                {
+                                    "name": "Warning",
+                                    "url": "https://freedns.afraid.org/queue/explanation.php"
+                                },
+                                {
+                                    "name": "dynu",
+                                    "url": "https://dynu.com/"
+                                },
+                                {
+                                    "name": "myaddr",
+                                    "url": "https://myaddr.tools/"
+                                },
+                                {
+                                    "name": "nsupdate",
+                                    "url": "https://www.nsupdate.info/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/nsupdate-info/nsupdate.info"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DigitalPlat / , is-a.dev , JS.ORG , TheDev , GetFreeDomain - Free Subdomain Services",
+                            "links": [
+                                {
+                                    "name": "DigitalPlat",
+                                    "url": "https://domain.digitalplat.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/DigitalPlatDev/FreeDomain"
+                                },
+                                {
+                                    "name": "is-a.dev",
+                                    "url": "https://www.is-a.dev/"
+                                },
+                                {
+                                    "name": "JS.ORG",
+                                    "url": "https://js.org/"
+                                },
+                                {
+                                    "name": "TheDev",
+                                    "url": "https://upset.dev/"
+                                },
+                                {
+                                    "name": "GetFreeDomain",
+                                    "url": "https://www.getfreedomain.name/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Cybersecurity Tools",
                     "level": "h2",
                     "text_explanations": [],
@@ -232536,11 +232677,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "️ Free DNS Resolvers",
+                            "full_text": "️ DNS Providers - Public & Privacy-Focused Providers",
                             "links": [
                                 {
-                                    "name": "Free DNS Resolvers",
-                                    "url": "https://fmhy.net/storage/#free-dns-resolvers"
+                                    "name": "DNS Providers",
+                                    "url": "https://fmhy.net/privacy/#dns-providers"
                                 }
                             ]
                         },
@@ -232575,11 +232716,28 @@
                             ]
                         },
                         {
-                            "full_text": "DNSPerf - DNS Provider Rankings",
+                            "full_text": "DNSPerf - DNS Provider Rankings / Speed Benchmark",
                             "links": [
                                 {
                                     "name": "DNSPerf",
                                     "url": "https://www.dnsperf.com/dns-providers-list/"
+                                },
+                                {
+                                    "name": "Speed Benchmark",
+                                    "url": "https://www.dnsperf.com/dns-speed-benchmark/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNS Speed Test / - DNS Speed Tests",
+                            "links": [
+                                {
+                                    "name": "DNS Speed Test",
+                                    "url": "https://dnsspeedtest.online/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/BrainicHQ/DoHSpeedTest"
                                 }
                             ]
                         },
@@ -233935,11 +234093,163 @@
                             ]
                         },
                         {
+                            "full_text": "hBlock - Blocklist Collection / GitHub · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L39"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Tiarap - DNS Adblocking / Blocklist · 6fab4d6",
+                            "links": [
+                                {
+                                    "name": "6fab4d6",
+                                    "url": "https://github.com/fmhy/edit/commit/6fab4d6a4be7373b69616ac7e68f62dfadf77437#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L57"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNS Perf - DNS Speed Tests · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L56"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "NxFilter - Self-Hosted Customizable DNS Adblocking / Subreddit · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L64"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TBlock - DNS Adblocking Client / Source Code · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L65"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "YogaDNS - Custom DNS Client for Windows · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L66"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Diversion - Asuswrt-Merlin Router Adblock Manager · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L67"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "NameBench - DNS Speed Tests · f290343",
                             "links": [
                                 {
                                     "name": "f290343",
                                     "url": "https://github.com/fmhy/edit/commit/f290343712c2d6af58546896eceb7e093b7c1c70#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L55"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "hBlock · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L76"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Spamhaus - / X · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L78"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Scam Blocklist · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L80"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "1Hosts - / 2 / GitHub · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L82"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Phishing Army - DNS Phishing Blocklist / X · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L83"
                                 }
                             ]
                         }
@@ -234597,6 +234907,22 @@
                                 {
                                     "name": "3a5011d",
                                     "url": "https://github.com/fmhy/edit/commit/3a5011d1ac9cc6a577e504984605ddcd40390b54#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL544"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Dev Communities",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "CyberArsenal - Cybersecurity Forums · 1e66cc9",
+                            "links": [
+                                {
+                                    "name": "1e66cc9",
+                                    "url": "https://github.com/fmhy/edit/commit/1e66cc9ddebc326008932a5d6fef4ee31b862f18#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL15"
                                 }
                             ]
                         }
@@ -235706,6 +236032,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "MultiAnime - Sub / Dub · 1e66cc9",
+                            "links": [
+                                {
+                                    "name": "1e66cc9",
+                                    "url": "https://github.com/fmhy/edit/commit/1e66cc9ddebc326008932a5d6fef4ee31b862f18#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL391"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠AniKuro - Sub / Dub / Status / Telegram / Discord · cec10ec",
                             "links": [
                                 {
@@ -235792,15 +236127,6 @@
                                 {
                                     "name": "e3d18d2",
                                     "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL415"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniDB (.app) - Sub / Dub · f1d34d6",
-                            "links": [
-                                {
-                                    "name": "f1d34d6",
-                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL380"
                                 }
                             ]
                         },
@@ -236449,6 +236775,15 @@
                             ]
                         },
                         {
+                            "full_text": "Mydora - Lost Myspace Songs · 1e66cc9",
+                            "links": [
+                                {
+                                    "name": "1e66cc9",
+                                    "url": "https://github.com/fmhy/edit/commit/1e66cc9ddebc326008932a5d6fef4ee31b862f18#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L59"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Volta - Browser Music · ac1c081",
                             "links": [
                                 {
@@ -236460,10 +236795,35 @@
                     ]
                 },
                 {
+                    "heading": "Radio Streaming",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "GlobeRadio - Globe-Style World Radio · 1e66cc9",
+                            "links": [
+                                {
+                                    "name": "1e66cc9",
+                                    "url": "https://github.com/fmhy/edit/commit/1e66cc9ddebc326008932a5d6fef4ee31b862f18#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L281"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Specialty Streaming",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "Zen Sounds - Ambient Soundscapes · 1e66cc9",
+                            "links": [
+                                {
+                                    "name": "1e66cc9",
+                                    "url": "https://github.com/fmhy/edit/commit/1e66cc9ddebc326008932a5d6fef4ee31b862f18#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L201"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "⁠Hearts of Space - Ambient Music Stations / Playlists · 37f205e",
                             "links": [
@@ -236639,11 +236999,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠Bowd - Movies / TV / Live TV · a180ca3",
+                            "full_text": "dulourd - Movies / TV · 6fab4d6",
                             "links": [
                                 {
-                                    "name": "a180ca3",
-                                    "url": "https://github.com/fmhy/edit/commit/a180ca3690be5a76bdd276e4662e605e6bfed51e#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L461"
+                                    "name": "6fab4d6",
+                                    "url": "https://github.com/fmhy/edit/commit/6fab4d6a4be7373b69616ac7e68f62dfadf77437#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L473"
                                 }
                             ]
                         },
@@ -236732,6 +237092,15 @@
                                 {
                                     "name": "3831d64",
                                     "url": "https://github.com/fmhy/edit/commit/3831d643947dec5b1fe50f7f36f5a44f7df2133f#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L700"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LuffyTV - Anime / Discord · 1e66cc9",
+                            "links": [
+                                {
+                                    "name": "1e66cc9",
+                                    "url": "https://github.com/fmhy/edit/commit/1e66cc9ddebc326008932a5d6fef4ee31b862f18#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L757"
                                 }
                             ]
                         },
@@ -236911,15 +237280,6 @@
                                 {
                                     "name": "1888938",
                                     "url": "https://github.com/fmhy/edit/commit/18889385ab5047243ff704ba55c64259db5ec3db#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1661"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TR Anime İzle - Anime / Region Locked · f1d34d6",
-                            "links": [
-                                {
-                                    "name": "f1d34d6",
-                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1662"
                                 }
                             ]
                         }
@@ -237166,6 +237526,45 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Bancuh - / GitHub · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L100"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hurricane Electric · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L104"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "UncensoredDNS · PR #6706 · c40505a",
+                            "links": [
+                                {
+                                    "name": "PR #6706",
+                                    "url": "https://github.com/fmhy/edit/pull/6706"
+                                },
+                                {
+                                    "name": "c40505a",
+                                    "url": "https://github.com/fmhy/edit/commit/c40505af638747301f481faf32204584407dbc64#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L105"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Tiarap - Privacy-Friendly DNS Resolver · 1d81327",
                             "links": [
                                 {
@@ -237203,22 +237602,6 @@
                                 {
                                     "name": "3831d64",
                                     "url": "https://github.com/fmhy/edit/commit/3831d643947dec5b1fe50f7f36f5a44f7df2133f#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L354"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "SMS Verification Sites",
-                    "level": "h3",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "receive-sms-online - Requires Sign-Up · f1d34d6",
-                            "links": [
-                                {
-                                    "name": "f1d34d6",
-                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L367"
                                 }
                             ]
                         }
@@ -237334,15 +237717,6 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
-                        {
-                            "full_text": "Zen - Local Saves · f1d34d6",
-                            "links": [
-                                {
-                                    "name": "f1d34d6",
-                                    "url": "https://github.com/fmhy/edit/commit/f1d34d6acdbcaef0955a67b0a7e7c997f0f64742#diff-22677cf783b082896ee54428761a2137c7e8e2b6385dee44f986c2f72194e222L284"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "Goblin.tools - Automatic Task Breakdown · 8ad1cac",
                             "links": [
@@ -237649,41 +238023,6 @@
                     "resource_items": []
                 },
                 {
-                    "heading": "Dynamic DNS Services / Subdomains",
-                    "level": "h2",
-                    "text_explanations": [
-                        "DuckDNS,ClouDNS,FreeDNS/Warning,dynu,myaddr,nsupdate/GitHub"
-                    ],
-                    "resource_items": [
-                        {
-                            "full_text": "Cloudflare DNS",
-                            "links": [
-                                {
-                                    "name": "Cloudflare DNS",
-                                    "url": "https://www.cloudflare.com/products/dns/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "deSEC",
-                            "links": [
-                                {
-                                    "name": "deSEC",
-                                    "url": "https://desec.io/"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "Subdomains Services",
-                    "level": "h3",
-                    "text_explanations": [
-                        "DigitalPlat/GitHub,is-a.dev,JS.ORG,TheDev,GetFreeDomain"
-                    ],
-                    "resource_items": []
-                },
-                {
                     "heading": "EmulatorJS / NeptunJS",
                     "level": "h2",
                     "text_explanations": [
@@ -237823,218 +238162,6 @@
                                 {
                                     "name": "NeoGeoFun",
                                     "url": "https://www.neogeofun.com/"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "Free DNS Resolvers",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Public DNS indexes / 2 / 3 / 4",
-                            "links": [
-                                {
-                                    "name": "Public DNS indexes",
-                                    "url": "https://www.publicdns.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://acavalin.com/p/free_dns"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://publicdnsserver.com/"
-                                },
-                                {
-                                    "name": "4",
-                                    "url": "https://public-dns.info/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cloudflare 1.1.1.1",
-                            "links": [
-                                {
-                                    "name": "Cloudflare 1.1.1.1",
-                                    "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Quad9 - Malware, Phishing, Spyware & Botnet DNS Protection / GitHub",
-                            "links": [
-                                {
-                                    "name": "Quad9",
-                                    "url": "https://quad9.net/"
-                                },
-                                {
-                                    "name": "GitHub",
-                                    "url": "https://github.com/Quad9DNS"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Artemis - Piracy Site DNS Resolver / GitHub",
-                            "links": [
-                                {
-                                    "name": "Artemis",
-                                    "url": "https://dns.fuzzing.uk/"
-                                },
-                                {
-                                    "name": "GitHub",
-                                    "url": "https://github.com/PUT-Request/Artemis/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Unbound - Self-Hosted, Validating, Recursive, Caching Resolver / GitHub",
-                            "links": [
-                                {
-                                    "name": "Unbound",
-                                    "url": "https://www.nlnetlabs.nl/projects/unbound/"
-                                },
-                                {
-                                    "name": "GitHub",
-                                    "url": "https://github.com/NLnetLabs/unbound"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Control D / X / Subreddit / Discord",
-                            "links": [
-                                {
-                                    "name": "Control D",
-                                    "url": "https://controld.com/free-dns"
-                                },
-                                {
-                                    "name": "X",
-                                    "url": "https://x.com/controldns"
-                                },
-                                {
-                                    "name": "Subreddit",
-                                    "url": "https://reddit.com/r/ControlD/"
-                                },
-                                {
-                                    "name": "Discord",
-                                    "url": "https://discord.gg/dns"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NextDNS / 2 / Guide",
-                            "links": [
-                                {
-                                    "name": "NextDNS",
-                                    "url": "https://nextdns.io"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://adguard-dns.io/kb/general/dns-providers/#nextdns"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://github.com/yokoffing/NextDNS-Config"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rethink DNS",
-                            "links": [
-                                {
-                                    "name": "Rethink DNS",
-                                    "url": "https://rethinkdns.com/configure"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DNSBunker",
-                            "links": [
-                                {
-                                    "name": "DNSBunker",
-                                    "url": "https://dnsbunker.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HaGeZi DNS",
-                            "links": [
-                                {
-                                    "name": "HaGeZi DNS",
-                                    "url": "https://github.com/hagezi/dns-servers"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bancuh / GitHub",
-                            "links": [
-                                {
-                                    "name": "Bancuh",
-                                    "url": "https://bancuh.com/"
-                                },
-                                {
-                                    "name": "GitHub",
-                                    "url": "https://github.com/ragibkl/adblock-dns-server"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AdGuard / GitHub",
-                            "links": [
-                                {
-                                    "name": "AdGuard",
-                                    "url": "https://adguard-dns.io/en/public-dns.html"
-                                },
-                                {
-                                    "name": "GitHub",
-                                    "url": "https://github.com/AdguardTeam/AdguardSDNSFilter"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DNS for Family",
-                            "links": [
-                                {
-                                    "name": "DNS for Family",
-                                    "url": "https://dnsforfamily.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DNS Forge",
-                            "links": [
-                                {
-                                    "name": "DNS Forge",
-                                    "url": "https://dnsforge.de/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hurricane Electric",
-                            "links": [
-                                {
-                                    "name": "Hurricane Electric",
-                                    "url": "https://dns.he.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "UncensoredDNS",
-                            "links": [
-                                {
-                                    "name": "UncensoredDNS",
-                                    "url": "https://blog.uncensoreddns.org/dns-servers/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "dns.sb",
-                            "links": [
-                                {
-                                    "name": "dns.sb",
-                                    "url": "https://dns.sb/"
                                 }
                             ]
                         }
@@ -238685,70 +238812,6 @@
                     "level": "h2",
                     "text_explanations": [
                         "Search Extension/Need Seeds/Backup"
-                    ],
-                    "resource_items": []
-                },
-                {
-                    "heading": "Manga Downloaders",
-                    "level": "h2",
-                    "text_explanations": [
-                        "Comics Downloader,work_crawler,HDoujinDownloader,FMD2,anime-dl"
-                    ],
-                    "resource_items": []
-                },
-                {
-                    "heading": "Manga Readers",
-                    "level": "h2",
-                    "text_explanations": [
-                        "AllMangasReader,Houdoku/GitHub,Adolla,OpenComic,Manga-Organizer,MangaOnlineViewer,LANraragi,Unyo"
-                    ],
-                    "resource_items": [
-                        {
-                            "full_text": "️ Android Readers / iOS Readers",
-                            "links": [
-                                {
-                                    "name": "Android Readers",
-                                    "url": "https://fmhy.net/mobile/#android-manga"
-                                },
-                                {
-                                    "name": "iOS Readers",
-                                    "url": "https://fmhy.net/mobile/#ios-reading"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Suwayomi",
-                            "links": [
-                                {
-                                    "name": "Suwayomi",
-                                    "url": "https://github.com/Suwayomi"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Suwayomi Tools - Extensions , 2 / Desktop Client",
-                            "links": [
-                                {
-                                    "name": "Extensions",
-                                    "url": "https://keiyoushi.github.io/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://discord.gg/3FbCpdKbdY"
-                                },
-                                {
-                                    "name": "Desktop Client",
-                                    "url": "https://github.com/Suwayomi/Suwayomi-Server"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "Self-Hosted",
-                    "level": "h3",
-                    "text_explanations": [
-                        "KavitaReader,Komga/GitHub/Discord,atsumeru"
                     ],
                     "resource_items": []
                 },
@@ -239454,28 +239517,6 @@
                                 {
                                     "name": "HealthIcons",
                                     "url": "https://healthicons.org/"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "Tab Managers",
-                    "level": "h2",
-                    "text_explanations": [
-                        "Tab Stash,⁠OneTab,One Tab Group,TreeStyleTabs"
-                    ],
-                    "resource_items": [
-                        {
-                            "full_text": "Sidebery or Simple Tab Groups - Firefox",
-                            "links": [
-                                {
-                                    "name": "Sidebery",
-                                    "url": "https://github.com/mbnuqw/sidebery"
-                                },
-                                {
-                                    "name": "Simple Tab Groups",
-                                    "url": "https://github.com/drive4ik/simple-tab-groups"
                                 }
                             ]
                         }
