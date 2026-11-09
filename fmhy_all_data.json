@@ -279,7 +279,7 @@
                                 },
                                 {
                                     "name": "Modules",
-                                    "url": "https://8spine-moduels.pages.dev/"
+                                    "url": "https://8spine-modules.pages.dev/"
                                 },
                                 {
                                     "name": "EeveeSpotifyReincarnated",
@@ -637,7 +637,9 @@
                 {
                     "heading": "Important Links",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Beginners Guide Linkshttps://fmhy.net/beginners-guidehttps://rentry.org/Piracy-BG/"
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Download Managers: AB Download Manager",
@@ -667,15 +669,11 @@
                             ]
                         },
                         {
-                            "full_text": "Unsafe Sites / Software / 2 - Things we recommend avoiding",
+                            "full_text": "Unsafe Sites / Software - Things we recommend avoiding",
                             "links": [
                                 {
                                     "name": "Unsafe Sites / Software",
                                     "url": "https://fmhy.net/unsafe"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://redd.it/10bh0h9"
                                 }
                             ]
                         },
@@ -1091,11 +1089,15 @@
                             ]
                         },
                         {
-                            "full_text": "Popup Blocker (strict) , Popupblocker All / 2 or PopupBlocker (userscript) - Popup Blockers /",
+                            "full_text": "Popup Blocker (strict) , PopupBlocker (userscript) or Popupblocker All / 2 - Popup Blockers /",
                             "links": [
                                 {
                                     "name": "Popup Blocker (strict)",
                                     "url": "https://github.com/schomery/popup-blocker"
+                                },
+                                {
+                                    "name": "PopupBlocker",
+                                    "url": "https://github.com/AdguardTeam/PopupBlocker"
                                 },
                                 {
                                     "name": "Popupblocker All",
@@ -1104,10 +1106,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde"
-                                },
-                                {
-                                    "name": "PopupBlocker",
-                                    "url": "https://github.com/AdguardTeam/PopupBlocker"
                                 }
                             ]
                         },
@@ -1209,23 +1207,6 @@
                             ]
                         },
                         {
-                            "full_text": "Rethink DNS - DNS Adblocker / Mix Multiple Blocklists / /",
-                            "links": [
-                                {
-                                    "name": "Rethink DNS",
-                                    "url": "https://rethinkdns.com/configure"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/rethinkdns/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/rethinkdns"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "FMHY Filterlist - Unsafe Sites Filter",
                             "links": [
                                 {
@@ -1301,7 +1282,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pi-Hole Tools - Filters , 2 / Tray App / Android Server (root) /",
+                            "full_text": "Pi-Hole Tools - Filters , 2 / DNS Resolver / Tray App / Android Server (root) /",
                             "links": [
                                 {
                                     "name": "Filters",
@@ -1310,6 +1291,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://github.com/zachlagden/Pi-hole-Optimized-Blocklists"
+                                },
+                                {
+                                    "name": "DNS Resolver",
+                                    "url": "https://www.nlnetlabs.nl/projects/unbound/"
                                 },
                                 {
                                     "name": "Tray App",
@@ -1347,36 +1332,6 @@
                             ]
                         },
                         {
-                            "full_text": "DNSveil - DNSCrypt, DoH & DoT Client / /",
-                            "links": [
-                                {
-                                    "name": "DNSveil",
-                                    "url": "https://msasanmh.github.io/DNSveil/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/msasanmh/DNSveil"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DNSTT.XYZ - DNS Tunnel Client / / /",
-                            "links": [
-                                {
-                                    "name": "DNSTT.XYZ",
-                                    "url": "https://dnstt.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/dnstt_xyz"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/dnstt-xyz/dnstt_xyz_app"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Blocky - DNS Adblocking / /",
                             "links": [
                                 {
@@ -1407,28 +1362,11 @@
                             ]
                         },
                         {
-                            "full_text": "Unbound - Self-Hosted, Validating, Recursive, Caching Resolver /",
+                            "full_text": "AdGuard Private DNS - Customizable DNS Adblocking Service / / / /",
                             "links": [
                                 {
-                                    "name": "Unbound",
-                                    "url": "https://www.nlnetlabs.nl/projects/unbound/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/NLnetLabs/unbound"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AdGuard DNS - Customizable DNS Adblocking Service / Public DNS / / / /",
-                            "links": [
-                                {
-                                    "name": "AdGuard DNS",
+                                    "name": "AdGuard Private DNS",
                                     "url": "https://adguard-dns.io/"
-                                },
-                                {
-                                    "name": "Public DNS",
-                                    "url": "https://adguard-dns.io/en/public-dns.html"
                                 },
                                 {
                                     "name": "",
@@ -1554,7 +1492,24 @@
                             ]
                         },
                         {
-                            "full_text": "Artemis - Piracy Site DNS Resolver /",
+                            "full_text": "Rethink DNS - DNS Provider / Mix Multiple Blocklists / /",
+                            "links": [
+                                {
+                                    "name": "Rethink DNS",
+                                    "url": "https://rethinkdns.com/configure"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/rethinkdns/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/rethinkdns"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Artemis - Piracy Site DNS Resolver / US Servers /",
                             "links": [
                                 {
                                     "name": "Artemis",
@@ -1567,7 +1522,32 @@
                             ]
                         },
                         {
-                            "full_text": "DNSBunker - Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking",
+                            "full_text": "AdGuard Public DNS - DNS Provider / / / /",
+                            "links": [
+                                {
+                                    "name": "AdGuard Public DNS",
+                                    "url": "https://adguard-dns.io/en/public-dns.html"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/adguard"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/Adguard"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/adguarden"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/AdguardTeam/AdguardSDNSFilter"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNSBunker - Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking / German Servers",
                             "links": [
                                 {
                                     "name": "DNSBunker",
@@ -1585,11 +1565,32 @@
                             ]
                         },
                         {
-                            "full_text": "DNS for Family - Family Filtering with Safe Search & Malware Protection",
+                            "full_text": "DNS for Family - Family Filtering with Safe Search & Malware Protection / German + Finnish Servers",
                             "links": [
                                 {
                                     "name": "DNS for Family",
                                     "url": "https://dnsforfamily.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Control D - Control Free DNS / / /",
+                            "links": [
+                                {
+                                    "name": "Control D",
+                                    "url": "https://controld.com/features/dns-filtering"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/controldns"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/ControlD/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/dns"
                                 }
                             ]
                         },
@@ -1603,7 +1604,7 @@
                             ]
                         },
                         {
-                            "full_text": "LibreDNS - DNS Adblocking",
+                            "full_text": "LibreDNS - DNS Adblocking / German Servers",
                             "links": [
                                 {
                                     "name": "LibreDNS",
@@ -2256,7 +2257,7 @@
                             ]
                         },
                         {
-                            "full_text": "PrivNote , PrivateBin , ⁠Ente Paste , One Time Secrets / , SafeNote / , Burn.Link , s.cr , Yopass / , Nyanbin / , Burn My Note or OneTimeSecret / - Self-Destructing Messages / Private Notes",
+                            "full_text": "PrivNote , PrivateBin , ⁠Ente Paste , Online Clipboard , One Time Secrets / , SafeNote / , Burn.Link , s.cr , Yopass / , Nyanbin / , Burn My Note or OneTimeSecret / - Self-Destructing Messages / Private Notes",
                             "links": [
                                 {
                                     "name": "PrivNote",
@@ -2269,6 +2270,10 @@
                                 {
                                     "name": "⁠Ente Paste",
                                     "url": "https://paste.ente.com/"
+                                },
+                                {
+                                    "name": "Online Clipboard",
+                                    "url": "https://online-clipboard.io/"
                                 },
                                 {
                                     "name": "One Time Secrets",
@@ -4157,20 +4162,8 @@
                             ]
                         },
                         {
-                            "full_text": "ClearURLs / / or URLCleaner - Clean URLs / Remove Tracking Elements from URLs / Can Break Sites /",
+                            "full_text": "URLCleaner - Clean URLs / Remove Tracking Elements from URLs / Can Break Sites",
                             "links": [
-                                {
-                                    "name": "ClearURLs",
-                                    "url": "https://docs.clearurls.xyz"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ClearURLs/Addon"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://gitlab.com/KevinRoebert/ClearUrls"
-                                },
                                 {
                                     "name": "URLCleaner",
                                     "url": "https://urlcleaner.net/"
@@ -5604,6 +5597,19 @@
                             ]
                         },
                         {
+                            "full_text": "DNSveil - DNSCrypt, DoH & DoT Client / /",
+                            "links": [
+                                {
+                                    "name": "DNSveil",
+                                    "url": "https://msasanmh.github.io/DNSveil/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/msasanmh/DNSveil"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "zapret , SpoofDPI or GoodbyeDPI - Network Packet Alter Tools",
                             "links": [
                                 {
@@ -5660,6 +5666,23 @@
                                 {
                                     "name": "Green Tunnel",
                                     "url": "https://github.com/SadeghHayeri/GreenTunnel"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DNSTT.XYZ - DNS Tunnel Client / / /",
+                            "links": [
+                                {
+                                    "name": "DNSTT.XYZ",
+                                    "url": "https://dnstt.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/dnstt_xyz"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/dnstt-xyz/dnstt_xyz_app"
                                 }
                             ]
                         },
@@ -10485,7 +10508,7 @@
                             ]
                         },
                         {
-                            "full_text": "7Movies , 2 - Movies / TV / Anime / 4k / Auto-Next / /",
+                            "full_text": "7Movies , 2 - Movies / TV / Anime / 4k / Auto-Next / Mirrors / /",
                             "links": [
                                 {
                                     "name": "7Movies",
@@ -10494,6 +10517,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://7movies.ws/"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://7domains.fans/"
                                 },
                                 {
                                     "name": "",
@@ -10680,6 +10707,31 @@
                             ]
                         },
                         {
+                            "full_text": "ArrowTV , 2 or Cinezo , 2 - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "ArrowTV",
+                                    "url": "https://arrowtv.net/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://neonflix.st/"
+                                },
+                                {
+                                    "name": "Cinezo",
+                                    "url": "https://www.cinezo.st/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://www.flikhub.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/yWWKfMbtm3"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Ghostflix , Redflix , 2 or PantyFlix - Movies / TV / Anime / Auto-Next / Invite /",
                             "links": [
                                 {
@@ -10709,31 +10761,6 @@
                             ]
                         },
                         {
-                            "full_text": "ArrowTV , 2 or Cinezo , 2 - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "ArrowTV",
-                                    "url": "https://arrowtv.net/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://neonflix.st/"
-                                },
-                                {
-                                    "name": "Cinezo",
-                                    "url": "https://www.cinezo.st/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://www.flikhub.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/yWWKfMbtm3"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Chillflix , Vuflix or Toflix - Movies / TV / Anime / Auto-Next / 4K /",
                             "links": [
                                 {
@@ -10751,6 +10778,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/6r5KTZgqXV"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Spacedom - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Spacedom",
+                                    "url": "https://spacedom.live/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/6NU9thcPYs"
                                 }
                             ]
                         },
@@ -10811,19 +10851,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/EPHJzCZEq"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Spacedom - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Spacedom",
-                                    "url": "https://spacedom.live/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/6NU9thcPYs"
                                 }
                             ]
                         },
@@ -10901,7 +10928,20 @@
                             ]
                         },
                         {
-                            "full_text": "Moonflix - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "Koddo - Movies / TV / Anime / Auto-Next / 4K /",
+                            "links": [
+                                {
+                                    "name": "Koddo",
+                                    "url": "https://koddo.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Ss2x86nsvK"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Moonflix - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
                                     "name": "Moonflix",
@@ -10910,6 +10950,10 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/Moonflix_official_Channel"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/XgndcbuKNG"
                                 }
                             ]
                         },
@@ -11000,57 +11044,6 @@
                             ]
                         },
                         {
-                            "full_text": "SvStream , 2 , 3 - Movies / TV / Anime / Auto-Next / Status",
-                            "links": [
-                                {
-                                    "name": "SvStream",
-                                    "url": "https://svstream.cc/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://nomorflix.cc/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://diostream.cc/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://nomorflix.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinemove , Watchly or Cinex - Movies / TV / Anime / Auto-Next / 4K",
-                            "links": [
-                                {
-                                    "name": "Cinemove",
-                                    "url": "https://cinemove.cc/"
-                                },
-                                {
-                                    "name": "Watchly",
-                                    "url": "https://watchly.mom/"
-                                },
-                                {
-                                    "name": "Cinex",
-                                    "url": "https://cinex.lol/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Koddo - Movies / TV / Anime / Auto-Next / 4K /",
-                            "links": [
-                                {
-                                    "name": "Koddo",
-                                    "url": "https://koddo.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Ss2x86nsvK"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Freekz or ZXCSTREAM - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
@@ -11098,7 +11091,7 @@
                             ]
                         },
                         {
-                            "full_text": "CinemaOS , 2 or NoirX , 2 - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "CinemaOS , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "CinemaOS",
@@ -11107,14 +11100,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://cinemaos.tech/"
-                                },
-                                {
-                                    "name": "NoirX",
-                                    "url": "https://noirx.me/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://noirx.live/"
                                 },
                                 {
                                     "name": "",
@@ -11140,24 +11125,20 @@
                             ]
                         },
                         {
+                            "full_text": "VaultPlayer - Movies / TV / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "VaultPlayer",
+                                    "url": "https://vaultplayer.co.uk/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "VidPlay - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
                                     "name": "VidPlay",
                                     "url": "https://vidplay.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Willow - Movies / TV / Anime / Auto-Next / 4K Guide",
-                            "links": [
-                                {
-                                    "name": "Willow",
-                                    "url": "https://willowmovies.com/"
-                                },
-                                {
-                                    "name": "4K Guide",
-                                    "url": "https://rentry.co/willow-guide"
                                 }
                             ]
                         },
@@ -11197,33 +11178,36 @@
                             ]
                         },
                         {
-                            "full_text": "3eyedraven - Movies / TV / Anime / Auto-Next",
+                            "full_text": "Willow - Movies / TV / Anime / Auto-Next / 4K Guide",
                             "links": [
                                 {
-                                    "name": "3eyedraven",
-                                    "url": "https://3eyedraven.watch/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Flixtrz",
-                                    "url": "https://flixtrz.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Consumit - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Consumit",
-                                    "url": "https://consumit.online/"
+                                    "name": "Willow",
+                                    "url": "https://willowmovies.com/"
                                 },
                                 {
-                                    "name": "",
-                                    "url": "https://discord.gg/p7XVyk6vs"
+                                    "name": "4K Guide",
+                                    "url": "https://rentry.co/willow-guide"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SvStream , 2 , 3 - Movies / TV / Anime / Auto-Next / Status",
+                            "links": [
+                                {
+                                    "name": "SvStream",
+                                    "url": "https://svstream.cc/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://nomorflix.cc/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://diostream.cc/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://nomorflix.com/"
                                 }
                             ]
                         },
@@ -11237,11 +11221,28 @@
                             ]
                         },
                         {
-                            "full_text": "VaultPlayer - Movies / TV / Auto-Next",
+                            "full_text": "3eyedraven - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
-                                    "name": "VaultPlayer",
-                                    "url": "https://vaultplayer.co.uk/"
+                                    "name": "3eyedraven",
+                                    "url": "https://3eyedraven.watch/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cinemove , Watchly or Cinex - Movies / TV / Anime / Auto-Next / 4K",
+                            "links": [
+                                {
+                                    "name": "Cinemove",
+                                    "url": "https://cinemove.cc/"
+                                },
+                                {
+                                    "name": "Watchly",
+                                    "url": "https://watchly.mom/"
+                                },
+                                {
+                                    "name": "Cinex",
+                                    "url": "https://cinex.lol/"
                                 }
                             ]
                         },
@@ -11623,6 +11624,15 @@
                                 {
                                     "name": "StreamingUnity",
                                     "url": "https://streamingunity.fun/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Flixtrz",
+                                    "url": "https://flixtrz.com/"
                                 }
                             ]
                         },
@@ -12154,6 +12164,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/ajRY6Bn3rr"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Consumit - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Consumit",
+                                    "url": "https://consumit.online/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/p7XVyk6vs"
                                 }
                             ]
                         },
@@ -13937,7 +13960,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": " https://discord.com/invite/zwv8PpAJmA"
+                                    "url": "https://discord.com/invite/zwv8PpAJmA"
                                 }
                             ]
                         },
@@ -17629,833 +17652,6 @@
                     ]
                 },
                 {
-                    "heading": "Smart TV",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "⁠Jellyfin Smart TV Clients",
-                            "links": [
-                                {
-                                    "name": "⁠Jellyfin Smart TV Clients",
-                                    "url": "https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#-tv"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠TroyPoint - App Index",
-                            "links": [
-                                {
-                                    "name": "⁠TroyPoint",
-                                    "url": "https://troypoint.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ Free w/ Ads Streaming",
-                            "links": [
-                                {
-                                    "name": "Free w/ Ads Streaming",
-                                    "url": "https://fmhy.net/video/#free-w-ads"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TizenTube or ⁠YouTube for Tizen - Ad-Free Samsung TV YouTube / Setup Guide / App Loader , 2 / /",
-                            "links": [
-                                {
-                                    "name": "TizenTube",
-                                    "url": "https://tizentube.app/"
-                                },
-                                {
-                                    "name": "⁠YouTube for Tizen",
-                                    "url": "https://github.com/SushyDev/tizen-youtube"
-                                },
-                                {
-                                    "name": "Setup Guide",
-                                    "url": "https://www.notion.so/TizenBrew-Guide-30437864d8618033bb03e818e894fd5c"
-                                },
-                                {
-                                    "name": "App Loader",
-                                    "url": "https://github.com/SushyDev/tizen-homebrew"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://github.com/reisxd/TizenBrew"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/m2P7v8Y2qR"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/reisxd/TizenTube"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "webOS Homebrew - LG TV Homebrew / Ad-Free YouTube + Twitch / Guide / /",
-                            "links": [
-                                {
-                                    "name": "webOS Homebrew",
-                                    "url": "https://www.webosbrew.org/"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://wispydocs.pages.dev/lg-tv-homebrew/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/xWqRVEm"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/webosbrew/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Nuvio / Tools / Plugins / Wiki / Guides , 2 / / , Stremio / Tools , WuPlay or ⁠RealStream / - Streaming App / Stremio Support",
-                            "links": [
-                                {
-                                    "name": "Nuvio",
-                                    "url": "https://nuvio.tv/"
-                                },
-                                {
-                                    "name": "Tools",
-                                    "url": "https://fmhy.net/video/#stremio-tools"
-                                },
-                                {
-                                    "name": "Plugins",
-                                    "url": "https://nuvio-plugin-library.vercel.app/"
-                                },
-                                {
-                                    "name": "Wiki / Guides",
-                                    "url": "https://nuvio.wiki/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://numb3rs.stream/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/KVgDTjhA4H"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/NuvioMedia/NuvioTVSmart"
-                                },
-                                {
-                                    "name": "Stremio",
-                                    "url": "https://www.stremio.com/"
-                                },
-                                {
-                                    "name": "Tools",
-                                    "url": "https://fmhy.net/video/#stremio-tools"
-                                },
-                                {
-                                    "name": "WuPlay",
-                                    "url": "https://github.com/wuplayapp/wuplay-releases"
-                                },
-                                {
-                                    "name": "⁠RealStream",
-                                    "url": "https://rstream.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/jnDyHEkcZu"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SamsungTVPlus - Streaming App",
-                            "links": [
-                                {
-                                    "name": "SamsungTVPlus",
-                                    "url": "https://www.samsungtvplus.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Jellyfin Tizen (search appstore) - Media Server / Streaming App",
-                            "links": [
-                                {
-                                    "name": "⁠Jellyfin Tizen",
-                                    "url": "https://github.com/jellyfin/jellyfin-tizen"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kodi - Media Server / Streaming App",
-                            "links": [
-                                {
-                                    "name": "Kodi",
-                                    "url": "https://kodi.tv/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Fly Stream - Streaming App /",
-                            "links": [
-                                {
-                                    "name": "⁠Fly Stream",
-                                    "url": "https://flystream.net/apps"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/flystream"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠AIOStreams - Streaming App / Debrid or Usenet Required",
-                            "links": [
-                                {
-                                    "name": "⁠AIOStreams",
-                                    "url": "https://docs.aiostreams.viren070.me/apps/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "YTCast - Cast YouTube Videos to Smart TV",
-                            "links": [
-                                {
-                                    "name": "YTCast",
-                                    "url": "https://github.com/MarcoLucidi01/ytcast"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "iSponsorBlockTV - SponsorBlock App",
-                            "links": [
-                                {
-                                    "name": "iSponsorBlockTV",
-                                    "url": "https://github.com/dmunozv04/iSponsorBlockTV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Playlet - Ad-Free YouTube Roku Client /",
-                            "links": [
-                                {
-                                    "name": "Playlet",
-                                    "url": "https://channelstore.roku.com/details/4a41d0921265a5e31429a7679442153f:b5bcb5b630c28b01e93bf59856317b43/playlet"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/iBicha/playlet"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Twoku - Improved Roku Twitch Client",
-                            "links": [
-                                {
-                                    "name": "⁠Twoku",
-                                    "url": "https://github.com/worldreboot/twitch-reloaded-roku"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠RoMote - Open-Source Roku Remote",
-                            "links": [
-                                {
-                                    "name": "⁠RoMote",
-                                    "url": "https://github.com/wseemann/RoMote"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SmartTwitchTV - Smart TV Twitch App",
-                            "links": [
-                                {
-                                    "name": "SmartTwitchTV",
-                                    "url": "https://github.com/fgl27/SmartTwitchTV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Go2TV or FCast - Cast to Smart TVs",
-                            "links": [
-                                {
-                                    "name": "Go2TV",
-                                    "url": "https://github.com/alexballas/go2tv"
-                                },
-                                {
-                                    "name": "FCast",
-                                    "url": "https://fcast.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "smart-tv-telegram - Stream Media from Telegram to Smart TV",
-                            "links": [
-                                {
-                                    "name": "smart-tv-telegram",
-                                    "url": "https://github.com/andrew-ld/smart-tv-telegram"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ChanSort - TV Channel List Editor for Samsung, LG, etc.",
-                            "links": [
-                                {
-                                    "name": "ChanSort",
-                                    "url": "https://github.com/PredatH0r/ChanSort"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Samsung Smart TV Adblock - Block Samsung + Smart TV Ads",
-                            "links": [
-                                {
-                                    "name": "Samsung Smart TV Adblock",
-                                    "url": "https://redd.it/gn7fw5"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Apps2Samsung - Tizen Device Sideloading Tool / Packages",
-                            "links": [
-                                {
-                                    "name": "Apps2Samsung",
-                                    "url": "https://github.com/Apps2Samsung"
-                                },
-                                {
-                                    "name": "Packages",
-                                    "url": "https://github.com/Apps2Samsung/tizen-community-packages"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠MuTube , ⁠Unwatched / or Yattee - Apple TV YouTube Apps",
-                            "links": [
-                                {
-                                    "name": "⁠MuTube",
-                                    "url": "https://github.com/Exaphis/mutube"
-                                },
-                                {
-                                    "name": "⁠Unwatched",
-                                    "url": "https://apps.apple.com/app/unwatched-para-youtube/id6477287463"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/fer0n/Unwatched"
-                                },
-                                {
-                                    "name": "Yattee",
-                                    "url": "https://github.com/yattee/yattee"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Blackb0x - Apple TV Jailbreak",
-                            "links": [
-                                {
-                                    "name": "Blackb0x",
-                                    "url": "https://github.com/NSSpiral/Blackb0x"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ATVLoadly - Apple TV Sideloading",
-                            "links": [
-                                {
-                                    "name": "ATVLoadly",
-                                    "url": "https://github.com/bitxeno/atvloadly"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "Android TV / Firestick",
-                    "level": "h3",
-                    "text_explanations": [
-                        "TIP",
-                        "The Firestick Select cannot run any Android Apps."
-                    ],
-                    "resource_items": [
-                        {
-                            "full_text": "Awesome Android TV , Ultimate Android TV or ⁠TroyPoint - Android TV App Indexes",
-                            "links": [
-                                {
-                                    "name": "Awesome Android TV",
-                                    "url": "https://github.com/Generator/Awesome-Android-TV-FOSS-Apps"
-                                },
-                                {
-                                    "name": "Ultimate Android TV",
-                                    "url": "https://xdaforums.com/t/android-ultimate-collection-guides.4513231/#post-87676359"
-                                },
-                                {
-                                    "name": "⁠TroyPoint",
-                                    "url": "https://troypoint.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KPFire - Firestick App Index",
-                            "links": [
-                                {
-                                    "name": "KPFire",
-                                    "url": "https://linktr.ee/kpfire"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ Android Streaming / Apps",
-                            "links": [
-                                {
-                                    "name": "Android Streaming",
-                                    "url": "https://fmhy.net/mobile/#android-streaming"
-                                },
-                                {
-                                    "name": "Apps",
-                                    "url": "https://fmhy.net/mobile/#untouched-apks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NuvioTV / Tools / Stremio Sync / Plugins / Wiki / Guides / - Streaming App / Stremio Support",
-                            "links": [
-                                {
-                                    "name": "NuvioTV",
-                                    "url": "https://github.com/NuvioMedia/NuvioTV"
-                                },
-                                {
-                                    "name": "Tools",
-                                    "url": "https://fmhy.net/video/#stremio-tools"
-                                },
-                                {
-                                    "name": "Stremio Sync",
-                                    "url": "https://nuviosync.com/"
-                                },
-                                {
-                                    "name": "Plugins",
-                                    "url": "https://nuvio-plugin-library.vercel.app/"
-                                },
-                                {
-                                    "name": "Wiki / Guides",
-                                    "url": "https://nuvio.wiki/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/KVgDTjhA4H"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TiviMate , 2 (search) or ⁠OwnTV - IPTV Players",
-                            "links": [
-                                {
-                                    "name": "TiviMate",
-                                    "url": "https://tivimate.com/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                },
-                                {
-                                    "name": "⁠OwnTV",
-                                    "url": "https://github.com/ahXN00/OwnTV/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Downloader App - Sideloading App / Downloader for Fire TV + Android TV / URL Shortener",
-                            "links": [
-                                {
-                                    "name": "Downloader App",
-                                    "url": "https://www.aftvnews.com/downloader"
-                                },
-                                {
-                                    "name": "URL Shortener",
-                                    "url": "https://go.aftvnews.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SmartTube / 2 / / or ⁠TizenTube Cobalt / / - Ad-Free Android TV / Firestick YouTube",
-                            "links": [
-                                {
-                                    "name": "SmartTube",
-                                    "url": "https://github.com/yuliskov/SmartTube"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://smarttubeapp.github.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/Wt8HDDej5z"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/SmartTubeEN"
-                                },
-                                {
-                                    "name": "⁠TizenTube Cobalt",
-                                    "url": "https://github.com/reisxd/TizenTubeCobalt"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/m2P7v8Y2qR"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/tizentubecobaltofficial"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Flicky - F-Droid Client",
-                            "links": [
-                                {
-                                    "name": "⁠Flicky",
-                                    "url": "https://github.com/mlm-games/flicky"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Android TV Tools v4 - Multiple Android TV Tools",
-                            "links": [
-                                {
-                                    "name": "Android TV Tools v4",
-                                    "url": "https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v4.4648239/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Android TV Optimizer - Android TV Optimization Tool",
-                            "links": [
-                                {
-                                    "name": "⁠Android TV Optimizer",
-                                    "url": "https://github.com/bryanroscoe/shield_optimizer"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Android TV Piracy - Android TV Piracy Guide",
-                            "links": [
-                                {
-                                    "name": "Android TV Piracy",
-                                    "url": "https://rentry.co/androidtvpiracy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Android TV Guide - Certified Android TV Devices / Spreadsheet",
-                            "links": [
-                                {
-                                    "name": "Android TV Guide",
-                                    "url": "https://www.androidtv-guide.com/"
-                                },
-                                {
-                                    "name": "Spreadsheet",
-                                    "url": "https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "StreamFire (search) - Live TV for Firestick",
-                            "links": [
-                                {
-                                    "name": "StreamFire",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "S0undTV - Twitch Player /",
-                            "links": [
-                                {
-                                    "name": "S0undTV",
-                                    "url": "https://github.com/S0und/S0undTV"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/zmNjK2S"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SmartTVKick - Ad-Free FireTV + Android TV Kick App",
-                            "links": [
-                                {
-                                    "name": "SmartTVKick",
-                                    "url": "https://github.com/CxWatcher/SmartTVKick"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Serenity Android - Emby Android TV App",
-                            "links": [
-                                {
-                                    "name": "Serenity Android",
-                                    "url": "https://github.com/NineWorlds/serenity-android"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CloudStream - Streaming App / Docs / Resources",
-                            "links": [
-                                {
-                                    "name": "CloudStream",
-                                    "url": "https://github.com/recloudstream/cloudstream"
-                                },
-                                {
-                                    "name": "Docs / Resources",
-                                    "url": "https://fmhy.net/mobile/#android-streaming"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Vega-Desktop - Streaming App",
-                            "links": [
-                                {
-                                    "name": "⁠Vega-Desktop",
-                                    "url": "https://github.com/vega-org/vega-desktop"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Atlantic - Streaming App",
-                            "links": [
-                                {
-                                    "name": "Atlantic",
-                                    "url": "https://atlantic.bz/android"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Syncler - Streaming App / Providers",
-                            "links": [
-                                {
-                                    "name": "Syncler",
-                                    "url": "https://syncler.net/"
-                                },
-                                {
-                                    "name": "Providers",
-                                    "url": "https://www.reddit.com/r/providers4syncler/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠SkyStream - Streaming App / Extension Based /",
-                            "links": [
-                                {
-                                    "name": "⁠SkyStream",
-                                    "url": "https://github.com/akashdh11/skystream"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/73XGA8Mxn9"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vyla TV - Streaming App /",
-                            "links": [
-                                {
-                                    "name": "Vyla TV",
-                                    "url": "https://vyla.cc/products/tv"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://gitlab.com/vyla-entertainment/TV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ARVIO - TV Media Server w/ Stremio Addons + IPTV Support /",
-                            "links": [
-                                {
-                                    "name": "ARVIO",
-                                    "url": "https://arvio.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ProdigyV21/ARVIO"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠StrexoPlayer - Video Player w/ Stremio Sync /",
-                            "links": [
-                                {
-                                    "name": "⁠StrexoPlayer",
-                                    "url": "https://strexoplayer.onrender.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/PEHZnB5B"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠mpvNova - Android TV Video / Media Player",
-                            "links": [
-                                {
-                                    "name": "⁠mpvNova",
-                                    "url": "https://github.com/Laskco/mpvNova"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Nova Video Player - Android TV Video / Media Player",
-                            "links": [
-                                {
-                                    "name": "Nova Video Player",
-                                    "url": "https://github.com/nova-video-player/aos-AVP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hayase - Torrent Streaming App / Extensions / Wiki",
-                            "links": [
-                                {
-                                    "name": "Hayase",
-                                    "url": "https://hayase.watch/"
-                                },
-                                {
-                                    "name": "Extensions",
-                                    "url": "https://rentry.co/FMHYB64#hayase"
-                                },
-                                {
-                                    "name": "Wiki",
-                                    "url": "https://wiki.hayase.watch/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Sozo - Anime Streaming App",
-                            "links": [
-                                {
-                                    "name": "⁠Sozo",
-                                    "url": "https://sozo.azamov.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Tatakai - Anime Streaming App / Extension-Based / /",
-                            "links": [
-                                {
-                                    "name": "⁠Tatakai",
-                                    "url": "https://tatakai.me/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/TWmbr7NYAW"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/snozxyx/tatakai"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "aDrama - Asian Drama Streaming App",
-                            "links": [
-                                {
-                                    "name": "aDrama",
-                                    "url": "https://adrama.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DigilogTV - News Streaming App",
-                            "links": [
-                                {
-                                    "name": "DigilogTV",
-                                    "url": "https://github.com/aldrinzigmundv/digilogtv"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "APKUpdater - APK Installer / Updater",
-                            "links": [
-                                {
-                                    "name": "APKUpdater",
-                                    "url": "https://github.com/rumboalla/apkupdater"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "atvTools (search) - Install Apps, Run ADB, Shell Commands, etc.",
-                            "links": [
-                                {
-                                    "name": "atvTools",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "tvQuickActions (search) - Remote Button Remapper / Requires Sign-Up",
-                            "links": [
-                                {
-                                    "name": "tvQuickActions",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Projectivy Launcher (search), 2 , 3 / XDA Thread / Icon Pack , AT4K Launcher / or Leanback on Fire - Android TV Launchers",
-                            "links": [
-                                {
-                                    "name": "Projectivy Launcher",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://play.google.com/store/apps/details?id=com.spocky.projengmenu"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://github.com/spocky/miproja1"
-                                },
-                                {
-                                    "name": "XDA Thread",
-                                    "url": "https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/"
-                                },
-                                {
-                                    "name": "Icon Pack",
-                                    "url": "https://github.com/SicMundus86/ProjectivyIconPack"
-                                },
-                                {
-                                    "name": "AT4K Launcher",
-                                    "url": "https://at4klauncher.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/AT4K/"
-                                },
-                                {
-                                    "name": "Leanback on Fire",
-                                    "url": "https://github.com/tsynik/LeanbackLauncher"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Launcher Manager - Change Default Launcher",
-                            "links": [
-                                {
-                                    "name": "Launcher Manager",
-                                    "url": "https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠AerialViews - Custom Screensaver App",
-                            "links": [
-                                {
-                                    "name": "⁠AerialViews",
-                                    "url": "https://github.com/theothernt/AerialViews"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "heading": "Download Sites",
                     "level": "h2",
                     "text_explanations": [
@@ -20785,6 +19981,842 @@
                     "resource_items": []
                 },
                 {
+                    "heading": "Smart TV",
+                    "level": "h2",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "⁠Jellyfin Smart TV Clients",
+                            "links": [
+                                {
+                                    "name": "⁠Jellyfin Smart TV Clients",
+                                    "url": "https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#-tv"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Awesome WebOS - webOS TV Resources",
+                            "links": [
+                                {
+                                    "name": "⁠Awesome WebOS",
+                                    "url": "https://github.com/tolgakurtuluss/awesome-webos"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠TroyPoint - App Index",
+                            "links": [
+                                {
+                                    "name": "⁠TroyPoint",
+                                    "url": "https://troypoint.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Free w/ Ads Streaming",
+                            "links": [
+                                {
+                                    "name": "Free w/ Ads Streaming",
+                                    "url": "https://fmhy.net/video/#free-w-ads"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TizenTube or ⁠YouTube for Tizen - Ad-Free Samsung TV YouTube / Setup Guide / App Loader , 2 / /",
+                            "links": [
+                                {
+                                    "name": "TizenTube",
+                                    "url": "https://tizentube.app/"
+                                },
+                                {
+                                    "name": "⁠YouTube for Tizen",
+                                    "url": "https://github.com/SushyDev/tizen-youtube"
+                                },
+                                {
+                                    "name": "Setup Guide",
+                                    "url": "https://www.notion.so/TizenBrew-Guide-30437864d8618033bb03e818e894fd5c"
+                                },
+                                {
+                                    "name": "App Loader",
+                                    "url": "https://github.com/SushyDev/tizen-homebrew"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://github.com/reisxd/TizenBrew"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/m2P7v8Y2qR"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/reisxd/TizenTube"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "webOS Homebrew - LG TV Homebrew / Ad-Free YouTube + Twitch / Guide / /",
+                            "links": [
+                                {
+                                    "name": "webOS Homebrew",
+                                    "url": "https://www.webosbrew.org/"
+                                },
+                                {
+                                    "name": "Guide",
+                                    "url": "https://wispydocs.pages.dev/lg-tv-homebrew/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/xWqRVEm"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/webosbrew/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nuvio / Tools / Plugins / Wiki / Guides , 2 / / , Stremio / Tools , WuPlay or ⁠RealStream / - Streaming App / Stremio Support",
+                            "links": [
+                                {
+                                    "name": "Nuvio",
+                                    "url": "https://nuvio.tv/"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
+                                },
+                                {
+                                    "name": "Plugins",
+                                    "url": "https://nuvio-plugin-library.vercel.app/"
+                                },
+                                {
+                                    "name": "Wiki / Guides",
+                                    "url": "https://nuvio.wiki/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://numb3rs.stream/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/KVgDTjhA4H"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/NuvioMedia/NuvioTVSmart"
+                                },
+                                {
+                                    "name": "Stremio",
+                                    "url": "https://www.stremio.com/"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
+                                },
+                                {
+                                    "name": "WuPlay",
+                                    "url": "https://github.com/wuplayapp/wuplay-releases"
+                                },
+                                {
+                                    "name": "⁠RealStream",
+                                    "url": "https://rstream.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/jnDyHEkcZu"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SamsungTVPlus - Streaming App",
+                            "links": [
+                                {
+                                    "name": "SamsungTVPlus",
+                                    "url": "https://www.samsungtvplus.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Jellyfin Tizen (search appstore) - Media Server / Streaming App",
+                            "links": [
+                                {
+                                    "name": "⁠Jellyfin Tizen",
+                                    "url": "https://github.com/jellyfin/jellyfin-tizen"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Kodi - Media Server / Streaming App",
+                            "links": [
+                                {
+                                    "name": "Kodi",
+                                    "url": "https://kodi.tv/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠FlyStream - Streaming App /",
+                            "links": [
+                                {
+                                    "name": "⁠FlyStream",
+                                    "url": "https://flystream.net/apps"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/flystream"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AIOStreams - Streaming App / Debrid or Usenet Required",
+                            "links": [
+                                {
+                                    "name": "⁠AIOStreams",
+                                    "url": "https://docs.aiostreams.viren070.me/apps/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "YTCast - Cast YouTube Videos to Smart TV",
+                            "links": [
+                                {
+                                    "name": "YTCast",
+                                    "url": "https://github.com/MarcoLucidi01/ytcast"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "iSponsorBlockTV - SponsorBlock App",
+                            "links": [
+                                {
+                                    "name": "iSponsorBlockTV",
+                                    "url": "https://github.com/dmunozv04/iSponsorBlockTV"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Playlet - Ad-Free YouTube Roku Client /",
+                            "links": [
+                                {
+                                    "name": "Playlet",
+                                    "url": "https://channelstore.roku.com/details/4a41d0921265a5e31429a7679442153f:b5bcb5b630c28b01e93bf59856317b43/playlet"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/iBicha/playlet"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Twoku - Improved Roku Twitch Client",
+                            "links": [
+                                {
+                                    "name": "⁠Twoku",
+                                    "url": "https://github.com/worldreboot/twitch-reloaded-roku"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠RoMote - Open-Source Roku Remote",
+                            "links": [
+                                {
+                                    "name": "⁠RoMote",
+                                    "url": "https://github.com/wseemann/RoMote"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SmartTwitchTV - Smart TV Twitch App",
+                            "links": [
+                                {
+                                    "name": "SmartTwitchTV",
+                                    "url": "https://github.com/fgl27/SmartTwitchTV"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Go2TV or FCast - Cast to Smart TVs",
+                            "links": [
+                                {
+                                    "name": "Go2TV",
+                                    "url": "https://github.com/alexballas/go2tv"
+                                },
+                                {
+                                    "name": "FCast",
+                                    "url": "https://fcast.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "smart-tv-telegram - Stream Media from Telegram to Smart TV",
+                            "links": [
+                                {
+                                    "name": "smart-tv-telegram",
+                                    "url": "https://github.com/andrew-ld/smart-tv-telegram"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ChanSort - TV Channel List Editor for Samsung, LG, etc.",
+                            "links": [
+                                {
+                                    "name": "ChanSort",
+                                    "url": "https://github.com/PredatH0r/ChanSort"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Samsung Smart TV Adblock - Block Samsung + Smart TV Ads",
+                            "links": [
+                                {
+                                    "name": "Samsung Smart TV Adblock",
+                                    "url": "https://redd.it/gn7fw5"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Apps2Samsung - Tizen Device Sideloading Tool / Packages",
+                            "links": [
+                                {
+                                    "name": "Apps2Samsung",
+                                    "url": "https://github.com/Apps2Samsung"
+                                },
+                                {
+                                    "name": "Packages",
+                                    "url": "https://github.com/Apps2Samsung/tizen-community-packages"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MuTube , ⁠Unwatched / or Yattee - Apple TV YouTube Apps",
+                            "links": [
+                                {
+                                    "name": "⁠MuTube",
+                                    "url": "https://github.com/Exaphis/mutube"
+                                },
+                                {
+                                    "name": "⁠Unwatched",
+                                    "url": "https://apps.apple.com/app/unwatched-para-youtube/id6477287463"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/fer0n/Unwatched"
+                                },
+                                {
+                                    "name": "Yattee",
+                                    "url": "https://github.com/yattee/yattee"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Blackb0x - Apple TV Jailbreak",
+                            "links": [
+                                {
+                                    "name": "Blackb0x",
+                                    "url": "https://github.com/NSSpiral/Blackb0x"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ATVLoadly - Apple TV Sideloading",
+                            "links": [
+                                {
+                                    "name": "ATVLoadly",
+                                    "url": "https://github.com/bitxeno/atvloadly"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Android TV / Firestick",
+                    "level": "h3",
+                    "text_explanations": [
+                        "TIP",
+                        "The Firestick Select cannot run any Android Apps."
+                    ],
+                    "resource_items": [
+                        {
+                            "full_text": "Awesome Android TV , Ultimate Android TV or ⁠TroyPoint - Android TV App Indexes",
+                            "links": [
+                                {
+                                    "name": "Awesome Android TV",
+                                    "url": "https://github.com/Generator/Awesome-Android-TV-FOSS-Apps"
+                                },
+                                {
+                                    "name": "Ultimate Android TV",
+                                    "url": "https://xdaforums.com/t/android-ultimate-collection-guides.4513231/#post-87676359"
+                                },
+                                {
+                                    "name": "⁠TroyPoint",
+                                    "url": "https://troypoint.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KPFire - Firestick App Index",
+                            "links": [
+                                {
+                                    "name": "KPFire",
+                                    "url": "https://linktr.ee/kpfire"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Android Streaming / Apps",
+                            "links": [
+                                {
+                                    "name": "Android Streaming",
+                                    "url": "https://fmhy.net/mobile/#android-streaming"
+                                },
+                                {
+                                    "name": "Apps",
+                                    "url": "https://fmhy.net/mobile/#untouched-apks"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "NuvioTV / Tools / Stremio Sync / Plugins / Wiki / Guides / - Streaming App / Stremio Support",
+                            "links": [
+                                {
+                                    "name": "NuvioTV",
+                                    "url": "https://github.com/NuvioMedia/NuvioTV"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
+                                },
+                                {
+                                    "name": "Stremio Sync",
+                                    "url": "https://nuviosync.com/"
+                                },
+                                {
+                                    "name": "Plugins",
+                                    "url": "https://nuvio-plugin-library.vercel.app/"
+                                },
+                                {
+                                    "name": "Wiki / Guides",
+                                    "url": "https://nuvio.wiki/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/KVgDTjhA4H"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TiviMate , 2 (search) or ⁠OwnTV - IPTV Players",
+                            "links": [
+                                {
+                                    "name": "TiviMate",
+                                    "url": "https://tivimate.com/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                },
+                                {
+                                    "name": "⁠OwnTV",
+                                    "url": "https://github.com/ahXN00/OwnTV/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Downloader App - Sideloading App / Downloader for Fire TV + Android TV / URL Shortener",
+                            "links": [
+                                {
+                                    "name": "Downloader App",
+                                    "url": "https://www.aftvnews.com/downloader"
+                                },
+                                {
+                                    "name": "URL Shortener",
+                                    "url": "https://go.aftvnews.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SmartTube / 2 / / or ⁠TizenTube Cobalt / / - Ad-Free Android TV / Firestick YouTube",
+                            "links": [
+                                {
+                                    "name": "SmartTube",
+                                    "url": "https://github.com/yuliskov/SmartTube"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://smarttubeapp.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Wt8HDDej5z"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/SmartTubeEN"
+                                },
+                                {
+                                    "name": "⁠TizenTube Cobalt",
+                                    "url": "https://github.com/reisxd/TizenTubeCobalt"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/m2P7v8Y2qR"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/tizentubecobaltofficial"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Flicky - F-Droid Client",
+                            "links": [
+                                {
+                                    "name": "⁠Flicky",
+                                    "url": "https://github.com/mlm-games/flicky"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Android TV Tools v4 - Multiple Android TV Tools",
+                            "links": [
+                                {
+                                    "name": "Android TV Tools v4",
+                                    "url": "https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v4.4648239/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Android TV Optimizer - Android TV Optimization Tool",
+                            "links": [
+                                {
+                                    "name": "⁠Android TV Optimizer",
+                                    "url": "https://github.com/bryanroscoe/shield_optimizer"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Android TV Piracy - Android TV Piracy Guide",
+                            "links": [
+                                {
+                                    "name": "Android TV Piracy",
+                                    "url": "https://rentry.co/androidtvpiracy"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Android TV Guide - Certified Android TV Devices / Spreadsheet",
+                            "links": [
+                                {
+                                    "name": "Android TV Guide",
+                                    "url": "https://www.androidtv-guide.com/"
+                                },
+                                {
+                                    "name": "Spreadsheet",
+                                    "url": "https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "StreamFire (search) - Live TV for Firestick",
+                            "links": [
+                                {
+                                    "name": "StreamFire",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "S0undTV - Twitch Player /",
+                            "links": [
+                                {
+                                    "name": "S0undTV",
+                                    "url": "https://github.com/S0und/S0undTV"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/zmNjK2S"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SmartTVKick - Ad-Free FireTV + Android TV Kick App",
+                            "links": [
+                                {
+                                    "name": "SmartTVKick",
+                                    "url": "https://github.com/CxWatcher/SmartTVKick"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Serenity Android - Emby Android TV App",
+                            "links": [
+                                {
+                                    "name": "Serenity Android",
+                                    "url": "https://github.com/NineWorlds/serenity-android"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CloudStream - Streaming App / Docs / Resources",
+                            "links": [
+                                {
+                                    "name": "CloudStream",
+                                    "url": "https://github.com/recloudstream/cloudstream"
+                                },
+                                {
+                                    "name": "Docs / Resources",
+                                    "url": "https://fmhy.net/mobile/#android-streaming"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Vega-Desktop - Streaming App",
+                            "links": [
+                                {
+                                    "name": "⁠Vega-Desktop",
+                                    "url": "https://github.com/vega-org/vega-desktop"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Atlantic - Streaming App",
+                            "links": [
+                                {
+                                    "name": "Atlantic",
+                                    "url": "https://atlantic.bz/android"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Syncler - Streaming App / Providers",
+                            "links": [
+                                {
+                                    "name": "Syncler",
+                                    "url": "https://syncler.net/"
+                                },
+                                {
+                                    "name": "Providers",
+                                    "url": "https://www.reddit.com/r/providers4syncler/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠SkyStream - Streaming App / Extension Based /",
+                            "links": [
+                                {
+                                    "name": "⁠SkyStream",
+                                    "url": "https://github.com/akashdh11/skystream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/73XGA8Mxn9"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vyla TV - Streaming App /",
+                            "links": [
+                                {
+                                    "name": "Vyla TV",
+                                    "url": "https://vyla.cc/products/tv"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://gitlab.com/vyla-entertainment/TV"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ARVIO - TV Media Server w/ Stremio Addons + IPTV Support /",
+                            "links": [
+                                {
+                                    "name": "ARVIO",
+                                    "url": "https://arvio.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ProdigyV21/ARVIO"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠StrexoPlayer - Video Player w/ Stremio Sync /",
+                            "links": [
+                                {
+                                    "name": "⁠StrexoPlayer",
+                                    "url": "https://strexoplayer.onrender.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/PEHZnB5B"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠mpvNova - Android TV Video / Media Player",
+                            "links": [
+                                {
+                                    "name": "⁠mpvNova",
+                                    "url": "https://github.com/Laskco/mpvNova"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nova Video Player - Android TV Video / Media Player",
+                            "links": [
+                                {
+                                    "name": "Nova Video Player",
+                                    "url": "https://github.com/nova-video-player/aos-AVP"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hayase - Torrent Streaming App / Extensions / Wiki",
+                            "links": [
+                                {
+                                    "name": "Hayase",
+                                    "url": "https://hayase.watch/"
+                                },
+                                {
+                                    "name": "Extensions",
+                                    "url": "https://rentry.co/FMHYB64#hayase"
+                                },
+                                {
+                                    "name": "Wiki",
+                                    "url": "https://wiki.hayase.watch/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Sozo - Anime Streaming App",
+                            "links": [
+                                {
+                                    "name": "⁠Sozo",
+                                    "url": "https://sozo.azamov.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Tatakai - Anime Streaming App / Extension-Based / /",
+                            "links": [
+                                {
+                                    "name": "⁠Tatakai",
+                                    "url": "https://tatakai.me/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/TWmbr7NYAW"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/snozxyx/tatakai"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "aDrama - Asian Drama Streaming App",
+                            "links": [
+                                {
+                                    "name": "aDrama",
+                                    "url": "https://adrama.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DigilogTV - News Streaming App",
+                            "links": [
+                                {
+                                    "name": "DigilogTV",
+                                    "url": "https://github.com/aldrinzigmundv/digilogtv"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "APKUpdater - APK Installer / Updater",
+                            "links": [
+                                {
+                                    "name": "APKUpdater",
+                                    "url": "https://github.com/rumboalla/apkupdater"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "atvTools (search) - Install Apps, Run ADB, Shell Commands, etc.",
+                            "links": [
+                                {
+                                    "name": "atvTools",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "tvQuickActions (search) - Remote Button Remapper / Requires Sign-Up",
+                            "links": [
+                                {
+                                    "name": "tvQuickActions",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Projectivy Launcher (search), 2 , 3 / XDA Thread / Icon Pack , AT4K Launcher / or Leanback on Fire - Android TV Launchers",
+                            "links": [
+                                {
+                                    "name": "Projectivy Launcher",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://play.google.com/store/apps/details?id=com.spocky.projengmenu"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://github.com/spocky/miproja1"
+                                },
+                                {
+                                    "name": "XDA Thread",
+                                    "url": "https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/"
+                                },
+                                {
+                                    "name": "Icon Pack",
+                                    "url": "https://github.com/SicMundus86/ProjectivyIconPack"
+                                },
+                                {
+                                    "name": "AT4K Launcher",
+                                    "url": "https://at4klauncher.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/AT4K/"
+                                },
+                                {
+                                    "name": "Leanback on Fire",
+                                    "url": "https://github.com/tsynik/LeanbackLauncher"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Launcher Manager - Change Default Launcher",
+                            "links": [
+                                {
+                                    "name": "Launcher Manager",
+                                    "url": "https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AerialViews - Custom Screensaver App",
+                            "links": [
+                                {
+                                    "name": "⁠AerialViews",
+                                    "url": "https://github.com/theothernt/AerialViews"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Tracking / Databases",
                     "level": "h2",
                     "text_explanations": [],
@@ -22316,11 +22348,15 @@
                             ]
                         },
                         {
-                            "full_text": "️ Blu-ray / DVD Resources",
+                            "full_text": "️ Blu-ray / DVD Resources / Tools",
                             "links": [
                                 {
                                     "name": "Blu-ray / DVD Resources",
                                     "url": "https://fmhy.net/misc/#physical-media-streaming"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video-tools/#physical-media-tools"
                                 }
                             ]
                         },
@@ -23246,7 +23282,7 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "ttps://wantmymtv.org/"
+                                    "url": "https://wantmymtv.org/"
                                 }
                             ]
                         },
@@ -27165,15 +27201,6 @@
                             ]
                         },
                         {
-                            "full_text": "LEAKED - MP3",
-                            "links": [
-                                {
-                                    "name": "LEAKED",
-                                    "url": "https://leaked.cx/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Tancpol - MP3",
                             "links": [
                                 {
@@ -28944,15 +28971,11 @@
                             ]
                         },
                         {
-                            "full_text": "Has it Leaked or LEAKED - Album Leak Tracker",
+                            "full_text": "Has it Leaked - Album Leak Tracker",
                             "links": [
                                 {
                                     "name": "Has it Leaked",
                                     "url": "https://hasitleaked.com/"
-                                },
-                                {
-                                    "name": "LEAKED",
-                                    "url": "https://leaked.cx/"
                                 }
                             ]
                         },
@@ -37711,15 +37734,6 @@
                                 {
                                     "name": "RetroArch Web",
                                     "url": "https://web.libretro.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Play Classic Games - Retro Consoles / Multiple-Emulators",
-                            "links": [
-                                {
-                                    "name": "Play Classic Games",
-                                    "url": "https://playclassic.games/"
                                 }
                             ]
                         },
@@ -56308,7 +56322,7 @@
                             "links": [
                                 {
                                     "name": "Pixeldrain Limit Bypass",
-                                    "url": "https://pixeldrain-bypass.gamedrive.to/"
+                                    "url": "https://pixeldrain-bypass.gamedrive.org/"
                                 }
                             ]
                         }
@@ -65701,15 +65715,19 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Wealth Shown to Scale , 2 - Global Wealth Inequality Visualization /",
+                            "full_text": "⁠Wealth Shown to Scale / , 2 / - Global Wealth Inequality Visualization",
                             "links": [
                                 {
                                     "name": "⁠Wealth Shown to Scale",
-                                    "url": "https://evolving-thoughts.github.io/1-pixel-wealth/"
+                                    "url": "https://litekin.github.io/pixel-wealth/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://codeberg.org/litekin/pixel-wealth/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://litekin.github.io/pixel-wealth/"
+                                    "url": "https://evolving-thoughts.github.io/1-pixel-wealth/"
                                 },
                                 {
                                     "name": "",
@@ -66169,6 +66187,15 @@
                                 {
                                     "name": "WikEnigma",
                                     "url": "https://wikenigma.org.uk/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Philosophy Experiments - Interactive Philosophy Experiments",
+                            "links": [
+                                {
+                                    "name": "⁠Philosophy Experiments",
+                                    "url": "https://www.philosophyexperiments.com/"
                                 }
                             ]
                         },
@@ -77482,6 +77509,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠5Play /",
+                            "links": [
+                                {
+                                    "name": "⁠5Play",
+                                    "url": "https://5play.org/en/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/+NuCc8y6KVbAyYmFi"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Farsroid - Use Translator /",
                             "links": [
                                 {
@@ -78201,6 +78241,15 @@
                                 {
                                     "name": "mLauncher",
                                     "url": "https://github.com/DroidWorksStudio/mLauncher"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Grace Launcher - Single-Hand Launcher",
+                            "links": [
+                                {
+                                    "name": "⁠Grace Launcher",
+                                    "url": "https://github.com/Galaxy-rio/GraceLauncher"
                                 }
                             ]
                         },
@@ -82087,15 +82136,11 @@
                             ]
                         },
                         {
-                            "full_text": "URLCheck , Tarnhelm , LinkSheet or Untracker - URL Cleaners / Tracking Removal",
+                            "full_text": "URLCheck , LinkSheet or Untracker - URL Cleaners / Tracking Removal",
                             "links": [
                                 {
                                     "name": "URLCheck",
                                     "url": "https://github.com/TrianguloY/URLCheck"
-                                },
-                                {
-                                    "name": "Tarnhelm",
-                                    "url": "https://github.com/lz233/Tarnhelm"
                                 },
                                 {
                                     "name": "LinkSheet",
@@ -90793,7 +90838,7 @@
                                 },
                                 {
                                     "name": "Modules",
-                                    "url": "https://8spine-moduels.pages.dev/"
+                                    "url": "https://8spine-modules.pages.dev/"
                                 }
                             ]
                         },
@@ -100015,11 +100060,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Vorssaint - Menu Bar Toolkit /",
+                            "full_text": "⁠Vorssaint - Menu Bar Toolkit / /",
                             "links": [
                                 {
                                     "name": "⁠Vorssaint",
                                     "url": "https://vorssaint.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/vorssaint"
                                 },
                                 {
                                     "name": "",
@@ -101155,7 +101204,7 @@
                             "links": [
                                 {
                                     "name": "TopCinema",
-                                    "url": "https://topcinema.io/"
+                                    "url": "https://topcinemaa.vip/"
                                 },
                                 {
                                     "name": "Adblock",
@@ -101283,7 +101332,7 @@
                             "links": [
                                 {
                                     "name": "TopCinema",
-                                    "url": "https://topcinema.io/"
+                                    "url": "https://topcinemaa.vip/"
                                 },
                                 {
                                     "name": "Adblock",
@@ -104651,6 +104700,15 @@
                                 {
                                     "name": "frembed",
                                     "url": "https://frembed.uno/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "dulourd - Movies / TV / Geoblocked",
+                            "links": [
+                                {
+                                    "name": "dulourd",
+                                    "url": "https://www.dulourd.boo/"
                                 }
                             ]
                         },
@@ -126447,15 +126505,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠RedRecs or RedditRecs - Reddit Product Rankings, Summaries, and Comments",
+                            "full_text": "⁠RedRecs - Reddit Product Rankings, Summaries, and Comments",
                             "links": [
                                 {
                                     "name": "⁠RedRecs",
                                     "url": "https://www.redrecs.com/"
-                                },
-                                {
-                                    "name": "RedditRecs",
-                                    "url": "https://redditrecs.com/"
                                 }
                             ]
                         },
@@ -129215,6 +129269,15 @@
                                 {
                                     "name": "r/GetMotivated",
                                     "url": "https://www.reddit.com/r/GetMotivated/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Project Karma - Productivity RPG",
+                            "links": [
+                                {
+                                    "name": "Project Karma",
+                                    "url": "https://projectkarma.me/"
                                 }
                             ]
                         },
@@ -133243,11 +133306,11 @@
                             ]
                         },
                         {
-                            "full_text": "Chrome Experiments - Toys / Games",
+                            "full_text": "Experiments with Google - Toys / Games",
                             "links": [
                                 {
-                                    "name": "Chrome Experiments",
-                                    "url": "https://experiments.withgoogle.com/collection/chrome"
+                                    "name": "Experiments with Google",
+                                    "url": "https://experiments.withgoogle.com/collections"
                                 }
                             ]
                         },
@@ -141635,7 +141698,7 @@
                                 },
                                 {
                                     "name": "Bypass",
-                                    "url": "https://pixeldrain-bypass.gamedrive.to/"
+                                    "url": "https://pixeldrain-bypass.gamedrive.org/"
                                 }
                             ]
                         },
@@ -142716,15 +142779,6 @@
                             ]
                         },
                         {
-                            "full_text": "FileLu - 10GB / Forever / ~$3.13 for 40TB /",
-                            "links": [
-                                {
-                                    "name": "FileLu",
-                                    "url": "https://filelu.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "MrOwl - 10GB / ~$16.67 (1TB Premium Plus)",
                             "links": [
                                 {
@@ -142766,6 +142820,15 @@
                                 {
                                     "name": "Cloudflare R2",
                                     "url": "https://www.cloudflare.com/products/r2/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FileLu - 1GB / Forever / ~$3.13 for 40TB /",
+                            "links": [
+                                {
+                                    "name": "FileLu",
+                                    "url": "https://filelu.com/"
                                 }
                             ]
                         },
@@ -152511,6 +152574,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/rSUyXeCHBE"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠ShrinkCord - Web Discord Video Compression Extension",
+                            "links": [
+                                {
+                                    "name": "⁠ShrinkCord",
+                                    "url": "https://github.com/isaac4096/shrink-cord"
                                 }
                             ]
                         },
@@ -163640,6 +163712,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Tinta",
+                            "links": [
+                                {
+                                    "name": "⁠Tinta",
+                                    "url": "https://github.com/oipoistar/tinta"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MarkdownLivePreview",
                             "links": [
                                 {
@@ -169227,11 +169308,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Multiplayer Mods Mega List or Unmoddable - Multiplayer Mods for Single-Player Games",
+                            "full_text": "Multiplayer Mods Mega List , CoOp:Anything / or Unmoddable - Multiplayer Mods for Single-Player Games",
                             "links": [
                                 {
                                     "name": "Multiplayer Mods Mega List",
                                     "url": "https://megalist.neocities.org/mpm"
+                                },
+                                {
+                                    "name": "CoOp:Anything",
+                                    "url": "https://coopanything.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/cranebeaker/coop-anything"
                                 },
                                 {
                                     "name": "Unmoddable",
@@ -171102,15 +171191,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/2ApmZKs"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DarkSoftware - PS4 / PS3 Firmware",
-                            "links": [
-                                {
-                                    "name": "DarkSoftware",
-                                    "url": "https://www.darksoftware.xyz/"
                                 }
                             ]
                         },
@@ -174236,6 +174316,19 @@
                                 {
                                     "name": "EuropeanBuilds",
                                     "url": "https://en.europeanbuilds.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠ARAMKit - LoL ARAM Mayhem Builds / Champion & Augment Stats / Companion App",
+                            "links": [
+                                {
+                                    "name": "⁠ARAMKit",
+                                    "url": "https://aramkit.com/"
+                                },
+                                {
+                                    "name": "Companion App",
+                                    "url": "https://aramkit.com/en-US/client"
                                 }
                             ]
                         },
@@ -186559,6 +186652,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "️ Physical Media Shopping",
+                            "links": [
+                                {
+                                    "name": "Physical Media Shopping",
+                                    "url": "https://fmhy.net/misc/#physical-media-streaming"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ImgBurn - CD / DVD Burning /",
                             "links": [
                                 {
@@ -192100,7 +192202,7 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "ttps://wantmymtv.org/"
+                                    "url": "https://wantmymtv.org/"
                                 }
                             ]
                         },
@@ -196019,15 +196121,6 @@
                             ]
                         },
                         {
-                            "full_text": "LEAKED - MP3",
-                            "links": [
-                                {
-                                    "name": "LEAKED",
-                                    "url": "https://leaked.cx/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Tancpol - MP3",
                             "links": [
                                 {
@@ -197798,15 +197891,11 @@
                             ]
                         },
                         {
-                            "full_text": "Has it Leaked or LEAKED - Album Leak Tracker",
+                            "full_text": "Has it Leaked - Album Leak Tracker",
                             "links": [
                                 {
                                     "name": "Has it Leaked",
                                     "url": "https://hasitleaked.com/"
-                                },
-                                {
-                                    "name": "LEAKED",
-                                    "url": "https://leaked.cx/"
                                 }
                             ]
                         },
@@ -209946,15 +210035,19 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Wealth Shown to Scale , 2 - Global Wealth Inequality Visualization /",
+                            "full_text": "⁠Wealth Shown to Scale / , 2 / - Global Wealth Inequality Visualization",
                             "links": [
                                 {
                                     "name": "⁠Wealth Shown to Scale",
-                                    "url": "https://evolving-thoughts.github.io/1-pixel-wealth/"
+                                    "url": "https://litekin.github.io/pixel-wealth/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://codeberg.org/litekin/pixel-wealth/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://litekin.github.io/pixel-wealth/"
+                                    "url": "https://evolving-thoughts.github.io/1-pixel-wealth/"
                                 },
                                 {
                                     "name": "",
@@ -210414,6 +210507,15 @@
                                 {
                                     "name": "WikEnigma",
                                     "url": "https://wikenigma.org.uk/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Philosophy Experiments - Interactive Philosophy Experiments",
+                            "links": [
+                                {
+                                    "name": "⁠Philosophy Experiments",
+                                    "url": "https://www.philosophyexperiments.com/"
                                 }
                             ]
                         },
@@ -223915,10 +224017,10 @@
                             ]
                         },
                         {
-                            "full_text": "Streaming Site APIs / Embedding",
+                            "full_text": "Streaming APIs / Embedding / Resolvers",
                             "links": [
                                 {
-                                    "name": "Streaming Site APIs / Embedding",
+                                    "name": "Streaming APIs / Embedding / Resolvers",
                                     "url": "https://rentry.co/FMHYB64#streaming-apis"
                                 }
                             ]
@@ -224394,6 +224496,19 @@
                                 {
                                     "name": "Tracy Profiler",
                                     "url": "https://github.com/wolfpld/tracy"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠RenderDoc - Graphics Debugging Tool /",
+                            "links": [
+                                {
+                                    "name": "⁠RenderDoc",
+                                    "url": "https://renderdoc.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/baldurk/renderdoc"
                                 }
                             ]
                         },
@@ -234336,6 +234451,15 @@
                             ]
                         },
                         {
+                            "full_text": "ClearURLs - Clean URLs / Remove Tracking Elements from URLs / Can Break Sites / Note · 46a3283",
+                            "links": [
+                                {
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-63f093e241b42cc6a5bb1d51a1c56fa82ce3442b96dba463253c622b72898ff6L355"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "DuckDuckBang - DuckDuckGo !bang Meta Search / GitHub · 1e1b701",
                             "links": [
                                 {
@@ -234494,11 +234618,11 @@
                             ]
                         },
                         {
-                            "full_text": "Hide My Applist - Hide Applist · 1888938",
+                            "full_text": "Tarnhelm - URL Cleaners / Tracking Removal · 46a3283",
                             "links": [
                                 {
-                                    "name": "1888938",
-                                    "url": "https://github.com/fmhy/edit/commit/18889385ab5047243ff704ba55c64259db5ec3db#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L525"
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L509"
                                 }
                             ]
                         }
@@ -235073,15 +235197,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Awesome Free File Hosting - File Host Indexes · 1888938",
-                            "links": [
-                                {
-                                    "name": "1888938",
-                                    "url": "https://github.com/fmhy/edit/commit/18889385ab5047243ff704ba55c64259db5ec3db#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL327"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Clonr - MEGA Link Direct Downloader · ac1c081",
                             "links": [
                                 {
@@ -235269,6 +235384,15 @@
                             ]
                         },
                         {
+                            "full_text": "Play Classic Games - Retro Consoles / Multiple-Emulators · 46a3283",
+                            "links": [
+                                {
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL449"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Reality Incorporated - ROM Fan Translations / Hacks · bcc0b40",
                             "links": [
                                 {
@@ -235435,6 +235559,15 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "DarkSoftware - PS4 / PS3 Firmware · 46a3283",
+                            "links": [
+                                {
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L645"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "r/360Hacks Guide - Xbox 360 Modding Guides List · e092b2d",
                             "links": [
@@ -235785,6 +235918,15 @@
                                     "url": "https://github.com/fmhy/edit/commit/c253c92a31b1b3645ebd2b008dc5816e1fcfa624#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1768"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "Chrome Experiments - Toys / Games · 46a3283",
+                            "links": [
+                                {
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1890"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -235874,6 +236016,22 @@
                                 {
                                     "name": "4d55068",
                                     "url": "https://github.com/fmhy/edit/commit/4d55068528e84ebfd15e1ba46e3a70fc42fe1cba#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL721"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Shopping",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "RedditRecs - Reddit Product Rankings, Summaries, and Comments · 46a3283",
+                            "links": [
+                                {
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1150"
                                 }
                             ]
                         }
@@ -236489,6 +236647,15 @@
                             ]
                         },
                         {
+                            "full_text": "NoirX - Movies / TV / Anime / Auto-Next / Discord · 46a3283",
+                            "links": [
+                                {
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL55"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Overlook - Movies / TV / Anime / Discord · 5c6d326",
                             "links": [
                                 {
@@ -236748,6 +236915,15 @@
                                     "url": "https://github.com/fmhy/edit/commit/fa613caa009099ccb5b9b832921e68a2610ce708#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L429"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "LEAKED - MP3 · 46a3283",
+                            "links": [
+                                {
+                                    "name": "46a3283",
+                                    "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L494"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -236998,15 +237174,6 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
-                        {
-                            "full_text": "dulourd - Movies / TV · 6fab4d6",
-                            "links": [
-                                {
-                                    "name": "6fab4d6",
-                                    "url": "https://github.com/fmhy/edit/commit/6fab4d6a4be7373b69616ac7e68f62dfadf77437#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L473"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "nakastream - Movies / TV / Anime / Invites in Discord / Status / Telegram · 5fbf2d3",
                             "links": [
@@ -237271,15 +237438,6 @@
                                 {
                                     "name": "9dfd9ed",
                                     "url": "https://github.com/fmhy/edit/commit/9dfd9ed57a02809831224f254b1705df5a200f74#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1655"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Anizm - Anime · 1888938",
-                            "links": [
-                                {
-                                    "name": "1888938",
-                                    "url": "https://github.com/fmhy/edit/commit/18889385ab5047243ff704ba55c64259db5ec3db#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1661"
                                 }
                             ]
                         }
@@ -239268,82 +239426,82 @@
                             ]
                         },
                         {
-                            "full_text": "https://searx.fmhy.net/",
+                            "full_text": "searx.fmhy",
                             "links": [
                                 {
-                                    "name": "https://searx.fmhy.net/",
+                                    "name": "searx.fmhy",
                                     "url": "https://searx.fmhy.net/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://search.fuckoffgoogle.net/",
+                            "full_text": "foffgoogle",
                             "links": [
                                 {
-                                    "name": "https://search.fuckoffgoogle.net/",
+                                    "name": "foffgoogle",
                                     "url": "https://search.fuckoffgoogle.net/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://searx.neocities.org/",
+                            "full_text": "searx.neocities",
                             "links": [
                                 {
-                                    "name": "https://searx.neocities.org/",
+                                    "name": "searx.neocities",
                                     "url": "https://searx.neocities.org/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://monocles.de/",
+                            "full_text": "monocles",
                             "links": [
                                 {
-                                    "name": "https://monocles.de/",
+                                    "name": "monocles",
                                     "url": "https://monocles.de/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://searx.oloke.xyz/",
+                            "full_text": "searx.oloke",
                             "links": [
                                 {
-                                    "name": "https://searx.oloke.xyz/",
+                                    "name": "searx.oloke",
                                     "url": "https://searx.oloke.xyz/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://searxng.canine.tools/",
+                            "full_text": "searxng.canine",
                             "links": [
                                 {
-                                    "name": "https://searxng.canine.tools/",
+                                    "name": "searxng.canine",
                                     "url": "https://searxng.canine.tools/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://searloc.org/",
+                            "full_text": "searloc",
                             "links": [
                                 {
-                                    "name": "https://searloc.org/",
+                                    "name": "searloc",
                                     "url": "https://searloc.org/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://search.mdosch.de/",
+                            "full_text": "mdosch",
                             "links": [
                                 {
-                                    "name": "https://search.mdosch.de/",
+                                    "name": "mdosch",
                                     "url": "https://search.mdosch.de/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "https://www.gruble.de/",
+                            "full_text": "Gruble",
                             "links": [
                                 {
-                                    "name": "https://www.gruble.de/",
+                                    "name": "Gruble",
                                     "url": "https://www.gruble.de/"
                                 }
                             ]
