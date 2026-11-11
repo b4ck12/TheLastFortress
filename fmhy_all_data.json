@@ -367,7 +367,14 @@
                 {
                     "heading": "Reading",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Avoid fake download links, useTorrents / Magnets, or paste info hash into torrent client.",
+                        "How to Fix Unclickable Links:",
+                        "Copy the Info Hash (40 hex chars) from the torrent details.",
+                        "Copy the first Tracker URL from the list.",
+                        "Paste them into this pattern in a text editor: magnet:?xt=urn:btih:HASH&tr=TRACKER (Replace HASH and TRACKER with your copied values.)",
+                        "Paste the final magnet link into your torrent client (e.g. qBittorrent) via \"Add Torrent from URL\"."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Downloading: Anna's Archive / Z-Library",
@@ -383,7 +390,7 @@
                             ]
                         },
                         {
-                            "full_text": "Audiobooks: Mobilism Audiobooks / AudiobookBay /",
+                            "full_text": "Audiobooks: Mobilism Audiobooks / AudiobookBay / Avoid fake download links, use Torrents / Magnets , or paste info hash into torrent client. How to Fix Unclickable Links: Copy the Info Hash (40 hex chars) from the torrent details. Copy the first Tracker URL from the list. Paste them into this pattern in a text editor: magnet:?xt=urn:btih:HASH&tr=TRACKER (Replace HASH and TRACKER with your copied values.) Paste the final magnet link into your torrent client (e.g. qBittorrent) via \"Add Torrent from URL\". Source",
                             "links": [
                                 {
                                     "name": "Mobilism Audiobooks",
@@ -392,6 +399,14 @@
                                 {
                                     "name": "AudiobookBay",
                                     "url": "https://audiobookbay.lu/"
+                                },
+                                {
+                                    "name": "Torrents / Magnets",
+                                    "url": "https://i.ibb.co/8sV2061/0fa8159b11bb.png"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-critical.md"
                                 }
                             ]
                         },
@@ -868,6 +883,18 @@
                         "For these reasons, there are too many conditions and nuances to satisfy to make an easy-to-follow guide. However, you can generally get an idea by looking at how existing links are structured.",
                         "Note that we do try to order sections from best to worst, and if multiple links are on the same line, only theboldones are considered stars.",
                         "If you're unsure, ask in the wiki channels onDiscordand wait for a staff member to reply."
+                    ],
+                    "resource_items": []
+                },
+                {
+                    "heading": "Notes: Regular vs Warning",
+                    "level": "h3",
+                    "text_explanations": [
+                        "Note files live indocs/.vitepress/notes/. They are rendered as popover tooltips next to the link text, with a small info icon.",
+                        "Regular notes: *-note.md or plain names (e.g. spicetify-note.md ). Shown with a blue info icon.",
+                        "Warning notes (must be read — safety, malware, bootloop, account bans, data loss, fake download buttons): name the file *-critical.md (the suffix is internal only) and end its first heading with Warning (e.g. winrar-critical.md → #### WinRAR Warning ). These render with a red info icon instead of blue (amber in the red themes, where red is already the brand colour), and clicking the entry's main link first opens the warning with a Don't show again option; dismissals are stored per-note in localStorage ( fmhy-critical-notes-dismissed ). Editing a warning note's content re-prompts users who dismissed it.",
+                        "To mark a note as a warning without renaming the file, add frontmatter at the top:",
+                        "critical: falsedemotes a*-critical.mdfile back to a regular note. When in doubt, ask in Discord — when a note involves security, bans, or misleading downloads, treat it as a warning."
                     ],
                     "resource_items": []
                 },
@@ -3041,7 +3068,10 @@
                 {
                     "heading": "Browser Privacy",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen.",
+                        "Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Browser Privacy Guides - Browser Privacy / Setup Guides",
@@ -3168,7 +3198,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Phoenix - Firefox Privacy Tweak / /",
+                            "full_text": "⁠Phoenix - Firefox Privacy Tweak / / Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen. Source",
                             "links": [
                                 {
                                     "name": "⁠Phoenix",
@@ -3177,11 +3207,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/celenityy/Phoenix"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md"
                                 }
                             ]
                         },
                         {
-                            "full_text": "arkenfox - Firefox Privacy Tweak / Video / GUI /",
+                            "full_text": "arkenfox - Firefox Privacy Tweak / Video / GUI / Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen. Source",
                             "links": [
                                 {
                                     "name": "arkenfox",
@@ -3194,6 +3228,10 @@
                                 {
                                     "name": "GUI",
                                     "url": "https://arkenfox.github.io/gui/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md"
                                 }
                             ]
                         },
@@ -19431,7 +19469,8 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Keep in mind thattorrent aggregators, or setups like Nuvio/Stremio & Torrentio, are sometimes better when it comes to finding content."
+                        "Keep in mind thattorrent aggregators, or setups like Nuvio/Stremio & Torrentio, are sometimes better when it comes to finding content.",
+                        "YTS / Yify has many fake copycat sites out there, make sure you're on one of the official domains before downloading anything. To be extra protected from fake sites, check outFMHY SafeGuardand theFMHY Filterlist."
                     ],
                     "resource_items": [
                         {
@@ -19645,7 +19684,7 @@
                             ]
                         },
                         {
-                            "full_text": "YTS or YifyMovies - Movies / 4K / Proxies / Status / /",
+                            "full_text": "YTS or YifyMovies - Movies / 4K / Proxies / Status / / YTS / Yify has many fake copycat sites out there, make sure you're on one of the official domains before downloading anything. To be extra protected from fake sites, check out FMHY SafeGuard and the FMHY Filterlist . Source",
                             "links": [
                                 {
                                     "name": "YTS",
@@ -19666,6 +19705,18 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/GwDraJjMga"
+                                },
+                                {
+                                    "name": "FMHY SafeGuard",
+                                    "url": "https://github.com/fmhy/FMHY-SafeGuard"
+                                },
+                                {
+                                    "name": "FMHY Filterlist",
+                                    "url": "https://github.com/fmhy/FMHYFilterlist"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/yts-yify-critical.md"
                                 }
                             ]
                         },
@@ -33767,7 +33818,8 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Repacks are compressed versions of games that exchange smaller downloads for longer installation times. They allow you to unselect unnecessary / optional bonus content, and occasionally have extras not included in other releases. Good if you have low bandwidth or data limits."
+                        "Repacks are compressed versions of games that exchange smaller downloads for longer installation times. They allow you to unselect unnecessary / optional bonus content, and occasionally have extras not included in other releases. Good if you have low bandwidth or data limits.",
+                        "It is highly recommended to stick to DODI's 1337x page, as sites they redirect to from their main site often have malicious fake download buttons, and shouldn't be used without anadblocker."
                     ],
                     "resource_items": [
                         {
@@ -33805,7 +33857,7 @@
                             ]
                         },
                         {
-                            "full_text": "DODI Repacks - Torrent / Redirect Bypass / /",
+                            "full_text": "DODI Repacks - Torrent / Redirect Bypass / / It is highly recommended to stick to DODI's 1337x page, as sites they redirect to from their main site often have malicious fake download buttons, and shouldn't be used without an adblocker . Source",
                             "links": [
                                 {
                                     "name": "DODI Repacks",
@@ -33818,6 +33870,14 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/D9WU7C9FSE"
+                                },
+                                {
+                                    "name": "adblocker",
+                                    "url": "https://fmhy.net/privacy#adblocking"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-critical.md"
                                 }
                             ]
                         },
@@ -45892,7 +45952,9 @@
                 {
                     "heading": "Ebook Readers",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can be skipped by clicking \"decline\" both times."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Ebook Reader Index or Mobile Read - Ebook Reader Indexes",
@@ -46010,7 +46072,7 @@
                             ]
                         },
                         {
-                            "full_text": "Foxit - PDF Reader / All Platforms / Features (search) /",
+                            "full_text": "Foxit - PDF Reader / All Platforms / Features (search) / The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can be skipped by clicking \"decline\" both times. Source",
                             "links": [
                                 {
                                     "name": "Foxit",
@@ -46019,6 +46081,10 @@
                                 {
                                     "name": "Features",
                                     "url": "https://fmhy.net/downloading/#software-sites"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-critical.md"
                                 }
                             ]
                         },
@@ -48023,7 +48089,14 @@
                 {
                     "heading": "Downloading",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Avoid fake download links, useTorrents / Magnets, or paste info hash into torrent client.",
+                        "How to Fix Unclickable Links:",
+                        "Copy the Info Hash (40 hex chars) from the torrent details.",
+                        "Copy the first Tracker URL from the list.",
+                        "Paste them into this pattern in a text editor: magnet:?xt=urn:btih:HASH&tr=TRACKER (Replace HASH and TRACKER with your copied values.)",
+                        "Paste the final magnet link into your torrent client (e.g. qBittorrent) via \"Add Torrent from URL\"."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Mobilism Audiobooks , 2 /",
@@ -48039,11 +48112,19 @@
                             ]
                         },
                         {
-                            "full_text": "AudiobookBay - Torrents /",
+                            "full_text": "AudiobookBay - Torrents / Avoid fake download links, use Torrents / Magnets , or paste info hash into torrent client. How to Fix Unclickable Links: Copy the Info Hash (40 hex chars) from the torrent details. Copy the first Tracker URL from the list. Paste them into this pattern in a text editor: magnet:?xt=urn:btih:HASH&tr=TRACKER (Replace HASH and TRACKER with your copied values.) Paste the final magnet link into your torrent client (e.g. qBittorrent) via \"Add Torrent from URL\". Source",
                             "links": [
                                 {
                                     "name": "AudiobookBay",
                                     "url": "https://audiobookbay.lu/"
+                                },
+                                {
+                                    "name": "Torrents / Magnets",
+                                    "url": "https://i.ibb.co/8sV2061/0fa8159b11bb.png"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-critical.md"
                                 }
                             ]
                         },
@@ -55408,7 +55489,9 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, useredirect bypassersto skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Read thisguideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host."
+                        "General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, useredirect bypassersto skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Read thisguideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.",
+                        "Note that Sanet has been known to host unsafe things like KMS Matrix, so it's best to avoid it for software and games.",
+                        "SoftArchive Mirrors"
                     ],
                     "resource_items": [
                         {
@@ -55601,7 +55684,7 @@
                             ]
                         },
                         {
-                            "full_text": "SoftArchive , 2 , 3 , 4 , 5 , 6 , 7 - Audio / Books / Comics / Newspapers / Magazines / Status /",
+                            "full_text": "SoftArchive , 2 , 3 , 4 , 5 , 6 , 7 - Audio / Books / Comics / Newspapers / Magazines / Status / Note that Sanet has been known to host unsafe things like KMS Matrix, so it's best to avoid it for software and games. SoftArchive Mirrors https://sanet.download/ https://softarchive.is/ https://sanet.lc/ https://sanet.ws/ https://sanet.st/ https://sanet.sb/ https://soft.ac/ Source",
                             "links": [
                                 {
                                     "name": "SoftArchive",
@@ -55634,6 +55717,101 @@
                                 {
                                     "name": "Status",
                                     "url": "https://sastatus.com/"
+                                },
+                                {
+                                    "name": "https://sanet.download/",
+                                    "url": "https://sanet.download/"
+                                },
+                                {
+                                    "name": "https://softarchive.is/",
+                                    "url": "https://softarchive.is/"
+                                },
+                                {
+                                    "name": "https://sanet.lc/",
+                                    "url": "https://sanet.lc/"
+                                },
+                                {
+                                    "name": "https://sanet.ws/",
+                                    "url": "https://sanet.ws/"
+                                },
+                                {
+                                    "name": "https://sanet.st/",
+                                    "url": "https://sanet.st/"
+                                },
+                                {
+                                    "name": "https://sanet.sb/",
+                                    "url": "https://sanet.sb/"
+                                },
+                                {
+                                    "name": "https://soft.ac/",
+                                    "url": "https://soft.ac/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-critical.md"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.download/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.download/",
+                                    "url": "https://sanet.download/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://softarchive.is/",
+                            "links": [
+                                {
+                                    "name": "https://softarchive.is/",
+                                    "url": "https://softarchive.is/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.lc/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.lc/",
+                                    "url": "https://sanet.lc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.ws/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.ws/",
+                                    "url": "https://sanet.ws/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.st/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.st/",
+                                    "url": "https://sanet.st/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.sb/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.sb/",
+                                    "url": "https://sanet.sb/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://soft.ac/",
+                            "links": [
+                                {
+                                    "name": "https://soft.ac/",
+                                    "url": "https://soft.ac/"
                                 }
                             ]
                         },
@@ -55647,6 +55825,69 @@
                                 {
                                     "name": "Debrid",
                                     "url": "https://fmhy.net/downloading/#debrid-leeches"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.download/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.download/",
+                                    "url": "https://sanet.download/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://softarchive.is/",
+                            "links": [
+                                {
+                                    "name": "https://softarchive.is/",
+                                    "url": "https://softarchive.is/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.lc/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.lc/",
+                                    "url": "https://sanet.lc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.ws/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.ws/",
+                                    "url": "https://sanet.ws/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.st/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.st/",
+                                    "url": "https://sanet.st/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://sanet.sb/",
+                            "links": [
+                                {
+                                    "name": "https://sanet.sb/",
+                                    "url": "https://sanet.sb/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "https://soft.ac/",
+                            "links": [
+                                {
+                                    "name": "https://soft.ac/",
+                                    "url": "https://soft.ac/"
                                 }
                             ]
                         }
@@ -77220,7 +77461,9 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Keep in mind some modded APK sites will list apps with fake names, which are generally not worth using. Make sure to install anadblocker, always verify that the uploaders are trustworthy when using forums as your APK source."
+                        "Keep in mind some modded APK sites will list apps with fake names, which are generally not worth using. Make sure to install anadblocker, always verify that the uploaders are trustworthy when using forums as your APK source.",
+                        "The sites are safe to use. Yet they are known for labelling and hosting Rockmods's APKs as their own. Furthermore, they also mislabel old APK version releases as “new.”",
+                        "The sites are safe to use. Yet they are known for labelling and hosting Rockmods's APKs as their own. Furthermore, they also mislabel old APK version releases as “new.”"
                     ],
                     "resource_items": [
                         {
@@ -77381,7 +77624,7 @@
                             ]
                         },
                         {
-                            "full_text": "LiteAPKs / App / /",
+                            "full_text": "LiteAPKs / App / / The sites are safe to use. Yet they are known for labelling and hosting Rockmods's APKs as their own. Furthermore, they also mislabel old APK version releases as “new.” Source",
                             "links": [
                                 {
                                     "name": "LiteAPKs",
@@ -77394,11 +77637,15 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/liteapks"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-critical.md"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Modyolo / /",
+                            "full_text": "Modyolo / / The sites are safe to use. Yet they are known for labelling and hosting Rockmods's APKs as their own. Furthermore, they also mislabel old APK version releases as “new.” Source",
                             "links": [
                                 {
                                     "name": "Modyolo",
@@ -77407,6 +77654,10 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/modyolo_official"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-critical.md"
                                 }
                             ]
                         },
@@ -78665,7 +78916,9 @@
                 {
                     "heading": "Social Media Apps",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Recently, using patched or modified Instagram clients has reported a surge in account bans and terminations. The cause remains unclear, so use these clients at your own risk."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "/reddit clients/ / 2 - Reddit Client Comparisons / Make Sure to Follow the Guide",
@@ -78812,7 +79065,7 @@
                             ]
                         },
                         {
-                            "full_text": "piko (Instagram) / / , MyInsta / / , HushGram or ⁠Instafel / - Modded Instagram Clients /",
+                            "full_text": "piko (Instagram) / / , MyInsta / / , HushGram or ⁠Instafel / - Modded Instagram Clients / Recently, using patched or modified Instagram clients has reported a surge in account bans and terminations. The cause remains unclear, so use these clients at your own risk. Source",
                             "links": [
                                 {
                                     "name": "piko (Instagram)",
@@ -78845,6 +79098,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/mamiiblt/instafel/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/insta-android-critical.md"
                                 }
                             ]
                         },
@@ -81110,7 +81367,9 @@
                 {
                     "heading": "Image Galleries",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Using newer Google accounts to use this patch may result in ban or limitations"
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Right Gallery - Photo / Video Gallery",
@@ -81171,7 +81430,7 @@
                             ]
                         },
                         {
-                            "full_text": "De-Vanced - Photo / Video Gallery / Unlimited / Tools /",
+                            "full_text": "De-Vanced - Photo / Video Gallery / Unlimited / Tools / Using newer Google accounts to use this patch may result in ban or limitations Source",
                             "links": [
                                 {
                                     "name": "De-Vanced",
@@ -81180,6 +81439,10 @@
                                 {
                                     "name": "Tools",
                                     "url": "https://fmhy.net/mobile/#app-patchers-modifiers"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/devanced-image-critical.md"
                                 }
                             ]
                         },
@@ -88856,7 +89119,10 @@
                 {
                     "heading": "iOS Jailbreaking",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Do NOT install in a dark location, you will bootloop.",
+                        "Source:https://ios.cfw.guide/installing-pangu7/?tab=windows"
+                    ],
                     "resource_items": [
                         {
                             "full_text": "IPA Apps , Jailbreaks.app or Jailbreak Chart - Jailbreaking Tool Indexes",
@@ -89277,11 +89543,19 @@
                             ]
                         },
                         {
-                            "full_text": "Pangu7 - 7.1-7.1.2 Untethered Jailbreak /",
+                            "full_text": "Pangu7 - 7.1-7.1.2 Untethered Jailbreak / Do NOT install in a dark location, you will bootloop. Source: https://ios.cfw.guide/installing-pangu7/?tab=windows Source",
                             "links": [
                                 {
                                     "name": "Pangu7",
                                     "url": "https://ios.cfw.guide/installing-pangu7/"
+                                },
+                                {
+                                    "name": "https://ios.cfw.guide/installing-pangu7/?tab=windows",
+                                    "url": "https://ios.cfw.guide/installing-pangu7/?tab=windows"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pangu7-critical.md"
                                 }
                             ]
                         },
@@ -134127,10 +134401,12 @@
                 {
                     "heading": "System Tweaks",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen."
+                    ],
                     "resource_items": [
                         {
-                            "full_text": "Windhawk / / , MajorGeeks Windows Tweaks or Winaero / 2 - System Tweaking Tools /",
+                            "full_text": "Windhawk / / , MajorGeeks Windows Tweaks or Winaero / 2 - System Tweaking Tools / Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen. Source",
                             "links": [
                                 {
                                     "name": "Windhawk",
@@ -134155,6 +134431,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://winaerotweaker.com/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md"
                                 }
                             ]
                         },
@@ -136144,7 +136424,9 @@
                 {
                     "heading": "Disk Tools",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Avoid versions labeled \"Ads\"."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Awesome Storage - File Storage Resources",
@@ -136242,11 +136524,15 @@
                             ]
                         },
                         {
-                            "full_text": "CrystalDiskInfo / , Scrutiny , GSmartControl / or smartmontools - Drive Diagnostics",
+                            "full_text": "CrystalDiskInfo / Avoid versions labeled \"Ads\". Source , Scrutiny , GSmartControl / or smartmontools - Drive Diagnostics",
                             "links": [
                                 {
                                     "name": "CrystalDiskInfo",
                                     "url": "https://crystalmark.info/en/software/crystaldiskinfo/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/crystaldiskinfo-critical.md"
                                 },
                                 {
                                     "name": "Scrutiny",
@@ -139101,7 +139387,9 @@
                 {
                     "heading": "Archiving / Compression",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "WinRAR does not auto-update, and because it had a remote code execution vulnerability in the past, you should make sure you've manually updatedto 7.13 or laterto be safe."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "SuperCompression - File Compression Resources",
@@ -139231,7 +139519,7 @@
                             ]
                         },
                         {
-                            "full_text": "WinRAR , 2 - File Archiver / Remove Popups /",
+                            "full_text": "WinRAR , 2 - File Archiver / Remove Popups / WinRAR does not auto-update, and because it had a remote code execution vulnerability in the past, you should make sure you've manually updated to 7.13 or later to be safe. Source",
                             "links": [
                                 {
                                     "name": "WinRAR",
@@ -139244,6 +139532,10 @@
                                 {
                                     "name": "Remove Popups",
                                     "url": "https://rentry.co/FMHYB64#winrar"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/winrar-critical.md"
                                 }
                             ]
                         },
@@ -139278,10 +139570,12 @@
                 {
                     "heading": "File Converters",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Do NOT install version 2.2. It is currently broken. If you haven't installed File Converter before, install version 2.1 fromhere. If you've already installed version 2.2, follow the downgrade guidehere."
+                    ],
                     "resource_items": [
                         {
-                            "full_text": "File Converter - Offline / Convert & Compress Files / / /",
+                            "full_text": "File Converter - Offline / Convert & Compress Files / / / Do NOT install version 2.2. It is currently broken. If you haven't installed File Converter before, install version 2.1 from here . If you've already installed version 2.2, follow the downgrade guide here . Source",
                             "links": [
                                 {
                                     "name": "File Converter",
@@ -139290,6 +139584,18 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/Tichau/FileConverter"
+                                },
+                                {
+                                    "name": "here",
+                                    "url": "https://github.com/Tichau/FileConverter/releases/tag/v2.1"
+                                },
+                                {
+                                    "name": "here",
+                                    "url": "https://github.com/Tichau/FileConverter/issues/728#issuecomment-4077979230"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/file-converter-critical.md"
                                 }
                             ]
                         },
@@ -140892,7 +141198,9 @@
                 {
                     "heading": "Offline PDF Toolkits",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can be skipped by clicking \"decline\" both times."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Stirling / /",
@@ -140930,7 +141238,7 @@
                             ]
                         },
                         {
-                            "full_text": "Foxit / All Platforms / Features (search) /",
+                            "full_text": "Foxit / All Platforms / Features (search) / The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can be skipped by clicking \"decline\" both times. Source",
                             "links": [
                                 {
                                     "name": "Foxit",
@@ -140939,6 +141247,10 @@
                                 {
                                     "name": "Features",
                                     "url": "https://fmhy.net/downloading/#software-sites"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-critical.md"
                                 }
                             ]
                         },
@@ -141076,7 +141388,9 @@
                 {
                     "heading": "File Transfer",
                     "level": "h2",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "The version of FileZilla on FileZilla's front page has adware, but the non-adware version is the only link on FMHY. You can also find the non-adware version by pressing download on the FileZilla front page, then clicking \"Show additional download options\" under \"More download options\" at the download page."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "LocalSend - Local / All Platforms / Web Version / / /",
@@ -141370,11 +141684,15 @@
                             ]
                         },
                         {
-                            "full_text": "FileZilla - FTP Client / /",
+                            "full_text": "FileZilla - FTP Client / / The version of FileZilla on FileZilla's front page has adware, but the non-adware version is the only link on FMHY. You can also find the non-adware version by pressing download on the FileZilla front page, then clicking \"Show additional download options\" under \"More download options\" at the download page. Source",
                             "links": [
                                 {
                                     "name": "FileZilla",
                                     "url": "https://filezilla-project.org/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla-critical.md"
                                 }
                             ]
                         },
@@ -141548,7 +141866,8 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Remember it'snevera good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements."
+                        "Remember it'snevera good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements.",
+                        "Anyone with a link to a \"bin\" has full access to it. They can add new files, delete existing files, etc."
                     ],
                     "resource_items": [
                         {
@@ -141994,11 +142313,15 @@
                             ]
                         },
                         {
-                            "full_text": "Filebin - Unlimited / 6 Days /",
+                            "full_text": "Filebin - Unlimited / 6 Days / Anyone with a link to a \"bin\" has full access to it. They can add new files, delete existing files, etc. Source",
                             "links": [
                                 {
                                     "name": "Filebin",
                                     "url": "https://filebin.net/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-critical.md"
                                 }
                             ]
                         },
@@ -142529,7 +142852,8 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Free storage / Free account inactivity deletion / Cheapest USD/TB/month (Plan Name)."
+                        "Free storage / Free account inactivity deletion / Cheapest USD/TB/month (Plan Name).",
+                        "According to their FAQ, you must log in to your account at least once every 180 days to prevent your account and its files being deleted."
                     ],
                     "resource_items": [
                         {
@@ -142751,11 +143075,15 @@
                             ]
                         },
                         {
-                            "full_text": "FileLu - 1GB / Forever / ~$3.13 for 40TB /",
+                            "full_text": "FileLu - 1GB / Forever / ~$3.13 for 40TB / According to their FAQ, you must log in to your account at least once every 180 days to prevent your account and its files being deleted. Source",
                             "links": [
                                 {
                                     "name": "FileLu",
                                     "url": "https://filelu.com/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-critical.md"
                                 }
                             ]
                         },
@@ -144001,7 +144329,9 @@
                 {
                     "heading": "Chat Tools",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Note that TeamSpeak server admins can view user IP addresses, so only join servers you trust."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "️ Discord Tools",
@@ -144254,11 +144584,15 @@
                             ]
                         },
                         {
-                            "full_text": "TeamSpeak - Voice Chat / /",
+                            "full_text": "TeamSpeak - Voice Chat / / Note that TeamSpeak server admins can view user IP addresses, so only join servers you trust. Source",
                             "links": [
                                 {
                                     "name": "TeamSpeak",
                                     "url": "https://www.teamspeak.com/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-critical.md"
                                 }
                             ]
                         },
@@ -149052,7 +149386,9 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Note that Firefox includes a free built-in VPN."
+                        "Note that Firefox includes a free built-in VPN.",
+                        "Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen.",
+                        "Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen."
                     ],
                     "resource_items": [
                         {
@@ -149179,7 +149515,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Phoenix - Firefox Privacy Tweak / /",
+                            "full_text": "⁠Phoenix - Firefox Privacy Tweak / / Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen. Source",
                             "links": [
                                 {
                                     "name": "⁠Phoenix",
@@ -149188,11 +149524,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/celenityy/Phoenix"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md"
                                 }
                             ]
                         },
                         {
-                            "full_text": "arkenfox / Video / GUI or Betterfox - Firefox user.js Tweaks /",
+                            "full_text": "arkenfox / Video / GUI or Betterfox - Firefox user.js Tweaks / Make sure you know what you're doing before you apply these tweaks. Always research first, never just \"Apply All\" without knowing what will happen. Source",
                             "links": [
                                 {
                                     "name": "arkenfox",
@@ -149209,6 +149549,10 @@
                                 {
                                     "name": "Betterfox",
                                     "url": "https://github.com/yokoffing/Betterfox"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md"
                                 }
                             ]
                         }
@@ -190845,7 +191189,9 @@
                 {
                     "heading": "VFX Sites",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Intro HD files are safe, but they do have some fake download buttons on each page. Thereal buttons/2are towards the bottom, and list each file host's name."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "FootageCrate",
@@ -190973,11 +191319,23 @@
                             ]
                         },
                         {
-                            "full_text": "Intro HD /",
+                            "full_text": "Intro HD / Intro HD files are safe, but they do have some fake download buttons on each page. The real buttons / 2 are towards the bottom, and list each file host's name. Source",
                             "links": [
                                 {
                                     "name": "Intro HD",
                                     "url": "https://intro-hd.net/"
+                                },
+                                {
+                                    "name": "real buttons",
+                                    "url": "https://i.ibb.co/NdQHvv12/image.png"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://i.imgur.com/5PTfUor.png"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-critical.md"
                                 }
                             ]
                         }
@@ -234488,15 +234846,6 @@
                             ]
                         },
                         {
-                            "full_text": "NiagramX - NekoX Forks · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L201"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "APKCombo · 37f205e",
                             "links": [
                                 {
@@ -235012,28 +235361,6 @@
                     ]
                 },
                 {
-                    "heading": "Downloading",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": []
-                },
-                {
-                    "heading": "Debrid / Leeches",
-                    "level": "h3",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "⁠Debridr - Premium Link Bypass / Use UBO + Redirect Bypassers · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-e99a29dbd027c863fb08fa8efa6696239b223807b373c3d8f9778e14fc122a1fL229"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "heading": "Educational",
                     "level": "h2",
                     "text_explanations": [],
@@ -235108,15 +235435,6 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
-                        {
-                            "full_text": "Animalia - Animal Encyclopedia · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL324"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "⁠Fritzing - Electronic Circuit Design / Simulation Tools · d27805d",
                             "links": [
@@ -236234,15 +236552,6 @@
                             ]
                         },
                         {
-                            "full_text": "MyAnime - Donghua / Sub · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL415"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "WikiFlix - Classic Films · a180ca3",
                             "links": [
                                 {
@@ -237208,42 +237517,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/4d55068528e84ebfd15e1ba46e3a70fc42fe1cba#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L469"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "ILMIV - Movies / TV / Anime · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L456"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "kidraz - Movies / TV / Anime · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L456"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kordoz - Movies / TV / Anime · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L456"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Ofraz - Movies / TV / Anime · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L456"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -237427,15 +237700,6 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
-                        {
-                            "full_text": "Cursos En Mega - Courses · e3d18d2",
-                            "links": [
-                                {
-                                    "name": "e3d18d2",
-                                    "url": "https://github.com/fmhy/edit/commit/e3d18d20d82f12f4223837cf72d5e436b63c87af#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1456"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "Tlnovelas - TV / Drama · bdf3c2a",
                             "links": [
