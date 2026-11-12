@@ -71,7 +71,7 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Very large library",
+              "Large library",
               "Reupload Hianime videos",
               "Soft subtitle, multi languages",
               "Modern interface"
@@ -540,12 +540,18 @@
             "info": "note: Reupload animepahe videos. Scraper but also self-host",
             "altlinks": [
               {
-                "name": ".top",
-                "url": "https://anisnatch.top/home"
+                "name": ".ru",
+                "url": "https://anisnatch.ru/home"
               },
               {
                 "name": "mirrors",
                 "url": "https://anisnatch.site/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": ".top",
+                "url": "https://anisnatch.top/home"
               }
             ]
           }
@@ -8404,6 +8410,64 @@
           }
         },
         {
+          "id": "webnex",
+          "title": "Webnex",
+          "link": "https://webnex.cc/",
+          "icon": "https://static.everythingmoe.com/icons/webnex.png",
+          "tags": [
+            "Official Rips",
+            "Multi Language",
+            "Modern interface",
+            "new"
+          ],
+          "rank": 30,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Multi scan/TL support",
+              "Medium-large library"
+            ],
+            "negatives": [
+              "Relatively new site"
+            ],
+            "info": "note: Images reuploaded from multiple sources."
+          }
+        },
+        {
+          "id": "comico",
+          "title": "comico.moe",
+          "link": "https://comico.moe/",
+          "icon": "https://static.everythingmoe.com/icons/comico.png",
+          "tags": [
+            "Official Rips",
+            "Multi Language",
+            "Modern interface",
+            "mult"
+          ],
+          "rank": 31,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Detailed filtering options",
+              "Multi language selection"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "info": "note: Scrap multiple websites. Also allow user uploads."
+          }
+        },
+        {
           "id": "mangastash",
           "title": "Mangastash",
           "link": "https://mangastash.org/",
@@ -8412,7 +8476,7 @@
             "Official Rips",
             "new"
           ],
-          "rank": 30,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8437,7 +8501,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 31,
+          "rank": 33,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8464,7 +8528,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 32,
+          "rank": 34,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8490,67 +8554,6 @@
               }
             ],
             "info": "note: Formerly known as Azuki"
-          }
-        },
-        {
-          "id": "comico",
-          "title": "comico.moe",
-          "link": "https://comico.moe/",
-          "icon": "https://static.everythingmoe.com/icons/comico.png",
-          "tags": [
-            "Official Rips",
-            "Multi Language",
-            "Modern interface",
-            "mult",
-            "new"
-          ],
-          "rank": 33,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Nice interface",
-              "Detailed filtering options",
-              "Multi language selection"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes",
-              "New site"
-            ],
-            "info": "note: Scrap multiple websites. Also allow user uploads."
-          }
-        },
-        {
-          "id": "webnex",
-          "title": "Webnex",
-          "link": "https://webnex.cc/",
-          "icon": "https://static.everythingmoe.com/icons/webnex.png",
-          "tags": [
-            "Official Rips",
-            "Multi Language",
-            "Modern interface",
-            "new"
-          ],
-          "rank": 34,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Nice interface",
-              "Multi scan/TL support",
-              "Medium library"
-            ],
-            "negatives": [
-              "Missing some popular titles",
-              "New site"
-            ],
-            "info": "note: Images reuploaded on demand from multiple sources. Some source just proxied."
           }
         },
         {
@@ -10311,8 +10314,7 @@
             "positives": [
               "Nice modern interface",
               "Very large library",
-              "Mostly high quality official translation",
-              "Well organized library"
+              "Mostly high quality official translation"
             ],
             "info": "note: Initially only offical rip manhwa, but now also have some from scan groups, and JP manga too.",
             "altlinks": [
@@ -10734,14 +10736,14 @@
             ],
             "altlinks": [
               {
-                "name": "hentai3z",
-                "url": "https://hentai3z.cc/"
+                "name": "18porncomic",
+                "url": "https://18porncomic.com/"
               }
             ],
             "ex-altlinks": [
               {
                 "name": "hentai3z",
-                "url": "https://hentai3z.xyz"
+                "url": "https://hentai3z.cc"
               },
               {
                 "name": "manga18h",
@@ -16213,6 +16215,10 @@
                 "url": "https://github.com/glitch-228/Kaisoku"
               },
               {
+                "name": "Fork 6",
+                "url": "https://github.com/Ero-gamer/Kotatsu-Next"
+              },
+              {
                 "name": "Original",
                 "url": "https://github.com/KotatsuApp/Kotatsu"
               }
@@ -16806,15 +16812,15 @@
               },
               {
                 "name": "fork 1",
-                "url": "https://github.com/Animetailapp/Animetail"
+                "url": "https://github.com/animiruorg/Animiru"
               },
               {
                 "name": "fork 2",
-                "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
+                "url": "https://github.com/Animetailapp/Animetail"
               },
               {
                 "name": "fork 3",
-                "url": "https://aniyomi.org/forks/"
+                "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
               },
               {
                 "name": "Fork 4",
@@ -39879,7 +39885,7 @@
       ],
       "details": {
         "positives": [
-          "Very large library",
+          "Large library",
           "Reupload Hianime videos",
           "Soft subtitle, multi languages",
           "Modern interface"
@@ -40348,12 +40354,18 @@
         "info": "note: Reupload animepahe videos. Scraper but also self-host",
         "altlinks": [
           {
-            "name": ".top",
-            "url": "https://anisnatch.top/home"
+            "name": ".ru",
+            "url": "https://anisnatch.ru/home"
           },
           {
             "name": "mirrors",
             "url": "https://anisnatch.site/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".top",
+            "url": "https://anisnatch.top/home"
           }
         ]
       }
@@ -48175,6 +48187,64 @@
         "domains": "2xstorage.com"
       }
     },
+    "webnex": {
+      "id": "webnex",
+      "title": "Webnex",
+      "link": "https://webnex.cc/",
+      "icon": "https://static.everythingmoe.com/icons/webnex.png",
+      "tags": [
+        "Official Rips",
+        "Multi Language",
+        "Modern interface",
+        "new"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Multi scan/TL support",
+          "Medium-large library"
+        ],
+        "negatives": [
+          "Relatively new site"
+        ],
+        "info": "note: Images reuploaded from multiple sources."
+      }
+    },
+    "comico": {
+      "id": "comico",
+      "title": "comico.moe",
+      "link": "https://comico.moe/",
+      "icon": "https://static.everythingmoe.com/icons/comico.png",
+      "tags": [
+        "Official Rips",
+        "Multi Language",
+        "Modern interface",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Detailed filtering options",
+          "Multi language selection"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "info": "note: Scrap multiple websites. Also allow user uploads."
+      }
+    },
     "mangastash": {
       "id": "mangastash",
       "title": "Mangastash",
@@ -48262,67 +48332,6 @@
           }
         ],
         "info": "note: Formerly known as Azuki"
-      }
-    },
-    "comico": {
-      "id": "comico",
-      "title": "comico.moe",
-      "link": "https://comico.moe/",
-      "icon": "https://static.everythingmoe.com/icons/comico.png",
-      "tags": [
-        "Official Rips",
-        "Multi Language",
-        "Modern interface",
-        "mult",
-        "new"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Nice interface",
-          "Detailed filtering options",
-          "Multi language selection"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes",
-          "New site"
-        ],
-        "info": "note: Scrap multiple websites. Also allow user uploads."
-      }
-    },
-    "webnex": {
-      "id": "webnex",
-      "title": "Webnex",
-      "link": "https://webnex.cc/",
-      "icon": "https://static.everythingmoe.com/icons/webnex.png",
-      "tags": [
-        "Official Rips",
-        "Multi Language",
-        "Modern interface",
-        "new"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Nice interface",
-          "Multi scan/TL support",
-          "Medium library"
-        ],
-        "negatives": [
-          "Missing some popular titles",
-          "New site"
-        ],
-        "info": "note: Images reuploaded on demand from multiple sources. Some source just proxied."
       }
     },
     "zinmanga": {
@@ -50074,8 +50083,7 @@
         "positives": [
           "Nice modern interface",
           "Very large library",
-          "Mostly high quality official translation",
-          "Well organized library"
+          "Mostly high quality official translation"
         ],
         "info": "note: Initially only offical rip manhwa, but now also have some from scan groups, and JP manga too.",
         "altlinks": [
@@ -50497,14 +50505,14 @@
         ],
         "altlinks": [
           {
-            "name": "hentai3z",
-            "url": "https://hentai3z.cc/"
+            "name": "18porncomic",
+            "url": "https://18porncomic.com/"
           }
         ],
         "ex-altlinks": [
           {
             "name": "hentai3z",
-            "url": "https://hentai3z.xyz"
+            "url": "https://hentai3z.cc"
           },
           {
             "name": "manga18h",
@@ -55940,6 +55948,10 @@
             "url": "https://github.com/glitch-228/Kaisoku"
           },
           {
+            "name": "Fork 6",
+            "url": "https://github.com/Ero-gamer/Kotatsu-Next"
+          },
+          {
             "name": "Original",
             "url": "https://github.com/KotatsuApp/Kotatsu"
           }
@@ -56533,15 +56545,15 @@
           },
           {
             "name": "fork 1",
-            "url": "https://github.com/Animetailapp/Animetail"
+            "url": "https://github.com/animiruorg/Animiru"
           },
           {
             "name": "fork 2",
-            "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
+            "url": "https://github.com/Animetailapp/Animetail"
           },
           {
             "name": "fork 3",
-            "url": "https://aniyomi.org/forks/"
+            "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
           },
           {
             "name": "Fork 4",
