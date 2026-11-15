@@ -12,7 +12,7 @@
                         "How important is using an adblocker?",
                         "Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages or popup tabs.",
                         "For browsers, we recommenduBlock Origin (uBO), and you can also use aRedirect Skipperto skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than the lite version.",
-                        "For mobileRethink DNSorAdGuard Premium/iOS, and you can block YouTube and Reddit ads withMorphe, which you can optionallyset up easily. Note that uBO works on mobile browsers like Firefox too.",
+                        "For mobileAdGuard Premium/iOS, and you can block YouTube and Reddit ads withMorphe, which you can optionallyset up easily. Note that uBO works on mobile browsers like Firefox too.",
                         "INFO",
                         "Using several ad blockers, like uBO and AdGuard at the same time canmess things up. This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock."
                     ],
@@ -1574,7 +1574,7 @@
                             ]
                         },
                         {
-                            "full_text": "Rethink DNS Resolver - DNS Provider / Mix Multiple Blocklists / /",
+                            "full_text": "Rethink DNS Resolver - DNS Provider / Mix Multiple Blocklists / / /",
                             "links": [
                                 {
                                     "name": "Rethink DNS Resolver",
@@ -5942,7 +5942,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "DeepSeek - DeepSeek V4.1 Flash 1017 / Sign-Up / Unlimited / / /",
+                            "full_text": "DeepSeek - DeepSeek V4.1 Flash 1017 / Sign-Up / / /",
                             "links": [
                                 {
                                     "name": "DeepSeek",
@@ -6001,7 +6001,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Studio - Gemini 4 Hydrogen / Gemini 3.5 Flash-Lit / Google Sign-Up / Add Features / /",
+                            "full_text": "Google AI Studio - Gemini 4 Hydrogen / Gemini 3.5 Flash-Lite / Google Sign-Up / Add Features / /",
                             "links": [
                                 {
                                     "name": "Google AI Studio",
@@ -6298,20 +6298,7 @@
                             ]
                         },
                         {
-                            "full_text": "ArceeAI - Trinity Large Thinking / Unlimited /",
-                            "links": [
-                                {
-                                    "name": "ArceeAI",
-                                    "url": "https://chat.arcee.ai/chat"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/arceeai"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Sarvam - Sarvam 105B / Unlimited / Sign-Up",
+                            "full_text": "Sarvam - GLM 5.3 / DeepSeek V4.1 Flash 1017 / Sign-Up",
                             "links": [
                                 {
                                     "name": "Sarvam",
@@ -6469,7 +6456,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Mode - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)",
+                            "full_text": "Google AI Mode - AI Search Engine / Fast (No Sign-Up)",
                             "links": [
                                 {
                                     "name": "Google AI Mode",
@@ -10610,7 +10597,7 @@
                             ]
                         },
                         {
-                            "full_text": "ShuttleTV , 2 , 3 - 4K / Dual Audio / External Subs / Ad-Toggle /",
+                            "full_text": "ShuttleTV , 2 - 4K / Dual Audio / External Subs / Ad-Toggle /",
                             "links": [
                                 {
                                     "name": "ShuttleTV",
@@ -10618,10 +10605,6 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://shuttletv.pk/"
-                                },
-                                {
-                                    "name": "3",
                                     "url": "https://shuttletv.me/"
                                 },
                                 {
@@ -10728,7 +10711,7 @@
                             ]
                         },
                         {
-                            "full_text": "SweetFox or 67Movies - 4K / External Subs / Ad-Toggle",
+                            "full_text": "SweetFox or 67Movies - 4K / Dual Audio / External Subs / Ad-Toggle",
                             "links": [
                                 {
                                     "name": "SweetFox",
@@ -10868,6 +10851,19 @@
                             ]
                         },
                         {
+                            "full_text": "moanatv. - 4K / Dual Audio / External Subs / Ad-Toggle /",
+                            "links": [
+                                {
+                                    "name": "moanatv.",
+                                    "url": "https://lfmx.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/7CBgYwN82F"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Movie Night - 1080p / Ad-Toggle /",
                             "links": [
                                 {
@@ -10890,19 +10886,6 @@
                                 {
                                     "name": "Coreflix",
                                     "url": "https://coreflix.tv/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "moanatv. - 4K / Dual Audio / External Subs / Ad-Toggle /",
-                            "links": [
-                                {
-                                    "name": "moanatv.",
-                                    "url": "https://lfmx.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/7CBgYwN82F"
                                 }
                             ]
                         },
@@ -17461,6 +17444,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠4KHDHub - Movies / TV / 4K / HEVC",
+                            "links": [
+                                {
+                                    "name": "⁠4KHDHub",
+                                    "url": "https://4khdhub.one/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cinetaro - Movies / TV / Anime / 4K / HEVC /",
                             "links": [
                                 {
@@ -17470,6 +17462,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/2UPkZwn9v"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HDHub4u - Movies / TV / 4K / HEVC",
+                            "links": [
+                                {
+                                    "name": "HDHub4u",
+                                    "url": "https://hdhub4u.fr/"
                                 }
                             ]
                         },
@@ -17487,29 +17488,11 @@
                             ]
                         },
                         {
-                            "full_text": "HDHub4u - Movies / TV / 1080p / 4K / HEVC",
-                            "links": [
-                                {
-                                    "name": "HDHub4u",
-                                    "url": "https://hdhub4u.fr/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Vadapav - Movies / TV",
                             "links": [
                                 {
                                     "name": "Vadapav",
                                     "url": "https://rentry.co/FMHYB64#vadapav"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠4KHDHub - Movies / TV / 4K / HEVC",
-                            "links": [
-                                {
-                                    "name": "⁠4KHDHub",
-                                    "url": "https://4khdhub.one/"
                                 }
                             ]
                         },
@@ -23659,7 +23642,7 @@
                     ]
                 },
                 {
-                    "heading": "Concerts / Live Shows",
+                    "heading": "Concerts / Live Performances",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
@@ -24064,6 +24047,15 @@
                                 {
                                     "name": "Rave Recording",
                                     "url": "https://rentry.co/FMHYB64#rave-library"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Cat Rave - Random DJ Sets / Genre & Channel Filters / YouTube",
+                            "links": [
+                                {
+                                    "name": "⁠The Cat Rave",
+                                    "url": "https://thecatrave.com/selector"
                                 }
                             ]
                         }
@@ -58485,11 +58477,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠HackerTube - Educational YouTube Videos",
+                            "full_text": "⁠HackerTube or ⁠TristanTube - Educational YouTube Videos",
                             "links": [
                                 {
                                     "name": "⁠HackerTube",
                                     "url": "https://hackertube.org/"
+                                },
+                                {
+                                    "name": "⁠TristanTube",
+                                    "url": "https://karpathy.ai/tristan-tube/"
                                 }
                             ]
                         },
@@ -78930,19 +78926,6 @@
                             ]
                         },
                         {
-                            "full_text": "ReVanced CLI - CLI Patcher / Guide",
-                            "links": [
-                                {
-                                    "name": "ReVanced CLI",
-                                    "url": "https://github.com/ReVanced/revanced-cli"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://rentry.org/Revanced_Guide"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Enhancify - TUI Wrapper",
                             "links": [
                                 {
@@ -79837,11 +79820,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Canta - Android Debloater / Requires Shizuku",
+                            "full_text": "Canta - Android Debloater / Requires Shizuku /",
                             "links": [
                                 {
                                     "name": "Canta",
                                     "url": "https://samolego.github.io/Canta/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/samolego/Canta"
                                 }
                             ]
                         },
@@ -82242,7 +82229,7 @@
                             ]
                         },
                         {
-                            "full_text": "Rethink DNS / Blocklists , ⁠DNSNet or personalDNSfilter - DNS Adblockers",
+                            "full_text": "Rethink DNS / Blocklists / , ⁠DNSNet or personalDNSfilter - DNS Adblockers",
                             "links": [
                                 {
                                     "name": "Rethink DNS",
@@ -82391,6 +82378,35 @@
                             ]
                         },
                         {
+                            "full_text": "AdGuard Premium (search), Rethink DNS / , ShizuWall , AFWall+ (root) or Karma - Firewalls",
+                            "links": [
+                                {
+                                    "name": "AdGuard Premium",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                },
+                                {
+                                    "name": "Rethink DNS",
+                                    "url": "https://rethinkdns.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/celzero/rethink-app"
+                                },
+                                {
+                                    "name": "ShizuWall",
+                                    "url": "https://github.com/AhmetCanArslan/ShizuWall"
+                                },
+                                {
+                                    "name": "AFWall+",
+                                    "url": "https://github.com/ukanth/afwall/"
+                                },
+                                {
+                                    "name": "Karma",
+                                    "url": "https://github.com/StarGW-net/karma-firewall"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Exodus - App Tracker Database",
                             "links": [
                                 {
@@ -82413,35 +82429,6 @@
                                 {
                                     "name": "SafeSpace",
                                     "url": "https://github.com/aashishksahu/SafeSpace"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rethink DNS / , AdGuard Premium (search), ShizuWall , AFWall+ (root) or Karma - Firewalls",
-                            "links": [
-                                {
-                                    "name": "Rethink DNS",
-                                    "url": "https://rethinkdns.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/celzero/rethink-app"
-                                },
-                                {
-                                    "name": "AdGuard Premium",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                },
-                                {
-                                    "name": "ShizuWall",
-                                    "url": "https://github.com/AhmetCanArslan/ShizuWall"
-                                },
-                                {
-                                    "name": "AFWall+",
-                                    "url": "https://github.com/ukanth/afwall/"
-                                },
-                                {
-                                    "name": "Karma",
-                                    "url": "https://github.com/StarGW-net/karma-firewall"
                                 }
                             ]
                         },
@@ -86482,7 +86469,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Flow - YouTube Music Player / Recommendation Engine /",
+                            "full_text": "⁠Flow - YouTube Music Player / Recommendation Engine / Local Algorithm /",
                             "links": [
                                 {
                                     "name": "⁠Flow",
@@ -87098,7 +87085,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠FlixQuest - Movies / TV / Live TV / /",
+                            "full_text": "⁠FlixQuest - Movies / TV / Live TV /",
                             "links": [
                                 {
                                     "name": "⁠FlixQuest",
@@ -87107,10 +87094,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/flixquestapp"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/BeamlakAschalew/flixquest"
                                 }
                             ]
                         },
@@ -88015,12 +87998,8 @@
                             ]
                         },
                         {
-                            "full_text": "ReVanced Manager or Universal Patch Manager - Ad-Free YouTube Patcher / Tools / Changelog / /",
+                            "full_text": "Universal Patch Manager - Ad-Free YouTube Patcher / Tools",
                             "links": [
-                                {
-                                    "name": "ReVanced Manager",
-                                    "url": "https://revanced.app/"
-                                },
                                 {
                                     "name": "Universal Patch Manager",
                                     "url": "https://github.com/Jman-Github/Universal-Patch-Manager"
@@ -88028,27 +88007,15 @@
                                 {
                                     "name": "Tools",
                                     "url": "https://fmhy.net/mobile/#app-patchers-modifiers"
-                                },
-                                {
-                                    "name": "Changelog",
-                                    "url": "https://revanced.app/announcements"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/revancedapp/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/rF2YcEjcrT"
                                 }
                             ]
                         },
                         {
-                            "full_text": "⁠Flow - Ad-Free YouTube /",
+                            "full_text": "⁠Flow - Ad-Free YouTube / Local Algorithm /",
                             "links": [
                                 {
                                     "name": "⁠Flow",
-                                    "url": "https://flowapp-website.vercel.app/"
+                                    "url": "https://flow-tube.org/"
                                 },
                                 {
                                     "name": "",
@@ -106694,15 +106661,6 @@
                                 {
                                     "name": "TheMoviesBoss",
                                     "url": "https://themoviesboss.fans/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠4KHDHub - Movies / TV / 4K",
-                            "links": [
-                                {
-                                    "name": "⁠4KHDHub",
-                                    "url": "https://4khdhub.one/"
                                 }
                             ]
                         },
@@ -126410,15 +126368,6 @@
                                 {
                                     "name": "Infolib",
                                     "url": "https://infolib.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Weekly Market Recap - Stock Market Recaps",
-                            "links": [
-                                {
-                                    "name": "Weekly Market Recap",
-                                    "url": "https://am.jpmorgan.com/"
                                 }
                             ]
                         },
@@ -155512,6 +155461,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Control Panel - YouTube Debloating / UI Controls /",
+                            "links": [
+                                {
+                                    "name": "⁠Control Panel",
+                                    "url": "https://soitis.dev/control-panel-for-youtube"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/insin/control-panel-for-youtube"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "VORAPIS - Classic YouTube Layout / Increased Performance / Extra Themes / /",
                             "links": [
                                 {
@@ -155529,8 +155491,12 @@
                             ]
                         },
                         {
-                            "full_text": "ImprovedTube / , YouTube Alchemy , Tweaks for YT , Magic Actions , ⁠Control Panel for YouTube / , YouTube Tweaks / Chrome or Enhancer for YT - YouTube Enhancement Extensions",
+                            "full_text": "Enhancer for YT , ImprovedTube / , YT Tweaks , Tweaks for YT or YouTube Alchemy / - YouTube Enhancement Extensions",
                             "links": [
+                                {
+                                    "name": "Enhancer for YT",
+                                    "url": "https://www.mrfdev.com/enhancer-for-youtube"
+                                },
                                 {
                                     "name": "ImprovedTube",
                                     "url": "https://improvedtube.com/"
@@ -155540,45 +155506,20 @@
                                     "url": "https://github.com/code-charity/youtube"
                                 },
                                 {
-                                    "name": "YouTube Alchemy",
-                                    "url": "https://greasyfork.org/en/scripts/521686"
+                                    "name": "YT Tweaks",
+                                    "url": "https://github.com/pedrosouu/yt-tweaks"
                                 },
                                 {
                                     "name": "Tweaks for YT",
                                     "url": "https://inzk.dev/tweaks-for-youtube/"
                                 },
                                 {
-                                    "name": "Magic Actions",
-                                    "url": "https://www.chromeactions.com/"
-                                },
-                                {
-                                    "name": "⁠Control Panel for YouTube",
-                                    "url": "https://soitis.dev/control-panel-for-youtube"
+                                    "name": "YouTube Alchemy",
+                                    "url": "https://greasyfork.org/en/scripts/521686"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/insin/control-panel-for-youtube"
-                                },
-                                {
-                                    "name": "YouTube Tweaks",
-                                    "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/"
-                                },
-                                {
-                                    "name": "Chrome",
-                                    "url": "https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh"
-                                },
-                                {
-                                    "name": "Enhancer for YT",
-                                    "url": "https://www.mrfdev.com/enhancer-for-youtube"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "YouTube Hide Watched - Toggle Visibility of Watched Videos / Shorts",
-                            "links": [
-                                {
-                                    "name": "YouTube Hide Watched",
-                                    "url": "https://github.com/EvHaus/youtube-hide-watched"
+                                    "url": "https://github.com/TimMacy/YouTubeAlchemy"
                                 }
                             ]
                         },
@@ -155596,6 +155537,15 @@
                                 {
                                     "name": "Less Addictive YouTube",
                                     "url": "https://github.com/AlexisDrain/Less-Addictive-YouTube"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "YouTube Hide Watched - Toggle Visibility of Watched Videos / Shorts",
+                            "links": [
+                                {
+                                    "name": "YouTube Hide Watched",
+                                    "url": "https://github.com/EvHaus/youtube-hide-watched"
                                 }
                             ]
                         },
@@ -155636,15 +155586,11 @@
                             ]
                         },
                         {
-                            "full_text": "BlockTube or YTBlock - YouTube Content Blocker",
+                            "full_text": "BlockTube - YouTube Content Blocker",
                             "links": [
                                 {
                                     "name": "BlockTube",
                                     "url": "https://github.com/amitbl/blocktube"
-                                },
-                                {
-                                    "name": "YTBlock",
-                                    "url": "https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea"
                                 }
                             ]
                         },
@@ -156588,11 +156534,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠HackerTube - Educational YouTube Videos",
+                            "full_text": "⁠HackerTube or ⁠TristanTube - Educational YouTube Videos",
                             "links": [
                                 {
                                     "name": "⁠HackerTube",
                                     "url": "https://hackertube.org/"
+                                },
+                                {
+                                    "name": "⁠TristanTube",
+                                    "url": "https://karpathy.ai/tristan-tube/"
                                 }
                             ]
                         },
@@ -178506,6 +178456,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Affinity / / Linux / No Login Method",
+                            "links": [
+                                {
+                                    "name": "⁠Affinity",
+                                    "url": "https://www.affinity.studio/"
+                                },
+                                {
+                                    "name": "Linux",
+                                    "url": "https://github.com/ryzendew/Linux-Affinity-Installer"
+                                },
+                                {
+                                    "name": "No Login Method",
+                                    "url": "https://rentry.co/FMHYB64#affinity"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "GIMP / / Photoshop UI / Texture Synthesizer / / /",
                             "links": [
                                 {
@@ -178548,23 +178515,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/imagemagick/imagemagick"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Affinity / / Linux / No Login Method",
-                            "links": [
-                                {
-                                    "name": "⁠Affinity",
-                                    "url": "https://www.affinity.studio/"
-                                },
-                                {
-                                    "name": "Linux",
-                                    "url": "https://github.com/ryzendew/Linux-Affinity-Installer"
-                                },
-                                {
-                                    "name": "No Login Method",
-                                    "url": "https://rentry.co/FMHYB64#affinity"
                                 }
                             ]
                         },
@@ -182828,10 +182778,10 @@
                             ]
                         },
                         {
-                            "full_text": "icons8 , LostGeometry , 3D Illustrations - 3D Illustrations",
+                            "full_text": "Icons8 , LostGeometry , 3D Illustrations - 3D Illustrations",
                             "links": [
                                 {
-                                    "name": "icons8",
+                                    "name": "Icons8",
                                     "url": "https://icons8.com/illustrations"
                                 },
                                 {
@@ -193019,7 +192969,7 @@
                     ]
                 },
                 {
-                    "heading": "Concerts / Live Shows",
+                    "heading": "Concerts / Live Performances",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
@@ -193424,6 +193374,15 @@
                                 {
                                     "name": "Rave Recording",
                                     "url": "https://rentry.co/FMHYB64#rave-library"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Cat Rave - Random DJ Sets / Genre & Channel Filters / YouTube",
+                            "links": [
+                                {
+                                    "name": "⁠The Cat Rave",
+                                    "url": "https://thecatrave.com/selector"
                                 }
                             ]
                         }
@@ -203040,11 +202999,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠HackerTube - Educational YouTube Videos",
+                            "full_text": "⁠HackerTube or ⁠TristanTube - Educational YouTube Videos",
                             "links": [
                                 {
                                     "name": "⁠HackerTube",
                                     "url": "https://hackertube.org/"
+                                },
+                                {
+                                    "name": "⁠TristanTube",
+                                    "url": "https://karpathy.ai/tristan-tube/"
                                 }
                             ]
                         },
@@ -227231,7 +227194,7 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Arena - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / /",
+                            "full_text": "Arena - Multiple Models / Sign-Up (Direct mode) / /",
                             "links": [
                                 {
                                     "name": "Arena",
@@ -227248,7 +227211,7 @@
                             ]
                         },
                         {
-                            "full_text": "Design Arena - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail /",
+                            "full_text": "Design Arena - Multiple Models / No Direct Mode / Reset Limits / w Temp Mail /",
                             "links": [
                                 {
                                     "name": "Design Arena",
@@ -227261,7 +227224,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Z.ai - GLM-5.2 (Deep Think Max) / GLM-5 Turbo / Coding AI / Sign-Up /",
+                            "full_text": "⁠Z.ai - GLM-5.3 (Sign-Up) / GLM-5.3-Flash (No Sign-Up) /",
                             "links": [
                                 {
                                     "name": "⁠Z.ai",
@@ -227274,7 +227237,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi , 2 - Kimi K3 (Max) / Kimi K2.6 / Coding AI / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi , 2 - Kimi K3.1 Pro / Kimi K3 / Kimi K2.8 Preview / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -227299,7 +227262,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Studio - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Coding AI / /",
+                            "full_text": "Google AI Studio - Gemini 4 Hydrogen / Gemini 3.8 Flash / Gemini 3.5 Flash-Lite / Google Sign-Up / /",
                             "links": [
                                 {
                                     "name": "Google AI Studio",
@@ -227316,7 +227279,7 @@
                             ]
                         },
                         {
-                            "full_text": "Qwen - Qwen 3.8 Max (Thinking) / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / / /",
+                            "full_text": "Qwen - Qwen4-Max-Preview / Qwen3.8-Max / Qwen3.7-Plus / No Sign-Up / Unlimited / / /",
                             "links": [
                                 {
                                     "name": "Qwen",
@@ -227337,7 +227300,7 @@
                             ]
                         },
                         {
-                            "full_text": "MiniMax AI - MiniMax M3 (Thinking) / Coding AI / Sign-Up",
+                            "full_text": "MiniMax AI - MiniMax M3.1-Flash (Max) / MiniMax M3 (Thinking) / Sign-Up /",
                             "links": [
                                 {
                                     "name": "MiniMax AI",
@@ -230402,7 +230365,7 @@
                             ]
                         },
                         {
-                            "full_text": "CollectUI , Hoverstat , httpster , Recent , Websitevice , Dribbble , ReallyGoodUX or Pageflows - UI / Site Design Inspiration",
+                            "full_text": "CollectUI , Hoverstat , httpster , Recent , Websitevice , Dribbble , ReallyGoodUX , Pixlpin or Pageflows - UI / Site Design Inspiration",
                             "links": [
                                 {
                                     "name": "CollectUI",
@@ -230431,6 +230394,10 @@
                                 {
                                     "name": "ReallyGoodUX",
                                     "url": "https://goodux.appcues.com/"
+                                },
+                                {
+                                    "name": "Pixlpin",
+                                    "url": "https://pixlpin.com/"
                                 },
                                 {
                                     "name": "Pageflows",
@@ -234956,6 +234923,15 @@
                             ]
                         },
                         {
+                            "full_text": "ReVanced CLI - CLI Patcher / Guide · 4f624bc",
+                            "links": [
+                                {
+                                    "name": "4f624bc",
+                                    "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L157"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ReVanced-Patch-Bundles - ReVanced Patch Index · 902d709",
                             "links": [
                                 {
@@ -235092,6 +235068,24 @@
                                     "url": "https://github.com/fmhy/edit/commit/902d70977400fcefae4345650f80c5ac1cde1294#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1063"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "ReVanced Manager - Ad-Free YouTube Patcher / Tools / Changelog / Subreddit / Discord · 4f624bc",
+                            "links": [
+                                {
+                                    "name": "4f624bc",
+                                    "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1105"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Flow - Ad-Free YouTube / GitHub · 4f624bc",
+                            "links": [
+                                {
+                                    "name": "4f624bc",
+                                    "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1106"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -235187,6 +235181,15 @@
                                 {
                                     "name": "3b92321",
                                     "url": "https://github.com/fmhy/edit/commit/3b923211d21ee5dfa9ba878be226fbb0ce92db8e#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L47"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ArceeAI - Trinity Large Thinking / Unlimited / Discord · 4f624bc",
+                            "links": [
+                                {
+                                    "name": "4f624bc",
+                                    "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L35"
                                 }
                             ]
                         },
@@ -235856,15 +235859,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠decomp.dev - Decompilation Progress Reports / Tracking · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL179"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Ninja Kiwi Archive - Ninja Kiwi / Bloons Archive / Subreddit / Discord · b4ea214",
                             "links": [
                                 {
@@ -236297,6 +236291,15 @@
                             ]
                         },
                         {
+                            "full_text": "Weekly Market Recap - Stock Market Recaps · 4f624bc",
+                            "links": [
+                                {
+                                    "name": "4f624bc",
+                                    "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1119"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "YieldFinder - Savings Account / Treasury Yield Comparisons · 902d709",
                             "links": [
                                 {
@@ -236452,22 +236455,6 @@
                                 {
                                     "name": "3b92321",
                                     "url": "https://github.com/fmhy/edit/commit/3b923211d21ee5dfa9ba878be226fbb0ce92db8e#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1419"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "Vehicle",
-                    "level": "h3",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Operation CHARM - Auto Repair Manuals · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL310"
                                 }
                             ]
                         }
@@ -237051,15 +237038,6 @@
                             ]
                         },
                         {
-                            "full_text": "AmberFlix - Movies / TV / Anime / Discord · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL181"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "peestream - Movies / TV / Anime / Auto-Next · bdf3c2a",
                             "links": [
                                 {
@@ -237074,15 +237052,6 @@
                                 {
                                     "name": "fa613ca",
                                     "url": "https://github.com/fmhy/edit/commit/fa613caa009099ccb5b9b832921e68a2610ce708#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL96"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rizz Stream - Movies / TV / Anime / Auto-Next / PW: skibidi · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL96"
                                 }
                             ]
                         },
@@ -237296,31 +237265,6 @@
                     ]
                 },
                 {
-                    "heading": "Torrent Apps",
-                    "level": "h3",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Harbor - Torrent Streaming App / WebUI / Tools · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL944"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠NuvioLinux - Torrent Streaming App / Tools / Stremio Sync / Plugins / Wiki / Guides · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL950"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "heading": "Music / Podcasts / Radio",
                     "level": "h2",
                     "text_explanations": [],
@@ -237347,15 +237291,6 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
-                        {
-                            "full_text": "saavn-dl - JioSaavn / 320kb AAC / Discord / GitHub · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L402"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "SpotiFLAC - Qobuz / Tidal / Amazon Music / FLAC / Playlists / Converts from Spotify · fa613ca",
                             "links": [
@@ -237978,15 +237913,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/c503273ae0fbf90719417591d597e998b51f54d0#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L218"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "⁠deletedby - View Deleted / Hidden Reddit Posts + Comments · 778b49d",
-                            "links": [
-                                {
-                                    "name": "778b49d",
-                                    "url": "https://github.com/fmhy/edit/commit/778b49d6faca5b5a3f5bd682db3aeb53f4b56602#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L215"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -238061,6 +237987,33 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "Magic Actions - YouTube Enhancement Extensions · 0450bd4",
+                            "links": [
+                                {
+                                    "name": "0450bd4",
+                                    "url": "https://github.com/fmhy/edit/commit/0450bd41abe146ff23887131105489f5139ac730#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L341"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "YouTube Tweaks - YouTube Enhancement Extensions · 4f624bc",
+                            "links": [
+                                {
+                                    "name": "4f624bc",
+                                    "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L340"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "YTBlock - YouTube Content Blocker · 4f624bc",
+                            "links": [
+                                {
+                                    "name": "4f624bc",
+                                    "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L347"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "YTStalker - Find Random / Obscure YouTube Videos · 3831d64",
                             "links": [

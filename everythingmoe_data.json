@@ -336,10 +336,6 @@
               {
                 "name": "ume.to",
                 "url": "https://ume.to/"
-              },
-              {
-                "name": "yoru.fun",
-                "url": "https://yoru.fun"
               }
             ],
             "info": "note: Hard-sub not available for every anime yet"
@@ -1326,7 +1322,7 @@
         {
           "id": "lunaranime",
           "title": "Lunar",
-          "link": "https://lunarx.to/anime",
+          "link": "https://lunarx.lol/anime",
           "icon": "https://static.everythingmoe.com/icons/lunaranime.png",
           "tags": [
             "Scraper",
@@ -1352,6 +1348,16 @@
               "Sometimes broken"
             ],
             "info": "note: Also self host some anime",
+            "altlinks": [
+              {
+                "name": ".to",
+                "url": "https://lunarx.to/anime"
+              },
+              {
+                "name": "mirrors",
+                "url": "https://lunarindex.lol/mirrors"
+              }
+            ],
             "ex-altlinks": [
               {
                 "name": ".ru",
@@ -2593,7 +2599,13 @@
             "negatives": [
               "Relatively new site"
             ],
-            "info": "note: Same content & server with Re:Anime. Previously known as Shiroko (1anime)"
+            "altlinks": [
+              {
+                "name": "Anirex",
+                "url": "https://anirex.to/home"
+              }
+            ],
+            "info": "note: Same content & server with Re:Anime. Previously known as Shiroko. Anirex is unrelated website that also uses Re:Anime stream."
           }
         },
         {
@@ -3097,10 +3109,6 @@
                 "url": "https://www.dragonroll.to"
               },
               {
-                "name": "AniKairo",
-                "url": "https://anikairo.sbs/"
-              },
-              {
                 "name": "koianime",
                 "url": "https://koianime.lol/"
               },
@@ -3128,9 +3136,9 @@
         },
         {
           "id": "hopmarks",
-          "title": "Hopcorn",
-          "link": "https://hopmarks.com/",
-          "icon": "https://static.everythingmoe.com/icons/hopmarks.png",
+          "title": "a.214hz",
+          "link": "https://a.214hz.com/",
+          "icon": "https://static.everythingmoe.com/icons/a214hz.png",
           "tags": [
             "Scraper",
             "Soft-sub",
@@ -3150,7 +3158,13 @@
             "negatives": [
               "Content depends on the websites it scrapes"
             ],
-            "info": "note: Formerly known as Vanime."
+            "ex-altlinks": [
+              {
+                "name": "Hopcorn",
+                "url": "https://hopmarks.com/"
+              }
+            ],
+            "info": "note: Formerly known as Vanime and Hopcorn."
           }
         },
         {
@@ -3575,14 +3589,12 @@
               "Content depends on the websites it scrapes",
               "Sometimes broken"
             ],
-            "altlinks": [
+            "info": "note: Formerly known as Shinora.",
+            "ex-altlinks": [
               {
                 "name": "aniclover",
                 "url": "https://aniclover.cc/"
-              }
-            ],
-            "info": "note: Formerly known as Shinora.",
-            "ex-altlinks": [
+              },
               {
                 "name": "shinora",
                 "url": "https://shinora.fun/"
@@ -3629,6 +3641,10 @@
               {
                 "name": "AniGum",
                 "url": "https://anigum.com/"
+              },
+              {
+                "name": "AniKairo",
+                "url": "https://anikairo.sbs/"
               }
             ],
             "info": "note : use third party api"
@@ -3636,8 +3652,8 @@
         },
         {
           "id": "aniwaveclones",
-          "title": "aniwavecomse",
-          "link": "https://aniwave.com.se/",
+          "title": "aniwavebr",
+          "link": "https://aniwave.gr/",
           "icon": "https://static.everythingmoe.com/icons/aniwave.png",
           "tags": [
             "Scraper",
@@ -3662,11 +3678,19 @@
             "info": "note: this is not original <a href=\"/s/AniWave\">Aniwave/9anime</a>. Each made by different people. They grouped together only because similar interface, brand, and use anikoto.",
             "altlinks": [
               {
-                "name": "9animeorgua",
-                "url": "https://9anime.org.ua/"
+                "name": "9animebr",
+                "url": "https://9anime.br/"
               }
             ],
             "ex-altlinks": [
+              {
+                "name": "9animeorgua",
+                "url": "https://9anime.org.ua/"
+              },
+              {
+                "name": ".com.se",
+                "url": "https://aniwave.com.se/"
+              },
               {
                 "name": ".es",
                 "url": "https://aniwave.com.es/"
@@ -3683,45 +3707,6 @@
           }
         },
         {
-          "id": "ramenflix",
-          "title": "RamenFlix",
-          "link": "https://ramenflix.com/home",
-          "icon": "https://static.everythingmoe.com/icons/ramenflix.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 98,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "exx-altlinks": [
-              {
-                "name": "animerealmin",
-                "url": "https://www.animerealm.in/"
-              }
-            ],
-            "exx-info": "note: animerealmin is unrelated site that uses RamenFlix proxy",
-            "ex-altlinks": [
-              {
-                "name": "manga",
-                "url": "https://manga.ramenflix.com/"
-              }
-            ],
-            "ex-info": "note: Same code with JustAnime"
-          }
-        },
-        {
           "id": "hulu",
           "title": "Hulu",
           "link": "https://www.hulu.com/hub/anime",
@@ -3732,7 +3717,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 99,
+          "rank": 98,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3758,7 +3743,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 100,
+          "rank": 99,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3785,7 +3770,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 101,
+          "rank": 100,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3800,7 +3785,7 @@
               "Content depends on the websites it scrapes",
               "Small library"
             ],
-            "altlinks": [
+            "ex-altlinks": [
               {
                 "name": "anighar",
                 "url": "https://anighar.cloud/"
@@ -3819,6 +3804,47 @@
             "Soft-sub",
             "koto"
           ],
+          "rank": 101,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "use Anikoto stream"
+            ],
+            "negatives": [
+              "Content depends on Anikoto"
+            ],
+            "ex-altlinks": [
+              {
+                "name": "anipub",
+                "url": "https://www.anipub.xyz/"
+              },
+              {
+                "name": "aniwatchfit",
+                "url": "https://aniwatch.fit/"
+              },
+              {
+                "name": "hianimescz",
+                "url": "https://hianimes.cz/"
+              }
+            ],
+            "ex-info": "note: Likely use same API",
+            "ex-note": "rapid-cloud.co"
+          }
+        },
+        {
+          "id": "ramenflix",
+          "title": "RamenFlix",
+          "link": "https://ramenflix.com/home",
+          "icon": "https://static.everythingmoe.com/icons/ramenflix.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "koto"
+          ],
           "rank": 102,
           "is_licensed": false,
           "is_nsfw": false,
@@ -3832,24 +3858,20 @@
             "negatives": [
               "Content depends on Anikoto"
             ],
-            "altlinks": [
+            "exx-altlinks": [
               {
-                "name": "anipub",
-                "url": "https://www.anipub.xyz/"
+                "name": "animerealmin",
+                "url": "https://www.animerealm.in/"
               }
             ],
+            "exx-info": "note: animerealmin is unrelated site that uses RamenFlix proxy",
             "ex-altlinks": [
               {
-                "name": "aniwatchfit",
-                "url": "https://aniwatch.fit/"
-              },
-              {
-                "name": "hianimescz",
-                "url": "https://hianimes.cz/"
+                "name": "manga",
+                "url": "https://manga.ramenflix.com/"
               }
             ],
-            "info": "note: Likely use same API",
-            "ex-note": "rapid-cloud.co"
+            "ex-info": "note: Same code with JustAnime"
           }
         },
         {
@@ -3997,7 +4019,7 @@
         {
           "id": "animedekho",
           "title": "AnimeDekho",
-          "link": "https://animedekho.app/home/",
+          "link": "https://animedekho.app/home",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
           "rank": 106,
@@ -4038,7 +4060,11 @@
             ],
             "ex-altlinks": [
               {
-                "name": "animedekho",
+                "name": ".app",
+                "url": "https://animedekho.app/"
+              },
+              {
+                "name": ".com",
                 "url": "https://animedekho.com/"
               },
               {
@@ -9241,7 +9267,7 @@
         {
           "id": "dreammanga",
           "title": "MangaBay",
-          "link": "https://manga-bay.org/",
+          "link": "https://manga-bay.biz/",
           "icon": "https://static.everythingmoe.com/icons/dreammanga.png",
           "tags": [
             "Official Rips",
@@ -9267,6 +9293,16 @@
               {
                 "name": "Dream-Manga",
                 "url": "https://dream-manga.com/"
+              },
+              {
+                "name": "novelkin",
+                "url": "https://novelkin.com/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": ".org",
+                "url": "https://manga-bay.org/"
               }
             ],
             "info": "note: Login not required on Dream-Manga."
@@ -10205,8 +10241,13 @@
               {
                 "name": "manganow",
                 "url": "https://manganow.to/home"
+              },
+              {
+                "name": "mangaxo",
+                "url": "https://mangaxo.com/home"
               }
-            ]
+            ],
+            "info": "note: manganow & mangaxo is unrelated sites that hotlink mangaread images"
           }
         },
         {
@@ -11078,7 +11119,7 @@
           "section": "manhwa",
           "details": {
             "positives": [
-              "Medium-large library"
+              "Large library"
             ],
             "negatives": [
               "Bad monetization"
@@ -12194,6 +12235,38 @@
           }
         },
         {
+          "id": "ravenscans",
+          "title": "Raven Scans",
+          "link": "https://ravenscans.org/",
+          "icon": "https://static.everythingmoe.com/icons/ravenscans.png",
+          "tags": [
+            "nsfw"
+          ],
+          "rank": 68,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "manhwa",
+          "details": {
+            "info": "note: Not scanlator website, content are mixed of various things. Brand names are copied from other sites",
+            "altlinks": [
+              {
+                "name": "mangahotorg",
+                "url": "https://mangahot.org/"
+              },
+              {
+                "name": "manhwahubto",
+                "url": "https://manhwahub.to/"
+              },
+              {
+                "name": "webtoonscanorg",
+                "url": "https://webtoonscan.org/"
+              }
+            ]
+          }
+        },
+        {
           "id": "manhwaepisodes",
           "title": "Hentara",
           "link": "https://hentara.com/",
@@ -12201,7 +12274,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -12226,6 +12299,30 @@
           }
         },
         {
+          "id": "manhwato",
+          "title": "Manhwato",
+          "link": "https://manhwato.com/",
+          "icon": "https://static.everythingmoe.com/icons/manhwato.png",
+          "tags": [
+            "nsfw"
+          ],
+          "rank": 70,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "manhwa",
+          "details": {
+            "info": "note: pornhwa aggregator with buggy scraper",
+            "altlinks": [
+              {
+                "name": "manhwalike",
+                "url": "https://manhwalike.com/"
+              }
+            ]
+          }
+        },
+        {
           "id": "omanga",
           "title": "Fropi",
           "link": "https://fropi.net/",
@@ -12233,7 +12330,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 69,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12262,7 +12359,7 @@
           "link": "https://manhuaus.club/",
           "icon": "https://static.everythingmoe.com/icons/manhuaus.png",
           "tags": [],
-          "rank": 70,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12280,7 +12377,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 71,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12298,7 +12395,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 72,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -25282,10 +25379,10 @@
           }
         },
         {
-          "id": "baranimes",
-          "title": "Baranimes",
-          "link": "https://baranimes.com/",
-          "icon": "https://static.everythingmoe.com/icons/baranimes.png",
+          "id": "komamoe",
+          "title": "Koma.moe",
+          "link": "https://koma.moe/",
+          "icon": "https://static.everythingmoe.com/icons/komamoe.png",
           "tags": [],
           "rank": 6,
           "is_licensed": false,
@@ -25294,7 +25391,23 @@
           "status": "active",
           "section": "quiz",
           "details": {
-            "info": "Various anime quiz / guessing game, support multiplayer. Still new."
+            "info": "Various quiz / guessing game about anime, manga, and games. support multiplayer and a lot of variety. Still new."
+          }
+        },
+        {
+          "id": "baranimes",
+          "title": "Baranimes",
+          "link": "https://baranimes.com/",
+          "icon": "https://static.everythingmoe.com/icons/baranimes.png",
+          "tags": [],
+          "rank": 7,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "quiz",
+          "details": {
+            "info": "Various anime quiz / guessing game, support multiplayer."
           }
         },
         {
@@ -25303,7 +25416,7 @@
           "link": "https://erogemusicquiz.com/",
           "icon": "https://static.everythingmoe.com/icons/erogemusicquiz.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25325,7 +25438,7 @@
           "link": "https://guesstheopening.com/anime",
           "icon": "https://static.everythingmoe.com/icons/guesstheopening.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25347,7 +25460,7 @@
           "link": "https://www.aniconnections.com/",
           "icon": "https://static.everythingmoe.com/icons/aniconnections.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25373,7 +25486,7 @@
           "link": "https://animeopeningquiz.com/",
           "icon": "https://static.everythingmoe.com/icons/animeopeningquiz.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25389,7 +25502,7 @@
           "link": "https://quiz.animesongs.org/",
           "icon": "https://static.everythingmoe.com/icons/animesongsorg.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25411,7 +25524,7 @@
           "link": "https://www.animerdle.com/",
           "icon": "https://static.everythingmoe.com/icons/animerdle.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25427,7 +25540,7 @@
           "link": "https://animetrivia.app/",
           "icon": "https://static.everythingmoe.com/icons/animetrivia.png",
           "tags": [],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25449,22 +25562,6 @@
           "link": "https://www.animeguess.moe/",
           "icon": "https://static.everythingmoe.com/icons/animeguess.png",
           "tags": [],
-          "rank": 14,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "quiz",
-          "details": {
-            "info": "Guess the anime based on six image clues. Each new image is a bigger hint to the right answer#365 hand curated questions."
-          }
-        },
-        {
-          "id": "suisokuxgorn",
-          "title": "Character Guesser",
-          "link": "https://suisoku.xgorn.com/",
-          "icon": "https://static.everythingmoe.com/icons/default.png",
-          "tags": [],
           "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
@@ -25472,7 +25569,7 @@
           "status": "active",
           "section": "quiz",
           "details": {
-            "info": "Guess character name based image. Very basic website"
+            "info": "Guess the anime based on six image clues. Each new image is a bigger hint to the right answer#365 hand curated questions."
           }
         }
       ]
@@ -39657,12 +39754,28 @@
       "lowcont_id": "",
       "sites": [
         {
+          "id": "suisokuxgorn",
+          "title": "Character Guesser",
+          "link": "https://suisoku.xgorn.com/",
+          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "tags": [],
+          "rank": 1,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "quiz",
+          "details": {
+            "info": "Guess character name based image. Very basic website"
+          }
+        },
+        {
           "id": "guessanimequiz",
           "title": "Anime Quizzes",
           "link": "https://guessanimequiz.com/",
           "icon": "https://static.everythingmoe.com/icons/guessanimequiz.png",
           "tags": [],
-          "rank": 1,
+          "rank": 2,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -40194,10 +40307,6 @@
           {
             "name": "ume.to",
             "url": "https://ume.to/"
-          },
-          {
-            "name": "yoru.fun",
-            "url": "https://yoru.fun"
           }
         ],
         "info": "note: Hard-sub not available for every anime yet"
@@ -41184,7 +41293,7 @@
     "lunaranime": {
       "id": "lunaranime",
       "title": "Lunar",
-      "link": "https://lunarx.to/anime",
+      "link": "https://lunarx.lol/anime",
       "icon": "https://static.everythingmoe.com/icons/lunaranime.png",
       "tags": [
         "Scraper",
@@ -41210,6 +41319,16 @@
           "Sometimes broken"
         ],
         "info": "note: Also self host some anime",
+        "altlinks": [
+          {
+            "name": ".to",
+            "url": "https://lunarx.to/anime"
+          },
+          {
+            "name": "mirrors",
+            "url": "https://lunarindex.lol/mirrors"
+          }
+        ],
         "ex-altlinks": [
           {
             "name": ".ru",
@@ -42451,7 +42570,13 @@
         "negatives": [
           "Relatively new site"
         ],
-        "info": "note: Same content & server with Re:Anime. Previously known as Shiroko (1anime)"
+        "altlinks": [
+          {
+            "name": "Anirex",
+            "url": "https://anirex.to/home"
+          }
+        ],
+        "info": "note: Same content & server with Re:Anime. Previously known as Shiroko. Anirex is unrelated website that also uses Re:Anime stream."
       }
     },
     "last1234": {
@@ -42955,10 +43080,6 @@
             "url": "https://www.dragonroll.to"
           },
           {
-            "name": "AniKairo",
-            "url": "https://anikairo.sbs/"
-          },
-          {
             "name": "koianime",
             "url": "https://koianime.lol/"
           },
@@ -42986,9 +43107,9 @@
     },
     "hopmarks": {
       "id": "hopmarks",
-      "title": "Hopcorn",
-      "link": "https://hopmarks.com/",
-      "icon": "https://static.everythingmoe.com/icons/hopmarks.png",
+      "title": "a.214hz",
+      "link": "https://a.214hz.com/",
+      "icon": "https://static.everythingmoe.com/icons/a214hz.png",
       "tags": [
         "Scraper",
         "Soft-sub",
@@ -43008,7 +43129,13 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ],
-        "info": "note: Formerly known as Vanime."
+        "ex-altlinks": [
+          {
+            "name": "Hopcorn",
+            "url": "https://hopmarks.com/"
+          }
+        ],
+        "info": "note: Formerly known as Vanime and Hopcorn."
       }
     },
     "anilet": {
@@ -43433,14 +43560,12 @@
           "Content depends on the websites it scrapes",
           "Sometimes broken"
         ],
-        "altlinks": [
+        "info": "note: Formerly known as Shinora.",
+        "ex-altlinks": [
           {
             "name": "aniclover",
             "url": "https://aniclover.cc/"
-          }
-        ],
-        "info": "note: Formerly known as Shinora.",
-        "ex-altlinks": [
+          },
           {
             "name": "shinora",
             "url": "https://shinora.fun/"
@@ -43487,6 +43612,10 @@
           {
             "name": "AniGum",
             "url": "https://anigum.com/"
+          },
+          {
+            "name": "AniKairo",
+            "url": "https://anikairo.sbs/"
           }
         ],
         "info": "note : use third party api"
@@ -43494,8 +43623,8 @@
     },
     "aniwaveclones": {
       "id": "aniwaveclones",
-      "title": "aniwavecomse",
-      "link": "https://aniwave.com.se/",
+      "title": "aniwavebr",
+      "link": "https://aniwave.gr/",
       "icon": "https://static.everythingmoe.com/icons/aniwave.png",
       "tags": [
         "Scraper",
@@ -43520,11 +43649,19 @@
         "info": "note: this is not original <a href=\"/s/AniWave\">Aniwave/9anime</a>. Each made by different people. They grouped together only because similar interface, brand, and use anikoto.",
         "altlinks": [
           {
-            "name": "9animeorgua",
-            "url": "https://9anime.org.ua/"
+            "name": "9animebr",
+            "url": "https://9anime.br/"
           }
         ],
         "ex-altlinks": [
+          {
+            "name": "9animeorgua",
+            "url": "https://9anime.org.ua/"
+          },
+          {
+            "name": ".com.se",
+            "url": "https://aniwave.com.se/"
+          },
           {
             "name": ".es",
             "url": "https://aniwave.com.es/"
@@ -43538,45 +43675,6 @@
             "url": "https://9aniwatch.to/home"
           }
         ]
-      }
-    },
-    "ramenflix": {
-      "id": "ramenflix",
-      "title": "RamenFlix",
-      "link": "https://ramenflix.com/home",
-      "icon": "https://static.everythingmoe.com/icons/ramenflix.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "exx-altlinks": [
-          {
-            "name": "animerealmin",
-            "url": "https://www.animerealm.in/"
-          }
-        ],
-        "exx-info": "note: animerealmin is unrelated site that uses RamenFlix proxy",
-        "ex-altlinks": [
-          {
-            "name": "manga",
-            "url": "https://manga.ramenflix.com/"
-          }
-        ],
-        "ex-info": "note: Same code with JustAnime"
       }
     },
     "hulu": {
@@ -43658,7 +43756,7 @@
           "Content depends on the websites it scrapes",
           "Small library"
         ],
-        "altlinks": [
+        "ex-altlinks": [
           {
             "name": "anighar",
             "url": "https://anighar.cloud/"
@@ -43690,13 +43788,11 @@
         "negatives": [
           "Content depends on Anikoto"
         ],
-        "altlinks": [
+        "ex-altlinks": [
           {
             "name": "anipub",
             "url": "https://www.anipub.xyz/"
-          }
-        ],
-        "ex-altlinks": [
+          },
           {
             "name": "aniwatchfit",
             "url": "https://aniwatch.fit/"
@@ -43706,8 +43802,47 @@
             "url": "https://hianimes.cz/"
           }
         ],
-        "info": "note: Likely use same API",
+        "ex-info": "note: Likely use same API",
         "ex-note": "rapid-cloud.co"
+      }
+    },
+    "ramenflix": {
+      "id": "ramenflix",
+      "title": "RamenFlix",
+      "link": "https://ramenflix.com/home",
+      "icon": "https://static.everythingmoe.com/icons/ramenflix.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "koto"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "use Anikoto stream"
+        ],
+        "negatives": [
+          "Content depends on Anikoto"
+        ],
+        "exx-altlinks": [
+          {
+            "name": "animerealmin",
+            "url": "https://www.animerealm.in/"
+          }
+        ],
+        "exx-info": "note: animerealmin is unrelated site that uses RamenFlix proxy",
+        "ex-altlinks": [
+          {
+            "name": "manga",
+            "url": "https://manga.ramenflix.com/"
+          }
+        ],
+        "ex-info": "note: Same code with JustAnime"
       }
     },
     "animedunya": {
@@ -43855,7 +43990,7 @@
     "animedekho": {
       "id": "animedekho",
       "title": "AnimeDekho",
-      "link": "https://animedekho.app/home/",
+      "link": "https://animedekho.app/home",
       "icon": "https://static.everythingmoe.com/icons/animedekho.png",
       "tags": [],
       "is_licensed": false,
@@ -43896,7 +44031,11 @@
         ],
         "ex-altlinks": [
           {
-            "name": "animedekho",
+            "name": ".app",
+            "url": "https://animedekho.app/"
+          },
+          {
+            "name": ".com",
             "url": "https://animedekho.com/"
           },
           {
@@ -49063,7 +49202,7 @@
     "dreammanga": {
       "id": "dreammanga",
       "title": "MangaBay",
-      "link": "https://manga-bay.org/",
+      "link": "https://manga-bay.biz/",
       "icon": "https://static.everythingmoe.com/icons/dreammanga.png",
       "tags": [
         "Official Rips",
@@ -49089,6 +49228,16 @@
           {
             "name": "Dream-Manga",
             "url": "https://dream-manga.com/"
+          },
+          {
+            "name": "novelkin",
+            "url": "https://novelkin.com/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".org",
+            "url": "https://manga-bay.org/"
           }
         ],
         "info": "note: Login not required on Dream-Manga."
@@ -50027,8 +50176,13 @@
           {
             "name": "manganow",
             "url": "https://manganow.to/home"
+          },
+          {
+            "name": "mangaxo",
+            "url": "https://mangaxo.com/home"
           }
-        ]
+        ],
+        "info": "note: manganow & mangaxo is unrelated sites that hotlink mangaread images"
       }
     },
     "aquamanga": {
@@ -50891,7 +51045,7 @@
       ],
       "details": {
         "positives": [
-          "Medium-large library"
+          "Large library"
         ],
         "negatives": [
           "Bad monetization"
@@ -52006,6 +52160,38 @@
         "info": "site is fast. ui is decent. Basic reader features."
       }
     },
+    "ravenscans": {
+      "id": "ravenscans",
+      "title": "Raven Scans",
+      "link": "https://ravenscans.org/",
+      "icon": "https://static.everythingmoe.com/icons/ravenscans.png",
+      "tags": [
+        "nsfw"
+      ],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "info": "note: Not scanlator website, content are mixed of various things. Brand names are copied from other sites",
+        "altlinks": [
+          {
+            "name": "mangahotorg",
+            "url": "https://mangahot.org/"
+          },
+          {
+            "name": "manhwahubto",
+            "url": "https://manhwahub.to/"
+          },
+          {
+            "name": "webtoonscanorg",
+            "url": "https://webtoonscan.org/"
+          }
+        ]
+      }
+    },
     "manhwaepisodes": {
       "id": "manhwaepisodes",
       "title": "Hentara",
@@ -52034,6 +52220,30 @@
           {
             "name": "ManhwaEpisodes",
             "url": "https://manhwaepisodes.com/"
+          }
+        ]
+      }
+    },
+    "manhwato": {
+      "id": "manhwato",
+      "title": "Manhwato",
+      "link": "https://manhwato.com/",
+      "icon": "https://static.everythingmoe.com/icons/manhwato.png",
+      "tags": [
+        "nsfw"
+      ],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "info": "note: pornhwa aggregator with buggy scraper",
+        "altlinks": [
+          {
+            "name": "manhwalike",
+            "url": "https://manhwalike.com/"
           }
         ]
       }
@@ -64986,6 +65196,22 @@
         "info": "Daily anime games. anicard guessing, timeline, character favorite guess, anime connections, towers, grid, higher or lower, etc"
       }
     },
+    "komamoe": {
+      "id": "komamoe",
+      "title": "Koma.moe",
+      "link": "https://koma.moe/",
+      "icon": "https://static.everythingmoe.com/icons/komamoe.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "quiz"
+      ],
+      "details": {
+        "info": "Various quiz / guessing game about anime, manga, and games. support multiplayer and a lot of variety. Still new."
+      }
+    },
     "baranimes": {
       "id": "baranimes",
       "title": "Baranimes",
@@ -64999,7 +65225,7 @@
         "quiz"
       ],
       "details": {
-        "info": "Various anime quiz / guessing game, support multiplayer. Still new."
+        "info": "Various anime quiz / guessing game, support multiplayer."
       }
     },
     "erogemusicquiz": {
@@ -65162,22 +65388,6 @@
       ],
       "details": {
         "info": "Guess the anime based on six image clues. Each new image is a bigger hint to the right answer#365 hand curated questions."
-      }
-    },
-    "suisokuxgorn": {
-      "id": "suisokuxgorn",
-      "title": "Character Guesser",
-      "link": "https://suisoku.xgorn.com/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "quiz"
-      ],
-      "details": {
-        "info": "Guess character name based image. Very basic website"
       }
     },
     "animestats": {
@@ -79141,6 +79351,22 @@
           "Very outdated database (> 1 year)",
           "Inaccurate"
         ]
+      }
+    },
+    "suisokuxgorn": {
+      "id": "suisokuxgorn",
+      "title": "Character Guesser",
+      "link": "https://suisoku.xgorn.com/",
+      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "quiz"
+      ],
+      "details": {
+        "info": "Guess character name based image. Very basic website"
       }
     },
     "guessanimequiz": {
