@@ -5129,12 +5129,40 @@
           }
         },
         {
+          "id": "hentaiplay",
+          "title": "HentaiPlay",
+          "link": "https://hentaiplay.net/",
+          "icon": "https://static.everythingmoe.com/icons/hentaiplay.png",
+          "tags": [],
+          "rank": 16,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "hentai",
+          "details": {
+            "positives": [
+              "Long track record",
+              "Advanced tags filtering"
+            ],
+            "negatives": [
+              "No quality change"
+            ],
+            "altlinks": [
+              {
+                "name": "A-Z list",
+                "url": "https://hentaiplay.net/hentai-index/"
+              }
+            ]
+          }
+        },
+        {
           "id": "onlyhentaistuff",
           "title": "OnlyHentaiStuff",
           "link": "https://www.onlyhentaistuff.com/",
           "icon": "https://static.everythingmoe.com/icons/onlyhentaistuff.png",
           "tags": [],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5154,7 +5182,7 @@
           "link": "https://zhentube.com/",
           "icon": "https://static.everythingmoe.com/icons/zhentube.png",
           "tags": [],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5177,7 +5205,7 @@
           "link": "https://aki-h.com/",
           "icon": "https://static.everythingmoe.com/icons/akihcom.png",
           "tags": [],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5205,7 +5233,7 @@
           "link": "https://hanime1.me/",
           "icon": "https://static.everythingmoe.com/icons/hanime1me.png",
           "tags": [],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5230,7 +5258,7 @@
           "link": "https://myhentaimovie.com/",
           "icon": "https://static.everythingmoe.com/icons/myhentaimovie.png",
           "tags": [],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5256,7 +5284,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5281,7 +5309,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5303,7 +5331,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5329,7 +5357,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5356,7 +5384,7 @@
             "licensed",
             "nsfw"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": true,
           "is_nsfw": true,
           "has_details": true,
@@ -5382,7 +5410,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5408,7 +5436,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5433,7 +5461,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5458,7 +5486,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5483,7 +5511,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5504,7 +5532,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5530,7 +5558,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5559,7 +5587,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5591,7 +5619,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5625,7 +5653,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5653,7 +5681,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5676,7 +5704,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5697,6 +5725,37 @@
           }
         },
         {
+          "id": "eshentai",
+          "title": "ESHentai",
+          "link": "https://eshentai.tv/",
+          "icon": "https://static.everythingmoe.com/icons/eshentai.png",
+          "tags": [
+            "nsfw"
+          ],
+          "rank": 39,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "hentai",
+          "details": {
+            "positives": [
+              "Curated contents, mostly popular / high quality",
+              "Many server options"
+            ],
+            "negatives": [
+              "Relatively small library"
+            ],
+            "info": "note: mainly this is spanish site, but they also provide english version.",
+            "ex-altlinks": [
+              {
+                "name": "A-Z list",
+                "url": "https://eshentai.tv/hentai-list/"
+              }
+            ]
+          }
+        },
+        {
           "id": "xanimeporn",
           "title": "Xanimeporn",
           "link": "https://www.xanimeporn.com/",
@@ -5704,7 +5763,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 38,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5728,7 +5787,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 39,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5746,7 +5805,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 40,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5772,7 +5831,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 41,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5798,7 +5857,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 42,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5831,7 +5890,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 43,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5854,7 +5913,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 44,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5876,7 +5935,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 45,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -34179,40 +34238,12 @@
           }
         },
         {
-          "id": "hentaiplay",
-          "title": "HentaiPlay",
-          "link": "https://hentaiplay.net/",
-          "icon": "https://static.everythingmoe.com/icons/hentaiplay.png",
-          "tags": [],
-          "rank": 2,
-          "is_licensed": false,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "graveyard",
-          "section": "hentai",
-          "details": {
-            "positives": [
-              "Long track record",
-              "Advanced tags filtering"
-            ],
-            "negatives": [
-              "No quality change"
-            ],
-            "altlinks": [
-              {
-                "name": "A-Z list",
-                "url": "https://hentaiplay.net/hentai-index/"
-              }
-            ]
-          }
-        },
-        {
           "id": "hentaibar",
           "title": "HentaiBar",
           "link": "https://hentaibar.com/",
           "icon": "https://static.everythingmoe.com/icons/hentaibar.png",
           "tags": [],
-          "rank": 3,
+          "rank": 2,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -34234,7 +34265,7 @@
           "link": "https://www.hentaistream.me/",
           "icon": "https://static.everythingmoe.com/icons/hentaistreamme.png",
           "tags": [],
-          "rank": 4,
+          "rank": 3,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -34262,7 +34293,7 @@
           "link": "https://hentaiworld.tv/",
           "icon": "https://static.everythingmoe.com/icons/hentaiworldtv.png",
           "tags": [],
-          "rank": 5,
+          "rank": 4,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -34287,7 +34318,7 @@
           "tags": [
             "MULT"
           ],
-          "rank": 6,
+          "rank": 5,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34303,41 +34334,12 @@
           }
         },
         {
-          "id": "eshentai",
-          "title": "ESHentai",
-          "link": "https://eshentai.tv/en",
-          "icon": "https://static.everythingmoe.com/icons/eshentai.png",
-          "tags": [],
-          "rank": 7,
-          "is_licensed": false,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "graveyard",
-          "section": "hentai",
-          "details": {
-            "positives": [
-              "Curated contents, mostly popular / high quality",
-              "Many server options"
-            ],
-            "negatives": [
-              "Relatively small library"
-            ],
-            "info": "note: mainly this is spanish site, but they also provide english version.",
-            "altlinks": [
-              {
-                "name": "A-Z list",
-                "url": "https://eshentai.tv/hentai-list/"
-              }
-            ]
-          }
-        },
-        {
           "id": "mitestream",
           "title": "MiteStream",
           "link": "https://mitestream.com/",
           "icon": "https://static.everythingmoe.com/icons/mitestream.png",
           "tags": [],
-          "rank": 8,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -34360,7 +34362,7 @@
           "link": "https://animeplex.fun/",
           "icon": "https://static.everythingmoe.com/icons/animeplex.png",
           "tags": [],
-          "rank": 9,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -36212,7 +36214,8 @@
                 "url": "https://www.niadd.com/"
               }
             ],
-            "info": "note: This site affilated with novelcool.com, and NineManga."
+            "info": "note: This site affilated with novelcool.com, and NineManga.",
+            "domains": "img3.yx247.com"
           }
         },
         {
@@ -45227,6 +45230,34 @@
         ]
       }
     },
+    "hentaiplay": {
+      "id": "hentaiplay",
+      "title": "HentaiPlay",
+      "link": "https://hentaiplay.net/",
+      "icon": "https://static.everythingmoe.com/icons/hentaiplay.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "hentai"
+      ],
+      "details": {
+        "positives": [
+          "Long track record",
+          "Advanced tags filtering"
+        ],
+        "negatives": [
+          "No quality change"
+        ],
+        "altlinks": [
+          {
+            "name": "A-Z list",
+            "url": "https://hentaiplay.net/hentai-index/"
+          }
+        ]
+      }
+    },
     "onlyhentaistuff": {
       "id": "onlyhentaistuff",
       "title": "OnlyHentaiStuff",
@@ -45792,6 +45823,37 @@
           "Lock content behind login",
           "Medium-small library",
           "Old interface"
+        ]
+      }
+    },
+    "eshentai": {
+      "id": "eshentai",
+      "title": "ESHentai",
+      "link": "https://eshentai.tv/",
+      "icon": "https://static.everythingmoe.com/icons/eshentai.png",
+      "tags": [
+        "nsfw"
+      ],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "hentai"
+      ],
+      "details": {
+        "positives": [
+          "Curated contents, mostly popular / high quality",
+          "Many server options"
+        ],
+        "negatives": [
+          "Relatively small library"
+        ],
+        "info": "note: mainly this is spanish site, but they also provide english version.",
+        "ex-altlinks": [
+          {
+            "name": "A-Z list",
+            "url": "https://eshentai.tv/hentai-list/"
+          }
         ]
       }
     },
@@ -74041,34 +74103,6 @@
         "info": "note: Made by same people who made Allanime, previously known as 999Hentai."
       }
     },
-    "hentaiplay": {
-      "id": "hentaiplay",
-      "title": "HentaiPlay",
-      "link": "https://hentaiplay.net/",
-      "icon": "https://static.everythingmoe.com/icons/hentaiplay.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": true,
-      "status": "graveyard",
-      "sections": [
-        "hentai"
-      ],
-      "details": {
-        "positives": [
-          "Long track record",
-          "Advanced tags filtering"
-        ],
-        "negatives": [
-          "No quality change"
-        ],
-        "altlinks": [
-          {
-            "name": "A-Z list",
-            "url": "https://hentaiplay.net/hentai-index/"
-          }
-        ]
-      }
-    },
     "hentaibar": {
       "id": "hentaibar",
       "title": "HentaiBar",
@@ -74162,35 +74196,6 @@
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
-        ]
-      }
-    },
-    "eshentai": {
-      "id": "eshentai",
-      "title": "ESHentai",
-      "link": "https://eshentai.tv/en",
-      "icon": "https://static.everythingmoe.com/icons/eshentai.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": true,
-      "status": "graveyard",
-      "sections": [
-        "hentai"
-      ],
-      "details": {
-        "positives": [
-          "Curated contents, mostly popular / high quality",
-          "Many server options"
-        ],
-        "negatives": [
-          "Relatively small library"
-        ],
-        "info": "note: mainly this is spanish site, but they also provide english version.",
-        "altlinks": [
-          {
-            "name": "A-Z list",
-            "url": "https://eshentai.tv/hentai-list/"
-          }
         ]
       }
     },
@@ -76057,7 +76062,8 @@
             "url": "https://www.niadd.com/"
           }
         ],
-        "info": "note: This site affilated with novelcool.com, and NineManga."
+        "info": "note: This site affilated with novelcool.com, and NineManga.",
+        "domains": "img3.yx247.com"
       }
     },
     "mangasail": {
