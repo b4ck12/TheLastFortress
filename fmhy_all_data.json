@@ -6002,7 +6002,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Qwen Studio - Qwen4 Max / Qwen3.7-Plus / Qwen3.8-Max / Agent / Sign-Up / Clear Cookies to Reset Limits / / /",
+                            "full_text": "Qwen Studio - Qwen4 Max / Qwen3.7-Plus / Qwen3.8-Max / Agent / Sign-Up / / /",
                             "links": [
                                 {
                                     "name": "Qwen Studio",
@@ -6116,19 +6116,19 @@
                             ]
                         },
                         {
-                            "full_text": "ChatGPT - GPT-6 Luna / Unlimited / Add Features / Limits / r/OpenAI / r/ChatGPT /",
+                            "full_text": "ChatGPT - GPT-6 Luna / Unlimited / Add Features / r/OpenAI / r/ChatGPT /",
                             "links": [
                                 {
                                     "name": "ChatGPT",
                                     "url": "https://chatgpt.com/"
                                 },
                                 {
-                                    "name": "Add Features",
-                                    "url": "https://github.com/Nagi-ovo/voyager"
+                                    "name": "Unlimited",
+                                    "url": "https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier"
                                 },
                                 {
-                                    "name": "Limits",
-                                    "url": "https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier"
+                                    "name": "Add Features",
+                                    "url": "https://github.com/Nagi-ovo/voyager"
                                 },
                                 {
                                     "name": "r/OpenAI",
@@ -10568,30 +10568,9 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and try a VPN if a site is not loading. You can check sites pros & cons on thegrading page/2. Stars and superstars rotate separately daily to keep things fair (top super moves to bottom super, top normal moves to bottom normal daily)."
+                        "Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and try a VPN if a site is not loading. You can check sites pros & cons on thegrading page/2. Stars and superstars rotate separately daily (top super moves to bottom super, top normal moves to bottom normal)."
                     ],
                     "resource_items": [
-                        {
-                            "full_text": "ArrowTV , 2 or Cinezo , 2 - 4K / Dual Audio / External Subs / Ad-Toggle",
-                            "links": [
-                                {
-                                    "name": "ArrowTV",
-                                    "url": "https://arrowtv.net/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://arrowtv.st/"
-                                },
-                                {
-                                    "name": "Cinezo",
-                                    "url": "https://www.cinezo.st/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://www.flikhub.net/"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "Movy - 4K / Dual Audio / External Subs / Ad-Toggle",
                             "links": [
@@ -10721,11 +10700,15 @@
                             ]
                         },
                         {
-                            "full_text": "FlyStream - 4K / Dual Audio / External Subs / Ad-Toggle / /",
+                            "full_text": "FlyStream , 2 - 4K / Dual Audio / External Subs / Ad-Toggle / /",
                             "links": [
                                 {
                                     "name": "FlyStream",
                                     "url": "https://flystream.net/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://flystream.pk/"
                                 },
                                 {
                                     "name": "",
@@ -10751,11 +10734,15 @@
                             ]
                         },
                         {
-                            "full_text": "Vivarium - 4K / Dual Audio / External Subs / Ad-Toggle /",
+                            "full_text": "Vivarium , 2 - 4K / Dual Audio / External Subs / Ad-Toggle /",
                             "links": [
                                 {
                                     "name": "Vivarium",
                                     "url": "https://vivarium.st/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://vivarium.cx/"
                                 },
                                 {
                                     "name": "",
@@ -10764,23 +10751,23 @@
                             ]
                         },
                         {
-                            "full_text": "Chillflix , Toflix or Vuflix - 4K / Dual Audio / External Subs / Ad-Toggle /",
+                            "full_text": "ArrowTV , 2 or Cinezo , 2 - 4K / Dual Audio / External Subs / Ad-Toggle",
                             "links": [
                                 {
-                                    "name": "Chillflix",
-                                    "url": "https://chillflix.lol/"
+                                    "name": "ArrowTV",
+                                    "url": "https://arrowtv.net/"
                                 },
                                 {
-                                    "name": "Toflix",
-                                    "url": "https://toflix.co/"
+                                    "name": "2",
+                                    "url": "https://arrowtv.st/"
                                 },
                                 {
-                                    "name": "Vuflix",
-                                    "url": "https://vuflix.co/"
+                                    "name": "Cinezo",
+                                    "url": "https://www.cinezo.st/"
                                 },
                                 {
-                                    "name": "",
-                                    "url": "https://discord.gg/6r5KTZgqXV"
+                                    "name": "2",
+                                    "url": "https://www.flikhub.net/"
                                 }
                             ]
                         },
@@ -10827,7 +10814,7 @@
                             ]
                         },
                         {
-                            "full_text": "Reelix or Coreflix - 4K / External Subs / Popup + Redirect Free",
+                            "full_text": "Reelix or Coreflix - 4K / External Subs / Ad-Toggle /",
                             "links": [
                                 {
                                     "name": "Reelix",
@@ -10836,6 +10823,10 @@
                                 {
                                     "name": "Coreflix",
                                     "url": "https://coreflix.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "ttps://discord.gg/29H2dUCS8"
                                 }
                             ]
                         },
@@ -10873,7 +10864,7 @@
                             ]
                         },
                         {
-                            "full_text": "P-Stream Forks - 1080p / Dual Audio / External Subs",
+                            "full_text": "P-Stream Forks - 4K / Dual Audio / External Subs",
                             "links": [
                                 {
                                     "name": "P-Stream Forks",
@@ -10895,7 +10886,7 @@
                             ]
                         },
                         {
-                            "full_text": "Flixer , 2 , 3 or Hexa - 1080p / Ad-Toggle",
+                            "full_text": "Flixer , 2 or Hexa - 1080p / Ad-Toggle",
                             "links": [
                                 {
                                     "name": "Flixer",
@@ -10903,10 +10894,6 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://flixer.su/"
-                                },
-                                {
-                                    "name": "3",
                                     "url": "https://flixer.cx/"
                                 },
                                 {
@@ -10958,7 +10945,7 @@
                             ]
                         },
                         {
-                            "full_text": "Vumeto - 4K / Dual Audio / Pop up + Redirect Free",
+                            "full_text": "Vumeto - 4K / Dual Audio / Ad-Toggle",
                             "links": [
                                 {
                                     "name": "Vumeto",
@@ -10984,7 +10971,7 @@
                             "links": [
                                 {
                                     "name": "BingeBang",
-                                    "url": "https://bingebang.st/"
+                                    "url": "https://bingebang.sx/"
                                 },
                                 {
                                     "name": "Status",
@@ -10993,6 +10980,27 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/v3EmsANYNM"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Chillflix , Toflix or Vuflix - 4K / Dual Audio / External Subs / Ad-Toggle /",
+                            "links": [
+                                {
+                                    "name": "Chillflix",
+                                    "url": "https://chillflix.lol/"
+                                },
+                                {
+                                    "name": "Toflix",
+                                    "url": "https://toflix.co/"
+                                },
+                                {
+                                    "name": "Vuflix",
+                                    "url": "https://vuflix.co/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6r5KTZgqXV"
                                 }
                             ]
                         },
@@ -11152,6 +11160,19 @@
                             ]
                         },
                         {
+                            "full_text": "4Movie - 1080p / Dual Audio / Ad-Toggle / External Subs /",
+                            "links": [
+                                {
+                                    "name": "4Movie",
+                                    "url": "https://4movie.in/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/vS8uWRhHn"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ThugTV - 720p / Dual Audio / Ad-Toggle / /",
                             "links": [
                                 {
@@ -11190,11 +11211,15 @@
                             ]
                         },
                         {
-                            "full_text": "Reeflix New - 4K / Dual Audio / External Subs / Pop up + Redirect Free",
+                            "full_text": "Reeflix New - 4K / Dual Audio / External Subs / Ad-Toggle /",
                             "links": [
                                 {
                                     "name": "Reeflix",
                                     "url": "https://reeflix.st/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/29H2dUCS8"
                                 }
                             ]
                         },
@@ -11281,11 +11306,15 @@
                             ]
                         },
                         {
-                            "full_text": "4Movie - 1080p / Dual Audio / Ad-Toggle",
+                            "full_text": "Kaizoku New - 4K / Dual Audio / Popup + Redirect Free /",
                             "links": [
                                 {
-                                    "name": "4Movie",
-                                    "url": "https://4movie.in/"
+                                    "name": "Kaizoku",
+                                    "url": "https://kaizoku.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/hrjuTa3CaH"
                                 }
                             ]
                         },
@@ -11330,6 +11359,24 @@
                                 {
                                     "name": "VidPlay",
                                     "url": "https://vidplay.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PFlix New - 1080p / Popup + Redirect Free",
+                            "links": [
+                                {
+                                    "name": "PFlix",
+                                    "url": "https://pflix.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Tonitrus New - 1080p / Popup + Redirect Free",
+                            "links": [
+                                {
+                                    "name": "Tonitrus",
+                                    "url": "https://tonitrus.online/"
                                 }
                             ]
                         },
@@ -11395,6 +11442,19 @@
                                 {
                                     "name": "cineruv",
                                     "url": "https://cineruv.website/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CineBros New - 1080p / Dual Audio / External Subs / Popup + Redirect Free /",
+                            "links": [
+                                {
+                                    "name": "CineBros",
+                                    "url": "https://cinebros.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/gS2Q7umyP"
                                 }
                             ]
                         },
@@ -11570,6 +11630,23 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Basement - 4K / Dual Audio / External Subs / Ad-Toggle / Status /",
+                            "links": [
+                                {
+                                    "name": "Basement",
+                                    "url": "https://basementx.rest/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rentry.co/basementx"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/bWYUqEg7Xq"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Aether , 2 , 3 - 4K / Dual Audio / External Subs / Ad-Toggle / Status /",
                             "links": [
                                 {
@@ -11591,23 +11668,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/MadMF7xb5q"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Basement - 4K / Dual Audio / External Subs / Status /",
-                            "links": [
-                                {
-                                    "name": "Basement",
-                                    "url": "https://basementx.lol/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rentry.co/basementx"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/bWYUqEg7Xq"
                                 }
                             ]
                         },
@@ -11703,15 +11763,6 @@
                             ]
                         },
                         {
-                            "full_text": "LE MOVIE New - 1080p / Dual Audio / Pop up + Redirect Free",
-                            "links": [
-                                {
-                                    "name": "LE MOVIE",
-                                    "url": "https://lemovie.site/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "NEPU , 2 , 3 - 4K / Status /",
                             "links": [
                                 {
@@ -11733,6 +11784,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nepu"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LE MOVIE New - 720p / Dual Audio / Pop up + Redirect Free",
+                            "links": [
+                                {
+                                    "name": "LE MOVIE",
+                                    "url": "https://lemovie.site/"
                                 }
                             ]
                         },
@@ -12150,7 +12210,7 @@
                             ]
                         },
                         {
-                            "full_text": "HydraHD , 2 - 12 Sources / Status /",
+                            "full_text": "HydraHD , 2 - 13 Sources / Status /",
                             "links": [
                                 {
                                     "name": "HydraHD",
@@ -12218,28 +12278,6 @@
                             ]
                         },
                         {
-                            "full_text": "PiePrime New - 3 Sources",
-                            "links": [
-                                {
-                                    "name": "PiePrime",
-                                    "url": "https://pieprime.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Comvie - 39 Sources / Popup + Redirect Free /",
-                            "links": [
-                                {
-                                    "name": "Comvie",
-                                    "url": "https://comvie.lol/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/3jbb3fXJWj"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "HDToday New - 38 Sources / Pop up + Redirect Free",
                             "links": [
                                 {
@@ -12254,6 +12292,28 @@
                                 {
                                     "name": "Cineshine",
                                     "url": "https://cineshine.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Aloso New - 46 Sources / Pop up + Redirect Free",
+                            "links": [
+                                {
+                                    "name": "Aloso",
+                                    "url": "https://aloso.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Comvie - 39 Sources / Popup + Redirect Free /",
+                            "links": [
+                                {
+                                    "name": "Comvie",
+                                    "url": "https://comvie.lol/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3jbb3fXJWj"
                                 }
                             ]
                         },
@@ -12289,28 +12349,6 @@
                             ]
                         },
                         {
-                            "full_text": "Bingeflix - 11 Sources /",
-                            "links": [
-                                {
-                                    "name": "Bingeflix",
-                                    "url": "https://bingeflix.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/ajRY6Bn3rr"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Aloso New - 38 Sources / Pop up + Redirect Free",
-                            "links": [
-                                {
-                                    "name": "Aloso",
-                                    "url": "https://aloso.vercel.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "WatchSeries , 2 - 8 Sources / Ad-Toggle / Mirrors",
                             "links": [
                                 {
@@ -12341,24 +12379,15 @@
                             ]
                         },
                         {
-                            "full_text": "ONOFLIX - 16 Sources /",
+                            "full_text": "Bingeflix - 11 Sources /",
                             "links": [
                                 {
-                                    "name": "ONOFLIX",
-                                    "url": "https://onoflix.live/"
+                                    "name": "Bingeflix",
+                                    "url": "https://bingeflix.tv/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/eEmGSZ98cP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FLIKER - 17 Sources / Popup + Redirect Free",
-                            "links": [
-                                {
-                                    "name": "FLIKER",
-                                    "url": "https://fliker.freebuff.app/"
+                                    "url": "https://discord.com/invite/ajRY6Bn3rr"
                                 }
                             ]
                         },
@@ -12372,19 +12401,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://streamex.ws/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Snowstream - 21 Sources / Popup + Redirect Free /",
-                            "links": [
-                                {
-                                    "name": "Snowstream",
-                                    "url": "https://snowstream.vercel.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/snowstreamchat"
                                 }
                             ]
                         },
@@ -12416,23 +12432,6 @@
                                 {
                                     "name": "CinebyTV",
                                     "url": "https://cinebytv.com"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Moviepire , 2 - 38 Sources /",
-                            "links": [
-                                {
-                                    "name": "Moviepire",
-                                    "url": "https://moviepire.ru/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://phland.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/hdoboxapk2"
                                 }
                             ]
                         },
@@ -12520,6 +12519,23 @@
                                 {
                                     "name": "WatchOrbit",
                                     "url": "https://watchorbit.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Moviepire , 2 - 38 Sources /",
+                            "links": [
+                                {
+                                    "name": "Moviepire",
+                                    "url": "https://moviepire.ru/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://phland.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/hdoboxapk2"
                                 }
                             ]
                         },
@@ -13970,7 +13986,7 @@
                             "links": [
                                 {
                                     "name": "Aniwave",
-                                    "url": "https://aniwaves.ru/"
+                                    "url": "https://aniwaves.tv/"
                                 },
                                 {
                                     "name": "2",
@@ -14009,7 +14025,7 @@
                             "links": [
                                 {
                                     "name": "AniSnatch",
-                                    "url": "https://anisnatch.top/"
+                                    "url": "https://anisnatch.cz/"
                                 },
                                 {
                                     "name": "2",
@@ -14202,6 +14218,15 @@
                                 {
                                     "name": "⁠Shonen",
                                     "url": "https://shonen.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Way2Movies Anime New - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "⁠Way2Movies Anime",
+                                    "url": "https://anime.way2movies.vip/"
                                 }
                             ]
                         },
@@ -14870,15 +14895,11 @@
                             ]
                         },
                         {
-                            "full_text": "KissAsian , 2 - TV / Movies",
+                            "full_text": "KissAsian - TV / Movies",
                             "links": [
                                 {
                                     "name": "KissAsian",
                                     "url": "https://kissasian.com.gr/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://kisskh.fr/"
                                 }
                             ]
                         },
@@ -15004,15 +15025,11 @@
                             ]
                         },
                         {
-                            "full_text": "KissKH.dk , 2 - TV / Movies",
+                            "full_text": "KissKH.dk - TV / Movies",
                             "links": [
                                 {
                                     "name": "KissKH.dk",
                                     "url": "https://kisskh.dk/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://kisskh.or.at/"
                                 }
                             ]
                         },
@@ -15705,11 +15722,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Matchora New - TV / Sports",
+                            "full_text": "⁠Matchora - TV / Sports",
                             "links": [
                                 {
                                     "name": "⁠Matchora",
-                                    "url": "https://matchora.to/channels"
+                                    "url": "https://matchora.st/channels"
                                 }
                             ]
                         },
@@ -15775,15 +15792,6 @@
                                 {
                                     "name": "Watchott Live",
                                     "url": "https://iptv.watchott.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "xyzstreams - TV / Sports",
-                            "links": [
-                                {
-                                    "name": "xyzstreams",
-                                    "url": "https://xyzstreams.st/"
                                 }
                             ]
                         },
@@ -16200,7 +16208,7 @@
                             "links": [
                                 {
                                     "name": "⁠Matchora",
-                                    "url": "https://matchora.to/"
+                                    "url": "https://matchora.st/"
                                 }
                             ]
                         },
@@ -16412,15 +16420,6 @@
                             ]
                         },
                         {
-                            "full_text": "xyzstreams",
-                            "links": [
-                                {
-                                    "name": "xyzstreams",
-                                    "url": "https://xyzstreams.st/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Sportsurge",
                             "links": [
                                 {
@@ -16533,7 +16532,7 @@
                             "links": [
                                 {
                                     "name": "⁠FalconStreams",
-                                    "url": "https://falconstreams.app/"
+                                    "url": "https://falconstreams.st/"
                                 },
                                 {
                                     "name": "",
@@ -16587,15 +16586,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠FCTV33 , 2 /",
+                            "full_text": "⁠FCTV33 /",
                             "links": [
                                 {
                                     "name": "⁠FCTV33",
                                     "url": "https://www.fctv33go.hair/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://emmau680.driveraudiencej2zeu49.sbs/"
                                 },
                                 {
                                     "name": "",
@@ -16608,15 +16603,15 @@
                             "links": [
                                 {
                                     "name": "VIP Box Sports",
-                                    "url": "https://vipleague.me/home"
+                                    "url": "https://vipleague.li/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://olympicweb.me/home"
+                                    "url": "https://olympiclive.me/"
                                 },
                                 {
                                     "name": "3",
-                                    "url": "https://fbstream.is/"
+                                    "url": "https://fbstream.st/"
                                 },
                                 {
                                     "name": "Mirrors",
@@ -16718,7 +16713,7 @@
                             "links": [
                                 {
                                     "name": "F1 Live",
-                                    "url": "https://flive.dpdns.org/"
+                                    "url": "https://flive.cc.cd/"
                                 }
                             ]
                         },
@@ -22210,7 +22205,7 @@
                             ]
                         },
                         {
-                            "full_text": "mkv-extract , gmkvextractgui or MKVcleaver - Extract Subtitles from MKV Files",
+                            "full_text": "mkv-extract , gmkvextractgui / or MKVcleaver - Extract Subtitles from MKV Files",
                             "links": [
                                 {
                                     "name": "mkv-extract",
@@ -22219,6 +22214,10 @@
                                 {
                                     "name": "gmkvextractgui",
                                     "url": "https://sourceforge.net/projects/gmkvextractgui/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Gpower2/gMKVExtractGUI"
                                 },
                                 {
                                     "name": "MKVcleaver",
@@ -23113,6 +23112,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Metrolist New - YouTube Music Client /",
+                            "links": [
+                                {
+                                    "name": "⁠Metrolist",
+                                    "url": "https://metrolist.meowery.eu/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠ytm-rs - YouTube Music Client / /",
                             "links": [
                                 {
@@ -23909,6 +23917,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠HearHear New , ConcertArchives or ⁠EntertainMe - Concert Tracking / Databases",
+                            "links": [
+                                {
+                                    "name": "⁠HearHear",
+                                    "url": "https://hearhear.fm/"
+                                },
+                                {
+                                    "name": "ConcertArchives",
+                                    "url": "https://www.concertarchives.org/"
+                                },
+                                {
+                                    "name": "⁠EntertainMe",
+                                    "url": "https://www.entertainme.fun/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OperaVision or OperaOnVideo - Opera Recordings",
                             "links": [
                                 {
@@ -24025,19 +24050,6 @@
                                 {
                                     "name": "Volume",
                                     "url": "https://volume.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ConcertArchives or ⁠EntertainMe - Concert Tracking / Database",
-                            "links": [
-                                {
-                                    "name": "ConcertArchives",
-                                    "url": "https://www.concertarchives.org/"
-                                },
-                                {
-                                    "name": "⁠EntertainMe",
-                                    "url": "https://www.entertainme.fun/"
                                 }
                             ]
                         },
@@ -24292,6 +24304,15 @@
                                 {
                                     "name": "Rave Recording",
                                     "url": "https://rentry.co/FMHYB64#rave-library"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Late Night Tales New - Artist-Curated DJ Mixes",
+                            "links": [
+                                {
+                                    "name": "⁠Late Night Tales",
+                                    "url": "https://www.mixcloud.com/LateNightTalesOfficial/"
                                 }
                             ]
                         }
@@ -40187,15 +40208,11 @@
                             ]
                         },
                         {
-                            "full_text": "Blackjack Break or HTML5 Blackjack - Online Blackjack",
+                            "full_text": "Blackjack Break - Online Blackjack",
                             "links": [
                                 {
                                     "name": "Blackjack Break",
                                     "url": "https://blackjackbreak.com/"
-                                },
-                                {
-                                    "name": "HTML5 Blackjack",
-                                    "url": "https://www.html5blackjack.net/"
                                 }
                             ]
                         },
@@ -42784,15 +42801,6 @@
                             ]
                         },
                         {
-                            "full_text": "MiniRoyale - Battle Royale Game",
-                            "links": [
-                                {
-                                    "name": "MiniRoyale",
-                                    "url": "https://miniroyale.io/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Hypersomnia - Top-Down Shooter /",
                             "links": [
                                 {
@@ -43904,6 +43912,15 @@
                                 {
                                     "name": "WarClicks",
                                     "url": "https://warclicks.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Armory & Machine (Web) New - Armory & Machine Browser Version",
+                            "links": [
+                                {
+                                    "name": "⁠Armory & Machine (Web)",
+                                    "url": "https://armory-machine.whipple.ninja/"
                                 }
                             ]
                         },
@@ -45290,15 +45307,6 @@
                             ]
                         },
                         {
-                            "full_text": "Music Guessr - Guess Countries by Music",
-                            "links": [
-                                {
-                                    "name": "Music Guessr",
-                                    "url": "https://musicguessr.io/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Back Of Your Hand - Local GeoGuessr",
                             "links": [
                                 {
@@ -45561,7 +45569,7 @@
                             ]
                         },
                         {
-                            "full_text": "Library Genesis , 2 - Books / Comics / Manga / Tools / Mirrors /",
+                            "full_text": "Library Genesis , 2 , 3 , 4 - Books / Comics / Manga / Mirrors , 2 / Search Extension / Need Seeds / Backup /",
                             "links": [
                                 {
                                     "name": "Library Genesis",
@@ -45572,12 +45580,32 @@
                                     "url": "https://libgen.gl/"
                                 },
                                 {
-                                    "name": "Tools",
-                                    "url": "https://fmhy.net/storage/#libgen-tools"
+                                    "name": "3",
+                                    "url": "https://libgen.li/"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://libgen.la/"
                                 },
                                 {
                                     "name": "Mirrors",
-                                    "url": "https://fmhy.net/storage/#libgen-mirrors"
+                                    "url": "https://librarygenesis.net/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://rentry.co/m2hkqhwb"
+                                },
+                                {
+                                    "name": "Search Extension",
+                                    "url": "https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad"
+                                },
+                                {
+                                    "name": "Need Seeds",
+                                    "url": "https://phillm.net/libgen-seeds-needed.php"
+                                },
+                                {
+                                    "name": "Backup",
+                                    "url": "https://redd.it/edwi9b"
                                 },
                                 {
                                     "name": "",
@@ -49472,15 +49500,6 @@
                                 {
                                     "name": "⁠Tobari",
                                     "url": "https://tobari.moe/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠bManga - Multi-Site Manga Aggregator",
-                            "links": [
-                                {
-                                    "name": "⁠bManga",
-                                    "url": "https://bmanga.dedyn.io/"
                                 }
                             ]
                         },
@@ -57248,15 +57267,11 @@
                             ]
                         },
                         {
-                            "full_text": "TorrentProject , 2 - DHT-Based",
+                            "full_text": "TorrentProject - DHT-Based",
                             "links": [
                                 {
                                     "name": "TorrentProject",
                                     "url": "https://torrentproject.cc/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://torrentproject2.net/"
                                 }
                             ]
                         },
@@ -57579,15 +57594,6 @@
                             ]
                         },
                         {
-                            "full_text": "LIII - Torrent Client /",
-                            "links": [
-                                {
-                                    "name": "LIII",
-                                    "url": "https://codecpack.co/download/LIII-BitTorrent-Client.html"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "WizTorrent - Torrent Client / Streaming / WebShare /",
                             "links": [
                                 {
@@ -57819,7 +57825,7 @@
                             ]
                         },
                         {
-                            "full_text": "Quantum - Auto Port Updater for Proton /",
+                            "full_text": "Quantum - Auto Port Updater for ProtonVPN /",
                             "links": [
                                 {
                                     "name": "Quantum",
@@ -62671,15 +62677,6 @@
                             ]
                         },
                         {
-                            "full_text": "Marspedia - Mars Wiki",
-                            "links": [
-                                {
-                                    "name": "Marspedia",
-                                    "url": "https://marspedia.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "ESA - European Space Agency Website /",
                             "links": [
                                 {
@@ -63461,6 +63458,15 @@
                                 {
                                     "name": "RocketLaunch",
                                     "url": "https://rocketlaunch.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Booster Tracker New - SpaceX Booster & Launch Statistics",
+                            "links": [
+                                {
+                                    "name": "⁠Booster Tracker",
+                                    "url": "https://boostertracker.com/"
                                 }
                             ]
                         },
@@ -66280,7 +66286,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://codeberg.org/litekin/pixel-wealth/"
+                                    "url": "https://codeberg.org/litekin/wealth-visualized"
                                 },
                                 {
                                     "name": "2",
@@ -69999,24 +70005,24 @@
                             ]
                         },
                         {
-                            "full_text": "ESOL - English Learning Resources",
+                            "full_text": "ESOL or Awesome English New - English Learning Resources",
                             "links": [
                                 {
                                     "name": "ESOL",
                                     "url": "https://www.esolcourses.com/"
+                                },
+                                {
+                                    "name": "Awesome English",
+                                    "url": "https://github.com/yvoronoy/awesome-english"
                                 }
                             ]
                         },
                         {
-                            "full_text": "youglish or YouDict - YouTube Word Pronunciations",
+                            "full_text": "youglish - YouTube Word Pronunciations",
                             "links": [
                                 {
                                     "name": "youglish",
                                     "url": "https://youglish.com/"
-                                },
-                                {
-                                    "name": "YouDict",
-                                    "url": "https://youdict.co/"
                                 }
                             ]
                         },
@@ -71935,6 +71941,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠FrathWiki New - Constructed Language Wiki",
+                            "links": [
+                                {
+                                    "name": "⁠FrathWiki",
+                                    "url": "https://frathwiki.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Esperanto12 or ⁠Esperanto in 17 Minutes - Esperanto Learning",
                             "links": [
                                 {
@@ -73496,7 +73511,7 @@
                             ]
                         },
                         {
-                            "full_text": "100DayCSS , CSS Challenges or PlayCSS - CSS Challenges",
+                            "full_text": "100DayCSS or CSS Challenges - CSS Challenges",
                             "links": [
                                 {
                                     "name": "100DayCSS",
@@ -73505,10 +73520,6 @@
                                 {
                                     "name": "CSS Challenges",
                                     "url": "https://css-challenges.com/"
-                                },
-                                {
-                                    "name": "PlayCSS",
-                                    "url": "https://playcss.app/"
                                 }
                             ]
                         },
@@ -80368,7 +80379,7 @@
                             ]
                         },
                         {
-                            "full_text": "Muzei , Doodle or Amoled Backgrounds - Live Wallpapers",
+                            "full_text": "Muzei or Doodle - Live Wallpapers",
                             "links": [
                                 {
                                     "name": "Muzei",
@@ -80377,10 +80388,6 @@
                                 {
                                     "name": "Doodle",
                                     "url": "https://patrickzedler.com/doodle/"
-                                },
-                                {
-                                    "name": "Amoled Backgrounds",
-                                    "url": "https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds"
                                 }
                             ]
                         },
@@ -80630,6 +80637,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠WM Keyboard - Customizable Privacy-Focused Keyboard / /",
+                            "links": [
+                                {
+                                    "name": "⁠WM Keyboard",
+                                    "url": "https://wmkeyboard.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/wmkeyboard"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/wasi-master/wmkeyboard"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Florisboard - Privacy-Focused Keyboard /",
                             "links": [
                                 {
@@ -80639,19 +80663,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/florisboard/florisboard/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠WM Keyboard - Privacy-Focused Keyboard /",
-                            "links": [
-                                {
-                                    "name": "⁠WM Keyboard",
-                                    "url": "https://wmkeyboard.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/wasi-master/wmkeyboard"
                                 }
                             ]
                         },
@@ -80928,7 +80939,7 @@
                             ]
                         },
                         {
-                            "full_text": "DAVx⁵ - Contacts Syncing /",
+                            "full_text": "DAVx⁵ - Calendar, Contact & File Sync /",
                             "links": [
                                 {
                                     "name": "DAVx⁵",
@@ -84456,7 +84467,7 @@
                             ]
                         },
                         {
-                            "full_text": "DAVx⁵ - Calendar Syncing /",
+                            "full_text": "DAVx⁵ - Calendar, Contact & File Sync /",
                             "links": [
                                 {
                                     "name": "DAVx⁵",
@@ -85733,14 +85744,10 @@
                             ]
                         },
                         {
-                            "full_text": "Sav PDF Viewer Pro - PDF Reader /",
+                            "full_text": "Sav PDF Viewer Pro - PDF Reader",
                             "links": [
                                 {
                                     "name": "Sav PDF Viewer Pro",
-                                    "url": "https://www.savpdfviewer.com"
-                                },
-                                {
-                                    "name": "",
                                     "url": "https://github.com/Sav22999/sav-pdf-viewer-pro"
                                 }
                             ]
@@ -86855,7 +86862,7 @@
                             ]
                         },
                         {
-                            "full_text": "Metrolist - YouTube Music Player / / / /",
+                            "full_text": "Metrolist New - YouTube Music Player / / / /",
                             "links": [
                                 {
                                     "name": "Metrolist",
@@ -87540,6 +87547,15 @@
                             ]
                         },
                         {
+                            "full_text": "VivaTV (search) - Movies / TV / Requires TPlayer",
+                            "links": [
+                                {
+                                    "name": "VivaTV",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠FlixQuest - Movies / TV / Live TV /",
                             "links": [
                                 {
@@ -87557,15 +87573,6 @@
                             "links": [
                                 {
                                     "name": "Movie HD",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "VivaTV (search) - Movies / TV / Requires TPlayer",
-                            "links": [
-                                {
-                                    "name": "VivaTV",
                                     "url": "https://fmhy.net/mobile/#modded-apks"
                                 }
                             ]
@@ -89325,7 +89332,7 @@
                             "links": [
                                 {
                                     "name": "TrollRecorder",
-                                    "url": "https://github.com/Lessica/TrollRecorder"
+                                    "url": "https://github.com/owngoal-dev/TrollRecorder"
                                 }
                             ]
                         },
@@ -90372,6 +90379,15 @@
                                 {
                                     "name": "ios.cfw.guide",
                                     "url": "https://ios.cfw.guide/sideloading-apps/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠spanani Store New - WiFi Sideloading (Weekly Refresh) / iOS I 17.0 & Above",
+                            "links": [
+                                {
+                                    "name": "⁠spanani Store",
+                                    "url": "https://github.com/spananide/spanani-store"
                                 }
                             ]
                         },
@@ -93860,15 +93876,11 @@
                             ]
                         },
                         {
-                            "full_text": "Rim's Linux Wiki , 2 - Linux Software / Tool Index /",
+                            "full_text": "Rim's Linux Wiki - Linux Software / Tool Index /",
                             "links": [
                                 {
                                     "name": "Rim's Linux Wiki",
                                     "url": "https://rlw.pages.dev/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://rimswiki.xyz/"
                                 },
                                 {
                                     "name": "",
@@ -95816,7 +95828,7 @@
                             "links": [
                                 {
                                     "name": "DLSS5VKLayer",
-                                    "url": "https://github.com/bmitch87/DLSS5VKLayerr"
+                                    "url": "https://github.com/bmitch87/DLSS5VKLayer"
                                 }
                             ]
                         },
@@ -97656,6 +97668,19 @@
                                 {
                                     "name": "Docker-Android",
                                     "url": "https://github.com/budtmo/docker-android"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Droidloom New - Run Android Apps Inside Wayland Session /",
+                            "links": [
+                                {
+                                    "name": "Droidloom",
+                                    "url": "https://denialwm.org/droidloom"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/denialwm/droidloom"
                                 }
                             ]
                         },
@@ -105512,15 +105537,6 @@
                             ]
                         },
                         {
-                            "full_text": "Stigstream - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Stigstream",
-                                    "url": "https://stigstream.ru/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "TF1 - Live TV / Movies / TV / Anime / Requires French VPN for Some Content",
                             "links": [
                                 {
@@ -105650,7 +105666,7 @@
                             "links": [
                                 {
                                     "name": "Voiranime",
-                                    "url": "https://voir-anime.to/"
+                                    "url": "https://voiranime.cx/"
                                 }
                             ]
                         },
@@ -106622,7 +106638,7 @@
                             ]
                         },
                         {
-                            "full_text": "tainio-mania , 2 , 3 , 4 - Movies / TV",
+                            "full_text": "tainio-mania , 2 , 3 - Movies / TV",
                             "links": [
                                 {
                                     "name": "tainio-mania",
@@ -106630,14 +106646,10 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://tenies-online.best/"
-                                },
-                                {
-                                    "name": "3",
                                     "url": "https://voody-online.com/"
                                 },
                                 {
-                                    "name": "4",
+                                    "name": "3",
                                     "url": "https://moomza.com/"
                                 }
                             ]
@@ -108400,7 +108412,7 @@
                             "links": [
                                 {
                                     "name": "StreamingCommunity",
-                                    "url": "https://streamingcommunityz.photos/"
+                                    "url": "https://streamingcommunityz.mov/"
                                 },
                                 {
                                     "name": "Status",
@@ -109171,15 +109183,6 @@
                                 {
                                     "name": "KLManga",
                                     "url": "https://klz9.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "rawfree - Manga",
-                            "links": [
-                                {
-                                    "name": "rawfree",
-                                    "url": "https://rawfree.to/"
                                 }
                             ]
                         },
@@ -112230,6 +112233,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠AnimeGO New - Anime",
+                            "links": [
+                                {
+                                    "name": "⁠AnimeGO",
+                                    "url": "https://animego.me/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AniLabX - Android Anime / Cartoons / Drama App",
                             "links": [
                                 {
@@ -113259,15 +113271,6 @@
                             ]
                         },
                         {
-                            "full_text": "Mega1080 - Movies / Documentaries / 1080p / Latino",
-                            "links": [
-                                {
-                                    "name": "Mega1080",
-                                    "url": "https://www.mega1080.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "MegaPeliculasRip - Movies / Classics / TV / Animation / 1080p / Latino",
                             "links": [
                                 {
@@ -114036,15 +114039,6 @@
                             ]
                         },
                         {
-                            "full_text": "librefutboltv - Live Football",
-                            "links": [
-                                {
-                                    "name": "librefutboltv",
-                                    "url": "https://futbol-libre.com.co/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Listas-IPTV - Spanish IPTV Resources",
                             "links": [
                                 {
@@ -114080,15 +114074,11 @@
                             ]
                         },
                         {
-                            "full_text": "verpeliculasonline , 2 - Movies / TV",
+                            "full_text": "verpeliculasonline - Movies / TV",
                             "links": [
                                 {
                                     "name": "verpeliculasonline",
                                     "url": "https://verpeliculasonline.org/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://ver-peliculas-online.org/"
                                 }
                             ]
                         },
@@ -115835,29 +115825,37 @@
                             ]
                         },
                         {
-                            "full_text": "kkphim - Movies / TV / Anime / Sub / Dub / 1080p",
+                            "full_text": "kkphim , 2 - Movies / TV / Anime / Sub / Dub / 1080p /",
                             "links": [
                                 {
                                     "name": "kkphim",
                                     "url": "https://kkphim.com/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://kkphim2.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/phimnguon"
                                 }
                             ]
                         },
                         {
-                            "full_text": "NguonC - Movies / TV / Anime / Sub / Dub / 1080p",
+                            "full_text": "NGUỒN C - Movies / TV / Anime / Sub / Dub / 1080p",
                             "links": [
                                 {
-                                    "name": "NguonC",
+                                    "name": "NGUỒN C",
                                     "url": "https://phim.nguonc.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "⁠Tram Phim - Movies / TV / Anime / Sub / Dub / 1080p / 4K / Threads /",
+                            "full_text": "⁠Trạm Phim New - Movies / TV / Anime / Sub / Dub / 1080p / 4K / Threads /",
                             "links": [
                                 {
-                                    "name": "⁠Tram Phim",
-                                    "url": "https://tramphim.wtf/"
+                                    "name": "⁠Trạm Phim",
+                                    "url": "https://tramphim.beer/"
                                 },
                                 {
                                     "name": "Threads",
@@ -115953,6 +115951,15 @@
                                 {
                                     "name": "2",
                                     "url": "https://htvc.com.vn/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠XemTV New - Live TV",
+                            "links": [
+                                {
+                                    "name": "⁠XemTV",
+                                    "url": "https://hd1.xemtv.net/"
                                 }
                             ]
                         },
@@ -118821,6 +118828,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Difford's Guide - Cocktail Recipe Guide",
+                            "links": [
+                                {
+                                    "name": "⁠Difford's Guide",
+                                    "url": "https://www.diffordsguide.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cofi - Coffee Brew Timer /",
                             "links": [
                                 {
@@ -118880,15 +118896,6 @@
                                 {
                                     "name": "/tea/",
                                     "url": "https://clarasguide.valeena.workers.dev/Guides/teageneral/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Difford's Guide - Cocktail Recipe Guide",
-                            "links": [
-                                {
-                                    "name": "⁠Difford's Guide",
-                                    "url": "https://www.diffordsguide.com/"
                                 }
                             ]
                         },
@@ -128470,6 +128477,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Mouse Finder New - Interactive Mouse Hand Matching Tool",
+                            "links": [
+                                {
+                                    "name": "⁠Mouse Finder",
+                                    "url": "https://shapefinder.cc/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Shwamper's Skate Tierlist - Mouse Dot Skate Recommendations /",
                             "links": [
                                 {
@@ -130349,7 +130365,7 @@
                             ]
                         },
                         {
-                            "full_text": "LettuceMeet , Star Fit , Samay , Pick Time , Event Rallly / , Groop , Cally , Mobilizon or Gancio - Event Planning / Schedule Voting",
+                            "full_text": "LettuceMeet , Star Fit , Samay , Pick Time , Event Rallly / , Groop , Cally or Gancio - Event Planning / Schedule Voting",
                             "links": [
                                 {
                                     "name": "LettuceMeet",
@@ -130382,10 +130398,6 @@
                                 {
                                     "name": "Cally",
                                     "url": "https://cally.com/"
-                                },
-                                {
-                                    "name": "Mobilizon",
-                                    "url": "https://joinmobilizon.org/"
                                 },
                                 {
                                     "name": "Gancio",
@@ -133258,6 +133270,15 @@
                                 {
                                     "name": "Strobe Illusion",
                                     "url": "https://strobe.cool/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OpenPsychometrics New - Interactive Personality Tests",
+                            "links": [
+                                {
+                                    "name": "⁠OpenPsychometrics",
+                                    "url": "https://openpsychometrics.org/"
                                 }
                             ]
                         },
@@ -139903,7 +139924,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Aria2 Next or aria2 / - Terminal Download Manager / Download Bot / WebUI , 2 /",
+                            "full_text": "⁠Aria2 Next or aria2 / - Terminal Download Manager / WebUI , 2 /",
                             "links": [
                                 {
                                     "name": "⁠Aria2 Next",
@@ -139916,10 +139937,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/aria2/aria2"
-                                },
-                                {
-                                    "name": "Download Bot",
-                                    "url": "https://github.com/gaowanliang/DownloadBot"
                                 },
                                 {
                                     "name": "WebUI",
@@ -140439,15 +140456,6 @@
                                 {
                                     "name": "⁠Docpose",
                                     "url": "https://docpose.cloud/convert"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "videoutils - Online / File Converter / 500MB /",
-                            "links": [
-                                {
-                                    "name": "videoutils",
-                                    "url": "https://www.videoutils.com/"
                                 }
                             ]
                         },
@@ -141303,12 +141311,8 @@
                             ]
                         },
                         {
-                            "full_text": "ExtractMetadata , ⁠FilesMD or Metadata2Go - Metadata Viewers / Editors",
+                            "full_text": "⁠FilesMD or Metadata2Go - Metadata Viewers / Editors",
                             "links": [
-                                {
-                                    "name": "ExtractMetadata",
-                                    "url": "https://www.extractmetadata.com/"
-                                },
                                 {
                                     "name": "⁠FilesMD",
                                     "url": "https://www.filesmd.com/"
@@ -141465,7 +141469,7 @@
                             ]
                         },
                         {
-                            "full_text": "Low Level Format , nwipe or ShredOS - Complete Hard Drive Erasers",
+                            "full_text": "Low Level Format , nwipe or ShredOS New / [GitHub-( https://github.com/PartialVolume/shredos.x86_64 ) Complete Hard Drive Erasers",
                             "links": [
                                 {
                                     "name": "Low Level Format",
@@ -141477,16 +141481,28 @@
                                 },
                                 {
                                     "name": "ShredOS",
+                                    "url": "https://shredos.com/"
+                                },
+                                {
+                                    "name": "https://github.com/PartialVolume/shredos.x86_64",
                                     "url": "https://github.com/PartialVolume/shredos.x86_64"
                                 }
                             ]
                         },
                         {
-                            "full_text": "RED - Remove Empty Directories",
+                            "full_text": "RED / or RED+ New - Remove Empty Directories",
                             "links": [
                                 {
                                     "name": "RED",
                                     "url": "https://www.jonasjohn.de/red.htm"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/hxseven/Remove-Empty-Directories/"
+                                },
+                                {
+                                    "name": "RED+",
+                                    "url": "https://github.com/BookOfBeasts/Remove-Empty-Directories-Plus"
                                 }
                             ]
                         }
@@ -141813,6 +141829,15 @@
                                 {
                                     "name": "",
                                     "url": "https://codeberg.org/ladigitale/digipdf"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠FixMyPDFs New - Client-Side",
+                            "links": [
+                                {
+                                    "name": "⁠FixMyPDFs",
+                                    "url": "https://fixmypdfs.cc/"
                                 }
                             ]
                         },
@@ -144071,11 +144096,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Megabasterd - Download Quota Bypass /",
+                            "full_text": "Megabasterd or ⁠Looker New - Download Quota Bypass / Downloaders /",
                             "links": [
                                 {
                                     "name": "Megabasterd",
                                     "url": "https://github.com/tonikelope/megabasterd"
+                                },
+                                {
+                                    "name": "⁠Looker",
+                                    "url": "https://github.com/x7ssss/looker"
                                 }
                             ]
                         },
@@ -156659,15 +156688,6 @@
                             ]
                         },
                         {
-                            "full_text": "Playlist Randomizer - YouTube Playlist Randomizer",
-                            "links": [
-                                {
-                                    "name": "Playlist Randomizer",
-                                    "url": "https://playlist-randomizer.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "playlist.tools - Reverse YouTube Playlists",
                             "links": [
                                 {
@@ -156874,15 +156894,11 @@
                             ]
                         },
                         {
-                            "full_text": "YTThumbnailHD , ThumbnailDownloader or YT Thumbnail Grabber - Download Video Thumbnails",
+                            "full_text": "YTThumbnailHD or YT Thumbnail Grabber - Download Video Thumbnails",
                             "links": [
                                 {
                                     "name": "YTThumbnailHD",
                                     "url": "https://ytthumbnailhd.com/"
-                                },
-                                {
-                                    "name": "ThumbnailDownloader",
-                                    "url": "https://www.thumbnaildownloader.art/"
                                 },
                                 {
                                     "name": "YT Thumbnail Grabber",
@@ -156947,7 +156963,7 @@
                             ]
                         },
                         {
-                            "full_text": "Filmot or CTRL-F-VIDEO - Search within YouTube Subs, Captions & Transcripts / Firefox / Chrome",
+                            "full_text": "Filmot or CTRL-F-VIDEO - Search within YouTube Subs, Captions & Transcripts / Firefox",
                             "links": [
                                 {
                                     "name": "Filmot",
@@ -156960,10 +156976,6 @@
                                 {
                                     "name": "Firefox",
                                     "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/"
-                                },
-                                {
-                                    "name": "Chrome",
-                                    "url": "https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg"
                                 }
                             ]
                         },
@@ -157753,7 +157765,7 @@
                             "links": [
                                 {
                                     "name": "⁠TwitchUnblock",
-                                    "url": "https://test2-fawn-eta.vercel.app/"
+                                    "url": "https://twitchunblock-web.pages.dev/"
                                 },
                                 {
                                     "name": "",
@@ -158085,7 +158097,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chirr App - Turn Articles into X.com Threads / Firefox / Chrome",
+                            "full_text": "Chirr App - Turn Articles into X.com Threads / Firefox",
                             "links": [
                                 {
                                     "name": "Chirr App",
@@ -158094,10 +158106,6 @@
                                 {
                                     "name": "Firefox",
                                     "url": "https://addons.mozilla.org/en-US/firefox/addon/chirr-app/"
-                                },
-                                {
-                                    "name": "Chrome",
-                                    "url": "https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg"
                                 }
                             ]
                         },
@@ -166467,7 +166475,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Anker Launcher - Game Launcher /",
+                            "full_text": "⁠Anker Launcher - Game Launcher / Downloader / Achievement Support /",
                             "links": [
                                 {
                                     "name": "⁠Anker Launcher",
@@ -167879,15 +167887,6 @@
                                 {
                                     "name": "noclip",
                                     "url": "https://noclip.website/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KudosPrime - Racing Game Maps",
-                            "links": [
-                                {
-                                    "name": "KudosPrime",
-                                    "url": "https://www.kudosprime.com/"
                                 }
                             ]
                         },
@@ -169563,15 +169562,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠OpenSteamTool - Steam Game + DLC Unlocker / Guide",
+                            "full_text": "BetterSteamTools New - Steam Game + DLC Unlocker",
                             "links": [
                                 {
-                                    "name": "⁠OpenSteamTool",
-                                    "url": "https://github.com/OpenSteam001/OpenSteamTool"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://rentry.org/opensteamtoolguidefmhy"
+                                    "name": "BetterSteamTools",
+                                    "url": "https://github.com/madoiscool/BetterSteamTools"
                                 }
                             ]
                         },
@@ -170657,19 +170652,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/MEwBW9U"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SiMPLE - Battlefield 1942 Servers /",
-                            "links": [
-                                {
-                                    "name": "SiMPLE",
-                                    "url": "https://team-simple.org/forum/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.team-simple.org/"
                                 }
                             ]
                         },
@@ -172549,19 +172531,6 @@
                             ]
                         },
                         {
-                            "full_text": "HoloISO - SteamOS 3 (Holo) Archiso Config /",
-                            "links": [
-                                {
-                                    "name": "HoloISO",
-                                    "url": "https://github.com/HoloISO/releases"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/HoloISO"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Steam Deck Repo - Steam Deck Boot Videos",
                             "links": [
                                 {
@@ -173268,7 +173237,7 @@
                             ]
                         },
                         {
-                            "full_text": "LeviLauncher / Mods , 2 , 3 / or Bedrock Launcher / - Bedrock Launchers / Guides /",
+                            "full_text": "LeviLauncher / Mods , 2 / or Bedrock Launcher / - Bedrock Launchers / Guides /",
                             "links": [
                                 {
                                     "name": "LeviLauncher",
@@ -173281,10 +173250,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://discord.gg/VqQaC8vWz8"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://pkg.levimc.org/"
                                 },
                                 {
                                     "name": "",
@@ -173534,6 +173499,15 @@
                                 {
                                     "name": "OptiFine Replacements",
                                     "url": "https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "dummy-proof optimization New - Minecraft Optimization Guide",
+                            "links": [
+                                {
+                                    "name": "dummy-proof optimization",
+                                    "url": "https://rentry.co/dummyproofminecraftoptimizationguide"
                                 }
                             ]
                         },
@@ -175156,23 +175130,6 @@
                             ]
                         },
                         {
-                            "full_text": "Rose - LoL Skin Manager / Unlocker / Dependencies /",
-                            "links": [
-                                {
-                                    "name": "Rose",
-                                    "url": "https://github.com/Alban1911/Rose"
-                                },
-                                {
-                                    "name": "Dependencies",
-                                    "url": "https://github.com/LeagueToolkit/ltk-manager/releases"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/roseskins"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "LoL Wiki - Official LoL Wiki",
                             "links": [
                                 {
@@ -176162,7 +176119,20 @@
                             ]
                         },
                         {
-                            "full_text": "Scorecard.gg - Create Scorecards for Game Matches",
+                            "full_text": "⁠PitMaster New - Poker Blind Clock & Game Manager /",
+                            "links": [
+                                {
+                                    "name": "⁠PitMaster",
+                                    "url": "https://pitmaster.cc/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/wyziedevs/pitmaster"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Scorecard.gg - Create Scorecards for Board Games",
                             "links": [
                                 {
                                     "name": "Scorecard.gg",
@@ -176822,6 +176792,24 @@
                                 {
                                     "name": "Rust Clash",
                                     "url": "https://wiki.rustclash.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KudosPrime - Racing Game Vehicle Database",
+                            "links": [
+                                {
+                                    "name": "KudosPrime",
+                                    "url": "https://www.kudosprime.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Lapwerks New - Custom Track Sketch + Import for Assetto Corsa & BeamNG.drive",
+                            "links": [
+                                {
+                                    "name": "⁠Lapwerks",
+                                    "url": "https://lapwerks.com/"
                                 }
                             ]
                         },
@@ -179204,7 +179192,7 @@
                             "links": [
                                 {
                                     "name": "SeaShore",
-                                    "url": "https://sourceforge.net/projects/seashore/"
+                                    "url": "https://github.com/robaho/seashore"
                                 }
                             ]
                         },
@@ -185437,6 +185425,15 @@
                                     "url": "https://raw.pics.io/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠anyjxl New - Image to JPEG XL (JXL) Converter /",
+                            "links": [
+                                {
+                                    "name": "⁠anyjxl",
+                                    "url": "https://anyjxl.com/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -186504,7 +186501,7 @@
                             "links": [
                                 {
                                     "name": "PicoShare",
-                                    "url": "https://github.com/mtlynch/picoshare"
+                                    "url": "https://codefloe.com/mtlynch/picoshare"
                                 }
                             ]
                         }
@@ -187921,14 +187918,10 @@
                             ]
                         },
                         {
-                            "full_text": "Luluvdoo , 2 - 15GB / 60 Days Since Last Download",
+                            "full_text": "Luluvdoo - 15GB / 60 Days Since Last Download",
                             "links": [
                                 {
                                     "name": "Luluvdoo",
-                                    "url": "https://luluvdoo.com/"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://lulustream.com/"
                                 }
                             ]
@@ -190465,15 +190458,6 @@
                             ]
                         },
                         {
-                            "full_text": "PseudoTV - Create TV Channels",
-                            "links": [
-                                {
-                                    "name": "PseudoTV",
-                                    "url": "https://github.com/DEFENDORe/pseudotv"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Overseerr - User Requests / IMDb Extension",
                             "links": [
                                 {
@@ -192850,6 +192834,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Metrolist New - YouTube Music Client /",
+                            "links": [
+                                {
+                                    "name": "⁠Metrolist",
+                                    "url": "https://metrolist.meowery.eu/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠ytm-rs - YouTube Music Client / /",
                             "links": [
                                 {
@@ -193646,6 +193639,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠HearHear New , ConcertArchives or ⁠EntertainMe - Concert Tracking / Databases",
+                            "links": [
+                                {
+                                    "name": "⁠HearHear",
+                                    "url": "https://hearhear.fm/"
+                                },
+                                {
+                                    "name": "ConcertArchives",
+                                    "url": "https://www.concertarchives.org/"
+                                },
+                                {
+                                    "name": "⁠EntertainMe",
+                                    "url": "https://www.entertainme.fun/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OperaVision or OperaOnVideo - Opera Recordings",
                             "links": [
                                 {
@@ -193762,19 +193772,6 @@
                                 {
                                     "name": "Volume",
                                     "url": "https://volume.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ConcertArchives or ⁠EntertainMe - Concert Tracking / Database",
-                            "links": [
-                                {
-                                    "name": "ConcertArchives",
-                                    "url": "https://www.concertarchives.org/"
-                                },
-                                {
-                                    "name": "⁠EntertainMe",
-                                    "url": "https://www.entertainme.fun/"
                                 }
                             ]
                         },
@@ -194029,6 +194026,15 @@
                                 {
                                     "name": "Rave Recording",
                                     "url": "https://rentry.co/FMHYB64#rave-library"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Late Night Tales New - Artist-Curated DJ Mixes",
+                            "links": [
+                                {
+                                    "name": "⁠Late Night Tales",
+                                    "url": "https://www.mixcloud.com/LateNightTalesOfficial/"
                                 }
                             ]
                         }
@@ -207605,15 +207611,6 @@
                             ]
                         },
                         {
-                            "full_text": "Marspedia - Mars Wiki",
-                            "links": [
-                                {
-                                    "name": "Marspedia",
-                                    "url": "https://marspedia.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "ESA - European Space Agency Website /",
                             "links": [
                                 {
@@ -208395,6 +208392,15 @@
                                 {
                                     "name": "RocketLaunch",
                                     "url": "https://rocketlaunch.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Booster Tracker New - SpaceX Booster & Launch Statistics",
+                            "links": [
+                                {
+                                    "name": "⁠Booster Tracker",
+                                    "url": "https://boostertracker.com/"
                                 }
                             ]
                         },
@@ -211214,7 +211220,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://codeberg.org/litekin/pixel-wealth/"
+                                    "url": "https://codeberg.org/litekin/wealth-visualized"
                                 },
                                 {
                                     "name": "2",
@@ -214933,24 +214939,24 @@
                             ]
                         },
                         {
-                            "full_text": "ESOL - English Learning Resources",
+                            "full_text": "ESOL or Awesome English New - English Learning Resources",
                             "links": [
                                 {
                                     "name": "ESOL",
                                     "url": "https://www.esolcourses.com/"
+                                },
+                                {
+                                    "name": "Awesome English",
+                                    "url": "https://github.com/yvoronoy/awesome-english"
                                 }
                             ]
                         },
                         {
-                            "full_text": "youglish or YouDict - YouTube Word Pronunciations",
+                            "full_text": "youglish - YouTube Word Pronunciations",
                             "links": [
                                 {
                                     "name": "youglish",
                                     "url": "https://youglish.com/"
-                                },
-                                {
-                                    "name": "YouDict",
-                                    "url": "https://youdict.co/"
                                 }
                             ]
                         },
@@ -216869,6 +216875,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠FrathWiki New - Constructed Language Wiki",
+                            "links": [
+                                {
+                                    "name": "⁠FrathWiki",
+                                    "url": "https://frathwiki.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Esperanto12 or ⁠Esperanto in 17 Minutes - Esperanto Learning",
                             "links": [
                                 {
@@ -218430,7 +218445,7 @@
                             ]
                         },
                         {
-                            "full_text": "100DayCSS , CSS Challenges or PlayCSS - CSS Challenges",
+                            "full_text": "100DayCSS or CSS Challenges - CSS Challenges",
                             "links": [
                                 {
                                     "name": "100DayCSS",
@@ -218439,10 +218454,6 @@
                                 {
                                     "name": "CSS Challenges",
                                     "url": "https://css-challenges.com/"
-                                },
-                                {
-                                    "name": "PlayCSS",
-                                    "url": "https://playcss.app/"
                                 }
                             ]
                         },
@@ -224682,15 +224693,6 @@
                             ]
                         },
                         {
-                            "full_text": "Gitstar Ranking - Git Repo Star Rankings",
-                            "links": [
-                                {
-                                    "name": "Gitstar Ranking",
-                                    "url": "https://gitstar-ranking.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "GithubReleasesBot - Repository Change Feeds",
                             "links": [
                                 {
@@ -228087,7 +228089,7 @@
                             ]
                         },
                         {
-                            "full_text": "Perchance / / , Fragments / / , Websim / / , ⁠AnyCoder , or Llama Coder / - App Builders",
+                            "full_text": "Perchance / / , Websim / / , ⁠AnyCoder , or Llama Coder / - App Builders",
                             "links": [
                                 {
                                     "name": "Perchance",
@@ -228100,18 +228102,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/43qAQEVV9a"
-                                },
-                                {
-                                    "name": "Fragments",
-                                    "url": "https://fragments.e2b.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/U7KEcGErtQ"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/e2b-dev"
                                 },
                                 {
                                     "name": "Websim",
@@ -231863,15 +231853,6 @@
                                 {
                                     "name": "Carbon Calculator",
                                     "url": "https://www.websitecarbon.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "UX Check - Site Heuristic Evaluation",
-                            "links": [
-                                {
-                                    "name": "UX Check",
-                                    "url": "https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp"
                                 }
                             ]
                         },
@@ -235854,6 +235835,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Amoled Backgrounds - Live Wallpapers · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L249"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ReSukiSU - / Telegram · b1dd1e4",
                             "links": [
                                 {
@@ -235869,6 +235859,15 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "Sav PDF Viewer Pro - PDF Reader / GitHub · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L850"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Kinoko - Manga File Viewer · 531fd14",
                             "links": [
@@ -236260,6 +236259,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "⁠bManga - Multi-Site Manga Aggregator · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L438"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Like Manga · 3a5011d",
                             "links": [
                                 {
@@ -236290,6 +236298,15 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "Fragments - App Builders · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL575"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Code Web Chat - Coding AI / No Sign-Up / Discord / Subreddit / GitHub · 3a5011d",
                             "links": [
@@ -236344,6 +236361,15 @@
                                 {
                                     "name": "531fd14",
                                     "url": "https://github.com/fmhy/edit/commit/531fd144292671f45d1266ea427ab3d9453a4eaf#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL159"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Gitstar Ranking - Git Repo Star Rankings · 05305b2",
+                            "links": [
+                                {
+                                    "name": "05305b2",
+                                    "url": "https://github.com/fmhy/edit/commit/05305b2a5ae5efc8fe4624298d03984231a40c08#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL214"
                                 }
                             ]
                         }
@@ -236412,6 +236438,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "UX Check - Site Heuristic Evaluation · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL976"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "NakerApp - Interactive Background Maker · b4ea214",
                             "links": [
                                 {
@@ -236436,6 +236471,22 @@
                     "level": "h2",
                     "text_explanations": [],
                     "resource_items": []
+                },
+                {
+                    "heading": "Developer Learning",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "PlayCSS - CSS Challenges · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1570"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "heading": "Educational Tools",
@@ -236491,6 +236542,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "YouDict - YouTube Word Pronunciations · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1222"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "jidoujisho - Learn Japanese via Books · fc77488",
                             "links": [
                                 {
@@ -236505,6 +236565,22 @@
                                 {
                                     "name": "edec9cd",
                                     "url": "https://github.com/fmhy/edit/commit/edec9cd231035591c5d68965a221ab8872fc368c#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1277"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Space",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Marspedia - Mars Wiki · 05305b2",
+                            "links": [
+                                {
+                                    "name": "05305b2",
+                                    "url": "https://github.com/fmhy/edit/commit/05305b2a5ae5efc8fe4624298d03984231a40c08#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL469"
                                 }
                             ]
                         }
@@ -236574,11 +236650,29 @@
                             ]
                         },
                         {
+                            "full_text": "videoutils - Online / File Converter / 500MB / Web · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL85"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "REM - File Encryptor / Rclone GUI / GitHub · 1e1b701",
                             "links": [
                                 {
                                     "name": "1e1b701",
                                     "url": "https://github.com/fmhy/edit/commit/1e1b701ccb4593aafbb5d6d05d586adba086e3ba#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL129"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ExtractMetadata - Metadata Viewers / Editors · 05305b2",
+                            "links": [
+                                {
+                                    "name": "05305b2",
+                                    "url": "https://github.com/fmhy/edit/commit/05305b2a5ae5efc8fe4624298d03984231a40c08#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL186"
                                 }
                             ]
                         },
@@ -236650,6 +236744,24 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Music Guessr - Guess Countries by Music · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL1213"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MiniRoyale - Battle Royale Game · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL949"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠anko - Browser Games / Discord · b1dd1e4",
                             "links": [
                                 {
@@ -236718,15 +236830,6 @@
                             ]
                         },
                         {
-                            "full_text": "PSVitaVPK - ROMs / PSVita · 60cae67",
-                            "links": [
-                                {
-                                    "name": "60cae67",
-                                    "url": "https://github.com/fmhy/edit/commit/60cae67868b9d2fa07c8974467442ec85906901b#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL424"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Play Classic Games - Retro Consoles / Multiple-Emulators · 46a3283",
                             "links": [
                                 {
@@ -236781,6 +236884,22 @@
                     ]
                 },
                 {
+                    "heading": "Tabletop Games",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "HTML5 Blackjack - Online Blackjack · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL672"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Gaming Tools",
                     "level": "h2",
                     "text_explanations": [],
@@ -236828,6 +236947,22 @@
                     ]
                 },
                 {
+                    "heading": "Genre Specific",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Rose - LoL Skin Manager / Unlocker / Dependencies / Discord · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L900"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Homebrew",
                     "level": "h3",
                     "text_explanations": [],
@@ -236838,6 +236973,15 @@
                                 {
                                     "name": "46a3283",
                                     "url": "https://github.com/fmhy/edit/commit/46a32832774933b149739050d669d73a672c905a#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L645"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HoloISO - SteamOS 3 (Holo) Archiso Config / Telegram · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L703"
                                 }
                             ]
                         }
@@ -236869,6 +237013,22 @@
                     ]
                 },
                 {
+                    "heading": "Multiplayer Tools",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "SiMPLE - Battlefield 1942 Servers / Discord · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L511"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Steam / Epic",
                     "level": "h3",
                     "text_explanations": [],
@@ -236879,6 +237039,15 @@
                                 {
                                     "name": "531fd14",
                                     "url": "https://github.com/fmhy/edit/commit/531fd144292671f45d1266ea427ab3d9453a4eaf#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L353"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OpenSteamTool - Steam Game + DLC Unlocker / Guide · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L393"
                                 }
                             ]
                         }
@@ -237461,6 +237630,15 @@
                             ]
                         },
                         {
+                            "full_text": "Mobilizon - Event Planning / Schedule Voting · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1516"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mr Free Tools - Find Free Tools · 3b92321",
                             "links": [
                                 {
@@ -237592,6 +237770,15 @@
                                 {
                                     "name": "cec10ec",
                                     "url": "https://github.com/fmhy/edit/commit/cec10ecb8298a765b5456f54dd2cfb8d41e1e6eb#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL604"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "xyzstreams - TV / Sports · 05305b2",
+                            "links": [
+                                {
+                                    "name": "05305b2",
+                                    "url": "https://github.com/fmhy/edit/commit/05305b2a5ae5efc8fe4624298d03984231a40c08#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL515"
                                 }
                             ]
                         },
@@ -237766,6 +237953,42 @@
                                 {
                                     "name": "5c6d326",
                                     "url": "https://github.com/fmhy/edit/commit/5c6d326ac13ce6877a933ce6e37bb699521d7344#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL122"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FLIKER - 17 Sources / Popup + Redirect Free · 05305b2",
+                            "links": [
+                                {
+                                    "name": "05305b2",
+                                    "url": "https://github.com/fmhy/edit/commit/05305b2a5ae5efc8fe4624298d03984231a40c08#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL167"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PiePrime - 3 Sources · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL154"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ONOFLIX - 16 Sources / Discord · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL165"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Snowstream - 21 Sources / Popup + Redirect Free / Telegram · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL168"
                                 }
                             ]
                         },
@@ -238110,15 +238333,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/ac1c08134dca84d045b1799e10804929e664750e#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL51"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Cinegram - Movies / TV / Anime / Auto-Next · 60cae67",
-                            "links": [
-                                {
-                                    "name": "60cae67",
-                                    "url": "https://github.com/fmhy/edit/commit/60cae67868b9d2fa07c8974467442ec85906901b#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL50"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -238344,6 +238558,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Stigstream - Movies / TV / Anime / Auto-Next · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L484"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OpenFlix - Movies / TV / Anime · bdf3c2a",
                             "links": [
                                 {
@@ -238421,6 +238644,22 @@
                     ]
                 },
                 {
+                    "heading": "Japanese / 日本語",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "rawfree - Manga · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L939"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "heading": "Korean / 한국어",
                     "level": "h3",
                     "text_explanations": [],
@@ -238467,11 +238706,29 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Mega1080 - Movies / Documentaries / 1080p / Latino · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1444"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "identi - Video / Audio / Reading / Latino / Castilian · edec9cd",
                             "links": [
                                 {
                                     "name": "edec9cd",
                                     "url": "https://github.com/fmhy/edit/commit/edec9cd231035591c5d68965a221ab8872fc368c#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1429"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "librefutboltv - Live Football · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1521"
                                 }
                             ]
                         },
@@ -238540,6 +238797,15 @@
                                 {
                                     "name": "2a02ffa",
                                     "url": "https://github.com/fmhy/edit/commit/2a02ffa0cbb58a9b98a0f389e4709960439989fc#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1735"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Tram Phim - Movies / TV / Anime / Sub / Dub / 1080p / 4K / Threads / Telegram · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1758"
                                 }
                             ]
                         },
@@ -238695,6 +238961,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Playlist Randomizer - YouTube Playlist Randomizer · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L404"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Magic Actions - YouTube Enhancement Extensions · 0450bd4",
                             "links": [
                                 {
@@ -238718,6 +238993,15 @@
                                 {
                                     "name": "4f624bc",
                                     "url": "https://github.com/fmhy/edit/commit/4f624bc3aa8c610dec4c4b8e4899b3241d1544e8#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L347"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ThumbnailDownloader - Download Video Thumbnails · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L425"
                                 }
                             ]
                         },
@@ -239008,6 +239292,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "LIII - Torrent Client / Windows · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-0a2b098c65369f9d8199ca389cf876db0e18de3d9c02a5ad677cd806c2a3ac85L90"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Magnet.diy - 2.5GB · fc77488",
                             "links": [
                                 {
@@ -239035,6 +239328,15 @@
                                 {
                                     "name": "edec9cd",
                                     "url": "https://github.com/fmhy/edit/commit/edec9cd231035591c5d68965a221ab8872fc368c#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L359"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PseudoTV - Create TV Channels · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L334"
                                 }
                             ]
                         }
@@ -239085,6 +239387,15 @@
                                 {
                                     "name": "726bd7e",
                                     "url": "https://github.com/fmhy/edit/commit/726bd7eddb3894492bbca00c433c9dc4ba3ae010#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L81"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Luluvdoo - 15GB / 60 Days Since Last Download · ce8a8d7",
+                            "links": [
+                                {
+                                    "name": "ce8a8d7",
+                                    "url": "https://github.com/fmhy/edit/commit/ce8a8d73cb393c5b341186980d6dfe5c2403b5b6#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L68"
                                 }
                             ]
                         }
@@ -240074,57 +240385,6 @@
                     ]
                 },
                 {
-                    "heading": "LibGen Mirrors",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "https://librarygenesis.net/ - site list",
-                            "links": [
-                                {
-                                    "name": "https://librarygenesis.net/",
-                                    "url": "https://librarygenesis.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "https://libgen.li/ - clone",
-                            "links": [
-                                {
-                                    "name": "https://libgen.li/",
-                                    "url": "https://libgen.li/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "https://libgen.la/ - clone",
-                            "links": [
-                                {
-                                    "name": "https://libgen.la/",
-                                    "url": "https://libgen.la/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "https://rentry.co/m2hkqhwb - Differences between the mirrors",
-                            "links": [
-                                {
-                                    "name": "https://rentry.co/m2hkqhwb",
-                                    "url": "https://rentry.co/m2hkqhwb"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "LibGen Tools",
-                    "level": "h2",
-                    "text_explanations": [
-                        "Search Extension/Need Seeds/Backup"
-                    ],
-                    "resource_items": []
-                },
-                {
                     "heading": "Media Database Site Tools",
                     "level": "h2",
                     "text_explanations": [],
@@ -240441,7 +240701,7 @@
                     "heading": "Presentation Tools",
                     "level": "h2",
                     "text_explanations": [
-                        "Marp,ZoomIt,Presentator,Pitch,Zoho Show,Webslides,FreeShow,OpenLearning,Slideshare/Downloader,Excalideck,⁠Bento"
+                        "Marp,ZoomIt,Presentator,Pitch,Zoho Show,Webslides,FreeShow,OpenLearning,Slideshare,Excalideck,⁠Bento"
                     ],
                     "resource_items": [
                         {
